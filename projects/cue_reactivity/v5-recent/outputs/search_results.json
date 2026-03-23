@@ -71168,7 +71168,47 @@
       "abstract_exclusion_criteria_applied": [],
       "fulltext_inclusion_criteria_applied": [],
       "fulltext_exclusion_criteria_applied": []
+    },
+    {
+      "pmid": "41764177",
+      "pmcid": null,
+      "title": "Early abstinence in severe alcohol use disorder: MCP-1 decline, choroid plexus shrinkage, and region-specific grey-matter volume changes.",
+      "abstract": "In this longitudinal study, 37 patients with severe alcohol use disorder (SAUD) were tested at the beginning (T1) and end (T2) of supervised detoxification to explore the evolution of and relationship between systemic inflammation, volumetric changes for brain grey matter (GM) and choroid plexus (ChP), and clinical symptoms. At T1, patients exhibited high levels of anxiety, depression, and craving, and had elevated plasmatic pro-inflammatory cytokines, indicating low-grade systemic inflammation. Monocyte chemoattractant protein-1 (CCL2) (MCP-1) levels correlated positively with ChP volume and severity of withdrawal symptoms, while macrophage inflammatory protein-1 beta (CCL4) (MIP-1\u03b2) also correlated with ChP volume, together suggesting an acute immune response at T1, and underscoring the ChP as a potential neuroimmune biomarker to be further evaluated in future studies. During three weeks' abstinence, Interleukin-8 (IL-8), MIP-1\u03b2, and MCP-1 levels decreased, although MIP-1\u03b2 did not return to control levels, and tumor necrosis factor-alpha (TNF-\u03b1) showed no significant reduction. Volumetric MRI analyses suggested two concurrent trajectories during detoxification. First, an overall \"recovery-driven\" pattern of rapidly increasing GM volume in widespread forebrain regions with parallel declines in ventricle size and craving. Second, GM in limbic cortical areas, temporal and inferior frontal cortex showed no significant volumetric gain. However, these regional volumes correlated significantly with declining MCP-1, indicative of a \"deflation\", potentially related to declining microglial activation. These findings highlight the role of inflammatory processes in shaping early neuroplastic changes during detoxification and point to a central role of MCP-1 in inflammation-driven morphometric changes.",
+      "authors": [
+        "G\u00e9raldine Petit",
+        "Mohamed Kotb Selim",
+        "Santiago Canals",
+        "Peter St\u00e4rkel",
+        "Laurence Dricot",
+        "Marie Poncin",
+        "Sophie Leclercq",
+        "Philippe De Timary"
+      ],
+      "journal": "Translational psychiatry",
+      "publication_date": "2026 Feb 28",
+      "doi": "10.1038/s41398-026-03907-9",
+      "keywords": [],
+      "status": "pending",
+      "abstract_screening_reason": null,
+      "fulltext_screening_reason": null,
+      "metadata": {},
+      "abstract_screening_score": null,
+      "fulltext_screening_score": null,
+      "retrieved_at": "2026-03-20T10:42:35.974521",
+      "screened_at": null,
+      "full_text_path": null,
+      "full_text_source": null,
+      "fulltext_available": false,
+      "retrieval_in_scope": false,
+      "in_included_set": null,
+      "coordinate_space": null,
+      "activation_tables": [],
+      "analyses": [],
+      "abstract_inclusion_criteria_applied": [],
+      "abstract_exclusion_criteria_applied": [],
+      "fulltext_inclusion_criteria_applied": [],
+      "fulltext_exclusion_criteria_applied": []
     }
   ],
-  "timestamp": "2026-03-19T11:43:42.161818"
+  "timestamp": "2026-03-20T14:01:58.954156"
 }

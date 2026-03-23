@@ -24021,6 +24021,149 @@
       ]
     },
     {
+      "pmid": "17611740",
+      "analyses": [
+        {
+          "name": "Smoke>control",
+          "description": null,
+          "table_id": "89",
+          "points": [
+            {
+              "coordinates": [
+                6.0,
+                48.0,
+                12.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.88,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                18.0,
+                -93.0,
+                27.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.35,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                15.0,
+                33.0,
+                57.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.77,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -6.0,
+                48.0,
+                -3.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.75,
+                  "kind": "t-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Control>smoke",
+          "description": null,
+          "table_id": "89",
+          "points": []
+        },
+        {
+          "name": "DRD4L > DRD4S",
+          "description": null,
+          "table_id": "90",
+          "points": [
+            {
+              "coordinates": [
+                27.0,
+                63.0,
+                18.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 5.75,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                18.0,
+                66.0,
+                9.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.42,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                33.0,
+                0.0,
+                12.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 5.18,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                39.0,
+                6.0,
+                12.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.89,
+                  "kind": "t-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "DRD4S > DRD4L",
+          "description": null,
+          "table_id": "90",
+          "points": []
+        }
+      ]
+    },
+    {
       "pmid": "23497788",
       "analyses": [
         {
@@ -26251,6 +26394,686 @@
                 {
                   "value": 12.8,
                   "kind": "f-statistic"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pmid": "19015835",
+      "analyses": [
+        {
+          "name": "Control: Frontal lobe",
+          "description": null,
+          "table_id": "86",
+          "points": [
+            {
+              "coordinates": [
+                34.0,
+                -28.0,
+                72.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.83,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 8.8,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                56.0,
+                36.0,
+                4.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.44,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 7.76,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                54.0,
+                42.0,
+                -2.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.66,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 6.02,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -32.0,
+                38.0,
+                -20.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.89,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 6.51,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -64.0,
+                -36.0,
+                -14.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.03,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 6.8,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -12.0,
+                -16.0,
+                52.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.53,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 5.78,
+                  "kind": "t-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Exercise: Frontal lobe",
+          "description": null,
+          "table_id": "86",
+          "points": [
+            {
+              "coordinates": [
+                -34.0,
+                32.0,
+                50.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.05,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 6.84,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                0.0,
+                48.0,
+                14.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 7.58,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 5.36,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                10.0,
+                46.0,
+                18.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.58,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 5.87,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                2.0,
+                62.0,
+                12.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.31,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 5.38,
+                  "kind": "t-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Control: Parietal lobe",
+          "description": null,
+          "table_id": "86",
+          "points": [
+            {
+              "coordinates": [
+                -40.0,
+                -46.0,
+                44.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.37,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 5.47,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                40.0,
+                -54.0,
+                48.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.85,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 6.41,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -34.0,
+                -44.0,
+                50.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.96,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 4.78,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -48.0,
+                -38.0,
+                32.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.18,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 7.15,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -38.0,
+                -60.0,
+                56.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.35,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 5.44,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                36.0,
+                -58.0,
+                60.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.68,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 8.38,
+                  "kind": "t-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Exercise: Occipital lobe",
+          "description": null,
+          "table_id": "86",
+          "points": [
+            {
+              "coordinates": [
+                -10.0,
+                -78.0,
+                26.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.92,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 4.69,
+                  "kind": "t-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Control: Temporal lobe",
+          "description": null,
+          "table_id": "86",
+          "points": [
+            {
+              "coordinates": [
+                64.0,
+                -24.0,
+                2.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.44,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 7.76,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                58.0,
+                -30.0,
+                0.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.53,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 5.78,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                64.0,
+                -8.0,
+                12.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.75,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 6.21,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -38.0,
+                -20.0,
+                -12.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.83,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 8.82,
+                  "kind": "t-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Exercise: Temporal lobe",
+          "description": null,
+          "table_id": "86",
+          "points": [
+            {
+              "coordinates": [
+                48.0,
+                -20.0,
+                -16.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 6.17,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 9.85,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                38.0,
+                -70.0,
+                22.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.11,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 6.97,
+                  "kind": "t-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Exercise: Cingulated cortex",
+          "description": null,
+          "table_id": "86",
+          "points": [
+            {
+              "coordinates": [
+                2.0,
+                -62.0,
+                26.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.83,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 4.55,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                2.0,
+                16.0,
+                36.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.25,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 7.31,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                0.0,
+                46.0,
+                -2.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.72,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 6.15,
+                  "kind": "t-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Control: Other",
+          "description": null,
+          "table_id": "86",
+          "points": [
+            {
+              "coordinates": [
+                -12.0,
+                -16.0,
+                68.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.18,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 7.14,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -34.0,
+                -42.0,
+                -38.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.15,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 7.07,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -44.0,
+                -44.0,
+                2.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.82,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 6.36,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                18.0,
+                -4.0,
+                18.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.84,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 8.85,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                18.0,
+                -64.0,
+                -28.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.53,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 7.99,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -52.0,
+                -56.0,
+                -18.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.21,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 7.22,
+                  "kind": "t-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Exercise: Other",
+          "description": null,
+          "table_id": "86",
+          "points": [
+            {
+              "coordinates": [
+                -2.0,
+                -54.0,
+                -44.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.63,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 8.25,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                0.0,
+                -42.0,
+                46.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.34,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 7.52,
+                  "kind": "t-statistic"
                 }
               ]
             }
@@ -29218,6 +30041,458 @@
               "values": [
                 {
                   "value": -3.76,
+                  "kind": "t-statistic"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pmid": "17987060",
+      "analyses": [
+        {
+          "name": "FTND-positive correlations",
+          "description": null,
+          "table_id": "95",
+          "points": [
+            {
+              "coordinates": [
+                9.0,
+                42.0,
+                -6.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.31,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                6.0,
+                39.0,
+                -18.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.47,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -42.0,
+                -75.0,
+                -18.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.1,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -48.0,
+                -78.0,
+                -12.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.25,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -15.0,
+                -6.0,
+                0.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.47,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                9.0,
+                12.0,
+                9.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.42,
+                  "kind": "t-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "FTND-negative correlations",
+          "description": null,
+          "table_id": "95",
+          "points": [
+            {
+              "coordinates": [
+                -36.0,
+                -45.0,
+                45.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.47,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -27.0,
+                -51.0,
+                51.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.59,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                21.0,
+                -12.0,
+                -21.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.05,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -33.0,
+                -48.0,
+                -6.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.96,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                60.0,
+                -3.0,
+                0.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.05,
+                  "kind": "t-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Craving-positive correlations",
+          "description": null,
+          "table_id": "96",
+          "points": []
+        },
+        {
+          "name": "Craving-negative correlations",
+          "description": null,
+          "table_id": "96",
+          "points": [
+            {
+              "coordinates": [
+                -12.0,
+                21.0,
+                -6.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.22,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                51.0,
+                -78.0,
+                9.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.75,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                15.0,
+                3.0,
+                0.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.7,
+                  "kind": "t-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Negative affect-positive correlations",
+          "description": null,
+          "table_id": "97",
+          "points": [
+            {
+              "coordinates": [
+                -30.0,
+                -12.0,
+                -18.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.92,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -12.0,
+                33.0,
+                -18.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.37,
+                  "kind": "t-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Negative affect-negative correlations",
+          "description": null,
+          "table_id": "97",
+          "points": [
+            {
+              "coordinates": [
+                -15.0,
+                -6.0,
+                78.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.27,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -15.0,
+                -3.0,
+                66.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.49,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -51.0,
+                -45.0,
+                54.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.25,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -42.0,
+                24.0,
+                -9.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.64,
+                  "kind": "t-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sex-female correlations",
+          "description": null,
+          "table_id": "98",
+          "points": [
+            {
+              "coordinates": [
+                27.0,
+                12.0,
+                3.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.99,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                12.0,
+                -84.0,
+                33.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.3,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -42.0,
+                15.0,
+                -27.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.03,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -45.0,
+                0.0,
+                -27.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.99,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -18.0,
+                -102.0,
+                9.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.95,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -15.0,
+                -9.0,
+                75.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.64,
+                  "kind": "t-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sex-male correlations",
+          "description": null,
+          "table_id": "98",
+          "points": [
+            {
+              "coordinates": [
+                -30.0,
+                -12.0,
+                -18.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.11,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -12.0,
+                33.0,
+                -18.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.94,
                   "kind": "t-statistic"
                 }
               ]
@@ -37707,6 +38982,816 @@
       ]
     },
     {
+      "pmid": "16598192",
+      "analyses": [
+        {
+          "name": "EXP (S>C)",
+          "description": null,
+          "table_id": "91",
+          "points": [
+            {
+              "coordinates": [
+                -16.0,
+                -8.0,
+                26.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.82,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -4.0,
+                30.0,
+                16.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.82,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -10.0,
+                24.0,
+                30.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.61,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                6.0,
+                46.0,
+                8.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.25,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                0.0,
+                58.0,
+                20.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.88,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                2.0,
+                32.0,
+                32.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.19,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -8.0,
+                60.0,
+                -14.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.11,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -30.0,
+                36.0,
+                42.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.19,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                20.0,
+                58.0,
+                34.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.12,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -4.0,
+                -24.0,
+                26.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.12,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                58.0,
+                -56.0,
+                24.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.41,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                6.0,
+                -74.0,
+                32.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.07,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -4.0,
+                -74.0,
+                26.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.65,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -8.0,
+                -58.0,
+                36.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.52,
+                  "kind": "t-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NON-EXP (S>C)",
+          "description": null,
+          "table_id": "91",
+          "points": [
+            {
+              "coordinates": [
+                54.0,
+                -36.0,
+                4.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.57,
+                  "kind": "t-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Smoking>control",
+          "description": null,
+          "table_id": "92",
+          "points": [
+            {
+              "coordinates": [
+                -4.0,
+                30.0,
+                24.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.35,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -4.0,
+                40.0,
+                8.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.21,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                0.0,
+                56.0,
+                22.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.52,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -8.0,
+                60.0,
+                -14.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.07,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "0.032",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -36.0,
+                12.0,
+                2.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.3,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "0.011",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -2.0,
+                -16.0,
+                36.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.27,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                50.0,
+                -34.0,
+                2.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.93,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -8.0,
+                -58.0,
+                36.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.6,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "0.013",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                4.0,
+                -58.0,
+                36.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.64,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -2.0,
+                -6.0,
+                6.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.56,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "0.022",
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Control>smoking",
+          "description": null,
+          "table_id": "92",
+          "points": [
+            {
+              "coordinates": [
+                -56.0,
+                2.0,
+                34.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 6.65,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                56.0,
+                6.0,
+                35.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.6,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -26.0,
+                -14.0,
+                54.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 7.76,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                26.0,
+                -14.0,
+                56.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 8.93,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -38.0,
+                -6.0,
+                16.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.92,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "0.002",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                38.0,
+                -2.0,
+                15.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 6.18,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -40.0,
+                -45.0,
+                58.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 11.08,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                36.0,
+                -44.0,
+                52.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 9.12,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -57.0,
+                -26.0,
+                38.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 9.71,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                54.0,
+                -27.0,
+                42.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 8.54,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -26.0,
+                -58.0,
+                55.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 9.51,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                27.0,
+                -58.0,
+                58.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 8.08,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -22.0,
+                -81.0,
+                38.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 6.97,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                25.0,
+                -80.0,
+                41.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 7.82,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -33.0,
+                -85.0,
+                10.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 6.71,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                35.0,
+                -82.0,
+                10.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 7.16,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -26.0,
+                -52.0,
+                -13.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 6.11,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                30.0,
+                -56.0,
+                -13.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.53,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -48.0,
+                -68.0,
+                -2.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 8.65,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                53.0,
+                -61.0,
+                -6.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 7.95,
+                  "kind": "t-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ABS (S>C)",
+          "description": null,
+          "table_id": "93",
+          "points": []
+        },
+        {
+          "name": "NON-ABS (S>C)",
+          "description": null,
+          "table_id": "93",
+          "points": [
+            {
+              "coordinates": [
+                -2.0,
+                28.0,
+                18.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.57,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                10.0,
+                -20.0,
+                26.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.0,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": 0.015,
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                18.0,
+                -10.0,
+                -10.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.17,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -8.0,
+                -58.0,
+                36.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.94,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": 0.022,
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                50.0,
+                -32.0,
+                2.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.14,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": 0.046,
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pmid": "18851716",
       "analyses": [
         {
@@ -44477,6 +46562,193 @@
               ]
             }
           ]
+        }
+      ]
+    },
+    {
+      "pmid": "22234380",
+      "analyses": [
+        {
+          "name": "Smoking>neutral",
+          "description": null,
+          "table_id": "87",
+          "points": [
+            {
+              "coordinates": [
+                -39.86,
+                18.76,
+                7.18
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.14,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 3.27,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -24.05,
+                -69.88,
+                47.7
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 2.85,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 2.95,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                37.86,
+                12.76,
+                7.93
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 2.45,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 2.51,
+                  "kind": "t-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Control",
+          "description": "Occipital lobe",
+          "table_id": "88",
+          "points": [
+            {
+              "coordinates": [
+                -28.0,
+                -90.0,
+                6.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.88,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 6.8,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -18.0,
+                -94.0,
+                4.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.48,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 6.22,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -42.0,
+                -80.0,
+                4.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.37,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 6.06,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                28.0,
+                -88.0,
+                6.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.7,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 6.54,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                32.0,
+                -86.0,
+                -4.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.67,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 6.5,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                30.0,
+                -84.0,
+                -12.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.08,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 5.66,
+                  "kind": "t-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Exercise",
+          "description": null,
+          "table_id": "88",
+          "points": []
         }
       ]
     },
@@ -66273,6 +68545,179 @@
       ]
     },
     {
+      "pmid": "19806158",
+      "analyses": [
+        {
+          "name": "Overweight > normal weight",
+          "description": null,
+          "table_id": "94",
+          "points": [
+            {
+              "coordinates": [
+                -33.0,
+                27.0,
+                33.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.23,
+                  "kind": "t-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Normal weight > overweight",
+          "description": null,
+          "table_id": "94",
+          "points": [
+            {
+              "coordinates": [
+                -24.0,
+                -102.0,
+                3.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 5.17,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                39.0,
+                -90.0,
+                6.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 5.15,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -33.0,
+                -48.0,
+                -15.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.6,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                33.0,
+                -51.0,
+                -9.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 5.4,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -6.0,
+                24.0,
+                15.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.32,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                15.0,
+                -18.0,
+                21.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.32,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -33.0,
+                -21.0,
+                -21.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.25,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                30.0,
+                -45.0,
+                -6.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.04,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -33.0,
+                -24.0,
+                -21.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.45,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -15.0,
+                -27.0,
+                -3.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.86,
+                  "kind": "t-statistic"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pmid": "27479051",
       "analyses": [
         {
@@ -72361,6 +74806,38 @@
       ]
     },
     {
+      "pmid": "31342097",
+      "analyses": [
+        {
+          "name": "Bupropion > placebo",
+          "description": "Comparison of brain region activated by gain anticipation between placebo and bupropion",
+          "table_id": "101",
+          "points": [
+            {
+              "coordinates": [
+                14.0,
+                7.0,
+                -10.0
+              ],
+              "space": "TAL",
+              "values": [
+                {
+                  "value": 3.83,
+                  "kind": "t-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Placebo > bupropion",
+          "description": "Comparison of brain region activated by gain anticipation between placebo and bupropion",
+          "table_id": "101",
+          "points": []
+        }
+      ]
+    },
+    {
       "pmid": "21926423",
       "analyses": [
         {
@@ -73670,6 +76147,384 @@
                 },
                 {
                   "value": 0.072,
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pmid": "26331843",
+      "analyses": [
+        {
+          "name": "Lean: Food versus non-food",
+          "description": null,
+          "table_id": "99",
+          "points": []
+        },
+        {
+          "name": "Lean: High-cal versus non-food",
+          "description": null,
+          "table_id": "99",
+          "points": [
+            {
+              "coordinates": [
+                -33.0,
+                17.0,
+                7.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 0.19,
+                  "kind": "beta"
+                },
+                {
+                  "value": 3.89,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": 0.001,
+                  "kind": "p-value"
+                },
+                {
+                  "value": 0.035,
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Obese: Food versus non-food",
+          "description": null,
+          "table_id": "99",
+          "points": [
+            {
+              "coordinates": [
+                36.0,
+                32.0,
+                4.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 0.49,
+                  "kind": "beta"
+                },
+                {
+                  "value": 4.48,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                },
+                {
+                  "value": 0.014,
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Obese: High-cal versus non-food",
+          "description": null,
+          "table_id": "99",
+          "points": [
+            {
+              "coordinates": [
+                33.0,
+                32.0,
+                4.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 0.19,
+                  "kind": "beta"
+                },
+                {
+                  "value": 4.24,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                },
+                {
+                  "value": 0.024,
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "T2DM: Food versus non-food",
+          "description": null,
+          "table_id": "99",
+          "points": [
+            {
+              "coordinates": [
+                -39.0,
+                26.0,
+                -17.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 0.34,
+                  "kind": "beta"
+                },
+                {
+                  "value": 7.17,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                24.0,
+                5.0,
+                -17.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 0.46,
+                  "kind": "beta"
+                },
+                {
+                  "value": 6.13,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                27.0,
+                14.0,
+                -20.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 0.41,
+                  "kind": "beta"
+                },
+                {
+                  "value": 4.71,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                },
+                {
+                  "value": 0.016,
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                27.0,
+                32.0,
+                -17.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 0.27,
+                  "kind": "beta"
+                },
+                {
+                  "value": 4.4,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                },
+                {
+                  "value": 0.024,
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -30.0,
+                2.0,
+                -20.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 0.4,
+                  "kind": "beta"
+                },
+                {
+                  "value": 4.22,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                },
+                {
+                  "value": 0.001,
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "T2DM: High-cal versus non-food",
+          "description": null,
+          "table_id": "99",
+          "points": [
+            {
+              "coordinates": [
+                -39.0,
+                29.0,
+                -17.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 0.21,
+                  "kind": "beta"
+                },
+                {
+                  "value": 4.21,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": 0.001,
+                  "kind": "p-value"
+                },
+                {
+                  "value": 0.033,
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Lean",
+          "description": null,
+          "table_id": "100",
+          "points": []
+        },
+        {
+          "name": "Obese",
+          "description": null,
+          "table_id": "100",
+          "points": [
+            {
+              "coordinates": [
+                -30.0,
+                -7.0,
+                -14.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": -0.52,
+                  "kind": "beta"
+                },
+                {
+                  "value": 4.62,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                },
+                {
+                  "value": 0.003,
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                33.0,
+                2.0,
+                -20.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": -0.79,
+                  "kind": "beta"
+                },
+                {
+                  "value": 3.57,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": 0.001,
+                  "kind": "p-value"
+                },
+                {
+                  "value": 0.009,
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "T2DM",
+          "description": null,
+          "table_id": "100",
+          "points": [
+            {
+              "coordinates": [
+                36.0,
+                -19.0,
+                22.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": -0.37,
+                  "kind": "beta"
+                },
+                {
+                  "value": 4.05,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": 0.001,
+                  "kind": "p-value"
+                },
+                {
+                  "value": 0.032,
                   "kind": "p-value"
                 }
               ]
@@ -77826,6 +80681,337 @@
       ]
     },
     {
+      "pmid": "33098179",
+      "analyses": [
+        {
+          "name": "Association between drug cue reactivity and drug use severity",
+          "description": null,
+          "table_id": "131",
+          "points": [
+            {
+              "coordinates": [
+                -8.0,
+                7.0,
+                -11.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.37,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 0.034,
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                6.0,
+                3.0,
+                -9.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.16,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 0.037,
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                20.0,
+                5.0,
+                -21.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.82,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 0.042,
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Association between drug cue reactivity and craving",
+          "description": null,
+          "table_id": "131",
+          "points": []
+        },
+        {
+          "name": "Association between drug cue reactivity and withdrawal",
+          "description": null,
+          "table_id": "131",
+          "points": [
+            {
+              "coordinates": [
+                20.0,
+                1.0,
+                -21.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.49,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 0.004,
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -16.0,
+                1.0,
+                -19.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.45,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 0.011,
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                28.0,
+                -9.0,
+                -27.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.35,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 0.013,
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -8.0,
+                7.0,
+                -11.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.79,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 0.004,
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                8.0,
+                7.0,
+                -7.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.49,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 0.008,
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                30.0,
+                -5.0,
+                -3.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.31,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 0.014,
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -12.0,
+                19.0,
+                -3.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 2.84,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 0.031,
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                42.0,
+                -3.0,
+                1.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.14,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 0.02,
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -16.0,
+                15.0,
+                -13.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.15,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 0.007,
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                24.0,
+                19.0,
+                -27.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 2.75,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 0.034,
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -6.0,
+                33.0,
+                -15.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.05,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 0.025,
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                16.0,
+                23.0,
+                -17.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 2.88,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 0.045,
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                24.0,
+                -3.0,
+                -5.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 2.58,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 0.046,
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                38.0,
+                45.0,
+                -19.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.05,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 0.048,
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pmid": "33369272",
       "analyses": [
         {
@@ -79303,6 +82489,187 @@
       ]
     },
     {
+      "pmid": "31028603",
+      "analyses": [
+        {
+          "name": "Normal state",
+          "description": null,
+          "table_id": "106",
+          "points": [
+            {
+              "coordinates": [
+                8.8,
+                71.7,
+                36.1
+              ],
+              "space": "TAL",
+              "values": []
+            },
+            {
+              "coordinates": [
+                -34.5,
+                -57.5,
+                3.4
+              ],
+              "space": "TAL",
+              "values": []
+            },
+            {
+              "coordinates": [
+                -31.7,
+                48.1,
+                55.4
+              ],
+              "space": "TAL",
+              "values": []
+            },
+            {
+              "coordinates": [
+                -53.6,
+                5.7,
+                -26.3
+              ],
+              "space": "TAL",
+              "values": []
+            },
+            {
+              "coordinates": [
+                39.8,
+                -17.2,
+                -22.1
+              ],
+              "space": "TAL",
+              "values": []
+            },
+            {
+              "coordinates": [
+                -14.6,
+                84.8,
+                16.4
+              ],
+              "space": "TAL",
+              "values": []
+            }
+          ]
+        },
+        {
+          "name": "Hypnotic state",
+          "description": null,
+          "table_id": "106",
+          "points": [
+            {
+              "coordinates": [
+                3.3,
+                -37.9,
+                22.9
+              ],
+              "space": "TAL",
+              "values": []
+            },
+            {
+              "coordinates": [
+                38.3,
+                -9.7,
+                -15.4
+              ],
+              "space": "TAL",
+              "values": []
+            },
+            {
+              "coordinates": [
+                1.7,
+                -9.2,
+                44.3
+              ],
+              "space": "TAL",
+              "values": []
+            },
+            {
+              "coordinates": [
+                32.7,
+                -11.8,
+                4.7
+              ],
+              "space": "TAL",
+              "values": []
+            },
+            {
+              "coordinates": [
+                47.3,
+                53.5,
+                -28.7
+              ],
+              "space": "TAL",
+              "values": []
+            },
+            {
+              "coordinates": [
+                29.3,
+                -25.1,
+                -10.9
+              ],
+              "space": "TAL",
+              "values": []
+            },
+            {
+              "coordinates": [
+                33.9,
+                -2.0,
+                -27.5
+              ],
+              "space": "TAL",
+              "values": []
+            },
+            {
+              "coordinates": [
+                2.3,
+                2.2,
+                61.3
+              ],
+              "space": "TAL",
+              "values": []
+            },
+            {
+              "coordinates": [
+                21.4,
+                -36.6,
+                -0.3
+              ],
+              "space": "TAL",
+              "values": []
+            },
+            {
+              "coordinates": [
+                -28.3,
+                -19.3,
+                -33.2
+              ],
+              "space": "TAL",
+              "values": []
+            },
+            {
+              "coordinates": [
+                38.3,
+                -22.2,
+                11.9
+              ],
+              "space": "TAL",
+              "values": []
+            },
+            {
+              "coordinates": [
+                19.5,
+                -14.5,
+                -34.4
+              ],
+              "space": "TAL",
+              "values": []
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pmid": "33221340",
       "analyses": [
         {
@@ -79892,6 +83259,874 @@
               ]
             }
           ]
+        }
+      ]
+    },
+    {
+      "pmid": "33864389",
+      "analyses": [
+        {
+          "name": "Alcohol-Neutral",
+          "description": null,
+          "table_id": "114",
+          "points": [
+            {
+              "coordinates": [
+                48.1,
+                22.2,
+                36.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.47,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                51.1,
+                10.1,
+                15.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.28,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                48.1,
+                7.06,
+                9.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.0,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                30.0,
+                -56.4,
+                -45.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.34,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                51.1,
+                34.3,
+                15.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.61,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                45.1,
+                43.3,
+                9.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.18,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -27.5,
+                -71.6,
+                33.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.04,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -39.6,
+                -23.2,
+                54.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.19,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -48.7,
+                -32.3,
+                45.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.77,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -27.5,
+                -38.3,
+                54.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.58,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -39.6,
+                -32.3,
+                48.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.5,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -27.5,
+                -38.3,
+                -9.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.08,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -24.5,
+                -35.3,
+                -18.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.16,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -27.5,
+                -44.4,
+                -21.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.02,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -6.33,
+                -59.5,
+                12.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.36,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -39.6,
+                -8.06,
+                48.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.14,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -33.5,
+                -26.2,
+                51.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.74,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -45.6,
+                -41.3,
+                48.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.61,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                2.74,
+                -17.1,
+                69.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.72,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -0.28,
+                -14.1,
+                63.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.67,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                8.79,
+                -8.06,
+                57.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.87,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -3.3,
+                7.06,
+                48.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.05,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                39.0,
+                -77.6,
+                33.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.13,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -36.6,
+                -56.4,
+                -39.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.0,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -27.5,
+                -71.6,
+                -24.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.56,
+                  "kind": "z-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Negative-Neutral",
+          "description": null,
+          "table_id": "114",
+          "points": [
+            {
+              "coordinates": [
+                -42.6,
+                -65.5,
+                30.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.88,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -42.6,
+                -56.4,
+                42.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 2.98,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                51.1,
+                -26.2,
+                -9.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.2,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                54.2,
+                -20.2,
+                -3.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.83,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                14.8,
+                -77.6,
+                -12.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.52,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                14.8,
+                -86.7,
+                -6.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.16,
+                  "kind": "z-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Activation",
+          "description": "Alcohol-Neutral",
+          "table_id": "115",
+          "points": [
+            {
+              "coordinates": [
+                -24.5,
+                -83.7,
+                -30.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.63,
+                  "kind": "z-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "L Nucleus Accumbens FC",
+          "description": "Alcohol-Neutral",
+          "table_id": "115",
+          "points": [
+            {
+              "coordinates": [
+                -0.28,
+                16.1,
+                27.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.17,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                2.74,
+                10.1,
+                33.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.94,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                54.2,
+                19.2,
+                0.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.05,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                60.2,
+                4.03,
+                0.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.48,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                48.1,
+                10.1,
+                -6.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.18,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                42.1,
+                22.2,
+                -3.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 2.71,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -15.4,
+                -71.6,
+                18.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.83,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -18.4,
+                -59.5,
+                15.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.7,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -18.4,
+                -59.5,
+                3.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.39,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -12.4,
+                -68.5,
+                9.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.23,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                30.0,
+                -89.7,
+                6.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.85,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                48.1,
+                -83.7,
+                15.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.6,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                42.1,
+                -83.7,
+                9.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.27,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -0.28,
+                -77.6,
+                -36.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.78,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                17.9,
+                -80.6,
+                -39.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.32,
+                  "kind": "z-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "R Nucleus Accumbens FC",
+          "description": "Alcohol-Neutral",
+          "table_id": "115",
+          "points": [
+            {
+              "coordinates": [
+                -45.6,
+                -29.2,
+                54.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.19,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -36.6,
+                -23.2,
+                54.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.39,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -57.7,
+                -32.3,
+                54.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 2.85,
+                  "kind": "z-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "L Amygdala FC",
+          "description": "Alcohol-Neutral",
+          "table_id": "115",
+          "points": [
+            {
+              "coordinates": [
+                33.0,
+                22.2,
+                42.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.34,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                45.1,
+                43.3,
+                30.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.32,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -48.7,
+                -50.4,
+                36.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.72,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -57.7,
+                -56.4,
+                36.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.71,
+                  "kind": "z-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "R Amygdala FC",
+          "description": "Alcohol-Neutral",
+          "table_id": "115",
+          "points": [
+            {
+              "coordinates": [
+                42.1,
+                37.3,
+                6.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.89,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                39.0,
+                52.4,
+                21.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.26,
+                  "kind": "z-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Activation",
+          "description": "Negative-Neutral",
+          "table_id": "115",
+          "points": []
+        },
+        {
+          "name": "L Nucleus Accumbens FC",
+          "description": "Negative-Neutral",
+          "table_id": "115",
+          "points": []
+        },
+        {
+          "name": "R Nucleus Accumbens FC",
+          "description": "Negative-Neutral",
+          "table_id": "115",
+          "points": []
+        },
+        {
+          "name": "L Amygdala FC",
+          "description": "Negative-Neutral",
+          "table_id": "115",
+          "points": []
+        },
+        {
+          "name": "R Amygdala FC",
+          "description": "Negative-Neutral",
+          "table_id": "115",
+          "points": []
         }
       ]
     },
@@ -80573,6 +84808,403 @@
       ]
     },
     {
+      "pmid": "34312937",
+      "analyses": [
+        {
+          "name": "(a) Effect of threat responsivity in TUD subjects",
+          "description": "Post-hoc t-contrast",
+          "table_id": "133",
+          "points": [
+            {
+              "coordinates": [
+                40.0,
+                8.0,
+                -12.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.87,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                0.0,
+                14.0,
+                26.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.77,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": 0.002,
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                26.0,
+                -40.0,
+                -2.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.49,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": 0.005,
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -42.0,
+                8.0,
+                -10.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.47,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": 0.006,
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                16.0,
+                -82.0,
+                -8.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 8.7,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -24.0,
+                -76.0,
+                -6.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 7.61,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -28.0,
+                -78.0,
+                20.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 6.27,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                32.0,
+                -74.0,
+                22.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.78,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                50.0,
+                -66.0,
+                8.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.35,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                46.0,
+                6.0,
+                24.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.33,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -48.0,
+                -80.0,
+                10.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.27,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -26.0,
+                -50.0,
+                56.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.26,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                28.0,
+                -46.0,
+                48.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.23,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": 0.012,
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                58.0,
+                -22.0,
+                36.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.91,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": 0.014,
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                40.0,
+                8.0,
+                -12.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.87,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": 0.017,
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                0.0,
+                14.0,
+                26.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.82,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": 0.021,
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "(b) Effect of threat responsivity in NS",
+          "description": "Post-hoc t-contrast",
+          "table_id": "133",
+          "points": [
+            {
+              "coordinates": [
+                16.0,
+                -82.0,
+                -6.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 8.99,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -13.0,
+                -88.0,
+                -6.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 6.53,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -48.0,
+                -78.0,
+                22.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 6.23,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                30.0,
+                -76.0,
+                22.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.16,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": 0.004,
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -28.0,
+                -52.0,
+                52.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.83,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": 0.016,
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pmid": "39853353",
       "analyses": [
         {
@@ -80668,6 +85300,528 @@
                 {
                   "value": 0.003,
                   "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pmid": "37252876",
+      "analyses": [
+        {
+          "name": "Alcohol>neutral",
+          "description": null,
+          "table_id": "119",
+          "points": [
+            {
+              "coordinates": [
+                12.0,
+                -96.0,
+                3.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 6.66,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                12.0,
+                -78.0,
+                -9.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 6.24,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -10.0,
+                -91.0,
+                -7.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 6.14,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                0.0,
+                56.0,
+                18.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 6.35,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -7.0,
+                26.0,
+                63.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 6.23,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -2.0,
+                49.0,
+                8.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.99,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -57.0,
+                -8.0,
+                -19.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.45,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -60.0,
+                -21.0,
+                -12.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.23,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -47.0,
+                -21.0,
+                -17.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.6,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -27.0,
+                11.0,
+                -12.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.92,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -37.0,
+                21.0,
+                -17.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.66,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -42.0,
+                26.0,
+                -9.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.64,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                12.0,
+                -1.0,
+                -9.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.43,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                30.0,
+                -16.0,
+                -17.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.32,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                22.5,
+                -11.0,
+                -22.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.28,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                42.5,
+                -71.0,
+                -37.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.36,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                20.0,
+                -86.0,
+                -37.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.03,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                27.5,
+                -81.0,
+                -34.5
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.98,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                7.5,
+                -46.0,
+                -42.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.36,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                15.0,
+                -43.5,
+                -39.5
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.03,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                5.0,
+                -41.0,
+                -27.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.67,
+                  "kind": "z-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Neutral>alcohol",
+          "description": null,
+          "table_id": "119",
+          "points": []
+        },
+        {
+          "name": "Age positive",
+          "description": null,
+          "table_id": "120",
+          "points": [
+            {
+              "coordinates": [
+                -52.0,
+                -56.0,
+                36.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.84,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -50.0,
+                -54.0,
+                46.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.63,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -65.0,
+                -38.0,
+                -2.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.33,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -52.0,
+                -34.0,
+                -7.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.92,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -60.0,
+                -28.0,
+                -10.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.56,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                28.0,
+                16.0,
+                50.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.09,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                28.0,
+                39.0,
+                46.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.06,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                10.0,
+                26.0,
+                56.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.93,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                45.0,
+                -54.0,
+                53.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.01,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                48.0,
+                -46.0,
+                36.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.7,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                55.0,
+                -56.0,
+                33.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.31,
+                  "kind": "z-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Age negative",
+          "description": null,
+          "table_id": "120",
+          "points": [
+            {
+              "coordinates": [
+                45.0,
+                -48.0,
+                -12.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": -4.29,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                35.0,
+                -48.0,
+                -12.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": -4.07,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                30.0,
+                -58.0,
+                -10.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": -3.45,
+                  "kind": "z-statistic"
                 }
               ]
             }
@@ -83237,6 +88391,361 @@
       ]
     },
     {
+      "pmid": "36536243",
+      "analyses": [
+        {
+          "name": "Positive weights",
+          "description": "Clusters of FDR-corrected bootstrapped weights of the NCS (table caption)",
+          "table_id": "105",
+          "points": [
+            {
+              "coordinates": [
+                -42.0,
+                -27.0,
+                60.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.7279,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                57.0,
+                -48.0,
+                -15.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.6653,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -48.0,
+                -63.0,
+                -39.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.659,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                12.0,
+                6.0,
+                -21.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.5203,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -24.0,
+                33.0,
+                54.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.4567,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -6.0,
+                51.0,
+                3.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.3707,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -3.0,
+                -54.0,
+                15.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.2439,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                30.0,
+                -63.0,
+                45.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.235,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                57.0,
+                -33.0,
+                45.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.2191,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -12.0,
+                -60.0,
+                60.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.0332,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                0.0,
+                -9.0,
+                6.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.0137,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                57.0,
+                -36.0,
+                21.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.9646,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -42.0,
+                39.0,
+                18.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.8987,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                51.0,
+                -72.0,
+                -18.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.8826,
+                  "kind": "z-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Negative weights",
+          "description": "Clusters of FDR-corrected bootstrapped weights of the NCS (table caption)",
+          "table_id": "105",
+          "points": [
+            {
+              "coordinates": [
+                -51.0,
+                -21.0,
+                51.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": -7.5193,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                54.0,
+                -63.0,
+                6.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": -4.8288,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                18.0,
+                -84.0,
+                45.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": -4.5147,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                42.0,
+                -60.0,
+                33.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": -4.5105,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                39.0,
+                -72.0,
+                -18.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": -4.4118,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                54.0,
+                -3.0,
+                0.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": -4.187,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                9.0,
+                -63.0,
+                33.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": -4.052,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -12.0,
+                -57.0,
+                75.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": -3.9052,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                0.0,
+                -84.0,
+                6.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": -3.8653,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -51.0,
+                -60.0,
+                54.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": -3.8516,
+                  "kind": "z-statistic"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pmid": "35763033",
       "analyses": [
         {
@@ -83830,6 +89339,807 @@
       ]
     },
     {
+      "pmid": "34427358",
+      "analyses": [
+        {
+          "name": "Nico+ > Nico-",
+          "description": null,
+          "table_id": "124",
+          "points": [
+            {
+              "coordinates": [
+                -34.0,
+                16.0,
+                6.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.92,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": 0.013,
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                32.0,
+                16.0,
+                4.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.02,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": 0.049,
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -10.0,
+                42.0,
+                10.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.14,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": 0.026,
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                8.0,
+                34.0,
+                22.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.32,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": 0.017,
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -40.0,
+                36.0,
+                18.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.77,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": 0.03,
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                14.0,
+                -70.0,
+                8.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.44,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                31.0,
+                18.0,
+                4.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.65,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                6.0,
+                -44.0,
+                -16.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.8,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -34.0,
+                16.0,
+                6.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.92,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                2.0,
+                -46.0,
+                -16.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.59,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                16.0,
+                4.0,
+                62.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.56,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -58.0,
+                -42.0,
+                26.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.3,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                54.0,
+                -44.0,
+                22.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.4,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -18.0,
+                10.0,
+                66.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.83,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                10.0,
+                34.0,
+                20.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.32,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                20.0,
+                -100.0,
+                0.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.68,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -10.0,
+                16.0,
+                0.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.03,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -16.0,
+                -32.0,
+                66.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.7,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -40.0,
+                36.0,
+                18.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 5.36,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                12.0,
+                -20.0,
+                14.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.07,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -14.0,
+                14.0,
+                70.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.74,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                30.0,
+                42.0,
+                38.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.45,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Nico- > Nico+",
+          "description": null,
+          "table_id": "124",
+          "points": []
+        },
+        {
+          "name": "DLPFC (L)",
+          "description": null,
+          "table_id": "125",
+          "points": [
+            {
+              "coordinates": [
+                56.0,
+                -30.0,
+                56.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": -4.52,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": 0.023,
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -26.0,
+                -82.0,
+                -22.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": -4.58,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": 0.031,
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                22.0,
+                -82.0,
+                -12.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": -4.16,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": 0.049,
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                16.0,
+                -66.0,
+                64.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": -4.1,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": 0.01,
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Insula (R)",
+          "description": null,
+          "table_id": "125",
+          "points": [
+            {
+              "coordinates": [
+                10.0,
+                6.0,
+                16.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": -5.17,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Insula (L)",
+          "description": null,
+          "table_id": "125",
+          "points": [
+            {
+              "coordinates": [
+                16.0,
+                -66.0,
+                64.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": -4.11,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": 0.045,
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ACC (R)",
+          "description": null,
+          "table_id": "125",
+          "points": [
+            {
+              "coordinates": [
+                -26.0,
+                0.0,
+                -8.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": -4.99,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": 0.027,
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ACC (L)",
+          "description": null,
+          "table_id": "125",
+          "points": [
+            {
+              "coordinates": [
+                22.0,
+                -28.0,
+                -32.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": -4.8,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": 0.041,
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pmid": "37861062",
+      "analyses": [
+        {
+          "name": "ROI analysis",
+          "description": "Contrast: HC>LC",
+          "table_id": "104",
+          "points": [
+            {
+              "coordinates": [
+                -18.0,
+                8.0,
+                16.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 2.28,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -6.0,
+                -7.0,
+                7.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 2.19,
+                  "kind": "t-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Whole-brain analysis",
+          "description": "Contrast: HC>LC",
+          "table_id": "104",
+          "points": [
+            {
+              "coordinates": [
+                -34.0,
+                20.0,
+                14.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.14,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -10.0,
+                -20.0,
+                -6.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.41,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -50.0,
+                -56.0,
+                -10.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.72,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -18.0,
+                -96.0,
+                6.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.38,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                34.0,
+                -64.0,
+                38.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.24,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                18.0,
+                -92.0,
+                -6.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.21,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -22.0,
+                -68.0,
+                38.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.05,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                34.0,
+                -56.0,
+                54.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 2.99,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                14.0,
+                -64.0,
+                46.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.29,
+                  "kind": "t-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Whole-brain analysis",
+          "description": "Contrast: (HC+LC)>NF",
+          "table_id": "104",
+          "points": [
+            {
+              "coordinates": [
+                26.0,
+                -36.0,
+                -6.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.51,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -10.0,
+                52.0,
+                -2.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.14,
+                  "kind": "t-statistic"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pmid": "40681585",
       "analyses": [
         {
@@ -84154,6 +90464,1120 @@
                 {
                   "value": "0.007SVC",
                   "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pmid": "40859695",
+      "analyses": [
+        {
+          "name": "Reward",
+          "description": null,
+          "table_id": "116",
+          "points": [
+            {
+              "coordinates": [
+                -14.0,
+                35.0,
+                -22.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                17.0,
+                37.0,
+                -22.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                -8.0,
+                12.0,
+                -8.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                10.0,
+                12.0,
+                -8.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                -12.0,
+                9.0,
+                11.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                16.0,
+                10.0,
+                10.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                -24.0,
+                2.0,
+                1.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                28.0,
+                3.0,
+                1.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                -18.0,
+                -2.0,
+                -2.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                -8.0,
+                -19.0,
+                -15.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                9.0,
+                -18.0,
+                -15.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                -3.0,
+                -21.0,
+                -18.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                5.0,
+                -21.0,
+                -18.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                24.0,
+                0.0,
+                -3.0
+              ],
+              "space": "MNI",
+              "values": []
+            }
+          ]
+        },
+        {
+          "name": "Inhibition",
+          "description": null,
+          "table_id": "116",
+          "points": [
+            {
+              "coordinates": [
+                -44.0,
+                2.0,
+                46.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                48.0,
+                25.0,
+                27.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                -47.0,
+                11.0,
+                23.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                -53.0,
+                -49.0,
+                43.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                -23.0,
+                11.0,
+                64.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                58.0,
+                -53.0,
+                -14.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                24.0,
+                45.0,
+                -15.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                34.0,
+                54.0,
+                -13.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                47.0,
+                10.0,
+                33.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                -41.0,
+                6.0,
+                33.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                -42.0,
+                38.0,
+                21.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                38.0,
+                43.0,
+                15.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                49.0,
+                -42.0,
+                45.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                -28.0,
+                -58.0,
+                48.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                44.0,
+                -53.0,
+                47.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                32.0,
+                14.0,
+                56.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                37.0,
+                -65.0,
+                40.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                -42.0,
+                -55.0,
+                45.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                40.0,
+                18.0,
+                40.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                -34.0,
+                55.0,
+                4.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                -42.0,
+                45.0,
+                -2.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                33.0,
+                -53.0,
+                44.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                43.0,
+                49.0,
+                -2.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                -42.0,
+                25.0,
+                30.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                -3.0,
+                26.0,
+                44.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                -57.0,
+                27.0,
+                18.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                -33.0,
+                -63.0,
+                42.0
+              ],
+              "space": "MNI",
+              "values": []
+            },
+            {
+              "coordinates": [
+                39.0,
+                -51.0,
+                21.0
+              ],
+              "space": "MNI",
+              "values": []
+            }
+          ]
+        },
+        {
+          "name": null,
+          "description": null,
+          "table_id": "117",
+          "points": [
+            {
+              "coordinates": [
+                -30.0,
+                -96.0,
+                -15.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": -3.32,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -21.0,
+                -51.0,
+                -18.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": -3.51,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -12.0,
+                -87.0,
+                33.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": -3.84,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -33.0,
+                -75.0,
+                0.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.92,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -60.0,
+                -66.0,
+                -3.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.73,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -39.0,
+                -60.0,
+                21.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.97,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                24.0,
+                0.0,
+                -3.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": -3.66,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -57.0,
+                27.0,
+                18.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": -3.72,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -33.0,
+                -63.0,
+                42.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": -3.58,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                39.0,
+                -51.0,
+                21.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.32,
+                  "kind": "t-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Seed-to-seed",
+          "description": null,
+          "table_id": "118",
+          "points": []
+        },
+        {
+          "name": "Seed-to-voxel",
+          "description": null,
+          "table_id": "118",
+          "points": [
+            {
+              "coordinates": [
+                -44.0,
+                -28.0,
+                60.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 0.003,
+                  "kind": "p-value"
+                },
+                {
+                  "value": 4.25,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                10.0,
+                -96.0,
+                0.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 0.021,
+                  "kind": "p-value"
+                },
+                {
+                  "value": 4.62,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                48.0,
+                -54.0,
+                -10.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 0.032,
+                  "kind": "p-value"
+                },
+                {
+                  "value": 4.56,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                48.0,
+                2.0,
+                -22.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 0.005,
+                  "kind": "p-value"
+                },
+                {
+                  "value": 5.61,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -48.0,
+                -46.0,
+                44.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 0.018,
+                  "kind": "p-value"
+                },
+                {
+                  "value": 5.1,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -18.0,
+                -82.0,
+                -24.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 0.015,
+                  "kind": "p-value"
+                },
+                {
+                  "value": 4.49,
+                  "kind": "t-statistic"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pmid": "33417264",
+      "analyses": [
+        {
+          "name": "Highly desirable > less desirable",
+          "description": "Inversely correlated with GIP",
+          "table_id": "113",
+          "points": [
+            {
+              "coordinates": [
+                26.0,
+                -82.0,
+                -6.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                },
+                {
+                  "value": 4.54,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                20.0,
+                -100.0,
+                6.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.3,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                34.0,
+                -72.0,
+                8.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.25,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -24.0,
+                -42.0,
+                68.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                },
+                {
+                  "value": 4.07,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -34.0,
+                -42.0,
+                62.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.0,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                4.0,
+                -56.0,
+                56.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.8,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -12.0,
+                6.0,
+                70.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                },
+                {
+                  "value": 3.95,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                24.0,
+                18.0,
+                62.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.86,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -18.0,
+                4.0,
+                64.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.82,
+                  "kind": "z-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Highly desirable > less desirable",
+          "description": "Inversely correlated with oxyntomodulin",
+          "table_id": "113",
+          "points": [
+            {
+              "coordinates": [
+                28.0,
+                14.0,
+                6.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                },
+                {
+                  "value": 4.17,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                20.0,
+                -12.0,
+                16.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.9,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                26.0,
+                -10.0,
+                8.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.89,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -30.0,
+                4.0,
+                16.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 0.007,
+                  "kind": "p-value"
+                },
+                {
+                  "value": 4.05,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -26.0,
+                12.0,
+                -8.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.74,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -28.0,
+                22.0,
+                4.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.62,
+                  "kind": "z-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Highly desirable > less desirable",
+          "description": "Inversely correlated with glicentin",
+          "table_id": "113",
+          "points": [
+            {
+              "coordinates": [
+                40.0,
+                16.0,
+                12.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 0.001,
+                  "kind": "p-value"
+                },
+                {
+                  "value": 4.44,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                40.0,
+                26.0,
+                10.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.35,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                14.0,
+                6.0,
+                24.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.9,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                44.0,
+                2.0,
+                -30.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 0.038,
+                  "kind": "p-value"
+                },
+                {
+                  "value": 4.31,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                18.0,
+                -8.0,
+                -24.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.83,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                36.0,
+                8.0,
+                -32.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.52,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                28.0,
+                56.0,
+                4.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 0.002,
+                  "kind": "p-value"
+                },
+                {
+                  "value": 4.17,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                16.0,
+                58.0,
+                20.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.73,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                22.0,
+                56.0,
+                14.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.53,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -16.0,
+                40.0,
+                16.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 0.041,
+                  "kind": "p-value"
+                },
+                {
+                  "value": 3.68,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -10.0,
+                22.0,
+                14.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.43,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -22.0,
+                30.0,
+                12.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.35,
+                  "kind": "z-statistic"
                 }
               ]
             }
@@ -87095,5 +94519,5 @@
       ]
     }
   ],
-  "timestamp": "2026-03-18T14:10:14.599743"
+  "timestamp": "2026-03-20T14:03:31.095350"
 }
