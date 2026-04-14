@@ -35113,7 +35113,52 @@
       "abstract_exclusion_criteria_applied": [],
       "fulltext_inclusion_criteria_applied": [],
       "fulltext_exclusion_criteria_applied": []
+    },
+    {
+      "pmid": "41971270",
+      "pmcid": null,
+      "title": "Network localization of gray matter alterations in chronic smokers using the normative functional connectome.",
+      "abstract": "Chronic smoking has well-documented impacts on brain structure. Voxel-based morphometry (VBM) investigations have revealed diverse regional gray matter (GM) changes in chronic smokers, hindering a unified understanding of smoking-induced neuropathology. To reconcile these findings, this study aimed to identify common intrinsic functional networks underlying these structural alterations using a functional connectivity network mapping (FCNM) approach. We further explored potential exposure-dependent variations to characterize how brain network architecture relates to cumulative smoking dose.",
+      "authors": [
+        "Han Xu",
+        "Xiao-Yi Liu",
+        "Hu-Cheng Yang",
+        "Ping-Lei Pan",
+        "Si-Yu Gu",
+        "Wen-Hui Li",
+        "Shu Wang"
+      ],
+      "journal": "Frontiers in public health",
+      "publication_date": "2026",
+      "doi": "10.3389/fpubh.2026.1762620",
+      "keywords": [
+        "Salience Network",
+        "basal ganglia",
+        "gray matter",
+        "network localization",
+        "smoking"
+      ],
+      "status": "pending",
+      "abstract_screening_reason": null,
+      "fulltext_screening_reason": null,
+      "metadata": {},
+      "abstract_screening_score": null,
+      "fulltext_screening_score": null,
+      "retrieved_at": "2026-04-14T15:22:13.702644",
+      "screened_at": null,
+      "full_text_path": null,
+      "full_text_source": null,
+      "fulltext_available": false,
+      "retrieval_in_scope": false,
+      "in_included_set": null,
+      "coordinate_space": null,
+      "activation_tables": [],
+      "analyses": [],
+      "abstract_inclusion_criteria_applied": [],
+      "abstract_exclusion_criteria_applied": [],
+      "fulltext_inclusion_criteria_applied": [],
+      "fulltext_exclusion_criteria_applied": []
     }
   ],
-  "timestamp": "2026-04-10T14:42:39.116881"
+  "timestamp": "2026-04-14T15:27:21.156030"
 }

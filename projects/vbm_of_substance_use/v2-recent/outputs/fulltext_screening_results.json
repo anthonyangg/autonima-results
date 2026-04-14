@@ -7,7 +7,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376637",
+      "timestamp": "2026-04-14T15:27:24.416894",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -18,7 +18,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376644",
+      "timestamp": "2026-04-14T15:27:24.416900",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -34,7 +34,7 @@
       "confidence": 0.86,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376648",
+      "timestamp": "2026-04-14T15:27:24.416902",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -50,7 +50,7 @@
       "confidence": 0.91,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376651",
+      "timestamp": "2026-04-14T15:27:24.416905",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -66,7 +66,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376655",
+      "timestamp": "2026-04-14T15:27:24.416907",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -82,7 +82,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376658",
+      "timestamp": "2026-04-14T15:27:24.416910",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -98,7 +98,7 @@
       "confidence": 0.98,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376661",
+      "timestamp": "2026-04-14T15:27:24.416912",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -114,7 +114,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376663",
+      "timestamp": "2026-04-14T15:27:24.416915",
       "inclusion_criteria_applied": [
         "I2",
         "I3"
@@ -128,7 +128,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376666",
+      "timestamp": "2026-04-14T15:27:24.416917",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -144,7 +144,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376669",
+      "timestamp": "2026-04-14T15:27:24.416920",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -160,7 +160,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376672",
+      "timestamp": "2026-04-14T15:27:24.416923",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [
         "E5"
@@ -173,7 +173,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376675",
+      "timestamp": "2026-04-14T15:27:24.416925",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -189,7 +189,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376678",
+      "timestamp": "2026-04-14T15:27:24.416928",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -205,7 +205,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376681",
+      "timestamp": "2026-04-14T15:27:24.416930",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -221,7 +221,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376683",
+      "timestamp": "2026-04-14T15:27:24.416933",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -237,7 +237,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376687",
+      "timestamp": "2026-04-14T15:27:24.416936",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -253,7 +253,7 @@
       "confidence": 0.86,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376690",
+      "timestamp": "2026-04-14T15:27:24.416939",
       "inclusion_criteria_applied": [
         "I4",
         "I5"
@@ -267,7 +267,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376693",
+      "timestamp": "2026-04-14T15:27:24.416942",
       "inclusion_criteria_applied": [
         "I4",
         "I5"
@@ -281,7 +281,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376696",
+      "timestamp": "2026-04-14T15:27:24.416944",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -297,7 +297,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376699",
+      "timestamp": "2026-04-14T15:27:24.416946",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -313,7 +313,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376701",
+      "timestamp": "2026-04-14T15:27:24.416949",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -329,7 +329,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376705",
+      "timestamp": "2026-04-14T15:27:24.416952",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -345,7 +345,7 @@
       "confidence": 0.93,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376707",
+      "timestamp": "2026-04-14T15:27:24.416954",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -361,7 +361,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376710",
+      "timestamp": "2026-04-14T15:27:24.416956",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -377,7 +377,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376712",
+      "timestamp": "2026-04-14T15:27:24.416958",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -393,7 +393,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376716",
+      "timestamp": "2026-04-14T15:27:24.416961",
       "inclusion_criteria_applied": [
         "I2",
         "I4",
@@ -408,7 +408,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376719",
+      "timestamp": "2026-04-14T15:27:24.416963",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -424,7 +424,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376721",
+      "timestamp": "2026-04-14T15:27:24.416966",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -440,7 +440,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376724",
+      "timestamp": "2026-04-14T15:27:24.416968",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -456,7 +456,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376727",
+      "timestamp": "2026-04-14T15:27:24.416970",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -472,7 +472,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376729",
+      "timestamp": "2026-04-14T15:27:24.416973",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -488,7 +488,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376732",
+      "timestamp": "2026-04-14T15:27:24.416975",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -504,7 +504,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376734",
+      "timestamp": "2026-04-14T15:27:24.416978",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -520,7 +520,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376738",
+      "timestamp": "2026-04-14T15:27:24.416980",
       "inclusion_criteria_applied": [
         "I2",
         "I4",
@@ -537,7 +537,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376740",
+      "timestamp": "2026-04-14T15:27:24.416983",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -553,7 +553,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376743",
+      "timestamp": "2026-04-14T15:27:24.416985",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -569,7 +569,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376746",
+      "timestamp": "2026-04-14T15:27:24.416988",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -585,7 +585,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376749",
+      "timestamp": "2026-04-14T15:27:24.416991",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -601,7 +601,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376752",
+      "timestamp": "2026-04-14T15:27:24.416993",
       "inclusion_criteria_applied": [
         "I5"
       ],
@@ -616,7 +616,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376756",
+      "timestamp": "2026-04-14T15:27:24.416995",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -632,7 +632,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376759",
+      "timestamp": "2026-04-14T15:27:24.416998",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -648,7 +648,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376762",
+      "timestamp": "2026-04-14T15:27:24.417000",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -664,7 +664,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376765",
+      "timestamp": "2026-04-14T15:27:24.417002",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -680,7 +680,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376769",
+      "timestamp": "2026-04-14T15:27:24.417005",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -696,7 +696,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376773",
+      "timestamp": "2026-04-14T15:27:24.417007",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -712,7 +712,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376776",
+      "timestamp": "2026-04-14T15:27:24.417009",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -728,7 +728,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376779",
+      "timestamp": "2026-04-14T15:27:24.417012",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -744,7 +744,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376782",
+      "timestamp": "2026-04-14T15:27:24.417014",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -760,7 +760,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376785",
+      "timestamp": "2026-04-14T15:27:24.417016",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -776,7 +776,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376787",
+      "timestamp": "2026-04-14T15:27:24.417018",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -786,13 +786,29 @@
       "exclusion_criteria_applied": []
     },
     {
+      "study_id": "9161613",
+      "decision": "fulltext_incomplete",
+      "reason": "Full text appears incomplete in provided content (only abstract/metadata accessible). From available information: this is an empirical structural MRI study of alcohol users vs controls (I2 met) and reports participant age/sex and substance-use details (I5 met). However, the paper does not provide evidence of a whole-brain voxelwise/coordinate-based GM between-group contrast in the accessible text (I3 not met). Voxelwise results or coordinate tables/figures are not shown (I4 not met). The methods appear to report regional/ROI volumetric analyses (suggesting ROI-only results), so exclusion criterion E5 applies. Therefore exclude.",
+      "confidence": 0.6,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417025",
+      "inclusion_criteria_applied": [
+        "I2",
+        "I5"
+      ],
+      "exclusion_criteria_applied": [
+        "E5"
+      ]
+    },
+    {
       "study_id": "26187691",
       "decision": "excluded_fulltext",
       "reason": "The study is excluded because it reports only region-of-interest hippocampal volume analyses rather than any whole-brain voxelwise/whole-brain GM between-group contrasts (Exclusion E5). Inclusion criteria met: I2 (empirical English-language structural MRI study comparing GM volume between substance users and controls) and I5 (reports participant age/sex, substance use characteristics, MRI field strength (3T), and preprocessing/statistical software (FreeSurfer)). Inclusion criteria not met: I3 (no whole-brain between-group GM contrast reported) and I4 (no voxelwise coordinate tables/whole-brain results provided). Full text appears complete (introduction, methods, results, discussion). Therefore the paper does not meet the review requirement for whole-brain GM evidence and is excluded.",
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376791",
+      "timestamp": "2026-04-14T15:27:24.417029",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -808,7 +824,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376794",
+      "timestamp": "2026-04-14T15:27:24.417031",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -824,7 +840,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376797",
+      "timestamp": "2026-04-14T15:27:24.417034",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -840,7 +856,7 @@
       "confidence": 0.98,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376801",
+      "timestamp": "2026-04-14T15:27:24.417036",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -856,7 +872,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376804",
+      "timestamp": "2026-04-14T15:27:24.417039",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -872,7 +888,7 @@
       "confidence": 0.84,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376807",
+      "timestamp": "2026-04-14T15:27:24.417042",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -888,7 +904,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376810",
+      "timestamp": "2026-04-14T15:27:24.417045",
       "inclusion_criteria_applied": [
         "I2"
       ],
@@ -903,7 +919,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376813",
+      "timestamp": "2026-04-14T15:27:24.417047",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -919,7 +935,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376816",
+      "timestamp": "2026-04-14T15:27:24.417049",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -935,7 +951,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376820",
+      "timestamp": "2026-04-14T15:27:24.417052",
       "inclusion_criteria_applied": [
         "I5"
       ],
@@ -950,7 +966,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376824",
+      "timestamp": "2026-04-14T15:27:24.417055",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -966,7 +982,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376827",
+      "timestamp": "2026-04-14T15:27:24.417058",
       "inclusion_criteria_applied": [
         "I5"
       ],
@@ -981,7 +997,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376831",
+      "timestamp": "2026-04-14T15:27:24.417060",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -997,7 +1013,7 @@
       "confidence": 0.55,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376841",
+      "timestamp": "2026-04-14T15:27:24.417064",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1012,7 +1028,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376845",
+      "timestamp": "2026-04-14T15:27:24.417067",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -1028,7 +1044,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376849",
+      "timestamp": "2026-04-14T15:27:24.417070",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -1044,7 +1060,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376852",
+      "timestamp": "2026-04-14T15:27:24.417072",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1060,7 +1076,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376855",
+      "timestamp": "2026-04-14T15:27:24.417075",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -1076,7 +1092,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376858",
+      "timestamp": "2026-04-14T15:27:24.417077",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1092,7 +1108,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376861",
+      "timestamp": "2026-04-14T15:27:24.417080",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -1108,7 +1124,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376866",
+      "timestamp": "2026-04-14T15:27:24.417083",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -1124,7 +1140,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376868",
+      "timestamp": "2026-04-14T15:27:24.417086",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1140,7 +1156,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376873",
+      "timestamp": "2026-04-14T15:27:24.417089",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -1156,7 +1172,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376876",
+      "timestamp": "2026-04-14T15:27:24.417091",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1171,7 +1187,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376879",
+      "timestamp": "2026-04-14T15:27:24.417093",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1187,7 +1203,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376883",
+      "timestamp": "2026-04-14T15:27:24.417096",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -1203,7 +1219,7 @@
       "confidence": 0.86,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376886",
+      "timestamp": "2026-04-14T15:27:24.417099",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1219,7 +1235,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376890",
+      "timestamp": "2026-04-14T15:27:24.417101",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1229,13 +1245,24 @@
       "exclusion_criteria_applied": []
     },
     {
+      "study_id": "12498754",
+      "decision": "fulltext_incomplete",
+      "reason": "Full text is incomplete (only title/abstract provided). Primary reasons for exclusion: (1) full text incomplete, preventing verification of whole-brain voxelwise/vertexwise between-group GM contrasts and necessary methods/details; (2) population mismatch for the review objective: participants have heavy prenatal alcohol exposure (in utero exposure) rather than being substance users themselves, so the study does not clearly compare current substance users vs controls. Exclusion IDs met: none (E5 and E6 do not apply). Inclusion IDs met: none. Inclusion IDs not met: I2 (does not clearly compare substance users vs controls \u2014 prenatal exposure \u2260 substance-using participants), I3 (cannot confirm a qualifying whole-brain between-group GM volume contrast from the incomplete text), I4 (uncertain availability of coordinate-based whole-brain results in accessible full text). I5: reporting of some participant info in abstract is limited; full methods unavailable. Given incomplete full text and population mismatch, exclude pending retrieval of full article.",
+      "confidence": 0.75,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417105",
+      "inclusion_criteria_applied": [],
+      "exclusion_criteria_applied": []
+    },
+    {
       "study_id": "27865039",
       "decision": "included_fulltext",
       "reason": "This is an empirical, English-language structural MRI study (voxel-based morphometry) comparing grey matter volumes between heavy alcohol-using adolescents/young adults and matched light-drinking controls. The paper reports a whole-brain VBM between-group contrast (stating no significant clusters on whole-brain analysis) and ROI-corrected voxelwise results with coordinates/figures for regions showing reduced GM in users. Participant demographics (age, sex), substance-use characteristics (AUDIT-C history), MRI field strength (3 T) and preprocessing/statistical software (VBM8/SPM8) are reported. The full text includes Introduction, Methods, Results, and Discussion. Therefore it satisfies inclusion criteria I2, I3, I4 and I5 and does not meet any exclusion criteria (not ROI-only, not non-empirical).",
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376894",
+      "timestamp": "2026-04-14T15:27:24.417107",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1251,7 +1278,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376897",
+      "timestamp": "2026-04-14T15:27:24.417109",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1267,7 +1294,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376900",
+      "timestamp": "2026-04-14T15:27:24.417119",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1283,7 +1310,7 @@
       "confidence": 0.86,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376904",
+      "timestamp": "2026-04-14T15:27:24.417123",
       "inclusion_criteria_applied": [
         "I2",
         "I4",
@@ -1298,7 +1325,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376908",
+      "timestamp": "2026-04-14T15:27:24.417127",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -1314,7 +1341,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376912",
+      "timestamp": "2026-04-14T15:27:24.417130",
       "inclusion_criteria_applied": [
         "I5"
       ],
@@ -1327,7 +1354,7 @@
       "confidence": 0.93,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376916",
+      "timestamp": "2026-04-14T15:27:24.417133",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1337,13 +1364,28 @@
       "exclusion_criteria_applied": []
     },
     {
+      "study_id": "8561288",
+      "decision": "fulltext_incomplete",
+      "reason": "This is an empirical MRI study of alcoholics and controls that reports cortical gray matter, white matter, and CSF volume measures (meets I2). However, the study quantifies volumes from segmentation of seven axial slices and specific ventricular/sulcal measures rather than reporting a whole-brain voxelwise or whole-brain between-group GM contrast with spatially comprehensive results; therefore it does not meet I3. Because it provides only region-limited/ROI-style measures with no qualifying whole-brain results, exclusion criterion E5 applies. Additionally, the provided full-text content appears to be limited to abstract/metadata (core article sections not present), so fulltext_incomplete is set true. Inclusion criteria met: I2. Inclusion criteria not met: I3. Exclusion criteria met: E5.",
+      "confidence": 0.75,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417137",
+      "inclusion_criteria_applied": [
+        "I2"
+      ],
+      "exclusion_criteria_applied": [
+        "E5"
+      ]
+    },
+    {
       "study_id": "10762735",
       "decision": "excluded_fulltext",
       "reason": "The study is excluded because it reports only region-of-interest (ROI) analyses on frontal and temporal lobe slabs (manual tracings over a seven-slice contiguous volume) with no whole-brain voxelwise or whole-brain between-group GM contrast. (a) Exclusion criteria met: E5. (b) Inclusion criteria met: I2 (empirical English-language MRI study assessing GM volume differences between substance users and controls) and I5 (reports participant age/sex, substance use characteristics, and MRI field strength). (c) Inclusion criteria not met: I3 (no whole-brain between-group contrast of GM volume reported). The full text appears complete (introduction, methods, results, discussion). Therefore the study does not meet the required whole-brain analysis criterion and must be excluded.",
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376920",
+      "timestamp": "2026-04-14T15:27:24.417140",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -1359,7 +1401,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376924",
+      "timestamp": "2026-04-14T15:27:24.417143",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -1375,7 +1417,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376927",
+      "timestamp": "2026-04-14T15:27:24.417145",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1391,7 +1433,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376930",
+      "timestamp": "2026-04-14T15:27:24.417148",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1407,7 +1449,7 @@
       "confidence": 0.86,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376935",
+      "timestamp": "2026-04-14T15:27:24.417150",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -1423,7 +1465,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376938",
+      "timestamp": "2026-04-14T15:27:24.417153",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -1439,7 +1481,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376942",
+      "timestamp": "2026-04-14T15:27:24.417156",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1455,7 +1497,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376947",
+      "timestamp": "2026-04-14T15:27:24.417159",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -1471,7 +1513,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376951",
+      "timestamp": "2026-04-14T15:27:24.417161",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1487,7 +1529,7 @@
       "confidence": 0.84,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376955",
+      "timestamp": "2026-04-14T15:27:24.417163",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -1502,7 +1544,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376958",
+      "timestamp": "2026-04-14T15:27:24.417166",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1518,7 +1560,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376962",
+      "timestamp": "2026-04-14T15:27:24.417169",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -1529,7 +1571,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376965",
+      "timestamp": "2026-04-14T15:27:24.417171",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1545,7 +1587,7 @@
       "confidence": 0.3,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376970",
+      "timestamp": "2026-04-14T15:27:24.417174",
       "inclusion_criteria_applied": [
         "I2"
       ],
@@ -1558,7 +1600,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376975",
+      "timestamp": "2026-04-14T15:27:24.417177",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -1569,7 +1611,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376978",
+      "timestamp": "2026-04-14T15:27:24.417180",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1585,7 +1627,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376982",
+      "timestamp": "2026-04-14T15:27:24.417183",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -1601,7 +1643,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376986",
+      "timestamp": "2026-04-14T15:27:24.417186",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -1617,7 +1659,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376989",
+      "timestamp": "2026-04-14T15:27:24.417188",
       "inclusion_criteria_applied": [
         "I5"
       ],
@@ -1632,7 +1674,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376992",
+      "timestamp": "2026-04-14T15:27:24.417191",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1648,7 +1690,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376996",
+      "timestamp": "2026-04-14T15:27:24.417194",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -1664,7 +1706,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.376999",
+      "timestamp": "2026-04-14T15:27:24.417197",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -1679,7 +1721,7 @@
       "confidence": 0.93,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377002",
+      "timestamp": "2026-04-14T15:27:24.417199",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1695,11 +1737,26 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377006",
+      "timestamp": "2026-04-14T15:27:24.417202",
       "inclusion_criteria_applied": [
         "I2",
         "I4",
         "I5"
+      ],
+      "exclusion_criteria_applied": [
+        "E5"
+      ]
+    },
+    {
+      "study_id": "7771636",
+      "decision": "fulltext_incomplete",
+      "reason": "This study is an empirical MRI comparison of chronic alcoholics vs controls and assesses hippocampal and temporal lobe grey-matter-related volumes (meets I2). However, the available content (abstract/metadata) and the study description indicate manual/ROI hippocampal and regional volumetry rather than a whole-brain voxelwise GM between-group contrast; no whole-brain voxelwise results or coordinate tables are reported in the accessible text. Therefore it appears to report only ROI/regional analyses and does not meet the whole-brain evidence criterion (I3), invoking exclusion criterion E5. Note: the supplied full text appears incomplete (primarily abstract and metadata), so fulltext_incomplete=true. Exclusion IDs met: E5. Inclusion IDs met: I2. Inclusion IDs not met: I3. Because whole-brain voxelwise results are required and not demonstrated here, the study should be excluded from the meta-analysis.",
+      "confidence": 0.75,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417205",
+      "inclusion_criteria_applied": [
+        "I2"
       ],
       "exclusion_criteria_applied": [
         "E5"
@@ -1712,7 +1769,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377009",
+      "timestamp": "2026-04-14T15:27:24.417208",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1727,7 +1784,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377014",
+      "timestamp": "2026-04-14T15:27:24.417211",
       "inclusion_criteria_applied": [
         "I2"
       ],
@@ -1742,7 +1799,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377016",
+      "timestamp": "2026-04-14T15:27:24.417213",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1758,7 +1815,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377020",
+      "timestamp": "2026-04-14T15:27:24.417215",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1774,7 +1831,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377024",
+      "timestamp": "2026-04-14T15:27:24.417218",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1790,7 +1847,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377027",
+      "timestamp": "2026-04-14T15:27:24.417220",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1806,7 +1863,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377030",
+      "timestamp": "2026-04-14T15:27:24.417222",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1822,7 +1879,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377032",
+      "timestamp": "2026-04-14T15:27:24.417225",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1838,7 +1895,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377035",
+      "timestamp": "2026-04-14T15:27:24.417227",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1854,7 +1911,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377039",
+      "timestamp": "2026-04-14T15:27:24.417230",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -1870,7 +1927,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377042",
+      "timestamp": "2026-04-14T15:27:24.417232",
       "inclusion_criteria_applied": [
         "I2",
         "I4",
@@ -1887,7 +1944,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377045",
+      "timestamp": "2026-04-14T15:27:24.417235",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1903,7 +1960,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377048",
+      "timestamp": "2026-04-14T15:27:24.417237",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1919,7 +1976,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377051",
+      "timestamp": "2026-04-14T15:27:24.417239",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1935,7 +1992,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377055",
+      "timestamp": "2026-04-14T15:27:24.417242",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -1946,7 +2003,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377058",
+      "timestamp": "2026-04-14T15:27:24.417244",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1962,7 +2019,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377062",
+      "timestamp": "2026-04-14T15:27:24.417246",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1978,7 +2035,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377067",
+      "timestamp": "2026-04-14T15:27:24.417249",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1994,7 +2051,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377071",
+      "timestamp": "2026-04-14T15:27:24.417251",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2010,7 +2067,7 @@
       "confidence": 0.86,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377074",
+      "timestamp": "2026-04-14T15:27:24.417254",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2026,7 +2083,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377080",
+      "timestamp": "2026-04-14T15:27:24.417256",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -2042,7 +2099,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377086",
+      "timestamp": "2026-04-14T15:27:24.417259",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -2057,7 +2114,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377090",
+      "timestamp": "2026-04-14T15:27:24.417261",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2073,7 +2130,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377096",
+      "timestamp": "2026-04-14T15:27:24.417264",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2089,7 +2146,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377100",
+      "timestamp": "2026-04-14T15:27:24.417267",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -2103,7 +2160,7 @@
       "confidence": 0.89,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377105",
+      "timestamp": "2026-04-14T15:27:24.417270",
       "inclusion_criteria_applied": [
         "I4",
         "I5"
@@ -2117,7 +2174,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377110",
+      "timestamp": "2026-04-14T15:27:24.417272",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2133,7 +2190,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377118",
+      "timestamp": "2026-04-14T15:27:24.417275",
       "inclusion_criteria_applied": [
         "I2",
         "I4",
@@ -2150,7 +2207,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377121",
+      "timestamp": "2026-04-14T15:27:24.417277",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2166,7 +2223,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377125",
+      "timestamp": "2026-04-14T15:27:24.417279",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2182,7 +2239,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377130",
+      "timestamp": "2026-04-14T15:27:24.417282",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -2196,7 +2253,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377135",
+      "timestamp": "2026-04-14T15:27:24.417284",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2211,7 +2268,7 @@
       "confidence": 0.98,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377140",
+      "timestamp": "2026-04-14T15:27:24.417287",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2227,7 +2284,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377146",
+      "timestamp": "2026-04-14T15:27:24.417290",
       "inclusion_criteria_applied": [
         "I5"
       ],
@@ -2242,7 +2299,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377153",
+      "timestamp": "2026-04-14T15:27:24.417293",
       "inclusion_criteria_applied": [
         "I5"
       ],
@@ -2255,7 +2312,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377160",
+      "timestamp": "2026-04-14T15:27:24.417296",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -2269,7 +2326,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377166",
+      "timestamp": "2026-04-14T15:27:24.417299",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -2284,7 +2341,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377173",
+      "timestamp": "2026-04-14T15:27:24.417302",
       "inclusion_criteria_applied": [
         "I2",
         "I4",
@@ -2301,7 +2358,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377179",
+      "timestamp": "2026-04-14T15:27:24.417304",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2317,7 +2374,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377186",
+      "timestamp": "2026-04-14T15:27:24.417307",
       "inclusion_criteria_applied": [
         "I5"
       ],
@@ -2330,7 +2387,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377193",
+      "timestamp": "2026-04-14T15:27:24.417309",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2346,7 +2403,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377200",
+      "timestamp": "2026-04-14T15:27:24.417312",
       "inclusion_criteria_applied": [
         "I2",
         "I4",
@@ -2363,7 +2420,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377206",
+      "timestamp": "2026-04-14T15:27:24.417314",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2379,7 +2436,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377215",
+      "timestamp": "2026-04-14T15:27:24.417317",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -2390,7 +2447,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377220",
+      "timestamp": "2026-04-14T15:27:24.417320",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2406,7 +2463,7 @@
       "confidence": 0.94,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377227",
+      "timestamp": "2026-04-14T15:27:24.417322",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2422,7 +2479,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377232",
+      "timestamp": "2026-04-14T15:27:24.417324",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2438,7 +2495,7 @@
       "confidence": 0.35,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377242",
+      "timestamp": "2026-04-14T15:27:24.417327",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -2449,7 +2506,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377248",
+      "timestamp": "2026-04-14T15:27:24.417330",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2465,7 +2522,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377253",
+      "timestamp": "2026-04-14T15:27:24.417332",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2481,7 +2538,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377259",
+      "timestamp": "2026-04-14T15:27:24.417335",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -2497,7 +2554,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377266",
+      "timestamp": "2026-04-14T15:27:24.417338",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2513,7 +2570,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377280",
+      "timestamp": "2026-04-14T15:27:24.417340",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -2529,7 +2586,7 @@
       "confidence": 0.93,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377287",
+      "timestamp": "2026-04-14T15:27:24.417343",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -2545,7 +2602,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377291",
+      "timestamp": "2026-04-14T15:27:24.417345",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2561,7 +2618,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377296",
+      "timestamp": "2026-04-14T15:27:24.417348",
       "inclusion_criteria_applied": [
         "I2",
         "I4",
@@ -2578,7 +2635,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377302",
+      "timestamp": "2026-04-14T15:27:24.417351",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -2594,7 +2651,7 @@
       "confidence": 0.87,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377306",
+      "timestamp": "2026-04-14T15:27:24.417354",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -2610,7 +2667,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377309",
+      "timestamp": "2026-04-14T15:27:24.417356",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2626,7 +2683,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377312",
+      "timestamp": "2026-04-14T15:27:24.417359",
       "inclusion_criteria_applied": [
         "I4"
       ],
@@ -2639,7 +2696,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377315",
+      "timestamp": "2026-04-14T15:27:24.417362",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2655,7 +2712,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377319",
+      "timestamp": "2026-04-14T15:27:24.417365",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -2666,7 +2723,7 @@
       "confidence": 0.86,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377322",
+      "timestamp": "2026-04-14T15:27:24.417367",
       "inclusion_criteria_applied": [
         "I2",
         "I4",
@@ -2683,7 +2740,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377326",
+      "timestamp": "2026-04-14T15:27:24.417370",
       "inclusion_criteria_applied": [
         "I2",
         "I4",
@@ -2698,7 +2755,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377330",
+      "timestamp": "2026-04-14T15:27:24.417373",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -2713,7 +2770,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377334",
+      "timestamp": "2026-04-14T15:27:24.417376",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -2729,7 +2786,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377337",
+      "timestamp": "2026-04-14T15:27:24.417379",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2745,7 +2802,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377340",
+      "timestamp": "2026-04-14T15:27:24.417381",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2761,7 +2818,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377343",
+      "timestamp": "2026-04-14T15:27:24.417384",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -2777,7 +2834,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377346",
+      "timestamp": "2026-04-14T15:27:24.417386",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2793,7 +2850,7 @@
       "confidence": 0.86,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377348",
+      "timestamp": "2026-04-14T15:27:24.417388",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2809,7 +2866,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377352",
+      "timestamp": "2026-04-14T15:27:24.417391",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2825,7 +2882,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377355",
+      "timestamp": "2026-04-14T15:27:24.417394",
       "inclusion_criteria_applied": [
         "I2",
         "I4",
@@ -2842,7 +2899,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377358",
+      "timestamp": "2026-04-14T15:27:24.417396",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2858,7 +2915,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377361",
+      "timestamp": "2026-04-14T15:27:24.417399",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2874,7 +2931,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377363",
+      "timestamp": "2026-04-14T15:27:24.417401",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2890,7 +2947,7 @@
       "confidence": 0.91,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377367",
+      "timestamp": "2026-04-14T15:27:24.417404",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -2906,7 +2963,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377371",
+      "timestamp": "2026-04-14T15:27:24.417407",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -2922,7 +2979,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377373",
+      "timestamp": "2026-04-14T15:27:24.417409",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2937,7 +2994,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377377",
+      "timestamp": "2026-04-14T15:27:24.417412",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -2953,7 +3010,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377380",
+      "timestamp": "2026-04-14T15:27:24.417415",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2969,7 +3026,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377382",
+      "timestamp": "2026-04-14T15:27:24.417417",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2985,7 +3042,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377386",
+      "timestamp": "2026-04-14T15:27:24.417420",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -2996,7 +3053,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377390",
+      "timestamp": "2026-04-14T15:27:24.417423",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -3012,7 +3069,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377392",
+      "timestamp": "2026-04-14T15:27:24.417425",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3028,7 +3085,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377406",
+      "timestamp": "2026-04-14T15:27:24.417428",
       "inclusion_criteria_applied": [
         "I5"
       ],
@@ -3041,7 +3098,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377412",
+      "timestamp": "2026-04-14T15:27:24.417430",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3057,7 +3114,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377419",
+      "timestamp": "2026-04-14T15:27:24.417433",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -3073,7 +3130,7 @@
       "confidence": 0.15,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377426",
+      "timestamp": "2026-04-14T15:27:24.417437",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -3084,7 +3141,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377429",
+      "timestamp": "2026-04-14T15:27:24.417440",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3100,7 +3157,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377433",
+      "timestamp": "2026-04-14T15:27:24.417442",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -3116,7 +3173,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377436",
+      "timestamp": "2026-04-14T15:27:24.417445",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3132,7 +3189,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377439",
+      "timestamp": "2026-04-14T15:27:24.417447",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3147,7 +3204,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377442",
+      "timestamp": "2026-04-14T15:27:24.417449",
       "inclusion_criteria_applied": [
         "I2",
         "I3"
@@ -3161,7 +3218,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377445",
+      "timestamp": "2026-04-14T15:27:24.417452",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3171,13 +3228,28 @@
       "exclusion_criteria_applied": []
     },
     {
+      "study_id": "14506401",
+      "decision": "fulltext_incomplete",
+      "reason": "Full text appears to report regional/ROI volumetric analyses comparing alcoholic patients and controls (meets I2) but does not present whole-brain voxelwise between-group GM contrasts or coordinate-based results required for the meta-analysis (fails I3). The study reports volume deficits in specified structures (cerebellum, pons, thalamus, cortical regions) consistent with ROI-based analyses; therefore it meets exclusion criterion E5 (ROI-only with no qualifying whole-brain results). Full text appears incomplete in the provided content (core methods/results not present), so fulltext_incomplete=true. Inclusion IDs met: I2. Inclusion IDs not met: I3 (whole-brain voxelwise contrast). Exclusion IDs met: E5.",
+      "confidence": 0.75,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417455",
+      "inclusion_criteria_applied": [
+        "I2"
+      ],
+      "exclusion_criteria_applied": [
+        "E5"
+      ]
+    },
+    {
       "study_id": "23072363",
       "decision": "included_fulltext",
       "reason": "This is an empirical, English-language structural MRI study comparing gray matter volumes between alcohol-dependent patients and healthy controls using voxel-based morphometry. The paper reports whole-brain VBM voxel-wise between-group contrasts (FWE-corrected) with cluster results presented in figures/tables, and describes participant age/sex, substance use characteristics, MRI field strength (3T), and preprocessing/statistical software (VBM8/SPM8). Therefore it meets inclusion criteria I2, I3, I4, and I5. No exclusion criteria are met (not ROI-only, not non-empirical). Full text appears complete (includes introduction, methods, results, discussion).",
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377447",
+      "timestamp": "2026-04-14T15:27:24.417457",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3193,7 +3265,7 @@
       "confidence": 0.86,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377450",
+      "timestamp": "2026-04-14T15:27:24.417460",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3209,7 +3281,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377453",
+      "timestamp": "2026-04-14T15:27:24.417462",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3225,7 +3297,7 @@
       "confidence": 0.86,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377455",
+      "timestamp": "2026-04-14T15:27:24.417465",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3241,7 +3313,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377460",
+      "timestamp": "2026-04-14T15:27:24.417468",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -3252,7 +3324,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377462",
+      "timestamp": "2026-04-14T15:27:24.417471",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3268,7 +3340,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377466",
+      "timestamp": "2026-04-14T15:27:24.417473",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -3284,7 +3356,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377469",
+      "timestamp": "2026-04-14T15:27:24.417476",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [
         "E6"
@@ -3297,7 +3369,7 @@
       "confidence": 0.78,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377472",
+      "timestamp": "2026-04-14T15:27:24.417479",
       "inclusion_criteria_applied": [
         "I5"
       ],
@@ -3310,8 +3382,22 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377476",
+      "timestamp": "2026-04-14T15:27:24.417482",
       "inclusion_criteria_applied": [
+        "I5"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
+      "study_id": "41062029",
+      "decision": "excluded_fulltext",
+      "reason": "This is an empirical, English-language VBM study of alcohol-related GMV (HCP sample, n=1053) that reports whole-brain voxelwise regression results and provides participant demographics, MRI field strength, and preprocessing details. However, the meta-analysis requires studies to report whole-brain between-group contrasts of substance users versus controls. This manuscript performs correlational/regression analyses of GMV against a drinking-severity principal component within a single sample rather than a case-control (users vs controls) whole-brain group comparison. Therefore it does NOT meet inclusion I2 (between-group substance users vs controls) and I3 (whole-brain between-group contrast). No exclusion criteria (E5,E6) are triggered. Inclusion criteria met: I4 (voxelwise results reported/available), I5 (participant and MRI details reported). Inclusion criteria not met: I2, I3. Full text appears complete (fulltext_incomplete=false).",
+      "confidence": 0.86,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417485",
+      "inclusion_criteria_applied": [
+        "I4",
         "I5"
       ],
       "exclusion_criteria_applied": []
@@ -3323,7 +3409,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377479",
+      "timestamp": "2026-04-14T15:27:24.417488",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3339,7 +3425,7 @@
       "confidence": 0.86,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377482",
+      "timestamp": "2026-04-14T15:27:24.417491",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -3349,13 +3435,138 @@
       ]
     },
     {
+      "study_id": "33621927",
+      "decision": "included_fulltext",
+      "reason": "This is an empirical, English-language structural MRI case-control study of crack-cocaine (a stimulant) users vs. healthy controls. The paper reports whole-brain voxelwise and surface-based between-group contrasts using VBM (FSL-VBM with TFCE) and FreeSurfer vertex-wise analyses, and presents significant GM volume and cortical thickness differences between groups. Participant characteristics (age range, sex: males only), substance use measures, MRI field strength (3.0T), and preprocessing/statistical software (FreeSurfer, FSL) are reported. Voxelwise whole-brain results are described (VBM clusters in putamen and nucleus accumbens) and FreeSurfer vertex-wise cortical thickness results are reported, satisfying the review\u2019s requirement that whole-brain voxelwise contrasts be available. The full text (introduction, methods, results, discussion) is provided, so fulltext_incomplete=false.",
+      "confidence": 0.89,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417493",
+      "inclusion_criteria_applied": [
+        "I2",
+        "I3",
+        "I4",
+        "I5"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
+      "study_id": "34628875",
+      "decision": "excluded_fulltext",
+      "reason": "This is a longitudinal within-subject VBM/resting-state fMRI study of methadone-maintained heroin users (pre- vs post-1-year MMT). The paper is empirical and provides whole-brain voxelwise VBM results and MRI/participant details (satisfies I4 and I5). Critically, it does NOT include a healthy control group or any between-group contrast comparing substance users versus controls, so it does not meet I2 (requires comparisons between substance users and controls) nor I3 (requires at least one whole-brain between-group contrast of users vs controls). No exclusion criteria (E5 or E6) are triggered. Full text appears complete.",
+      "confidence": 0.9,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417496",
+      "inclusion_criteria_applied": [
+        "I4",
+        "I5"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
+      "study_id": "36008158",
+      "decision": "included_fulltext",
+      "reason": "This is an empirical English-language structural MRI study of long-term cannabis users vs controls (Dunedin cohort) reporting whole-brain between-group analyses of gray-matter metrics (global and regional cortical thickness across a 360-region HCP-MMP1.0 atlas, subcortical GMVs) and dose-response contrasts. Participant age/sex and detailed substance-use characteristics are reported; preprocessing/statistical software (FreeSurfer, R) and atlases are named (MRI field strength not present in provided excerpt but this omission alone does not preclude inclusion). The paper therefore meets criteria I2 (empirical GM MRI comparisons), I3 (whole-brain between-group contrasts), I4 (regional/voxelwise results reported in main text/tables), and I5 (key participant and processing details reported). No exclusion criteria (e.g., ROI-only analyses or non-empirical paper) apply. Full text appears complete (introduction, methods, results, discussion).",
+      "confidence": 0.88,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417499",
+      "inclusion_criteria_applied": [
+        "I2",
+        "I3",
+        "I4",
+        "I5"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
+      "study_id": "38600850",
+      "decision": "excluded_fulltext",
+      "reason": "Full text is complete. The study is an empirical, English-language MRI study that reports comparisons of grey matter volumes between cannabis users and non-users (I2 satisfied). It provides participant demographics and MRI details (I5 satisfied). However, it does not report whole-brain voxelwise between-group contrasts or coordinate-based results (no VBM/whole-brain contrast maps or coordinate tables/figures), so it fails to meet the required whole-brain evidence criterion (I3 not met). It also does not provide coordinate tables or voxelwise figures to satisfy I4. Therefore exclusion criterion E5 (studies reporting only ROI/global volumetric results with no qualifying whole-brain results) applies. Conclusion: EXCLUDED because it lacks whole-brain/voxelwise between-group GM contrasts (E5).",
+      "confidence": 0.85,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417502",
+      "inclusion_criteria_applied": [
+        "I2",
+        "I5"
+      ],
+      "exclusion_criteria_applied": [
+        "E5"
+      ]
+    },
+    {
+      "study_id": "31930036",
+      "decision": "included_fulltext",
+      "reason": "This is an empirical, English-language structural MRI study using voxel-based morphometry (VBM) comparing 20 alcohol-dependent patients and 20 matched healthy controls. The paper reports whole-brain between-group VBM contrasts (regional GM reductions reported with peak coordinates/tables and figures) and whole-brain volume comparisons, meeting whole-brain evidence requirements. Participant age/sex, alcohol-use criteria (\u226530 g/day over \u226510 years), MRI field strength (3.0T), and preprocessing/statistical software (SPM5, Matlab) are reported. The full text contains Introduction, Methods, Results, Discussion, and Conclusions, so the full text appears complete. No exclusion criteria are met (not ROI-only, not a review). Therefore the study meets all inclusion criteria for grey matter whole-brain voxelwise analyses in substance (alcohol) users vs controls and should be included.",
+      "confidence": 0.93,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417504",
+      "inclusion_criteria_applied": [
+        "I2",
+        "I3",
+        "I4",
+        "I5"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
+      "study_id": "33012519",
+      "decision": "included_fulltext",
+      "reason": "This is an empirical, English-language structural MRI study assessing gray matter density differences between chronic cocaine self-administering subjects and controls (I2). The paper reports whole-brain, voxelwise group \u00d7 time contrasts and cluster results (I3), and the manuscript indicates voxelwise results are available in figures/supplementary material (I4). Participant/sample details (age/sex), substance use characteristics (dose, duration), MRI field strength (3.0T), and preprocessing/statistical software (FSL, FreeSurfer, AFNI, PALM) are reported (I5). The full text includes introduction, methods, results, and discussion; supplementary material is available online, so full text is complete. No exclusion criteria apply: this is not an ROI-only study (E5) nor a non-empirical paper (E6). Note: subjects are nonhuman primates (rhesus macaques), which is relevant to interpretation, but the inclusion criteria do not restrict to human participants. Therefore the study meets all specified inclusion criteria and should be included as a stimulant-class study contributing whole-brain GM findings.",
+      "confidence": 0.92,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417507",
+      "inclusion_criteria_applied": [
+        "I2",
+        "I3",
+        "I4",
+        "I5"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
       "study_id": "31941972",
       "decision": "included_fulltext",
       "reason": "This is an empirical human structural MRI study comparing 119 alcohol-dependent patients and 97 controls using voxel-based morphometry-derived grey-matter density (GMD) features. The methods describe whole-brain VBM preprocessing and dimensionality reduction to 110 regional averages and the results report unimodal GMD discrimination and feature-importance maps identifying anterior cingulate, inferior frontal regions and ventricles as discriminative \u2014 i.e., whole-brain (regionwise) GM evidence relevant to the review. Participant demographics, MRI field strength (3T), and preprocessing/statistical software (SPM12/VBM8, FreeSurfer, FSL) are reported. The paper is a full-text article with Introduction, Methods, Results, Discussion. It is not ROI-only nor non-empirical. Although no coordinate table for voxelwise group contrasts is provided, qualifying whole-brain regional results are reported in figures/feature-importance maps, which meets I4. Therefore the study meets inclusion criteria for GM volume whole-brain evidence in alcohol users vs controls.",
       "confidence": 0.87,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377486",
+      "timestamp": "2026-04-14T15:27:24.417509",
+      "inclusion_criteria_applied": [
+        "I2",
+        "I3",
+        "I4",
+        "I5"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
+      "study_id": "36528239",
+      "decision": "included_fulltext",
+      "reason": "This is an empirical structural MRI study of nicotine (smoking) users vs controls (UK Biobank, n=33,293) assessing grey matter volume differences across the whole brain. The manuscript reports total and regional GMV comparisons covering 166 atlas-defined ROIs spanning the whole brain, with appropriate preprocessing (CAT12), MRI field strength (3T), participant demographics (age, sex), and statistical analyses including multiple-comparison corrections and supplementary tables of regional results. Although analyses were region-based (AAL3 parcellation) rather than voxelwise SPM coordinates, they provide whole-brain between-group contrasts and regional results in tables/supplementary material, meeting the review\u2019s requirement for whole-brain evidence. The full text includes Introduction, Methods, Results, and Discussion; supplementary tables are referenced for regional findings. Therefore the study qualifies for inclusion as a whole-brain structural MRI comparison of substance (nicotine) users vs controls.",
+      "confidence": 0.88,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417511",
+      "inclusion_criteria_applied": [
+        "I2",
+        "I3",
+        "I5"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
+      "study_id": "33865925",
+      "decision": "included_fulltext",
+      "reason": "This is an empirical human structural MRI study (VBM) comparing smoked cocaine (SC) users and healthy controls, reporting whole-brain voxelwise GM volume analyses and significant clusters associated with reduced empathic concern. MRI field strength (1.5 T), preprocessing (CAT Toolbox/SPM12) and analytic thresholds are reported. Results describe whole-brain VBM findings (clusters in inferior parietal lobule, postcentral gyrus, fusiform) and functional connectivity correlates; figures/supplementary are indicated for anatomical results. The sample is of stimulant users (cocaine), matching the stimulant drug class of interest. Therefore it satisfies the review inclusion criteria for empirical whole-brain GM comparisons between substance users and controls.",
+      "confidence": 0.95,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417514",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3371,7 +3582,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377490",
+      "timestamp": "2026-04-14T15:27:24.417516",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3379,6 +3590,36 @@
         "I5"
       ],
       "exclusion_criteria_applied": []
+    },
+    {
+      "study_id": "31699293",
+      "decision": "excluded_fulltext",
+      "reason": "Although this is an empirical structural MRI study with whole-brain voxelwise analyses reporting GMV associations with alcohol consumption and adequate methodological detail, it does not present a whole-brain between-group contrast of substance users versus controls. The meta-analysis requires studies comparing substance users to controls (I2 and I3). Thus I2 and I3 are not met. The paper does satisfy I4 (voxelwise results reported) and I5 (reports participant demographics and MRI methods). No exclusion criteria (e.g., ROI-only or non-empirical) are met. Full text appears complete.",
+      "confidence": 0.85,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417519",
+      "inclusion_criteria_applied": [
+        "I4",
+        "I5"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
+      "study_id": "31653477",
+      "decision": "excluded_fulltext",
+      "reason": "This is an empirical, English-language structural MRI study of adolescents comparing cerebellar gray/white matter and CSF trajectories between youths who initiated substantial alcohol use and no/low drinkers. It meets inclusion I2 (empirical MRI study assessing GM volume differences) and I5 (reports participant age/sex, MRI field strength, and methodological details). However, the paper performs targeted cerebellar lobular and tissue-segmented regional analyses (SUIT parcellation) rather than reporting at least one whole-brain voxelwise between-group contrast or whole-brain coordinate results. Therefore it does not meet I3 (whole-brain evidence). Because no whole-brain analyses are provided and the study is effectively ROI/parcellation-based, it violates exclusion criterion E5 (ROI-only analyses with no qualifying whole-brain results). Full text appears complete (introduction, methods, results, discussion).",
+      "confidence": 0.9,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417522",
+      "inclusion_criteria_applied": [
+        "I2",
+        "I5"
+      ],
+      "exclusion_criteria_applied": [
+        "E5"
+      ]
     },
     {
       "study_id": "34808037",
@@ -3387,7 +3628,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377493",
+      "timestamp": "2026-04-14T15:27:24.417524",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3397,13 +3638,45 @@
       "exclusion_criteria_applied": []
     },
     {
+      "study_id": "33770525",
+      "decision": "included_fulltext",
+      "reason": "This is an empirical, English-language structural MRI study (voxel-based morphometry and DTI) that reports whole-brain GMV comparisons including a substance-user group (enduring polysubstance users, ePSU) versus controls (CG). The paper presents whole-brain voxelwise analyses (SPM12) at ages 14 and 19 and reports the ePSU vs CG contrast (no significant GMV differences), as well as other whole-brain contrasts (RPSU vs ePSU, RPSU vs CG). MRI field strength (3T), preprocessing/statistical software (SPM12, FSL), and participant demographics/substance-use characteristics are described. Therefore it meets I2, I3, I4, and I5. No exclusion criteria apply (not ROI-only; empirical primary data). Full text appears complete.",
+      "confidence": 0.9,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417526",
+      "inclusion_criteria_applied": [
+        "I2",
+        "I3",
+        "I4",
+        "I5"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
+      "study_id": "36924741",
+      "decision": "excluded_fulltext",
+      "reason": "This is an empirical 7T MRI study of cannabis users vs controls that reports gray matter volume metrics (e.g., FreeSurfer cortical/NAc volumes) and participant demographics, satisfying I2 and I5. However, the paper does not present a whole-brain voxelwise/vertexwise between-group contrast of GM volume (instead it reports volume analyses focused on hubs/nodes of corticocerebellar networks and selected ROIs, and reports one significant ROI result: larger left nucleus accumbens). No whole-brain VBM/vertexwise results, tables of coordinates, or whole-brain statistical maps are reported, so it fails I3 (whole-brain evidence) and I4 (voxelwise results not provided). Because the study reports only region-of-interest analyses with no qualifying whole-brain results, exclusion criterion E5 applies. Therefore the study must be excluded for the meta-analysis objective.",
+      "confidence": 0.85,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417529",
+      "inclusion_criteria_applied": [
+        "I2",
+        "I5"
+      ],
+      "exclusion_criteria_applied": [
+        "E5"
+      ]
+    },
+    {
       "study_id": "31688973",
       "decision": "included_fulltext",
       "reason": "This is an original, empirical human structural MRI (VBM) study comparing alcohol-dependent patients (n=62) to matched healthy controls (n=62). The paper reports whole-brain between-group VBM analyses (exploratory whole-brain FWE-corrected results are described), in addition to ROI analyses; it details participant age/sex, substance-use characteristics (LDH, ADS, OCDS), MRI field strength (3T), and preprocessing/statistical software (SPM12, CAT12). The full text includes introduction, methods, results, and discussion. Therefore it meets inclusion criteria I2, I3, I4, and I5 and does not meet any exclusion criteria (e.g., not ROI-only, not non-empirical).",
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377497",
+      "timestamp": "2026-04-14T15:27:24.417532",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3419,7 +3692,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377500",
+      "timestamp": "2026-04-14T15:27:24.417534",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3429,13 +3702,60 @@
       "exclusion_criteria_applied": []
     },
     {
+      "study_id": "41106213",
+      "decision": "excluded_fulltext",
+      "reason": "This is an empirical, English-language MRI study of alcohol users vs controls that reports cortical thickness and some atlas-based subcortical gray matter volumes, but it does not present any whole\u2011brain voxelwise GM volume (e.g., VBM) between-group contrasts. The analyses are atlas/ROI-based (Desikan\u2013Killiany cortical ROIs, and Neuromorphometrics subcortical ROIs) rather than whole\u2011brain voxelwise GM volume comparisons. Therefore it fails the requirement for whole\u2011brain GM volume evidence (I3) and does not meet the meta-analysis\u2019 primary GM-volume focus (I2). It does report participant age/sex, substance use characteristics, MRI field strength, and preprocessing/statistical software, satisfying I5. Exclusion criterion E5 (ROI-only analyses with no qualifying whole\u2011brain results) applies. Full text appears complete.",
+      "confidence": 0.92,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417537",
+      "inclusion_criteria_applied": [
+        "I5"
+      ],
+      "exclusion_criteria_applied": [
+        "E5"
+      ]
+    },
+    {
+      "study_id": "36621586",
+      "decision": "included_fulltext",
+      "reason": "This is an empirical, English-language structural MRI study that reports voxel-wise VBM (gray matter volume) comparisons between substance users (short-term abstinent heroin and methamphetamine groups) and healthy controls. Whole-brain analyses were performed (one-way ANOVA with post-hoc t-tests) and voxelwise results are reported in supplementary tables (ST4\u2013ST6), satisfying the requirement that qualifying whole-brain results may appear in supplementary materials. Participant demographics, MRI field strength (3T), and preprocessing/statistical software (dpabi, FreeSurfer, FSL) are reported. No exclusion criteria are met (not ROI-only, not non-empirical). Full text appears complete (background, methods, results, discussion). Accordingly, the study meets all inclusion criteria and should be included.",
+      "confidence": 0.95,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417539",
+      "inclusion_criteria_applied": [
+        "I2",
+        "I3",
+        "I4",
+        "I5"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
+      "study_id": "36580868",
+      "decision": "excluded_fulltext",
+      "reason": "This is an empirical English-language structural MRI study of cocaine users vs controls (meets I2) and reports participant demographics, substance-use characteristics, MRI field strength (3.0T), and preprocessing/statistical software (FSL, SIENAX, FIRST) (meets I5). However, the paper does not report any whole-brain voxelwise between-group GM volume contrasts (e.g., VBM or whole-brain voxelwise GM density/volume maps). Analyses are limited to global tissue volumes and subcortical volumetry/vertex-wise surface-shape analyses (subcortical-focused), so it does not provide qualifying whole-brain GM results. Therefore it fails I3 and meets exclusion criterion E5 (only ROI/subcortical-focused analyses with no qualifying whole-brain results). Inclusion criteria met: I2, I5. Inclusion criteria not met: I3 (whole-brain evidence). Exclusion criteria met: E5. Full text appears complete.",
+      "confidence": 0.92,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417542",
+      "inclusion_criteria_applied": [
+        "I2",
+        "I5"
+      ],
+      "exclusion_criteria_applied": [
+        "E5"
+      ]
+    },
+    {
       "study_id": "41851085",
       "decision": "included_fulltext",
       "reason": "This is an empirical, English-language structural MRI VBM study comparing methamphetamine users (stimulant class) to matched healthy controls. The paper reports whole-brain, voxel-wise between-group GMV contrasts (SPM12/DARTEL) with cluster-level FWE correction identifying reduced left thalamic GMV in MUDs; statistical thresholds, MRI field strength (3.0T), participant age/sex (male-only sample), substance-use characteristics, and preprocessing/statistical software are all reported. The full text includes introduction, methods, results, and discussion. No exclusion criteria (e.g., ROI-only or non-empirical paper) are met. Therefore it satisfies the review inclusion criteria for whole-brain GM structural comparisons between substance users and controls.",
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377503",
+      "timestamp": "2026-04-14T15:27:24.417545",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3451,7 +3771,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377506",
+      "timestamp": "2026-04-14T15:27:24.417547",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3467,7 +3787,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377509",
+      "timestamp": "2026-04-14T15:27:24.417550",
       "inclusion_criteria_applied": [
         "I2",
         "I4",
@@ -3478,13 +3798,29 @@
       ]
     },
     {
+      "study_id": "34364191",
+      "decision": "included_fulltext",
+      "reason": "This is an empirical human structural MRI study (voxel-based morphometry) comparing grey matter density/volume between cocaine user groups (smoked and insufflated) and matched healthy controls. The authors performed whole-brain voxelwise t-tests (cluster p<.05, extent threshold=50 voxels) and report significant caudate GMd differences associated with behavior; results and coordinates are referenced in main/supplementary materials (tables/figures). Participant demographics, MRI field strength (1.5 T), and preprocessing/statistical software (CAT12, DPARSF, SPM) are reported. Therefore it satisfies inclusion criteria I2, I3, I4 and I5. No exclusion criteria are met (not ROI-only; not non-empirical). Full text appears complete (methods, results, discussion present).",
+      "confidence": 0.95,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417552",
+      "inclusion_criteria_applied": [
+        "I2",
+        "I3",
+        "I4",
+        "I5"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
       "study_id": "41389382",
       "decision": "excluded_fulltext",
       "reason": "This is an empirical longitudinal structural MRI study of adolescent/young adult alcohol binge drinking that reports regional (Desikan-Killiany) gray- and white-matter ROI volume analyses and demographic/methodological details. Inclusion met: I2 (empirical MRI study assessing GM volume) and I5 (reports participant age/sex, substance use characteristics, MRI details). Exclusion met: E5 (study reports ROI-based analyses across predefined cortical/parcellation regions without a qualifying whole-brain voxelwise between-group contrast of substance users vs controls). Inclusion not met: I3 (no clear whole-brain between-group contrast comparing substance users vs controls is reported). Therefore the study does not satisfy the review requirement for whole-brain between-group GM contrasts and is excluded.",
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377513",
+      "timestamp": "2026-04-14T15:27:24.417555",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -3494,14 +3830,60 @@
       ]
     },
     {
+      "study_id": "32717665",
+      "decision": "included_fulltext",
+      "reason": "This is an empirical, English-language structural MRI study comparing heroin-dependent (HD) individuals to healthy controls on gray matter volume. The paper uses whole-brain atlas-based segmentation (multiple parcellation levels) and reports between-group contrasts (significant regional GM volume decreases and increases) and correlations with duration of heroin use with multiple-comparison corrections. Participant demographics, substance use history, MRI field strength (3T), and preprocessing/statistical methods (LDDMM, MALF, normalization, software MRICloud, statistics with Bonferroni/FDR) are provided. Thus it meets inclusion criteria I2 (empirical MRI GM comparison), I3 (whole-brain evidence via atlas-based whole-brain parcellation and between-group contrasts), I4 (results clearly reported in main text/tables/figures), and I5 (participant/MRI/method details reported). No exclusion criteria apply (not ROI-only, not non-empirical). Full text appears complete (includes Introduction, Methods, Results, Discussion).",
+      "confidence": 0.95,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417557",
+      "inclusion_criteria_applied": [
+        "I2",
+        "I3",
+        "I4",
+        "I5"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
+      "study_id": "38753392",
+      "decision": "excluded_fulltext",
+      "reason": "Although this is an empirical, English-language structural MRI study reporting whole-brain (vertex-wise) cortical analyses and detailed participant/substance/MRI information, it does not report between-group contrasts of substance users versus controls. Instead, it examines continuous associations between adolescent substance-use trajectories and gray matter volume in a community sample. The review requires studies to report whole-brain between-group comparisons of substance users vs controls (I2 and I3). Therefore this study does not meet the key inclusion criteria and must be excluded.",
+      "confidence": 0.9,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417560",
+      "inclusion_criteria_applied": [
+        "I4",
+        "I5"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
       "study_id": "34526885",
       "decision": "excluded_fulltext",
       "reason": "Although this is an empirical, English-language structural MRI study of methamphetamine (a stimulant) users vs controls that reports whole-brain surface-based group contrasts and provides participant/substance/MRI/software details, it does not assess grey matter volume/density/concentration as specified in inclusion criterion I2. The study uses surface-based cortical thickness measures (FreeSurfer) rather than voxelwise GM volume (e.g., VBM) measures required by I2. Therefore it fails to meet I2 and must be excluded. It does meet I3 (whole-brain between-group contrast), I4 (results reported in main text/figures), and I5 (reports participant age/use characteristics, MRI field strength, preprocessing/statistical software). No exclusion criteria (E5, E6) are triggered. Full text appears complete.",
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377517",
+      "timestamp": "2026-04-14T15:27:24.417563",
       "inclusion_criteria_applied": [
+        "I3",
+        "I4",
+        "I5"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
+      "study_id": "33278513",
+      "decision": "included_fulltext",
+      "reason": "This is an empirical, English-language MRI study of alcohol users vs non-drinkers in a community sample of Japanese men that reports whole-brain voxel-based morphometry (VBM) analyses. The paper includes unstratified voxelwise (continuous alcohol vs GMV) and stratified voxelwise contrasts (very heavy drinkers vs non-drinkers) with permutation testing and threshold-free cluster enhancement (FWER-corrected whole-brain results). Methods report participant age/sex, alcohol consumption amounts, MRI field strength (1.5 T), and preprocessing/statistical software (BAAD, CAT12, LST, TFCE). Results are presented as voxelwise statistical maps with supplementary material. Thus all required inclusion criteria are met (I2, I3, I4, I5) and no exclusion criteria apply. Full text appears complete (introduction, methods, results, discussion).",
+      "confidence": 0.9,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417565",
+      "inclusion_criteria_applied": [
+        "I2",
         "I3",
         "I4",
         "I5"
@@ -3515,7 +3897,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377520",
+      "timestamp": "2026-04-14T15:27:24.417567",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3531,10 +3913,40 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377523",
+      "timestamp": "2026-04-14T15:27:24.417570",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
+        "I4",
+        "I5"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
+      "study_id": "31805488",
+      "decision": "included_fulltext",
+      "reason": "This is an empirical, English-language structural MRI study using voxel-based morphometry to compare gray matter volume between substance users (cocaine; stimulant class) and matched controls. The paper reports whole-brain, voxelwise between-group contrasts (permutation testing with TFCE) showing widespread GMV reductions in users, and then voxelwise correlations with impulsivity measures. Participant demographics, substance-use characteristics, MRI field strength (3T), and preprocessing/statistical software (FSL-VBM, TFCE) are reported. The full text includes introduction, methods, results, and discussion. No exclusion criteria apply (not ROI-only, not non-empirical). Therefore it meets all inclusion criteria relevant to the meta-analysis objective.",
+      "confidence": 0.9,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417572",
+      "inclusion_criteria_applied": [
+        "I2",
+        "I3",
+        "I4",
+        "I5"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
+      "study_id": "34435833",
+      "decision": "excluded_fulltext",
+      "reason": "This is an empirical, English-language structural MRI study using whole-brain VBM and reports voxelwise coordinates and participant demographics/scanner/preprocessing (satisfying I4 and I5). However, it does not include a non-user healthy control group or any contrasts of substance users versus controls; all reported between-group contrasts are among different user groups (alcohol-only vs alcohol+tobacco, alcohol+cannabis, tri-users). Therefore it fails key inclusion criteria I2 (must compare substance users to controls) and I3 (must report at least one whole-brain between-group contrast of substance users vs controls). No exclusion criteria from the review (e.g., ROI-only or non-empirical) are met. Full text appears complete (introduction, methods, results, discussion present).",
+      "confidence": 0.92,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417575",
+      "inclusion_criteria_applied": [
         "I4",
         "I5"
       ],
@@ -3547,7 +3959,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377526",
+      "timestamp": "2026-04-14T15:27:24.417577",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3565,527 +3977,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377529",
-      "inclusion_criteria_applied": [
-        "I2",
-        "I3",
-        "I4",
-        "I5"
-      ],
-      "exclusion_criteria_applied": []
-    },
-    {
-      "study_id": "33947835",
-      "decision": "excluded_fulltext",
-      "reason": "This is an empirical English-language MRI study of alcohol users that reports NAcc gray matter volume differences using FSL-FIRST subcortical segmentation (ROI-based volumetry) and presents multimodal structural and functional results. However, the paper does not report any whole-brain voxelwise/whole-brain GM between-group contrasts (e.g., VBM or other whole-brain GM analyses). Therefore it meets exclusion criterion E5 (ROI-only analyses with no qualifying whole-brain results) and fails inclusion criterion I3 (whole-brain evidence). It does satisfy I2 (empirical MRI GM volume comparison between substance users and controls) and I5 (reports participant demographics, MRI field strength, and preprocessing/software details). Full text appears complete.",
-      "confidence": 0.9,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377532",
-      "inclusion_criteria_applied": [
-        "I2",
-        "I5"
-      ],
-      "exclusion_criteria_applied": [
-        "E5"
-      ]
-    },
-    {
-      "study_id": "41877877",
-      "decision": "excluded_fulltext",
-      "reason": "This is an empirical, English-language structural MRI VBM study of alcohol-dependent patients, but it does not include a healthy control group or any whole-brain between-group contrasts of substance users versus controls. Instead, it reports longitudinal (pre\u2013post) within-subject changes and between-treatment (FIR vs routine withdrawal) comparisons among alcohol-dependent participants. Therefore it fails the core inclusion criteria requiring (I2) MRI comparisons between substance users and controls and (I3) at least one whole-brain between-group substance users vs controls contrast. The study does report participant age/sex (male, 18\u201365), MRI field strength (3.0 T), and preprocessing/statistical software (CAT12/SPM12), satisfying I5. Full text appears complete (introduction, methods, results, discussion).",
-      "confidence": 0.92,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377536",
-      "inclusion_criteria_applied": [
-        "I5"
-      ],
-      "exclusion_criteria_applied": []
-    },
-    {
-      "study_id": "39300763",
-      "decision": "included_fulltext",
-      "reason": "This is an empirical, English-language structural MRI study of adults with alcohol use disorder vs healthy controls assessing grey matter measures (GMV and cortical thickness) using voxel-wise (whole-brain) and surface-based analyses. MRI field strength (3T), preprocessing/statistical software (SPM12/CAT12, MATLAB), participant age range, sex, substance-use characteristics, and analysis details are reported. The authors performed whole-brain voxel-wise contrasts for GMV (although no significant GMV differences were found) and report voxel-wise whole-brain CT results with coordinates and cluster statistics. Thus it meets inclusion criteria I2, I3, I4 and I5. It does not meet any exclusion criteria (not ROI-only; it is empirical human MRI). Full text appears complete.",
-      "confidence": 0.87,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377540",
-      "inclusion_criteria_applied": [
-        "I2",
-        "I3",
-        "I4",
-        "I5"
-      ],
-      "exclusion_criteria_applied": []
-    },
-    {
-      "study_id": "35968362",
-      "decision": "excluded_fulltext",
-      "reason": "This study is excluded because it does not report whole-brain GM comparisons between substance users and non-using controls. Although it is an empirical, English-language MRI study using GMV measures and whole-brain multimodal spatial maps, the between-group contrasts are current smokers versus long-term ex-smokers (both groups with lifetime tobacco exposure) rather than substance users versus non-user controls. Thus inclusion criteria I2 (GM volume differences between substance users and controls) and I3 (whole-brain between-group contrast of substance users vs controls) are not met. The full text is complete and reports whole-brain spatial component maps (satisfying I4). No exclusion criteria (E5 ROI-only or E6 non-empirical) apply.",
-      "confidence": 0.88,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377544",
-      "inclusion_criteria_applied": [
-        "I4"
-      ],
-      "exclusion_criteria_applied": []
-    },
-    {
-      "study_id": "40072344",
-      "decision": "included_fulltext",
-      "reason": "This is an empirical, English-language structural MRI study comparing 40 male cocaine use disorder patients to 40 healthy controls using whole-brain source-based morphometry (SBM) and VBM-derived GM measures. The paper reports whole-brain component maps (s-ICs), between-group contrasts on component loading coefficients (s-IC2 and s-IC17) with cluster coordinates and volumes, and extracted GMv results, satisfying voxelwise/whole-brain reporting. Participant demographics, substance-use clinical measures, MRI field strength (1.5T), and preprocessing/statistical software (CAT12/SPM12, GIFT/ICA, SPSS) are described. No exclusion criteria apply (not ROI-only, empirical human data). Full text includes introduction, methods, results, and discussion; thus fulltext_incomplete is false. Inclusion criteria met: I2 (empirical MRI study of GM differences), I3 (whole-brain between-group evidence), I4 (results provided in figures/tables/coordinates), I5 (participant and MRI/method details reported).",
-      "confidence": 0.95,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377548",
-      "inclusion_criteria_applied": [
-        "I2",
-        "I3",
-        "I4",
-        "I5"
-      ],
-      "exclusion_criteria_applied": []
-    },
-    {
-      "study_id": "31820807",
-      "decision": "included_fulltext",
-      "reason": "This is an empirical, English-language structural MRI (VBM) study comparing opioid-dependent patients on opioid maintenance treatment (n=19) with healthy controls (n=20). The paper reports whole-brain, voxelwise two-sample t-test contrasts with cluster-wise family-wise error correction and provides anatomical results (significant clusters in bilateral anterior insula and inferior frontal gyri) in the main text/figures. Participant demographics, substance-use characteristics, MRI field strength (3T), and preprocessing/statistical software (SPM12, CAT12, DARTEL) are reported. The study directly addresses the meta-analysis objective for the opioid drug class and meets I2, I3, I4, and I5. Full text appears complete (introduction, methods, results, discussion).",
-      "confidence": 0.95,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377552",
-      "inclusion_criteria_applied": [
-        "I2",
-        "I3",
-        "I4",
-        "I5"
-      ],
-      "exclusion_criteria_applied": []
-    },
-    {
-      "study_id": "40739321",
-      "decision": "excluded_fulltext",
-      "reason": "This is an empirical structural MRI study that compares fibromyalgia patients who use opioids (FMO) to non-opioid FM patients and pain-free controls, and therefore assesses GM volume differences involving opioid users (I2 met). The report provides participant demographics, MRI field strength, and preprocessing/statistical software details (I5 met). However, the MRI analysis is restricted to the cervical spinal cord (C5\u2013C7) rather than a whole-brain voxelwise/whole-brain between-group contrast; results are region-restricted (spinal cord horn GMV) and no qualifying whole-brain GMV contrasts are reported. Thus it meets exclusion criterion E5 (ROI/region-limited analysis with no whole-brain results) and fails to meet inclusion criterion I3 (whole-brain evidence). Full text appears complete. Therefore the study must be excluded from the meta-analysis.",
-      "confidence": 0.85,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377556",
-      "inclusion_criteria_applied": [
-        "I2",
-        "I5"
-      ],
-      "exclusion_criteria_applied": [
-        "E5"
-      ]
-    },
-    {
-      "study_id": "41764177",
-      "decision": "excluded_fulltext",
-      "reason": "Although this is an empirical, English-language structural MRI study with whole-brain volumetric analyses and adequate reporting of participant age/sex, MRI field strength, and preprocessing (FreeSurfer v6), it does NOT present a between-group whole-brain GM comparison of substance users versus controls. Controls were used for peripheral biomarker and symptom comparisons only and do not appear to have MRI data included for cross-sectional GM contrasts. Therefore the study fails key inclusion criteria I2 (study does not provide between-group GM volume comparisons against controls) and I3 (no whole-brain between-group contrast of substance users vs controls reported). I5 (reporting of demographics/MRI details) is satisfied. Full text appears complete.",
-      "confidence": 0.85,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377560",
-      "inclusion_criteria_applied": [
-        "I5"
-      ],
-      "exclusion_criteria_applied": []
-    },
-    {
-      "study_id": "38519565",
-      "decision": "included_fulltext",
-      "reason": "This is an empirical, English-language structural MRI study comparing smokers (nicotine users) and healthy non-smokers using voxel-based morphometry (VBM). The paper reports whole-brain, voxelwise between-group contrasts with MNI coordinates, cluster extents, and FWE-corrected p-values (e.g., decreased GM in left superior/middle frontal gyrus and right orbitofrontal cortex). Participant demographics (age, male-only), substance-use measures (CO, daily cigarettes, FTND), MRI field strength (3T), and preprocessing/statistical software (CONN/SPM/CAT12) are provided. The full text includes Introduction, Methods, Results, Discussion, and Conclusion. Therefore it meets all required inclusion criteria for structural GM differences between substance users (nicotine) and controls and does not meet any exclusion criteria (not ROI-only; empirical human data).",
-      "confidence": 0.95,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377562",
-      "inclusion_criteria_applied": [
-        "I2",
-        "I3",
-        "I4",
-        "I5"
-      ],
-      "exclusion_criteria_applied": []
-    },
-    {
-      "study_id": "35250540",
-      "decision": "included_fulltext",
-      "reason": "This is an empirical human MRI study of alcohol users vs controls that includes voxel-based morphometry (VBM) whole-brain analyses comparing GM across groups (HC, AUD-NCI, ARCI). The manuscript reports methods for structural MRI acquisition (3.0T), preprocessing (CAT12 VBM), and whole-brain statistical testing (FWE-corrected threshold) and provides participant age/sex and substance-use characteristics. Although the VBM results were null (no significant GM differences) and no coordinate tables of significant foci are reported, the study nevertheless performed whole-brain GM comparisons and meets the review inclusion requirements for structural whole-brain GM studies of a substance class (alcohol). Note: because results are null and no coordinates are provided, this study may not contribute coordinate foci to a coordinate-based meta-analysis, but it still satisfies inclusion criteria I2 and I3 and reports the preferred methodological/participant details (I5).",
-      "confidence": 0.78,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377565",
-      "inclusion_criteria_applied": [
-        "I2",
-        "I3",
-        "I5"
-      ],
-      "exclusion_criteria_applied": []
-    },
-    {
-      "study_id": "37323647",
-      "decision": "included_fulltext",
-      "reason": "This is an empirical human structural MRI study comparing gray matter volume between alcohol users (binge drinkers) and non-binge moderate controls. The manuscript reports whole-brain voxelwise between-group GMV contrasts (BD vs MD) with correction for multiple comparisons and cluster reporting, and provides region clusters/figures/tables. Participant demographics (age, sex), substance-use characterization, MRI field strength (3T Siemens Prisma), and preprocessing/statistical software (SPM12/DARTEL, AFNI, Bioimage Suite) are reported. The full text includes Introduction, Methods, Results, and Discussion. Thus it meets I2, I3, I4, and I5. It is not an ROI-only paper nor a non-empirical article, so no exclusion criteria are met. Full text appears complete.",
-      "confidence": 0.95,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377568",
-      "inclusion_criteria_applied": [
-        "I2",
-        "I3",
-        "I4",
-        "I5"
-      ],
-      "exclusion_criteria_applied": []
-    },
-    {
-      "study_id": "38660010",
-      "decision": "excluded_fulltext",
-      "reason": "This study is excluded because the population does not address the review objective: participants are children with prenatal alcohol exposure (PAE), not substance users themselves. Therefore inclusion criterion I2 (empirical MRI studies assessing GM differences between substance users and controls) is not met. The paper does meet I3 (it reports whole-brain regional gray-matter analyses across 116 regions comparing PAE vs unexposed) and I5 (reports participant age/sex, MRI field strength, and processing details). No exclusion criteria E5 or E6 apply. Full text appears complete.",
-      "confidence": 0.85,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377571",
-      "inclusion_criteria_applied": [
-        "I3",
-        "I5"
-      ],
-      "exclusion_criteria_applied": []
-    },
-    {
-      "study_id": "35115969",
-      "decision": "included_fulltext",
-      "reason": "This is an empirical, English-language human MRI study using T1-weighted data that reports whole-brain vertex-wise cortical thickness and voxel-wise VBM comparisons between substance user groups (AUD, OUD, PSU) and healthy controls. The paper provides whole-brain between-group contrasts (controls vs AUD/OUD/PSU and SUD subgroup comparisons) with voxel/vertex-wise results (TFCE, FWE-corrected and also uncorrected thresholds) and details participant demographics, MRI field strength (3T), and preprocessing/statistical software (CAT12, SPM12). It is not an ROI-only study nor a review. Full text (introduction, methods, results, discussion) is present. Therefore it meets inclusion criteria I2, I3, I4, and I5 and no exclusion criteria apply.",
-      "confidence": 0.95,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377573",
-      "inclusion_criteria_applied": [
-        "I2",
-        "I3",
-        "I4",
-        "I5"
-      ],
-      "exclusion_criteria_applied": []
-    },
-    {
-      "study_id": "40718763",
-      "decision": "included_fulltext",
-      "reason": "This is an empirical English-language structural MRI study comparing smokers (n=3,292) vs non-smokers (n=6,842) that reports differences in grey matter (global GM, lobar regions, and AD-relevant regions including hippocampus and precuneus) derived from whole-brain automated segmentation (FastSurfer analysis of 96 regional volumes and ICV-adjusted comparisons). The paper provides participant demographics (age range, sex), smoking characteristics (pack-years), MRI field strength (1.5 T), and preprocessing/statistical software (FastSurfer, nnU-Net, sklearn/SciPy). Full text includes Introduction, Methods, Results, and Discussion, and presents whole-brain between-group contrasts (ICV-adjusted volumetric comparisons and regression analyses). Therefore it satisfies I2 and I3 and meets I5 (reporting key methodological/participant details). No exclusion criteria (E5, E6) apply. Full text appears complete.",
-      "confidence": 0.86,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377576",
-      "inclusion_criteria_applied": [
-        "I2",
-        "I3",
-        "I5"
-      ],
-      "exclusion_criteria_applied": []
-    },
-    {
-      "study_id": "36873223",
-      "decision": "included_fulltext",
-      "reason": "This is an empirical, English-language structural MRI study of alcohol-dependent patients vs. healthy controls using whole-brain voxel-based morphometry (VBM). The paper reports whole-brain between-group GM contrasts (cross-sectional and longitudinal), cluster- and voxel-level results (FWE-corrected and uncorrected thresholds) with anatomical localization and individual plots; preprocessing/statistics are described (Cat12, SPM12), MRI field strength (1.5T) and participant demographics (age, sex: all male) are reported. It is not ROI-only and is original human MRI data. Full text (Introduction, Methods, Results, Discussion) is provided. Therefore it satisfies inclusion criteria I2, I3, I4, and I5 and violates no exclusion criteria.",
-      "confidence": 0.88,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377578",
-      "inclusion_criteria_applied": [
-        "I2",
-        "I3",
-        "I4",
-        "I5"
-      ],
-      "exclusion_criteria_applied": []
-    },
-    {
-      "study_id": "33543128",
-      "decision": "included_fulltext",
-      "reason": "This is an empirical human structural MRI study of alcohol users vs healthy controls that reports whole-brain voxelwise GM volume analyses (voxel-based ANCOVAs using SPM12 on 3T T1-weighted images) and presents between-group contrasts (AUD vs HC and AUD-subgroup contrasts) with cluster-level correction. Participant demographics and MRI acquisition/preprocessing/statistical software are reported. Results (significant GM volume differences) are reported in the main text/figures and therefore satisfy whole-brain coordinate/voxelwise reporting. Thus the study meets the meta-analysis inclusion criteria for alcohol-related GM comparisons.",
-      "confidence": 0.95,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:42.377581",
-      "inclusion_criteria_applied": [
-        "I2",
-        "I3",
-        "I4",
-        "I5"
-      ],
-      "exclusion_criteria_applied": []
-    },
-    {
-      "study_id": "12498754",
-      "decision": "fulltext_incomplete",
-      "reason": "Full text is incomplete (only title/abstract provided). Primary reasons for exclusion: (1) full text incomplete, preventing verification of whole-brain voxelwise/vertexwise between-group GM contrasts and necessary methods/details; (2) population mismatch for the review objective: participants have heavy prenatal alcohol exposure (in utero exposure) rather than being substance users themselves, so the study does not clearly compare current substance users vs controls. Exclusion IDs met: none (E5 and E6 do not apply). Inclusion IDs met: none. Inclusion IDs not met: I2 (does not clearly compare substance users vs controls \u2014 prenatal exposure \u2260 substance-using participants), I3 (cannot confirm a qualifying whole-brain between-group GM volume contrast from the incomplete text), I4 (uncertain availability of coordinate-based whole-brain results in accessible full text). I5: reporting of some participant info in abstract is limited; full methods unavailable. Given incomplete full text and population mismatch, exclude pending retrieval of full article.",
-      "confidence": 0.75,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:43:16.505847",
-      "inclusion_criteria_applied": [],
-      "exclusion_criteria_applied": []
-    },
-    {
-      "study_id": "41062029",
-      "decision": "excluded_fulltext",
-      "reason": "This is an empirical, English-language VBM study of alcohol-related GMV (HCP sample, n=1053) that reports whole-brain voxelwise regression results and provides participant demographics, MRI field strength, and preprocessing details. However, the meta-analysis requires studies to report whole-brain between-group contrasts of substance users versus controls. This manuscript performs correlational/regression analyses of GMV against a drinking-severity principal component within a single sample rather than a case-control (users vs controls) whole-brain group comparison. Therefore it does NOT meet inclusion I2 (between-group substance users vs controls) and I3 (whole-brain between-group contrast). No exclusion criteria (E5,E6) are triggered. Inclusion criteria met: I4 (voxelwise results reported/available), I5 (participant and MRI details reported). Inclusion criteria not met: I2, I3. Full text appears complete (fulltext_incomplete=false).",
-      "confidence": 0.86,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:43:02.914664",
-      "inclusion_criteria_applied": [
-        "I4",
-        "I5"
-      ],
-      "exclusion_criteria_applied": []
-    },
-    {
-      "study_id": "33621927",
-      "decision": "included_fulltext",
-      "reason": "This is an empirical, English-language structural MRI case-control study of crack-cocaine (a stimulant) users vs. healthy controls. The paper reports whole-brain voxelwise and surface-based between-group contrasts using VBM (FSL-VBM with TFCE) and FreeSurfer vertex-wise analyses, and presents significant GM volume and cortical thickness differences between groups. Participant characteristics (age range, sex: males only), substance use measures, MRI field strength (3.0T), and preprocessing/statistical software (FreeSurfer, FSL) are reported. Voxelwise whole-brain results are described (VBM clusters in putamen and nucleus accumbens) and FreeSurfer vertex-wise cortical thickness results are reported, satisfying the review\u2019s requirement that whole-brain voxelwise contrasts be available. The full text (introduction, methods, results, discussion) is provided, so fulltext_incomplete=false.",
-      "confidence": 0.89,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:54.025299",
-      "inclusion_criteria_applied": [
-        "I2",
-        "I3",
-        "I4",
-        "I5"
-      ],
-      "exclusion_criteria_applied": []
-    },
-    {
-      "study_id": "36008158",
-      "decision": "included_fulltext",
-      "reason": "This is an empirical English-language structural MRI study of long-term cannabis users vs controls (Dunedin cohort) reporting whole-brain between-group analyses of gray-matter metrics (global and regional cortical thickness across a 360-region HCP-MMP1.0 atlas, subcortical GMVs) and dose-response contrasts. Participant age/sex and detailed substance-use characteristics are reported; preprocessing/statistical software (FreeSurfer, R) and atlases are named (MRI field strength not present in provided excerpt but this omission alone does not preclude inclusion). The paper therefore meets criteria I2 (empirical GM MRI comparisons), I3 (whole-brain between-group contrasts), I4 (regional/voxelwise results reported in main text/tables), and I5 (key participant and processing details reported). No exclusion criteria (e.g., ROI-only analyses or non-empirical paper) apply. Full text appears complete (introduction, methods, results, discussion).",
-      "confidence": 0.88,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:43:01.849098",
-      "inclusion_criteria_applied": [
-        "I2",
-        "I3",
-        "I4",
-        "I5"
-      ],
-      "exclusion_criteria_applied": []
-    },
-    {
-      "study_id": "33012519",
-      "decision": "included_fulltext",
-      "reason": "This is an empirical, English-language structural MRI study assessing gray matter density differences between chronic cocaine self-administering subjects and controls (I2). The paper reports whole-brain, voxelwise group \u00d7 time contrasts and cluster results (I3), and the manuscript indicates voxelwise results are available in figures/supplementary material (I4). Participant/sample details (age/sex), substance use characteristics (dose, duration), MRI field strength (3.0T), and preprocessing/statistical software (FSL, FreeSurfer, AFNI, PALM) are reported (I5). The full text includes introduction, methods, results, and discussion; supplementary material is available online, so full text is complete. No exclusion criteria apply: this is not an ROI-only study (E5) nor a non-empirical paper (E6). Note: subjects are nonhuman primates (rhesus macaques), which is relevant to interpretation, but the inclusion criteria do not restrict to human participants. Therefore the study meets all specified inclusion criteria and should be included as a stimulant-class study contributing whole-brain GM findings.",
-      "confidence": 0.92,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:43:04.612203",
-      "inclusion_criteria_applied": [
-        "I2",
-        "I3",
-        "I4",
-        "I5"
-      ],
-      "exclusion_criteria_applied": []
-    },
-    {
-      "study_id": "36528239",
-      "decision": "included_fulltext",
-      "reason": "This is an empirical structural MRI study of nicotine (smoking) users vs controls (UK Biobank, n=33,293) assessing grey matter volume differences across the whole brain. The manuscript reports total and regional GMV comparisons covering 166 atlas-defined ROIs spanning the whole brain, with appropriate preprocessing (CAT12), MRI field strength (3T), participant demographics (age, sex), and statistical analyses including multiple-comparison corrections and supplementary tables of regional results. Although analyses were region-based (AAL3 parcellation) rather than voxelwise SPM coordinates, they provide whole-brain between-group contrasts and regional results in tables/supplementary material, meeting the review\u2019s requirement for whole-brain evidence. The full text includes Introduction, Methods, Results, and Discussion; supplementary tables are referenced for regional findings. Therefore the study qualifies for inclusion as a whole-brain structural MRI comparison of substance (nicotine) users vs controls.",
-      "confidence": 0.88,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:43:02.158371",
-      "inclusion_criteria_applied": [
-        "I2",
-        "I3",
-        "I5"
-      ],
-      "exclusion_criteria_applied": []
-    },
-    {
-      "study_id": "33865925",
-      "decision": "included_fulltext",
-      "reason": "This is an empirical human structural MRI study (VBM) comparing smoked cocaine (SC) users and healthy controls, reporting whole-brain voxelwise GM volume analyses and significant clusters associated with reduced empathic concern. MRI field strength (1.5 T), preprocessing (CAT Toolbox/SPM12) and analytic thresholds are reported. Results describe whole-brain VBM findings (clusters in inferior parietal lobule, postcentral gyrus, fusiform) and functional connectivity correlates; figures/supplementary are indicated for anatomical results. The sample is of stimulant users (cocaine), matching the stimulant drug class of interest. Therefore it satisfies the review inclusion criteria for empirical whole-brain GM comparisons between substance users and controls.",
-      "confidence": 0.95,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:43:00.234654",
-      "inclusion_criteria_applied": [
-        "I2",
-        "I3",
-        "I4",
-        "I5"
-      ],
-      "exclusion_criteria_applied": []
-    },
-    {
-      "study_id": "31699293",
-      "decision": "excluded_fulltext",
-      "reason": "Although this is an empirical structural MRI study with whole-brain voxelwise analyses reporting GMV associations with alcohol consumption and adequate methodological detail, it does not present a whole-brain between-group contrast of substance users versus controls. The meta-analysis requires studies comparing substance users to controls (I2 and I3). Thus I2 and I3 are not met. The paper does satisfy I4 (voxelwise results reported) and I5 (reports participant demographics and MRI methods). No exclusion criteria (e.g., ROI-only or non-empirical) are met. Full text appears complete.",
-      "confidence": 0.85,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:43:01.589132",
-      "inclusion_criteria_applied": [
-        "I4",
-        "I5"
-      ],
-      "exclusion_criteria_applied": []
-    },
-    {
-      "study_id": "31653477",
-      "decision": "excluded_fulltext",
-      "reason": "This is an empirical, English-language structural MRI study of adolescents comparing cerebellar gray/white matter and CSF trajectories between youths who initiated substantial alcohol use and no/low drinkers. It meets inclusion I2 (empirical MRI study assessing GM volume differences) and I5 (reports participant age/sex, MRI field strength, and methodological details). However, the paper performs targeted cerebellar lobular and tissue-segmented regional analyses (SUIT parcellation) rather than reporting at least one whole-brain voxelwise between-group contrast or whole-brain coordinate results. Therefore it does not meet I3 (whole-brain evidence). Because no whole-brain analyses are provided and the study is effectively ROI/parcellation-based, it violates exclusion criterion E5 (ROI-only analyses with no qualifying whole-brain results). Full text appears complete (introduction, methods, results, discussion).",
-      "confidence": 0.9,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:55.288517",
-      "inclusion_criteria_applied": [
-        "I2",
-        "I5"
-      ],
-      "exclusion_criteria_applied": [
-        "E5"
-      ]
-    },
-    {
-      "study_id": "33770525",
-      "decision": "included_fulltext",
-      "reason": "This is an empirical, English-language structural MRI study (voxel-based morphometry and DTI) that reports whole-brain GMV comparisons including a substance-user group (enduring polysubstance users, ePSU) versus controls (CG). The paper presents whole-brain voxelwise analyses (SPM12) at ages 14 and 19 and reports the ePSU vs CG contrast (no significant GMV differences), as well as other whole-brain contrasts (RPSU vs ePSU, RPSU vs CG). MRI field strength (3T), preprocessing/statistical software (SPM12, FSL), and participant demographics/substance-use characteristics are described. Therefore it meets I2, I3, I4, and I5. No exclusion criteria apply (not ROI-only; empirical primary data). Full text appears complete.",
-      "confidence": 0.9,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:43:00.519374",
-      "inclusion_criteria_applied": [
-        "I2",
-        "I3",
-        "I4",
-        "I5"
-      ],
-      "exclusion_criteria_applied": []
-    },
-    {
-      "study_id": "36924741",
-      "decision": "excluded_fulltext",
-      "reason": "This is an empirical 7T MRI study of cannabis users vs controls that reports gray matter volume metrics (e.g., FreeSurfer cortical/NAc volumes) and participant demographics, satisfying I2 and I5. However, the paper does not present a whole-brain voxelwise/vertexwise between-group contrast of GM volume (instead it reports volume analyses focused on hubs/nodes of corticocerebellar networks and selected ROIs, and reports one significant ROI result: larger left nucleus accumbens). No whole-brain VBM/vertexwise results, tables of coordinates, or whole-brain statistical maps are reported, so it fails I3 (whole-brain evidence) and I4 (voxelwise results not provided). Because the study reports only region-of-interest analyses with no qualifying whole-brain results, exclusion criterion E5 applies. Therefore the study must be excluded for the meta-analysis objective.",
-      "confidence": 0.85,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:43:03.048706",
-      "inclusion_criteria_applied": [
-        "I2",
-        "I5"
-      ],
-      "exclusion_criteria_applied": [
-        "E5"
-      ]
-    },
-    {
-      "study_id": "41106213",
-      "decision": "excluded_fulltext",
-      "reason": "This is an empirical, English-language MRI study of alcohol users vs controls that reports cortical thickness and some atlas-based subcortical gray matter volumes, but it does not present any whole\u2011brain voxelwise GM volume (e.g., VBM) between-group contrasts. The analyses are atlas/ROI-based (Desikan\u2013Killiany cortical ROIs, and Neuromorphometrics subcortical ROIs) rather than whole\u2011brain voxelwise GM volume comparisons. Therefore it fails the requirement for whole\u2011brain GM volume evidence (I3) and does not meet the meta-analysis\u2019 primary GM-volume focus (I2). It does report participant age/sex, substance use characteristics, MRI field strength, and preprocessing/statistical software, satisfying I5. Exclusion criterion E5 (ROI-only analyses with no qualifying whole\u2011brain results) applies. Full text appears complete.",
-      "confidence": 0.92,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:57.568715",
-      "inclusion_criteria_applied": [
-        "I5"
-      ],
-      "exclusion_criteria_applied": [
-        "E5"
-      ]
-    },
-    {
-      "study_id": "36621586",
-      "decision": "included_fulltext",
-      "reason": "This is an empirical, English-language structural MRI study that reports voxel-wise VBM (gray matter volume) comparisons between substance users (short-term abstinent heroin and methamphetamine groups) and healthy controls. Whole-brain analyses were performed (one-way ANOVA with post-hoc t-tests) and voxelwise results are reported in supplementary tables (ST4\u2013ST6), satisfying the requirement that qualifying whole-brain results may appear in supplementary materials. Participant demographics, MRI field strength (3T), and preprocessing/statistical software (dpabi, FreeSurfer, FSL) are reported. No exclusion criteria are met (not ROI-only, not non-empirical). Full text appears complete (background, methods, results, discussion). Accordingly, the study meets all inclusion criteria and should be included.",
-      "confidence": 0.95,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:43:01.115996",
-      "inclusion_criteria_applied": [
-        "I2",
-        "I3",
-        "I4",
-        "I5"
-      ],
-      "exclusion_criteria_applied": []
-    },
-    {
-      "study_id": "36580868",
-      "decision": "excluded_fulltext",
-      "reason": "This is an empirical English-language structural MRI study of cocaine users vs controls (meets I2) and reports participant demographics, substance-use characteristics, MRI field strength (3.0T), and preprocessing/statistical software (FSL, SIENAX, FIRST) (meets I5). However, the paper does not report any whole-brain voxelwise between-group GM volume contrasts (e.g., VBM or whole-brain voxelwise GM density/volume maps). Analyses are limited to global tissue volumes and subcortical volumetry/vertex-wise surface-shape analyses (subcortical-focused), so it does not provide qualifying whole-brain GM results. Therefore it fails I3 and meets exclusion criterion E5 (only ROI/subcortical-focused analyses with no qualifying whole-brain results). Inclusion criteria met: I2, I5. Inclusion criteria not met: I3 (whole-brain evidence). Exclusion criteria met: E5. Full text appears complete.",
-      "confidence": 0.92,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:58.537004",
-      "inclusion_criteria_applied": [
-        "I2",
-        "I5"
-      ],
-      "exclusion_criteria_applied": [
-        "E5"
-      ]
-    },
-    {
-      "study_id": "34364191",
-      "decision": "included_fulltext",
-      "reason": "This is an empirical human structural MRI study (voxel-based morphometry) comparing grey matter density/volume between cocaine user groups (smoked and insufflated) and matched healthy controls. The authors performed whole-brain voxelwise t-tests (cluster p<.05, extent threshold=50 voxels) and report significant caudate GMd differences associated with behavior; results and coordinates are referenced in main/supplementary materials (tables/figures). Participant demographics, MRI field strength (1.5 T), and preprocessing/statistical software (CAT12, DPARSF, SPM) are reported. Therefore it satisfies inclusion criteria I2, I3, I4 and I5. No exclusion criteria are met (not ROI-only; not non-empirical). Full text appears complete (methods, results, discussion present).",
-      "confidence": 0.95,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:57.701033",
-      "inclusion_criteria_applied": [
-        "I2",
-        "I3",
-        "I4",
-        "I5"
-      ],
-      "exclusion_criteria_applied": []
-    },
-    {
-      "study_id": "32717665",
-      "decision": "included_fulltext",
-      "reason": "This is an empirical, English-language structural MRI study comparing heroin-dependent (HD) individuals to healthy controls on gray matter volume. The paper uses whole-brain atlas-based segmentation (multiple parcellation levels) and reports between-group contrasts (significant regional GM volume decreases and increases) and correlations with duration of heroin use with multiple-comparison corrections. Participant demographics, substance use history, MRI field strength (3T), and preprocessing/statistical methods (LDDMM, MALF, normalization, software MRICloud, statistics with Bonferroni/FDR) are provided. Thus it meets inclusion criteria I2 (empirical MRI GM comparison), I3 (whole-brain evidence via atlas-based whole-brain parcellation and between-group contrasts), I4 (results clearly reported in main text/tables/figures), and I5 (participant/MRI/method details reported). No exclusion criteria apply (not ROI-only, not non-empirical). Full text appears complete (includes Introduction, Methods, Results, Discussion).",
-      "confidence": 0.95,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:54.091386",
-      "inclusion_criteria_applied": [
-        "I2",
-        "I3",
-        "I4",
-        "I5"
-      ],
-      "exclusion_criteria_applied": []
-    },
-    {
-      "study_id": "33278513",
-      "decision": "included_fulltext",
-      "reason": "This is an empirical, English-language MRI study of alcohol users vs non-drinkers in a community sample of Japanese men that reports whole-brain voxel-based morphometry (VBM) analyses. The paper includes unstratified voxelwise (continuous alcohol vs GMV) and stratified voxelwise contrasts (very heavy drinkers vs non-drinkers) with permutation testing and threshold-free cluster enhancement (FWER-corrected whole-brain results). Methods report participant age/sex, alcohol consumption amounts, MRI field strength (1.5 T), and preprocessing/statistical software (BAAD, CAT12, LST, TFCE). Results are presented as voxelwise statistical maps with supplementary material. Thus all required inclusion criteria are met (I2, I3, I4, I5) and no exclusion criteria apply. Full text appears complete (introduction, methods, results, discussion).",
-      "confidence": 0.9,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:43:00.359156",
-      "inclusion_criteria_applied": [
-        "I2",
-        "I3",
-        "I4",
-        "I5"
-      ],
-      "exclusion_criteria_applied": []
-    },
-    {
-      "study_id": "31805488",
-      "decision": "included_fulltext",
-      "reason": "This is an empirical, English-language structural MRI study using voxel-based morphometry to compare gray matter volume between substance users (cocaine; stimulant class) and matched controls. The paper reports whole-brain, voxelwise between-group contrasts (permutation testing with TFCE) showing widespread GMV reductions in users, and then voxelwise correlations with impulsivity measures. Participant demographics, substance-use characteristics, MRI field strength (3T), and preprocessing/statistical software (FSL-VBM, TFCE) are reported. The full text includes introduction, methods, results, and discussion. No exclusion criteria apply (not ROI-only, not non-empirical). Therefore it meets all inclusion criteria relevant to the meta-analysis objective.",
-      "confidence": 0.9,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:58.301251",
+      "timestamp": "2026-04-14T15:27:24.417580",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -4101,11 +3993,40 @@
       "confidence": 0.93,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:43:03.905047",
+      "timestamp": "2026-04-14T15:27:24.417582",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
         "I4",
+        "I5"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
+      "study_id": "33947835",
+      "decision": "excluded_fulltext",
+      "reason": "This is an empirical English-language MRI study of alcohol users that reports NAcc gray matter volume differences using FSL-FIRST subcortical segmentation (ROI-based volumetry) and presents multimodal structural and functional results. However, the paper does not report any whole-brain voxelwise/whole-brain GM between-group contrasts (e.g., VBM or other whole-brain GM analyses). Therefore it meets exclusion criterion E5 (ROI-only analyses with no qualifying whole-brain results) and fails inclusion criterion I3 (whole-brain evidence). It does satisfy I2 (empirical MRI GM volume comparison between substance users and controls) and I5 (reports participant demographics, MRI field strength, and preprocessing/software details). Full text appears complete.",
+      "confidence": 0.9,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417585",
+      "inclusion_criteria_applied": [
+        "I2",
+        "I5"
+      ],
+      "exclusion_criteria_applied": [
+        "E5"
+      ]
+    },
+    {
+      "study_id": "41877877",
+      "decision": "excluded_fulltext",
+      "reason": "This is an empirical, English-language structural MRI VBM study of alcohol-dependent patients, but it does not include a healthy control group or any whole-brain between-group contrasts of substance users versus controls. Instead, it reports longitudinal (pre\u2013post) within-subject changes and between-treatment (FIR vs routine withdrawal) comparisons among alcohol-dependent participants. Therefore it fails the core inclusion criteria requiring (I2) MRI comparisons between substance users and controls and (I3) at least one whole-brain between-group substance users vs controls contrast. The study does report participant age/sex (male, 18\u201365), MRI field strength (3.0 T), and preprocessing/statistical software (CAT12/SPM12), satisfying I5. Full text appears complete (introduction, methods, results, discussion).",
+      "confidence": 0.92,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417588",
+      "inclusion_criteria_applied": [
         "I5"
       ],
       "exclusion_criteria_applied": []
@@ -4117,7 +4038,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:55.030270",
+      "timestamp": "2026-04-14T15:27:24.417592",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -4133,12 +4054,41 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:43:01.402193",
+      "timestamp": "2026-04-14T15:27:24.417596",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
         "I4",
         "I5"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
+      "study_id": "39300763",
+      "decision": "included_fulltext",
+      "reason": "This is an empirical, English-language structural MRI study of adults with alcohol use disorder vs healthy controls assessing grey matter measures (GMV and cortical thickness) using voxel-wise (whole-brain) and surface-based analyses. MRI field strength (3T), preprocessing/statistical software (SPM12/CAT12, MATLAB), participant age range, sex, substance-use characteristics, and analysis details are reported. The authors performed whole-brain voxel-wise contrasts for GMV (although no significant GMV differences were found) and report voxel-wise whole-brain CT results with coordinates and cluster statistics. Thus it meets inclusion criteria I2, I3, I4 and I5. It does not meet any exclusion criteria (not ROI-only; it is empirical human MRI). Full text appears complete.",
+      "confidence": 0.87,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417599",
+      "inclusion_criteria_applied": [
+        "I2",
+        "I3",
+        "I4",
+        "I5"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
+      "study_id": "35968362",
+      "decision": "excluded_fulltext",
+      "reason": "This study is excluded because it does not report whole-brain GM comparisons between substance users and non-using controls. Although it is an empirical, English-language MRI study using GMV measures and whole-brain multimodal spatial maps, the between-group contrasts are current smokers versus long-term ex-smokers (both groups with lifetime tobacco exposure) rather than substance users versus non-user controls. Thus inclusion criteria I2 (GM volume differences between substance users and controls) and I3 (whole-brain between-group contrast of substance users vs controls) are not met. The full text is complete and reports whole-brain spatial component maps (satisfying I4). No exclusion criteria (E5 ROI-only or E6 non-empirical) apply.",
+      "confidence": 0.88,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417603",
+      "inclusion_criteria_applied": [
+        "I4"
       ],
       "exclusion_criteria_applied": []
     },
@@ -4149,7 +4099,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:43:05.923386",
+      "timestamp": "2026-04-14T15:27:24.417608",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -4165,7 +4115,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:54.496026",
+      "timestamp": "2026-04-14T15:27:24.417612",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -4181,7 +4131,7 @@
       "confidence": 0.86,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:42:57.620270",
+      "timestamp": "2026-04-14T15:27:24.417617",
       "inclusion_criteria_applied": [
         "I2",
         "I4",
@@ -4196,7 +4146,23 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:43:04.467868",
+      "timestamp": "2026-04-14T15:27:24.417622",
+      "inclusion_criteria_applied": [
+        "I2",
+        "I3",
+        "I4",
+        "I5"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
+      "study_id": "33462781",
+      "decision": "included_fulltext",
+      "reason": "This is an empirical human structural MRI VBM study that reports whole-brain voxelwise comparisons between smokers and non-smokers (binary lifetime smoking variable) across two cohorts (IMAGEN and cVEDA). The paper presents whole-brain results (thresholded maps and figures) for the smoking vs non-smoking contrast and provides methods detailing participant age/sex, MRI field strengths, preprocessing, and statistical approach. The full text includes introduction, methods, results, and discussion (i.e., appears complete). Therefore it meets the review\u2019s inclusion criteria for nicotine-related GM differences and does not meet any exclusion criteria (not ROI-only; not non-empirical).",
+      "confidence": 0.86,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417626",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -4212,7 +4178,39 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:43:11.839352",
+      "timestamp": "2026-04-14T15:27:24.417631",
+      "inclusion_criteria_applied": [
+        "I2",
+        "I3",
+        "I4",
+        "I5"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
+      "study_id": "40072344",
+      "decision": "included_fulltext",
+      "reason": "This is an empirical, English-language structural MRI study comparing 40 male cocaine use disorder patients to 40 healthy controls using whole-brain source-based morphometry (SBM) and VBM-derived GM measures. The paper reports whole-brain component maps (s-ICs), between-group contrasts on component loading coefficients (s-IC2 and s-IC17) with cluster coordinates and volumes, and extracted GMv results, satisfying voxelwise/whole-brain reporting. Participant demographics, substance-use clinical measures, MRI field strength (1.5T), and preprocessing/statistical software (CAT12/SPM12, GIFT/ICA, SPSS) are described. No exclusion criteria apply (not ROI-only, empirical human data). Full text includes introduction, methods, results, and discussion; thus fulltext_incomplete is false. Inclusion criteria met: I2 (empirical MRI study of GM differences), I3 (whole-brain between-group evidence), I4 (results provided in figures/tables/coordinates), I5 (participant and MRI/method details reported).",
+      "confidence": 0.95,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417635",
+      "inclusion_criteria_applied": [
+        "I2",
+        "I3",
+        "I4",
+        "I5"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
+      "study_id": "31422451",
+      "decision": "included_fulltext",
+      "reason": "This is an empirical, English-language structural MRI study using voxel-based morphometry comparing opioid-dependent patients (n=17) on opioid maintenance treatment to healthy controls. The paper reports whole-brain between-group VBM contrasts (SPM12/CAT12, DARTEL normalization) with corrected voxelwise/cluster thresholds and provides peak coordinates (right anterior insula/putamen). Participant demographics, substance-use history (duration of heroin use, substitution agent, urine screens), MRI field strength (3T), and preprocessing/statistical software are reported. Results (whole-brain significant clusters, correlations with behavior) are presented in text, figures, and tables. No exclusion criteria apply (not ROI-only, not non-empirical). Full text (introduction, methods, results, discussion, refs) is provided. Therefore the study meets the meta-analysis inclusion criteria for opioid-related GM differences.",
+      "confidence": 0.95,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417639",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -4228,10 +4226,26 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:43:17.375809",
+      "timestamp": "2026-04-14T15:27:24.417643",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
+        "I5"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
+      "study_id": "31820807",
+      "decision": "included_fulltext",
+      "reason": "This is an empirical, English-language structural MRI (VBM) study comparing opioid-dependent patients on opioid maintenance treatment (n=19) with healthy controls (n=20). The paper reports whole-brain, voxelwise two-sample t-test contrasts with cluster-wise family-wise error correction and provides anatomical results (significant clusters in bilateral anterior insula and inferior frontal gyri) in the main text/figures. Participant demographics, substance-use characteristics, MRI field strength (3T), and preprocessing/statistical software (SPM12, CAT12, DARTEL) are reported. The study directly addresses the meta-analysis objective for the opioid drug class and meets I2, I3, I4, and I5. Full text appears complete (introduction, methods, results, discussion).",
+      "confidence": 0.95,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417647",
+      "inclusion_criteria_applied": [
+        "I2",
+        "I3",
+        "I4",
         "I5"
       ],
       "exclusion_criteria_applied": []
@@ -4243,7 +4257,7 @@
       "confidence": 0.86,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:43:05.409292",
+      "timestamp": "2026-04-14T15:27:24.417652",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -4259,7 +4273,39 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:43:09.648857",
+      "timestamp": "2026-04-14T15:27:24.417657",
+      "inclusion_criteria_applied": [
+        "I2",
+        "I5"
+      ],
+      "exclusion_criteria_applied": [
+        "E5"
+      ]
+    },
+    {
+      "study_id": "40794481",
+      "decision": "excluded_fulltext",
+      "reason": "This is an empirical structural MRI study of AUD using ROI-based analyses (7 a priori Desikan\u2013Killiany ROIs) but does not report any whole-brain voxelwise or whole-brain between-group contrasts of substance users vs controls. The paper presents ROI results and interaction analyses relating GMV to perceived emotional support, with no qualifying whole-brain results in main text, figures, tables, or supplements. Therefore it fails inclusion criterion I3 and meets exclusion criterion E5. It does meet I2 (empirical English MRI study analyzing GM volume in AUD vs non-AUD groups) and I5 (reports age/sex, substance use characteristics, MRI field strength, and preprocessing software). Full text appears complete.",
+      "confidence": 0.9,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417661",
+      "inclusion_criteria_applied": [
+        "I2",
+        "I5"
+      ],
+      "exclusion_criteria_applied": [
+        "E5"
+      ]
+    },
+    {
+      "study_id": "40739321",
+      "decision": "excluded_fulltext",
+      "reason": "This is an empirical structural MRI study that compares fibromyalgia patients who use opioids (FMO) to non-opioid FM patients and pain-free controls, and therefore assesses GM volume differences involving opioid users (I2 met). The report provides participant demographics, MRI field strength, and preprocessing/statistical software details (I5 met). However, the MRI analysis is restricted to the cervical spinal cord (C5\u2013C7) rather than a whole-brain voxelwise/whole-brain between-group contrast; results are region-restricted (spinal cord horn GMV) and no qualifying whole-brain GMV contrasts are reported. Thus it meets exclusion criterion E5 (ROI/region-limited analysis with no whole-brain results) and fails to meet inclusion criterion I3 (whole-brain evidence). Full text appears complete. Therefore the study must be excluded from the meta-analysis.",
+      "confidence": 0.85,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417666",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -4275,7 +4321,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-10T14:43:04.934945",
+      "timestamp": "2026-04-14T15:27:24.417670",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -4283,7 +4329,157 @@
         "I5"
       ],
       "exclusion_criteria_applied": []
+    },
+    {
+      "study_id": "41764177",
+      "decision": "excluded_fulltext",
+      "reason": "Although this is an empirical, English-language structural MRI study with whole-brain volumetric analyses and adequate reporting of participant age/sex, MRI field strength, and preprocessing (FreeSurfer v6), it does NOT present a between-group whole-brain GM comparison of substance users versus controls. Controls were used for peripheral biomarker and symptom comparisons only and do not appear to have MRI data included for cross-sectional GM contrasts. Therefore the study fails key inclusion criteria I2 (study does not provide between-group GM volume comparisons against controls) and I3 (no whole-brain between-group contrast of substance users vs controls reported). I5 (reporting of demographics/MRI details) is satisfied. Full text appears complete.",
+      "confidence": 0.85,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417674",
+      "inclusion_criteria_applied": [
+        "I5"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
+      "study_id": "38519565",
+      "decision": "included_fulltext",
+      "reason": "This is an empirical, English-language structural MRI study comparing smokers (nicotine users) and healthy non-smokers using voxel-based morphometry (VBM). The paper reports whole-brain, voxelwise between-group contrasts with MNI coordinates, cluster extents, and FWE-corrected p-values (e.g., decreased GM in left superior/middle frontal gyrus and right orbitofrontal cortex). Participant demographics (age, male-only), substance-use measures (CO, daily cigarettes, FTND), MRI field strength (3T), and preprocessing/statistical software (CONN/SPM/CAT12) are provided. The full text includes Introduction, Methods, Results, Discussion, and Conclusion. Therefore it meets all required inclusion criteria for structural GM differences between substance users (nicotine) and controls and does not meet any exclusion criteria (not ROI-only; empirical human data).",
+      "confidence": 0.95,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417678",
+      "inclusion_criteria_applied": [
+        "I2",
+        "I3",
+        "I4",
+        "I5"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
+      "study_id": "35250540",
+      "decision": "included_fulltext",
+      "reason": "This is an empirical human MRI study of alcohol users vs controls that includes voxel-based morphometry (VBM) whole-brain analyses comparing GM across groups (HC, AUD-NCI, ARCI). The manuscript reports methods for structural MRI acquisition (3.0T), preprocessing (CAT12 VBM), and whole-brain statistical testing (FWE-corrected threshold) and provides participant age/sex and substance-use characteristics. Although the VBM results were null (no significant GM differences) and no coordinate tables of significant foci are reported, the study nevertheless performed whole-brain GM comparisons and meets the review inclusion requirements for structural whole-brain GM studies of a substance class (alcohol). Note: because results are null and no coordinates are provided, this study may not contribute coordinate foci to a coordinate-based meta-analysis, but it still satisfies inclusion criteria I2 and I3 and reports the preferred methodological/participant details (I5).",
+      "confidence": 0.78,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417683",
+      "inclusion_criteria_applied": [
+        "I2",
+        "I3",
+        "I5"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
+      "study_id": "37323647",
+      "decision": "included_fulltext",
+      "reason": "This is an empirical human structural MRI study comparing gray matter volume between alcohol users (binge drinkers) and non-binge moderate controls. The manuscript reports whole-brain voxelwise between-group GMV contrasts (BD vs MD) with correction for multiple comparisons and cluster reporting, and provides region clusters/figures/tables. Participant demographics (age, sex), substance-use characterization, MRI field strength (3T Siemens Prisma), and preprocessing/statistical software (SPM12/DARTEL, AFNI, Bioimage Suite) are reported. The full text includes Introduction, Methods, Results, and Discussion. Thus it meets I2, I3, I4, and I5. It is not an ROI-only paper nor a non-empirical article, so no exclusion criteria are met. Full text appears complete.",
+      "confidence": 0.95,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417687",
+      "inclusion_criteria_applied": [
+        "I2",
+        "I3",
+        "I4",
+        "I5"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
+      "study_id": "38660010",
+      "decision": "excluded_fulltext",
+      "reason": "This study is excluded because the population does not address the review objective: participants are children with prenatal alcohol exposure (PAE), not substance users themselves. Therefore inclusion criterion I2 (empirical MRI studies assessing GM differences between substance users and controls) is not met. The paper does meet I3 (it reports whole-brain regional gray-matter analyses across 116 regions comparing PAE vs unexposed) and I5 (reports participant age/sex, MRI field strength, and processing details). No exclusion criteria E5 or E6 apply. Full text appears complete.",
+      "confidence": 0.85,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417691",
+      "inclusion_criteria_applied": [
+        "I3",
+        "I5"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
+      "study_id": "35115969",
+      "decision": "included_fulltext",
+      "reason": "This is an empirical, English-language human MRI study using T1-weighted data that reports whole-brain vertex-wise cortical thickness and voxel-wise VBM comparisons between substance user groups (AUD, OUD, PSU) and healthy controls. The paper provides whole-brain between-group contrasts (controls vs AUD/OUD/PSU and SUD subgroup comparisons) with voxel/vertex-wise results (TFCE, FWE-corrected and also uncorrected thresholds) and details participant demographics, MRI field strength (3T), and preprocessing/statistical software (CAT12, SPM12). It is not an ROI-only study nor a review. Full text (introduction, methods, results, discussion) is present. Therefore it meets inclusion criteria I2, I3, I4, and I5 and no exclusion criteria apply.",
+      "confidence": 0.95,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417695",
+      "inclusion_criteria_applied": [
+        "I2",
+        "I3",
+        "I4",
+        "I5"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
+      "study_id": "40718763",
+      "decision": "included_fulltext",
+      "reason": "This is an empirical English-language structural MRI study comparing smokers (n=3,292) vs non-smokers (n=6,842) that reports differences in grey matter (global GM, lobar regions, and AD-relevant regions including hippocampus and precuneus) derived from whole-brain automated segmentation (FastSurfer analysis of 96 regional volumes and ICV-adjusted comparisons). The paper provides participant demographics (age range, sex), smoking characteristics (pack-years), MRI field strength (1.5 T), and preprocessing/statistical software (FastSurfer, nnU-Net, sklearn/SciPy). Full text includes Introduction, Methods, Results, and Discussion, and presents whole-brain between-group contrasts (ICV-adjusted volumetric comparisons and regression analyses). Therefore it satisfies I2 and I3 and meets I5 (reporting key methodological/participant details). No exclusion criteria (E5, E6) apply. Full text appears complete.",
+      "confidence": 0.86,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417699",
+      "inclusion_criteria_applied": [
+        "I2",
+        "I3",
+        "I5"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
+      "study_id": "36873223",
+      "decision": "included_fulltext",
+      "reason": "This is an empirical, English-language structural MRI study of alcohol-dependent patients vs. healthy controls using whole-brain voxel-based morphometry (VBM). The paper reports whole-brain between-group GM contrasts (cross-sectional and longitudinal), cluster- and voxel-level results (FWE-corrected and uncorrected thresholds) with anatomical localization and individual plots; preprocessing/statistics are described (Cat12, SPM12), MRI field strength (1.5T) and participant demographics (age, sex: all male) are reported. It is not ROI-only and is original human MRI data. Full text (Introduction, Methods, Results, Discussion) is provided. Therefore it satisfies inclusion criteria I2, I3, I4, and I5 and violates no exclusion criteria.",
+      "confidence": 0.88,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417704",
+      "inclusion_criteria_applied": [
+        "I2",
+        "I3",
+        "I4",
+        "I5"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
+      "study_id": "33543128",
+      "decision": "included_fulltext",
+      "reason": "This is an empirical human structural MRI study of alcohol users vs healthy controls that reports whole-brain voxelwise GM volume analyses (voxel-based ANCOVAs using SPM12 on 3T T1-weighted images) and presents between-group contrasts (AUD vs HC and AUD-subgroup contrasts) with cluster-level correction. Participant demographics and MRI acquisition/preprocessing/statistical software are reported. Results (significant GM volume differences) are reported in the main text/figures and therefore satisfy whole-brain coordinate/voxelwise reporting. Thus the study meets the meta-analysis inclusion criteria for alcohol-related GM comparisons.",
+      "confidence": 0.95,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417707",
+      "inclusion_criteria_applied": [
+        "I2",
+        "I3",
+        "I4",
+        "I5"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
+      "study_id": "41971270",
+      "decision": "excluded_fulltext",
+      "reason": "Exclusion: E6 met \u2014 this paper is a coordinate-based meta-analysis/network-mapping study synthesizing previously published VBM results and applying normative HCP rs-fMRI; it does not present original empirical between-group structural MRI data from substance users vs controls. Inclusion criteria met: none. Inclusion criteria not met: I2 (not an original empirical MRI study comparing substance users and controls), I3 (does not report any new whole-brain between-group contrast of substance users vs controls), I4 (while it compiles coordinates from other studies, it does not itself present qualifying voxelwise between-group results), I5 N/A (reporting details relate to aggregated studies rather than original participants). Full text appears complete.",
+      "confidence": 0.95,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-14T15:27:24.417712",
+      "inclusion_criteria_applied": [],
+      "exclusion_criteria_applied": [
+        "E6"
+      ]
     }
   ],
-  "timestamp": "2026-04-10T14:43:17.392358"
+  "timestamp": "2026-04-14T15:27:24.426763"
 }
