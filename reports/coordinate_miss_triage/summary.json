@@ -1,0 +1,237 @@
+{
+  "project_runs_requested": [
+    "projects/vbm_of_substance_use/v2",
+    "projects/vbm_of_ptsd/v1",
+    "projects/social/v3-search-all_pmids",
+    "projects/decision_making/v2",
+    "projects/cue_reactivity/v5"
+  ],
+  "missing_classification_projects": [],
+  "total_unique_pmids": 245,
+  "total_rows": 246,
+  "found_rows": 243,
+  "reason_counts_global": {
+    "missed_in_main_text": 118,
+    "tables_present_no_coordinate_content": 50,
+    "tables_linked_not_fetched": 37,
+    "supplement_only_or_referenced": 28,
+    "incomplete_html": 0,
+    "unknown": 10
+  },
+  "source_counts": {
+    "ace_html": {
+      "total_rows": 219,
+      "found_rows": 216,
+      "missing_rows": 3,
+      "missed_in_main_text": 112,
+      "tables_present_no_coordinate_content": 33,
+      "tables_linked_not_fetched": 37,
+      "supplement_only_or_referenced": 24,
+      "incomplete_html": 0,
+      "unknown": 10
+    },
+    "pubget": {
+      "total_rows": 11,
+      "found_rows": 11,
+      "missing_rows": 0,
+      "missed_in_main_text": 3,
+      "tables_present_no_coordinate_content": 5,
+      "tables_linked_not_fetched": 0,
+      "supplement_only_or_referenced": 3,
+      "incomplete_html": 0,
+      "unknown": 0
+    },
+    "elsevier_output": {
+      "total_rows": 16,
+      "found_rows": 16,
+      "missing_rows": 0,
+      "missed_in_main_text": 3,
+      "tables_present_no_coordinate_content": 12,
+      "tables_linked_not_fetched": 0,
+      "supplement_only_or_referenced": 1,
+      "incomplete_html": 0,
+      "unknown": 0
+    }
+  },
+  "per_project_reason_counts": {
+    "projects/vbm_of_substance_use/v2": {
+      "missed_in_main_text": 12,
+      "tables_present_no_coordinate_content": 6,
+      "tables_linked_not_fetched": 0,
+      "supplement_only_or_referenced": 0,
+      "incomplete_html": 0,
+      "unknown": 1
+    },
+    "projects/vbm_of_ptsd/v1": {
+      "missed_in_main_text": 1,
+      "tables_present_no_coordinate_content": 6,
+      "tables_linked_not_fetched": 1,
+      "supplement_only_or_referenced": 1,
+      "incomplete_html": 0,
+      "unknown": 0
+    },
+    "projects/social/v3-search-all_pmids": {
+      "missed_in_main_text": 28,
+      "tables_present_no_coordinate_content": 12,
+      "tables_linked_not_fetched": 35,
+      "supplement_only_or_referenced": 18,
+      "incomplete_html": 0,
+      "unknown": 7
+    },
+    "projects/decision_making/v2": {
+      "missed_in_main_text": 36,
+      "tables_present_no_coordinate_content": 7,
+      "tables_linked_not_fetched": 0,
+      "supplement_only_or_referenced": 5,
+      "incomplete_html": 0,
+      "unknown": 0
+    },
+    "projects/cue_reactivity/v5": {
+      "missed_in_main_text": 41,
+      "tables_present_no_coordinate_content": 21,
+      "tables_linked_not_fetched": 1,
+      "supplement_only_or_referenced": 4,
+      "incomplete_html": 0,
+      "unknown": 2
+    }
+  },
+  "per_source_per_project_reason_counts": {
+    "ace_html": {
+      "projects/vbm_of_substance_use/v2": {
+        "missed_in_main_text": 12,
+        "tables_present_no_coordinate_content": 3,
+        "tables_linked_not_fetched": 0,
+        "supplement_only_or_referenced": 0,
+        "incomplete_html": 0,
+        "unknown": 1
+      },
+      "projects/vbm_of_ptsd/v1": {
+        "missed_in_main_text": 1,
+        "tables_present_no_coordinate_content": 6,
+        "tables_linked_not_fetched": 1,
+        "supplement_only_or_referenced": 0,
+        "incomplete_html": 0,
+        "unknown": 0
+      },
+      "projects/social/v3-search-all_pmids": {
+        "missed_in_main_text": 27,
+        "tables_present_no_coordinate_content": 12,
+        "tables_linked_not_fetched": 35,
+        "supplement_only_or_referenced": 16,
+        "incomplete_html": 0,
+        "unknown": 7
+      },
+      "projects/decision_making/v2": {
+        "missed_in_main_text": 33,
+        "tables_present_no_coordinate_content": 6,
+        "tables_linked_not_fetched": 0,
+        "supplement_only_or_referenced": 5,
+        "incomplete_html": 0,
+        "unknown": 0
+      },
+      "projects/cue_reactivity/v5": {
+        "missed_in_main_text": 39,
+        "tables_present_no_coordinate_content": 8,
+        "tables_linked_not_fetched": 1,
+        "supplement_only_or_referenced": 3,
+        "incomplete_html": 0,
+        "unknown": 2
+      }
+    },
+    "pubget": {
+      "projects/vbm_of_substance_use/v2": {
+        "missed_in_main_text": 0,
+        "tables_present_no_coordinate_content": 1,
+        "tables_linked_not_fetched": 0,
+        "supplement_only_or_referenced": 0,
+        "incomplete_html": 0,
+        "unknown": 0
+      },
+      "projects/vbm_of_ptsd/v1": {
+        "missed_in_main_text": 0,
+        "tables_present_no_coordinate_content": 0,
+        "tables_linked_not_fetched": 0,
+        "supplement_only_or_referenced": 1,
+        "incomplete_html": 0,
+        "unknown": 0
+      },
+      "projects/social/v3-search-all_pmids": {
+        "missed_in_main_text": 1,
+        "tables_present_no_coordinate_content": 0,
+        "tables_linked_not_fetched": 0,
+        "supplement_only_or_referenced": 2,
+        "incomplete_html": 0,
+        "unknown": 0
+      },
+      "projects/decision_making/v2": {
+        "missed_in_main_text": 2,
+        "tables_present_no_coordinate_content": 0,
+        "tables_linked_not_fetched": 0,
+        "supplement_only_or_referenced": 0,
+        "incomplete_html": 0,
+        "unknown": 0
+      },
+      "projects/cue_reactivity/v5": {
+        "missed_in_main_text": 0,
+        "tables_present_no_coordinate_content": 4,
+        "tables_linked_not_fetched": 0,
+        "supplement_only_or_referenced": 0,
+        "incomplete_html": 0,
+        "unknown": 0
+      }
+    },
+    "elsevier_output": {
+      "projects/vbm_of_substance_use/v2": {
+        "missed_in_main_text": 0,
+        "tables_present_no_coordinate_content": 2,
+        "tables_linked_not_fetched": 0,
+        "supplement_only_or_referenced": 0,
+        "incomplete_html": 0,
+        "unknown": 0
+      },
+      "projects/vbm_of_ptsd/v1": {
+        "missed_in_main_text": 0,
+        "tables_present_no_coordinate_content": 0,
+        "tables_linked_not_fetched": 0,
+        "supplement_only_or_referenced": 0,
+        "incomplete_html": 0,
+        "unknown": 0
+      },
+      "projects/social/v3-search-all_pmids": {
+        "missed_in_main_text": 0,
+        "tables_present_no_coordinate_content": 0,
+        "tables_linked_not_fetched": 0,
+        "supplement_only_or_referenced": 0,
+        "incomplete_html": 0,
+        "unknown": 0
+      },
+      "projects/decision_making/v2": {
+        "missed_in_main_text": 1,
+        "tables_present_no_coordinate_content": 1,
+        "tables_linked_not_fetched": 0,
+        "supplement_only_or_referenced": 0,
+        "incomplete_html": 0,
+        "unknown": 0
+      },
+      "projects/cue_reactivity/v5": {
+        "missed_in_main_text": 2,
+        "tables_present_no_coordinate_content": 9,
+        "tables_linked_not_fetched": 0,
+        "supplement_only_or_referenced": 1,
+        "incomplete_html": 0,
+        "unknown": 0
+      }
+    }
+  },
+  "ace_coverage": {
+    "target_pmids": 245,
+    "ace_rows": 219,
+    "ace_found": 216,
+    "ace_missing": 3
+  },
+  "html_missing_pmids": [
+    "17274020",
+    "19587274",
+    "20032247"
+  ]
+}
