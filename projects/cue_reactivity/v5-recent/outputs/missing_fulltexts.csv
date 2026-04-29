@@ -1,28 +1,34 @@
 pmid,type,source,full_text_path,in_included_set
-11515754,unavailable,pubget,,True
-12697627,unavailable,pubget,,False
+11515754,incomplete,/home/zorro/repos/autonima-results/articles/ace_outputs,"/home/zorro/repos/autonima-results/articles/ace_outputs/html/Journal of neural transmission (Vienna, Austria : 1996)/11515754.html",True
+15465974,incomplete,/home/zorro/repos/autonima-results/articles/ace_outputs,/home/zorro/repos/autonima-results/articles/ace_outputs/html/The American journal of psychiatry/15465974.html,True
+16167185,incomplete,/home/zorro/repos/autonima-results/articles/ace_outputs,/home/zorro/repos/autonima-results/articles/ace_outputs/html/Applied psychophysiology and biofeedback/16167185.html,True
+16565998,incomplete,/home/zorro/repos/autonima-results/articles/ace_outputs,/home/zorro/repos/autonima-results/articles/ace_outputs/html/The International journal of eating disorders/16565998.html,True
+19025463,incomplete,/home/zorro/repos/autonima-results/articles/ace_outputs,"/home/zorro/repos/autonima-results/articles/ace_outputs/html/Cyberpsychology & behavior : the impact of the Internet, multimedia and virtual reality on behavior and society/19025463.html",True
+20695685,incomplete,/home/zorro/repos/autonima-results/articles/ace_outputs,/home/zorro/repos/autonima-results/articles/ace_outputs/html/Experimental and clinical psychopharmacology/20695685.html,True
+21717780,incomplete,/home/zorro/repos/autonima-results/articles/ace_outputs,/home/zorro/repos/autonima-results/articles/ace_outputs/html/Zhen ci yan jiu = Acupuncture research/21717780.html,True
+23921439,incomplete,/home/zorro/repos/autonima-results/articles/ace_outputs,/home/zorro/repos/autonima-results/articles/ace_outputs/html/European addiction research/23921439.html,True
+24956915,incomplete,/home/zorro/repos/autonima-results/articles/ace_outputs,/home/zorro/repos/autonima-results/articles/ace_outputs/html/International journal of psychiatry in medicine/24956915.html,True
+26237321,incomplete,/home/zorro/repos/autonima-results/articles/ace_outputs,/home/zorro/repos/autonima-results/articles/ace_outputs/html/Experimental and clinical psychopharmacology/26237321.html,True
+26613332,incomplete,/home/zorro/repos/autonima-results/articles/ace_outputs,/home/zorro/repos/autonima-results/articles/ace_outputs/html/Hormone molecular biology and clinical investigation/26613332.html,True
+27570893,incomplete,/home/zorro/repos/autonima-results/articles/ace_outputs,"/home/zorro/repos/autonima-results/articles/ace_outputs/html/Health psychology : official journal of the Division of Health Psychology, American Psychological Association/27570893.html",True
+35175067,incomplete,/home/zorro/repos/autonima-results/articles/ace_outputs,/home/zorro/repos/autonima-results/articles/ace_outputs/html/Psychology of addictive behaviors : journal of the Society of Psychologists in Addictive Behaviors/35175067.html,True
+36470225,incomplete,/home/zorro/repos/autonima-results/articles/ace_outputs,/home/zorro/repos/autonima-results/articles/ace_outputs/html/European addiction research/36470225.html,True
 15464121,unavailable,pubget,,False
-15465974,unavailable,pubget,,True
 15850502,unavailable,pubget,,False
-16167185,unavailable,pubget,,True
 16290890,unavailable,pubget,,True
-16565998,unavailable,pubget,,True
+17274020,unavailable,pubget,,False
 18164583,unavailable,pubget,,False
-19025463,unavailable,pubget,,True
+19170662,unavailable,pubget,,False
 19240054,unavailable,pubget,,False
+19490513,unavailable,pubget,,True
 19853720,unavailable,pubget,,False
-20695685,unavailable,pubget,,True
+20809855,unavailable,pubget,,True
+20862456,unavailable,pubget,,False
 21349378,unavailable,pubget,,False
-21717780,unavailable,pubget,,True
-23921439,unavailable,pubget,,True
 24768717,unavailable,pubget,,False
 24847853,unavailable,pubget,,True
 24945709,unavailable,pubget,,False
-24956915,unavailable,pubget,,True
 25833968,unavailable,pubget,,True
-26237321,unavailable,pubget,,True
-26613332,unavailable,pubget,,True
-27570893,unavailable,pubget,,True
 33147505,unavailable,pubget,,False
 33360853,unavailable,pubget,,False
 33453587,unavailable,pubget,,False
@@ -40,13 +46,11 @@ pmid,type,source,full_text_path,in_included_set
 34687826,unavailable,pubget,,True
 35007942,unavailable,pubget,,True
 35066460,unavailable,pubget,,False
-35175067,unavailable,pubget,,True
 35738424,unavailable,pubget,,False
 35785575,unavailable,pubget,,False
 35810622,unavailable,pubget,,False
 36031010,unavailable,pubget,,False
 36301219,unavailable,pubget,,True
-36470225,unavailable,pubget,,True
 36581170,unavailable,pubget,,False
 36764599,unavailable,pubget,,True
 36948909,unavailable,pubget,,True
@@ -88,13 +92,17 @@ pmid,type,source,full_text_path,in_included_set
 40300301,unavailable,pubget,,False
 40441339,unavailable,pubget,,True
 40749271,unavailable,pubget,,True
+40931637,unavailable,pubget,,False
 41129865,unavailable,pubget,,False
 41171562,unavailable,pubget,,False
 41224247,unavailable,pubget,,False
 41274369,unavailable,pubget,,False
+41344620,unavailable,pubget,,True
 41534246,unavailable,pubget,,True
 41610562,unavailable,pubget,,False
 41650683,unavailable,pubget,,False
 41655820,unavailable,pubget,,False
 41691824,unavailable,pubget,,False
-41734320,unavailable,pubget,,False
+41759716,unavailable,pubget,,True
+41819249,unavailable,pubget,,False
+41856154,unavailable,pubget,,False

@@ -97,12 +97,12 @@
           ]
         },
         {
-          "root_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/",
+          "root_path": "/home/zorro/repos/autonima-results/articles/ace_outputs",
           "pmid_source": "file_name",
           "allowed_extensions": [
             ".html"
           ],
-          "processed_data_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/processed/"
+          "processed_data_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/processed/"
         }
       ],
       "parse_coordinates": false,
@@ -186,9 +186,9 @@
       "abstract_screening_score": 0.95,
       "fulltext_screening_score": 0.88,
       "retrieved_at": "2026-04-21T16:36:11.807519",
-      "screened_at": "2026-04-22T15:44:06.839364",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/28888350.html",
-      "full_text_source": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/",
+      "screened_at": "2026-04-29T10:11:40.121463",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/28888350.html",
+      "full_text_source": "/home/zorro/repos/autonima-results/articles/ace_outputs",
       "fulltext_available": true,
       "retrieval_in_scope": true,
       "in_included_set": true,
@@ -223,9 +223,9 @@
       "abstract_screening_score": 0.9,
       "fulltext_screening_score": 0.9,
       "retrieved_at": "2026-04-21T16:36:11.808403",
-      "screened_at": "2026-04-22T15:44:06.839374",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/19996042.html",
-      "full_text_source": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/",
+      "screened_at": "2026-04-29T10:11:40.121471",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/19996042.html",
+      "full_text_source": "/home/zorro/repos/autonima-results/articles/ace_outputs",
       "fulltext_available": true,
       "retrieval_in_scope": true,
       "in_included_set": true,
@@ -267,9 +267,9 @@
       "abstract_screening_score": 0.6,
       "fulltext_screening_score": 0.95,
       "retrieved_at": "2026-04-21T16:36:11.808835",
-      "screened_at": "2026-04-22T15:44:06.839387",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/28287194.html",
-      "full_text_source": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/",
+      "screened_at": "2026-04-29T10:11:40.121481",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/28287194.html",
+      "full_text_source": "/home/zorro/repos/autonima-results/articles/ace_outputs",
       "fulltext_available": true,
       "retrieval_in_scope": true,
       "in_included_set": true,
@@ -306,9 +306,9 @@
       "abstract_screening_score": 0.78,
       "fulltext_screening_score": 0.95,
       "retrieved_at": "2026-04-21T16:36:11.808894",
-      "screened_at": "2026-04-22T15:44:06.839389",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/20673548.html",
-      "full_text_source": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/",
+      "screened_at": "2026-04-29T10:11:40.121483",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/20673548.html",
+      "full_text_source": "/home/zorro/repos/autonima-results/articles/ace_outputs",
       "fulltext_available": true,
       "retrieval_in_scope": true,
       "in_included_set": true,
@@ -350,8 +350,8 @@
       "metadata": {},
       "abstract_screening_score": 0.9,
       "fulltext_screening_score": 0.95,
-      "retrieved_at": "2026-04-22T15:43:02.058380",
-      "screened_at": "2026-04-22T15:44:06.839400",
+      "retrieved_at": "2026-04-29T10:11:40.118881",
+      "screened_at": "2026-04-29T10:11:40.121492",
       "full_text_path": null,
       "full_text_source": "pubget",
       "fulltext_available": true,
@@ -467,37 +467,37 @@
       "abstract_screening_score": 0.94,
       "fulltext_screening_score": 0.95,
       "retrieved_at": "2026-04-21T16:36:11.810039",
-      "screened_at": "2026-04-22T15:44:06.839403",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/28549317.html",
-      "full_text_source": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/",
+      "screened_at": "2026-04-29T10:11:40.121494",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/28549317.html",
+      "full_text_source": "/home/zorro/repos/autonima-results/articles/ace_outputs",
       "fulltext_available": true,
       "retrieval_in_scope": true,
       "in_included_set": true,
       "coordinate_space": null,
       "activation_tables": [
         {
-          "table_id": "17",
+          "table_id": "823",
           "table_label": "Table 2",
           "table_caption": ". PTSD<HC: Whole Brain VBM grey matter results.",
           "table_foot": null,
           "table_data_path": null,
-          "table_raw_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/processed/tables/28549317/17.html"
+          "table_raw_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/processed/tables/28549317/823.html"
         },
         {
-          "table_id": "18",
+          "table_id": "824",
           "table_label": "Table 3",
           "table_caption": ". PTSD<TC: Whole Brain VBM grey matter results.",
           "table_foot": null,
           "table_data_path": null,
-          "table_raw_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/processed/tables/28549317/18.html"
+          "table_raw_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/processed/tables/28549317/824.html"
         },
         {
-          "table_id": "19",
+          "table_id": "825",
           "table_label": "Table 4",
           "table_caption": "=25).",
           "table_foot": null,
           "table_data_path": null,
-          "table_raw_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/processed/tables/28549317/19.html"
+          "table_raw_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/processed/tables/28549317/825.html"
         }
       ],
       "analyses": [
@@ -1272,8 +1272,8 @@
       "metadata": {},
       "abstract_screening_score": 0.95,
       "fulltext_screening_score": 0.95,
-      "retrieved_at": "2026-04-22T15:43:02.058382",
-      "screened_at": "2026-04-22T15:44:06.839406",
+      "retrieved_at": "2026-04-29T10:11:40.118883",
+      "screened_at": "2026-04-29T10:11:40.121496",
       "full_text_path": null,
       "full_text_source": "pubget",
       "fulltext_available": true,
@@ -1307,9 +1307,9 @@
       "abstract_screening_score": 0.95,
       "fulltext_screening_score": 0.95,
       "retrieved_at": "2026-04-21T16:36:11.811015",
-      "screened_at": "2026-04-22T15:44:06.839409",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/25212487.html",
-      "full_text_source": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/",
+      "screened_at": "2026-04-29T10:11:40.121498",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/25212487.html",
+      "full_text_source": "/home/zorro/repos/autonima-results/articles/ace_outputs",
       "fulltext_available": true,
       "retrieval_in_scope": true,
       "in_included_set": true,
@@ -1346,9 +1346,9 @@
       "abstract_screening_score": 0.95,
       "fulltext_screening_score": 0.9,
       "retrieved_at": "2026-04-21T16:36:11.811073",
-      "screened_at": "2026-04-22T15:44:06.839412",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/19794316.html",
-      "full_text_source": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/",
+      "screened_at": "2026-04-29T10:11:40.121501",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/19794316.html",
+      "full_text_source": "/home/zorro/repos/autonima-results/articles/ace_outputs",
       "fulltext_available": true,
       "retrieval_in_scope": true,
       "in_included_set": true,
@@ -1382,15 +1382,582 @@
       "abstract_screening_score": 0.75,
       "fulltext_screening_score": 0.87,
       "retrieved_at": "2026-04-21T16:36:11.811225",
-      "screened_at": "2026-04-22T15:44:06.839415",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/21418787.html",
-      "full_text_source": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/",
+      "screened_at": "2026-04-29T10:11:40.121503",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/21418787.html",
+      "full_text_source": "/home/zorro/repos/autonima-results/articles/ace_outputs",
       "fulltext_available": true,
       "retrieval_in_scope": true,
       "in_included_set": true,
       "coordinate_space": null,
-      "activation_tables": [],
-      "analyses": [],
+      "activation_tables": [
+        {
+          "table_id": "803",
+          "table_label": "nan",
+          "table_caption": "Regions of significant brain volume reduction in the combined PTSD and major depression groups compared with controls*",
+          "table_foot": null,
+          "table_data_path": null,
+          "table_raw_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/processed/tables/21418787/803.html"
+        },
+        {
+          "table_id": "804",
+          "table_label": "nan",
+          "table_caption": "Regions of significant brain volume reduction in the PTSD group associated with increasing Beck Anxiety Inventory32 scores*",
+          "table_foot": null,
+          "table_data_path": null,
+          "table_raw_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/processed/tables/21418787/804.html"
+        },
+        {
+          "table_id": "805",
+          "table_label": "nan",
+          "table_caption": "Regions of significant brain volume increases in the major depression group associated with increasing Beck Anxiety Inventory32 scores*",
+          "table_foot": null,
+          "table_data_path": null,
+          "table_raw_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/processed/tables/21418787/805.html"
+        },
+        {
+          "table_id": "806",
+          "table_label": "nan",
+          "table_caption": "Regions of significant brain volume reduction in the PTSD group with increasing Beck Depression Inventory33 scores*",
+          "table_foot": null,
+          "table_data_path": null,
+          "table_raw_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/processed/tables/21418787/806.html"
+        },
+        {
+          "table_id": "807",
+          "table_label": "nan",
+          "table_caption": "Regions of significant brain volume increases in the major depression group with increasing Beck Depression Inventory33 scores*",
+          "table_foot": null,
+          "table_data_path": null,
+          "table_raw_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/processed/tables/21418787/807.html"
+        }
+      ],
+      "analyses": [
+        {
+          "name": "Regions of significant brain volume reduction in the combined PTSD and major depression groups compared with controls*",
+          "description": null,
+          "table_id": "803",
+          "points": [
+            {
+              "coordinates": [
+                2.0,
+                -7.0,
+                41.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.23,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                3.0,
+                54.0,
+                30.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.12,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                34.0,
+                25.0,
+                52.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.07,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                55.0,
+                -55.0,
+                37.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.92,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                6.0,
+                -7.0,
+                77.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.88,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                50.0,
+                -32.0,
+                58.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.87,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -21.0,
+                -70.0,
+                50.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.86,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -19.0,
+                -21.0,
+                63.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.85,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -35.0,
+                24.0,
+                -26.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.76,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                45.0,
+                -38.0,
+                32.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.68,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -66.0,
+                -3.0,
+                6.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.63,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -6.0,
+                46.0,
+                7.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.53,
+                  "kind": "z-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Regions of significant brain volume reduction in the PTSD group associated with increasing Beck Anxiety Inventory32 scores*",
+          "description": null,
+          "table_id": "804",
+          "points": [
+            {
+              "coordinates": [
+                -26.0,
+                -71.0,
+                -10.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.95,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -35.0,
+                43.0,
+                33.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.52,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -47.0,
+                -27.0,
+                -28.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.14,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                58.0,
+                -14.0,
+                8.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.11,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -36.0,
+                -2.0,
+                -45.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.02,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                27.0,
+                -57.0,
+                -28.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.89,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                26.0,
+                11.0,
+                10.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.72,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                61.0,
+                -30.0,
+                -12.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.69,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                45.0,
+                7.0,
+                -39.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.65,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -39.0,
+                8.0,
+                19.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.46,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -21.0,
+                -33.0,
+                -38.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.44,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                31.0,
+                6.0,
+                -36.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.29,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                48.0,
+                -16.0,
+                -26.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.27,
+                  "kind": "z-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Regions of significant brain volume increases in the major depression group associated with increasing Beck Anxiety Inventory32 scores*",
+          "description": null,
+          "table_id": "805",
+          "points": [
+            {
+              "coordinates": [
+                -49.0,
+                -17.0,
+                -23.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.9,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                23.0,
+                11.0,
+                55.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.83,
+                  "kind": "z-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Regions of significant brain volume reduction in the PTSD group with increasing Beck Depression Inventory33 scores*",
+          "description": null,
+          "table_id": "806",
+          "points": [
+            {
+              "coordinates": [
+                15.0,
+                60.0,
+                35.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.95,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                32.0,
+                -57.0,
+                -9.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.45,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                5.0,
+                -65.0,
+                4.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.39,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                3.0,
+                -89.0,
+                26.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.34,
+                  "kind": "z-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Regions of significant brain volume increases in the major depression group with increasing Beck Depression Inventory33 scores*",
+          "description": null,
+          "table_id": "807",
+          "points": [
+            {
+              "coordinates": [
+                -13.0,
+                -77.0,
+                20.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 5.23,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -37.0,
+                -57.0,
+                -20.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.68,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -15.0,
+                -49.0,
+                15.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.17,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -7.0,
+                -78.0,
+                40.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.25,
+                  "kind": "z-statistic"
+                }
+              ]
+            }
+          ]
+        }
+      ],
       "abstract_inclusion_criteria_applied": [],
       "abstract_exclusion_criteria_applied": [],
       "fulltext_inclusion_criteria_applied": [],
@@ -1427,9 +1994,9 @@
       "abstract_screening_score": 0.93,
       "fulltext_screening_score": 0.88,
       "retrieved_at": "2026-04-21T16:36:11.811454",
-      "screened_at": "2026-04-22T15:44:06.839420",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/32938511.html",
-      "full_text_source": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/",
+      "screened_at": "2026-04-29T10:11:40.121508",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/32938511.html",
+      "full_text_source": "/home/zorro/repos/autonima-results/articles/ace_outputs",
       "fulltext_available": true,
       "retrieval_in_scope": true,
       "in_included_set": true,
@@ -1472,21 +2039,21 @@
       "abstract_screening_score": 0.9,
       "fulltext_screening_score": 0.9,
       "retrieved_at": "2026-04-21T16:36:11.812496",
-      "screened_at": "2026-04-22T15:44:06.839428",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/23113800.html",
-      "full_text_source": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/",
+      "screened_at": "2026-04-29T10:11:40.121515",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/23113800.html",
+      "full_text_source": "/home/zorro/repos/autonima-results/articles/ace_outputs",
       "fulltext_available": true,
       "retrieval_in_scope": true,
       "in_included_set": true,
       "coordinate_space": null,
       "activation_tables": [
         {
-          "table_id": "16",
+          "table_id": "827",
           "table_label": "nan",
           "table_caption": null,
           "table_foot": null,
           "table_data_path": null,
-          "table_raw_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/processed/tables/23113800/16.html"
+          "table_raw_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/processed/tables/23113800/827.html"
         }
       ],
       "analyses": [
@@ -2168,9 +2735,9 @@
       "abstract_screening_score": 0.95,
       "fulltext_screening_score": 0.9,
       "retrieved_at": "2026-04-21T16:36:11.812651",
-      "screened_at": "2026-04-22T15:44:06.839431",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/22453299.html",
-      "full_text_source": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/",
+      "screened_at": "2026-04-29T10:11:40.121526",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/22453299.html",
+      "full_text_source": "/home/zorro/repos/autonima-results/articles/ace_outputs",
       "fulltext_available": true,
       "retrieval_in_scope": true,
       "in_included_set": true,
@@ -2213,29 +2780,29 @@
       "abstract_screening_score": 0.6,
       "fulltext_screening_score": 0.95,
       "retrieved_at": "2026-04-21T16:36:11.812921",
-      "screened_at": "2026-04-22T15:44:06.839437",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/30343133.html",
-      "full_text_source": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/",
+      "screened_at": "2026-04-29T10:11:40.121532",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/30343133.html",
+      "full_text_source": "/home/zorro/repos/autonima-results/articles/ace_outputs",
       "fulltext_available": true,
       "retrieval_in_scope": true,
       "in_included_set": true,
       "coordinate_space": null,
       "activation_tables": [
         {
-          "table_id": "22",
+          "table_id": "801",
           "table_label": "Table 3",
           "table_caption": ". Summary of Structural MRI Longitudinal Analyses: Whole-Brain VBM",
           "table_foot": null,
           "table_data_path": null,
-          "table_raw_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/processed/tables/30343133/22.html"
+          "table_raw_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/processed/tables/30343133/801.html"
         },
         {
-          "table_id": "23",
+          "table_id": "802",
           "table_label": "Table 4",
           "table_caption": ". Summary of Seed-Based RSFC Longitudinal Analyses",
           "table_foot": null,
           "table_data_path": null,
-          "table_raw_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/processed/tables/30343133/23.html"
+          "table_raw_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/processed/tables/30343133/802.html"
         }
       ],
       "analyses": [
@@ -2450,21 +3017,21 @@
       "abstract_screening_score": 0.95,
       "fulltext_screening_score": 0.95,
       "retrieved_at": "2026-04-21T16:36:11.813143",
-      "screened_at": "2026-04-22T15:44:06.839440",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/23021615.html",
-      "full_text_source": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/",
+      "screened_at": "2026-04-29T10:11:40.121535",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/23021615.html",
+      "full_text_source": "/home/zorro/repos/autonima-results/articles/ace_outputs",
       "fulltext_available": true,
       "retrieval_in_scope": true,
       "in_included_set": true,
       "coordinate_space": null,
       "activation_tables": [
         {
-          "table_id": "1",
+          "table_id": "785",
           "table_label": "Table 2",
           "table_caption": ". Regional gray matter findings.",
           "table_foot": null,
           "table_data_path": null,
-          "table_raw_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/processed/tables/23021615/1.html"
+          "table_raw_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/processed/tables/23021615/785.html"
         }
       ],
       "analyses": [
@@ -2708,8 +3275,8 @@
       "metadata": {},
       "abstract_screening_score": 0.95,
       "fulltext_screening_score": 0.93,
-      "retrieved_at": "2026-04-22T15:43:02.058384",
-      "screened_at": "2026-04-22T15:44:06.839452",
+      "retrieved_at": "2026-04-29T10:11:40.118886",
+      "screened_at": "2026-04-29T10:11:40.121546",
       "full_text_path": null,
       "full_text_source": "pubget",
       "fulltext_available": true,
@@ -3007,9 +3574,9 @@
       "abstract_screening_score": 0.95,
       "fulltext_screening_score": 0.9,
       "retrieved_at": "2026-04-21T16:36:11.814175",
-      "screened_at": "2026-04-22T15:44:06.839456",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/12853571.html",
-      "full_text_source": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/",
+      "screened_at": "2026-04-29T10:11:40.121550",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/12853571.html",
+      "full_text_source": "/home/zorro/repos/autonima-results/articles/ace_outputs",
       "fulltext_available": true,
       "retrieval_in_scope": true,
       "in_included_set": true,
@@ -3048,9 +3615,9 @@
       "abstract_screening_score": 0.95,
       "fulltext_screening_score": 0.95,
       "retrieved_at": "2026-04-21T16:36:11.814235",
-      "screened_at": "2026-04-22T15:44:06.839459",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/17923164.html",
-      "full_text_source": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/",
+      "screened_at": "2026-04-29T10:11:40.121553",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/17923164.html",
+      "full_text_source": "/home/zorro/repos/autonima-results/articles/ace_outputs",
       "fulltext_available": true,
       "retrieval_in_scope": true,
       "in_included_set": true,
@@ -3083,8 +3650,8 @@
       "metadata": {},
       "abstract_screening_score": 0.55,
       "fulltext_screening_score": 0.95,
-      "retrieved_at": "2026-04-22T15:43:02.058385",
-      "screened_at": "2026-04-22T15:44:06.839467",
+      "retrieved_at": "2026-04-29T10:11:40.118887",
+      "screened_at": "2026-04-29T10:11:40.121562",
       "full_text_path": null,
       "full_text_source": "pubget",
       "fulltext_available": true,
@@ -3122,37 +3689,37 @@
       "abstract_screening_score": 0.95,
       "fulltext_screening_score": 0.95,
       "retrieved_at": "2026-04-21T16:36:11.815314",
-      "screened_at": "2026-04-22T15:44:06.839470",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/19942229.html",
-      "full_text_source": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/",
+      "screened_at": "2026-04-29T10:11:40.121565",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/19942229.html",
+      "full_text_source": "/home/zorro/repos/autonima-results/articles/ace_outputs",
       "fulltext_available": true,
       "retrieval_in_scope": true,
       "in_included_set": true,
       "coordinate_space": null,
       "activation_tables": [
         {
-          "table_id": "2",
+          "table_id": "792",
           "table_label": "Table 2",
           "table_caption": ". Regions in which GM density was significantly lower in S as compared to NS (NS > S).",
           "table_foot": null,
           "table_data_path": null,
-          "table_raw_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/processed/tables/19942229/2.html"
+          "table_raw_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/processed/tables/19942229/792.html"
         },
         {
-          "table_id": "3",
+          "table_id": "793",
           "table_label": "Table 3",
           "table_caption": ". Regions in which GM density was significantly lower in NR as compared to R (R > NR).",
           "table_foot": null,
           "table_data_path": null,
-          "table_raw_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/processed/tables/19942229/3.html"
+          "table_raw_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/processed/tables/19942229/793.html"
         },
         {
-          "table_id": "4",
+          "table_id": "794",
           "table_label": "Table 4",
           "table_caption": ". Regions in which GM density negatively correlated with TAQ-.",
           "table_foot": null,
           "table_data_path": null,
-          "table_raw_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/processed/tables/19942229/4.html"
+          "table_raw_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/processed/tables/19942229/794.html"
         }
       ],
       "analyses": [
@@ -3878,21 +4445,21 @@
       "abstract_screening_score": 0.95,
       "fulltext_screening_score": 0.92,
       "retrieved_at": "2026-04-21T16:36:11.815379",
-      "screened_at": "2026-04-22T15:44:06.839474",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/21498053.html",
-      "full_text_source": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/",
+      "screened_at": "2026-04-29T10:11:40.121568",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/21498053.html",
+      "full_text_source": "/home/zorro/repos/autonima-results/articles/ace_outputs",
       "fulltext_available": true,
       "retrieval_in_scope": true,
       "in_included_set": true,
       "coordinate_space": null,
       "activation_tables": [
         {
-          "table_id": "11",
+          "table_id": "816",
           "table_label": "Table 2",
           "table_caption": ". Coordinates and significance values of the gray matter decrease in PTSD patients compared with non-PTSD subjects.",
           "table_foot": null,
           "table_data_path": null,
-          "table_raw_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/processed/tables/21498053/11.html"
+          "table_raw_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/processed/tables/21498053/816.html"
         }
       ],
       "analyses": [
@@ -3986,9 +4553,9 @@
       "abstract_screening_score": 0.9,
       "fulltext_screening_score": 0.9,
       "retrieved_at": "2026-04-21T16:36:11.815519",
-      "screened_at": "2026-04-22T15:44:06.839477",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/22948482.html",
-      "full_text_source": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/",
+      "screened_at": "2026-04-29T10:11:40.121571",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/22948482.html",
+      "full_text_source": "/home/zorro/repos/autonima-results/articles/ace_outputs",
       "fulltext_available": true,
       "retrieval_in_scope": true,
       "in_included_set": true,
@@ -4024,9 +4591,9 @@
       "abstract_screening_score": 0.91,
       "fulltext_screening_score": 0.95,
       "retrieved_at": "2026-04-21T16:36:11.815875",
-      "screened_at": "2026-04-22T15:44:06.839488",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/19349151.html",
-      "full_text_source": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/",
+      "screened_at": "2026-04-29T10:11:40.121582",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/19349151.html",
+      "full_text_source": "/home/zorro/repos/autonima-results/articles/ace_outputs",
       "fulltext_available": true,
       "retrieval_in_scope": true,
       "in_included_set": true,
@@ -4062,29 +4629,29 @@
       "abstract_screening_score": 0.9,
       "fulltext_screening_score": 0.95,
       "retrieved_at": "2026-04-21T16:36:11.815999",
-      "screened_at": "2026-04-22T15:44:06.839492",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/17825801.html",
-      "full_text_source": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/",
+      "screened_at": "2026-04-29T10:11:40.121585",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/17825801.html",
+      "full_text_source": "/home/zorro/repos/autonima-results/articles/ace_outputs",
       "fulltext_available": true,
       "retrieval_in_scope": true,
       "in_included_set": true,
       "coordinate_space": null,
       "activation_tables": [
         {
-          "table_id": "6",
+          "table_id": "787",
           "table_label": "Table 2",
           "table_caption": "< .001",
           "table_foot": null,
           "table_data_path": null,
-          "table_raw_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/processed/tables/17825801/6.html"
+          "table_raw_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/processed/tables/17825801/787.html"
         },
         {
-          "table_id": "7",
+          "table_id": "788",
           "table_label": "Table 3",
           "table_caption": ". Results Adjusted for Potentially Confounding Variables",
           "table_foot": null,
           "table_data_path": null,
-          "table_raw_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/processed/tables/17825801/7.html"
+          "table_raw_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/processed/tables/17825801/788.html"
         }
       ],
       "analyses": [
@@ -4448,9 +5015,9 @@
       "abstract_screening_score": 0.95,
       "fulltext_screening_score": 0.9,
       "retrieved_at": "2026-04-21T16:36:11.816137",
-      "screened_at": "2026-04-22T15:44:06.839496",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/21710131.html",
-      "full_text_source": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/",
+      "screened_at": "2026-04-29T10:11:40.121588",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/21710131.html",
+      "full_text_source": "/home/zorro/repos/autonima-results/articles/ace_outputs",
       "fulltext_available": true,
       "retrieval_in_scope": true,
       "in_included_set": true,
@@ -4485,9 +5052,9 @@
       "abstract_screening_score": 0.85,
       "fulltext_screening_score": 0.9,
       "retrieved_at": "2026-04-21T16:36:11.816247",
-      "screened_at": "2026-04-22T15:44:06.839504",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/16038682.html",
-      "full_text_source": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/",
+      "screened_at": "2026-04-29T10:11:40.121596",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/16038682.html",
+      "full_text_source": "/home/zorro/repos/autonima-results/articles/ace_outputs",
       "fulltext_available": true,
       "retrieval_in_scope": true,
       "in_included_set": true,
@@ -4526,21 +5093,21 @@
       "abstract_screening_score": 0.95,
       "fulltext_screening_score": 0.95,
       "retrieved_at": "2026-04-21T16:36:11.816375",
-      "screened_at": "2026-04-22T15:44:06.839512",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/16371250.html",
-      "full_text_source": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/",
+      "screened_at": "2026-04-29T10:11:40.121603",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/16371250.html",
+      "full_text_source": "/home/zorro/repos/autonima-results/articles/ace_outputs",
       "fulltext_available": true,
       "retrieval_in_scope": true,
       "in_included_set": true,
       "coordinate_space": null,
       "activation_tables": [
         {
-          "table_id": "12",
+          "table_id": "830",
           "table_label": "Table 1",
           "table_caption": ". Reductions in gray matter in PTSD patients compared with non-PTSD subjects",
           "table_foot": null,
           "table_data_path": null,
-          "table_raw_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/processed/tables/16371250/12.html"
+          "table_raw_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/processed/tables/16371250/830.html"
         }
       ],
       "analyses": [
@@ -4639,9 +5206,9 @@
       "abstract_screening_score": 0.66,
       "fulltext_screening_score": 0.88,
       "retrieved_at": "2026-04-22T15:08:29.358491",
-      "screened_at": "2026-04-22T15:44:06.839534",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/36349877.html",
-      "full_text_source": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/",
+      "screened_at": "2026-04-29T10:11:40.121623",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/36349877.html",
+      "full_text_source": "/home/zorro/repos/autonima-results/articles/ace_outputs",
       "fulltext_available": true,
       "retrieval_in_scope": true,
       "in_included_set": true,
@@ -4689,9 +5256,9 @@
       "abstract_screening_score": 0.85,
       "fulltext_screening_score": 0.75,
       "retrieved_at": "2026-04-22T15:08:29.358896",
-      "screened_at": "2026-04-22T15:44:06.839558",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/38042250.html",
-      "full_text_source": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/",
+      "screened_at": "2026-04-29T10:11:40.121645",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/elsevier_output/38042250/text.txt",
+      "full_text_source": "/home/zorro/repos/autonima-results/articles/elsevier_output/",
       "fulltext_available": true,
       "retrieval_in_scope": true,
       "in_included_set": true,
@@ -4730,21 +5297,21 @@
       "abstract_screening_score": 0.95,
       "fulltext_screening_score": 0.95,
       "retrieved_at": "2026-04-22T15:08:29.359033",
-      "screened_at": "2026-04-22T15:44:06.839567",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/38614407.html",
-      "full_text_source": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/",
+      "screened_at": "2026-04-29T10:11:40.121654",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/elsevier_output/38614407/text.txt",
+      "full_text_source": "/home/zorro/repos/autonima-results/articles/elsevier_output/",
       "fulltext_available": true,
       "retrieval_in_scope": true,
       "in_included_set": true,
       "coordinate_space": null,
       "activation_tables": [
         {
-          "table_id": "25",
+          "table_id": "tbl0010",
           "table_label": "Table 2",
-          "table_caption": ". Brain activities in PTSD patient and healthy control (HC) groups during WM maintenance trial (a) and distractor trial (b).",
+          "table_caption": null,
           "table_foot": null,
           "table_data_path": null,
-          "table_raw_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/processed/tables/38614407/25.html"
+          "table_raw_path": null
         }
       ],
       "analyses": [
@@ -4925,8 +5492,8 @@
       "metadata": {},
       "abstract_screening_score": 0.92,
       "fulltext_screening_score": 0.95,
-      "retrieved_at": "2026-04-22T15:43:02.058392",
-      "screened_at": "2026-04-22T15:44:06.839587",
+      "retrieved_at": "2026-04-29T10:11:40.118893",
+      "screened_at": "2026-04-29T10:11:40.121672",
       "full_text_path": null,
       "full_text_source": "pubget",
       "fulltext_available": true,
@@ -5082,9 +5649,9 @@
       "abstract_screening_score": 0.95,
       "fulltext_screening_score": 0.92,
       "retrieved_at": "2026-04-22T15:26:00.905917",
-      "screened_at": "2026-04-22T15:44:06.839672",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/21683556.html",
-      "full_text_source": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/",
+      "screened_at": "2026-04-29T10:11:40.121732",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/elsevier_output/21683556/text.txt",
+      "full_text_source": "/home/zorro/repos/autonima-results/articles/elsevier_output/",
       "fulltext_available": true,
       "retrieval_in_scope": true,
       "in_included_set": true,
@@ -5118,9 +5685,9 @@
       "abstract_screening_score": 0.95,
       "fulltext_screening_score": 0.85,
       "retrieved_at": "2026-04-22T15:26:00.906833",
-      "screened_at": "2026-04-22T15:44:06.839713",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/26171720.html",
-      "full_text_source": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/",
+      "screened_at": "2026-04-29T10:11:40.121776",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/26171720.html",
+      "full_text_source": "/home/zorro/repos/autonima-results/articles/ace_outputs",
       "fulltext_available": true,
       "retrieval_in_scope": true,
       "in_included_set": true,
@@ -5129,12 +5696,7 @@
       "analyses": [],
       "abstract_inclusion_criteria_applied": [],
       "abstract_exclusion_criteria_applied": [],
-      "fulltext_inclusion_criteria_applied": [
-        "I3",
-        "I4",
-        "I5",
-        "I6"
-      ],
+      "fulltext_inclusion_criteria_applied": [],
       "fulltext_exclusion_criteria_applied": []
     },
     {
@@ -5160,8 +5722,8 @@
       "metadata": {},
       "abstract_screening_score": 0.95,
       "fulltext_screening_score": 0.88,
-      "retrieved_at": "2026-04-22T15:43:02.058398",
-      "screened_at": "2026-04-22T15:44:06.839618",
+      "retrieved_at": "2026-04-29T10:11:40.118898",
+      "screened_at": "2026-04-29T10:11:40.121782",
       "full_text_path": null,
       "full_text_source": "pubget",
       "fulltext_available": true,
@@ -5184,7 +5746,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218766",
+      "timestamp": "2026-04-29T10:11:38.966238",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -5195,7 +5757,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218777",
+      "timestamp": "2026-04-29T10:11:38.966247",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -5206,7 +5768,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218783",
+      "timestamp": "2026-04-29T10:11:38.966252",
       "inclusion_criteria_applied": [
         "I2"
       ],
@@ -5219,7 +5781,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218787",
+      "timestamp": "2026-04-29T10:11:38.966255",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -5233,7 +5795,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218791",
+      "timestamp": "2026-04-29T10:11:38.966259",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -5244,7 +5806,7 @@
       "confidence": 0.55,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218795",
+      "timestamp": "2026-04-29T10:11:38.966262",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -5255,7 +5817,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218799",
+      "timestamp": "2026-04-29T10:11:38.966265",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -5266,7 +5828,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218812",
+      "timestamp": "2026-04-29T10:11:38.966276",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -5277,7 +5839,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218817",
+      "timestamp": "2026-04-29T10:11:38.966284",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -5291,7 +5853,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218821",
+      "timestamp": "2026-04-29T10:11:38.966289",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -5302,7 +5864,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218825",
+      "timestamp": "2026-04-29T10:11:38.966292",
       "inclusion_criteria_applied": [
         "I1"
       ],
@@ -5315,7 +5877,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218828",
+      "timestamp": "2026-04-29T10:11:38.966295",
       "inclusion_criteria_applied": [
         "I2"
       ],
@@ -5328,7 +5890,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218831",
+      "timestamp": "2026-04-29T10:11:38.966297",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -5342,7 +5904,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218835",
+      "timestamp": "2026-04-29T10:11:38.966300",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -5353,7 +5915,7 @@
       "confidence": 0.6,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218837",
+      "timestamp": "2026-04-29T10:11:38.966302",
       "inclusion_criteria_applied": [
         "I2"
       ],
@@ -5366,7 +5928,7 @@
       "confidence": 0.78,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218840",
+      "timestamp": "2026-04-29T10:11:38.966306",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -5377,7 +5939,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218843",
+      "timestamp": "2026-04-29T10:11:38.966309",
       "inclusion_criteria_applied": [
         "I2"
       ],
@@ -5390,7 +5952,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218851",
+      "timestamp": "2026-04-29T10:11:38.966312",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -5401,7 +5963,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218854",
+      "timestamp": "2026-04-29T10:11:38.966315",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -5415,7 +5977,7 @@
       "confidence": 0.6,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218857",
+      "timestamp": "2026-04-29T10:11:38.966317",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -5426,7 +5988,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218860",
+      "timestamp": "2026-04-29T10:11:38.966319",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -5440,7 +6002,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218864",
+      "timestamp": "2026-04-29T10:11:38.966322",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -5451,7 +6013,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218867",
+      "timestamp": "2026-04-29T10:11:38.966325",
       "inclusion_criteria_applied": [
         "I2"
       ],
@@ -5464,7 +6026,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218869",
+      "timestamp": "2026-04-29T10:11:38.966327",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -5475,7 +6037,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218873",
+      "timestamp": "2026-04-29T10:11:38.966330",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -5486,7 +6048,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218875",
+      "timestamp": "2026-04-29T10:11:38.966332",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -5500,7 +6062,7 @@
       "confidence": 0.94,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218878",
+      "timestamp": "2026-04-29T10:11:38.966334",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -5514,7 +6076,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218881",
+      "timestamp": "2026-04-29T10:11:38.966337",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -5525,7 +6087,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218884",
+      "timestamp": "2026-04-29T10:11:38.966340",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -5536,7 +6098,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218887",
+      "timestamp": "2026-04-29T10:11:38.966343",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -5547,7 +6109,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218890",
+      "timestamp": "2026-04-29T10:11:38.966345",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -5558,7 +6120,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218893",
+      "timestamp": "2026-04-29T10:11:38.966348",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -5569,7 +6131,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218896",
+      "timestamp": "2026-04-29T10:11:38.966350",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -5583,7 +6145,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218899",
+      "timestamp": "2026-04-29T10:11:38.966354",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -5594,7 +6156,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218902",
+      "timestamp": "2026-04-29T10:11:38.966357",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -5608,7 +6170,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218904",
+      "timestamp": "2026-04-29T10:11:38.966359",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -5622,7 +6184,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218906",
+      "timestamp": "2026-04-29T10:11:38.966361",
       "inclusion_criteria_applied": [
         "I1"
       ],
@@ -5635,7 +6197,7 @@
       "confidence": 0.65,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218909",
+      "timestamp": "2026-04-29T10:11:38.966363",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -5646,7 +6208,7 @@
       "confidence": 0.93,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218911",
+      "timestamp": "2026-04-29T10:11:38.966366",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -5660,7 +6222,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218914",
+      "timestamp": "2026-04-29T10:11:38.966368",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -5671,7 +6233,7 @@
       "confidence": 0.55,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218918",
+      "timestamp": "2026-04-29T10:11:38.966372",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -5682,7 +6244,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218921",
+      "timestamp": "2026-04-29T10:11:38.966374",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -5696,7 +6258,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218923",
+      "timestamp": "2026-04-29T10:11:38.966376",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -5710,7 +6272,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218927",
+      "timestamp": "2026-04-29T10:11:38.966378",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -5721,7 +6283,7 @@
       "confidence": 0.6,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218930",
+      "timestamp": "2026-04-29T10:11:38.966381",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -5732,7 +6294,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218932",
+      "timestamp": "2026-04-29T10:11:38.966383",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -5746,7 +6308,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218935",
+      "timestamp": "2026-04-29T10:11:38.966385",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -5757,7 +6319,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218937",
+      "timestamp": "2026-04-29T10:11:38.966387",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -5771,7 +6333,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218940",
+      "timestamp": "2026-04-29T10:11:38.966389",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -5785,7 +6347,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218942",
+      "timestamp": "2026-04-29T10:11:38.966392",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -5799,7 +6361,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218946",
+      "timestamp": "2026-04-29T10:11:38.966394",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -5810,7 +6372,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218948",
+      "timestamp": "2026-04-29T10:11:38.966396",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -5824,7 +6386,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218950",
+      "timestamp": "2026-04-29T10:11:38.966399",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -5838,7 +6400,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218953",
+      "timestamp": "2026-04-29T10:11:38.966401",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -5852,7 +6414,7 @@
       "confidence": 0.93,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218956",
+      "timestamp": "2026-04-29T10:11:38.966403",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -5866,7 +6428,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218958",
+      "timestamp": "2026-04-29T10:11:38.966405",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -5880,7 +6442,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218961",
+      "timestamp": "2026-04-29T10:11:38.966408",
       "inclusion_criteria_applied": [
         "I2"
       ],
@@ -5893,7 +6455,7 @@
       "confidence": 0.55,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218964",
+      "timestamp": "2026-04-29T10:11:38.966410",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -5904,7 +6466,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218967",
+      "timestamp": "2026-04-29T10:11:38.966413",
       "inclusion_criteria_applied": [
         "I2"
       ],
@@ -5917,7 +6479,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218969",
+      "timestamp": "2026-04-29T10:11:38.966415",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -5931,7 +6493,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218972",
+      "timestamp": "2026-04-29T10:11:38.966417",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -5945,7 +6507,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218975",
+      "timestamp": "2026-04-29T10:11:38.966421",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -5956,7 +6518,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218977",
+      "timestamp": "2026-04-29T10:11:38.966424",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -5970,7 +6532,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218980",
+      "timestamp": "2026-04-29T10:11:38.966426",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -5981,7 +6543,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218983",
+      "timestamp": "2026-04-29T10:11:38.966428",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -5992,7 +6554,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218985",
+      "timestamp": "2026-04-29T10:11:38.966430",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -6006,7 +6568,7 @@
       "confidence": 0.91,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218988",
+      "timestamp": "2026-04-29T10:11:38.966433",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -6020,7 +6582,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218990",
+      "timestamp": "2026-04-29T10:11:38.966435",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -6034,7 +6596,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218992",
+      "timestamp": "2026-04-29T10:11:38.966437",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -6048,7 +6610,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218995",
+      "timestamp": "2026-04-29T10:11:38.966439",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -6062,7 +6624,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.218997",
+      "timestamp": "2026-04-29T10:11:38.966441",
       "inclusion_criteria_applied": [
         "I1"
       ],
@@ -6075,7 +6637,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219002",
+      "timestamp": "2026-04-29T10:11:38.966444",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -6089,7 +6651,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219004",
+      "timestamp": "2026-04-29T10:11:38.966446",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -6103,7 +6665,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219008",
+      "timestamp": "2026-04-29T10:11:38.966449",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6114,7 +6676,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219011",
+      "timestamp": "2026-04-29T10:11:38.966451",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6125,7 +6687,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219014",
+      "timestamp": "2026-04-29T10:11:38.966454",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6136,7 +6698,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219017",
+      "timestamp": "2026-04-29T10:11:38.966456",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6147,7 +6709,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219020",
+      "timestamp": "2026-04-29T10:11:38.966459",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6158,7 +6720,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219022",
+      "timestamp": "2026-04-29T10:11:38.966461",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6169,7 +6731,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219025",
+      "timestamp": "2026-04-29T10:11:38.966463",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6180,7 +6742,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219028",
+      "timestamp": "2026-04-29T10:11:38.966466",
       "inclusion_criteria_applied": [
         "I2"
       ],
@@ -6193,7 +6755,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219031",
+      "timestamp": "2026-04-29T10:11:38.966468",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6204,7 +6766,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219036",
+      "timestamp": "2026-04-29T10:11:38.966473",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6215,7 +6777,7 @@
       "confidence": 0.66,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219038",
+      "timestamp": "2026-04-29T10:11:38.966475",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6226,7 +6788,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219041",
+      "timestamp": "2026-04-29T10:11:38.966478",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6237,7 +6799,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219044",
+      "timestamp": "2026-04-29T10:11:38.966480",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6248,7 +6810,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219047",
+      "timestamp": "2026-04-29T10:11:38.966484",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -6262,7 +6824,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219050",
+      "timestamp": "2026-04-29T10:11:38.966486",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -6276,7 +6838,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219054",
+      "timestamp": "2026-04-29T10:11:38.966489",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -6290,7 +6852,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219056",
+      "timestamp": "2026-04-29T10:11:38.966491",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6301,7 +6863,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219059",
+      "timestamp": "2026-04-29T10:11:38.966493",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -6315,7 +6877,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219061",
+      "timestamp": "2026-04-29T10:11:38.966495",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -6329,7 +6891,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219064",
+      "timestamp": "2026-04-29T10:11:38.966498",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -6343,7 +6905,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219067",
+      "timestamp": "2026-04-29T10:11:38.966500",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -6357,7 +6919,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219070",
+      "timestamp": "2026-04-29T10:11:38.966503",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6368,7 +6930,7 @@
       "confidence": 0.6,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219074",
+      "timestamp": "2026-04-29T10:11:38.966505",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6379,7 +6941,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219077",
+      "timestamp": "2026-04-29T10:11:38.966507",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -6393,7 +6955,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219079",
+      "timestamp": "2026-04-29T10:11:38.966510",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -6407,7 +6969,7 @@
       "confidence": 0.65,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219082",
+      "timestamp": "2026-04-29T10:11:38.966512",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6418,7 +6980,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219085",
+      "timestamp": "2026-04-29T10:11:38.966515",
       "inclusion_criteria_applied": [
         "I2"
       ],
@@ -6431,7 +6993,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219088",
+      "timestamp": "2026-04-29T10:11:38.966523",
       "inclusion_criteria_applied": [
         "I2"
       ],
@@ -6444,7 +7006,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219091",
+      "timestamp": "2026-04-29T10:11:38.966526",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6455,7 +7017,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219094",
+      "timestamp": "2026-04-29T10:11:38.966529",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6466,7 +7028,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219097",
+      "timestamp": "2026-04-29T10:11:38.966532",
       "inclusion_criteria_applied": [
         "I2"
       ],
@@ -6479,7 +7041,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219100",
+      "timestamp": "2026-04-29T10:11:38.966534",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -6493,7 +7055,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219102",
+      "timestamp": "2026-04-29T10:11:38.966536",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -6507,7 +7069,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219105",
+      "timestamp": "2026-04-29T10:11:38.966539",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6518,7 +7080,7 @@
       "confidence": 0.6,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219107",
+      "timestamp": "2026-04-29T10:11:38.966541",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6529,7 +7091,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219110",
+      "timestamp": "2026-04-29T10:11:38.966544",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6540,7 +7102,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219114",
+      "timestamp": "2026-04-29T10:11:38.966547",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6551,7 +7113,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219116",
+      "timestamp": "2026-04-29T10:11:38.966549",
       "inclusion_criteria_applied": [
         "I2"
       ],
@@ -6564,7 +7126,7 @@
       "confidence": 0.78,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219119",
+      "timestamp": "2026-04-29T10:11:38.966551",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6575,7 +7137,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219122",
+      "timestamp": "2026-04-29T10:11:38.966555",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6586,7 +7148,7 @@
       "confidence": 1.0,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219125",
+      "timestamp": "2026-04-29T10:11:38.966559",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6597,7 +7159,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219128",
+      "timestamp": "2026-04-29T10:11:38.966561",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6608,7 +7170,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219131",
+      "timestamp": "2026-04-29T10:11:38.966564",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6619,7 +7181,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219134",
+      "timestamp": "2026-04-29T10:11:38.966566",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6630,7 +7192,7 @@
       "confidence": 0.6,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219136",
+      "timestamp": "2026-04-29T10:11:38.966569",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6641,7 +7203,7 @@
       "confidence": 0.96,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219139",
+      "timestamp": "2026-04-29T10:11:38.966572",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6652,7 +7214,7 @@
       "confidence": 0.4,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219144",
+      "timestamp": "2026-04-29T10:11:38.966574",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6663,7 +7225,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219147",
+      "timestamp": "2026-04-29T10:11:38.966576",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -6677,7 +7239,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219150",
+      "timestamp": "2026-04-29T10:11:38.966578",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -6691,7 +7253,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219153",
+      "timestamp": "2026-04-29T10:11:38.966580",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -6705,7 +7267,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219156",
+      "timestamp": "2026-04-29T10:11:38.966583",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6716,7 +7278,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219159",
+      "timestamp": "2026-04-29T10:11:38.966586",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6727,7 +7289,7 @@
       "confidence": 0.6,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219163",
+      "timestamp": "2026-04-29T10:11:38.966591",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6738,7 +7300,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219166",
+      "timestamp": "2026-04-29T10:11:38.966595",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6749,7 +7311,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219169",
+      "timestamp": "2026-04-29T10:11:38.966597",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6760,7 +7322,7 @@
       "confidence": 0.6,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219172",
+      "timestamp": "2026-04-29T10:11:38.966600",
       "inclusion_criteria_applied": [
         "I2"
       ],
@@ -6773,7 +7335,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219175",
+      "timestamp": "2026-04-29T10:11:38.966602",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6784,7 +7346,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219178",
+      "timestamp": "2026-04-29T10:11:38.966605",
       "inclusion_criteria_applied": [
         "I2"
       ],
@@ -6797,7 +7359,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219181",
+      "timestamp": "2026-04-29T10:11:38.966607",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6808,7 +7370,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219184",
+      "timestamp": "2026-04-29T10:11:38.966610",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6819,7 +7381,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219187",
+      "timestamp": "2026-04-29T10:11:38.966612",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6830,7 +7392,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219190",
+      "timestamp": "2026-04-29T10:11:38.966615",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6841,7 +7403,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219193",
+      "timestamp": "2026-04-29T10:11:38.966619",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6852,7 +7414,7 @@
       "confidence": 0.65,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219195",
+      "timestamp": "2026-04-29T10:11:38.966621",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6863,7 +7425,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219199",
+      "timestamp": "2026-04-29T10:11:38.966624",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -6874,7 +7436,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219201",
+      "timestamp": "2026-04-29T10:11:38.966626",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -6888,7 +7450,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219203",
+      "timestamp": "2026-04-29T10:11:38.966628",
       "inclusion_criteria_applied": [
         "I1",
         "I2"
@@ -6902,7 +7464,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-04-22T15:43:01.219207",
+      "timestamp": "2026-04-29T10:11:38.966631",
       "inclusion_criteria_applied": [
         "I2"
       ],
@@ -6917,7 +7479,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060557",
+      "timestamp": "2026-04-29T10:11:40.121038",
       "inclusion_criteria_applied": [
         "I3",
         "I6"
@@ -6933,7 +7495,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060563",
+      "timestamp": "2026-04-29T10:11:40.121044",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -6949,7 +7511,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060567",
+      "timestamp": "2026-04-29T10:11:40.121048",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [
         "E7",
@@ -6963,7 +7525,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060570",
+      "timestamp": "2026-04-29T10:11:40.121051",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [
         "E8"
@@ -6976,7 +7538,7 @@
       "confidence": 0.83,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060573",
+      "timestamp": "2026-04-29T10:11:40.121054",
       "inclusion_criteria_applied": [
         "I3",
         "I5",
@@ -6993,7 +7555,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060576",
+      "timestamp": "2026-04-29T10:11:40.121057",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -7009,7 +7571,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060580",
+      "timestamp": "2026-04-29T10:11:40.121060",
       "inclusion_criteria_applied": [
         "I3",
         "I6"
@@ -7025,7 +7587,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060583",
+      "timestamp": "2026-04-29T10:11:40.121063",
       "inclusion_criteria_applied": [
         "I3",
         "I6"
@@ -7041,7 +7603,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060585",
+      "timestamp": "2026-04-29T10:11:40.121066",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -7057,7 +7619,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060588",
+      "timestamp": "2026-04-29T10:11:40.121068",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -7073,7 +7635,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060591",
+      "timestamp": "2026-04-29T10:11:40.121071",
       "inclusion_criteria_applied": [
         "I6"
       ],
@@ -7088,7 +7650,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060594",
+      "timestamp": "2026-04-29T10:11:40.121074",
       "inclusion_criteria_applied": [
         "I3",
         "I6"
@@ -7104,7 +7666,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060597",
+      "timestamp": "2026-04-29T10:11:40.121078",
       "inclusion_criteria_applied": [
         "I3",
         "I6"
@@ -7120,7 +7682,7 @@
       "confidence": 0.87,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060600",
+      "timestamp": "2026-04-29T10:11:40.121081",
       "inclusion_criteria_applied": [
         "I3",
         "I5",
@@ -7137,7 +7699,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060603",
+      "timestamp": "2026-04-29T10:11:40.121083",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -7153,7 +7715,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060605",
+      "timestamp": "2026-04-29T10:11:40.121086",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -7169,7 +7731,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060608",
+      "timestamp": "2026-04-29T10:11:40.121088",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -7185,7 +7747,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060611",
+      "timestamp": "2026-04-29T10:11:40.121091",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -7201,7 +7763,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060613",
+      "timestamp": "2026-04-29T10:11:40.121093",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -7217,7 +7779,7 @@
       "confidence": 0.87,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060615",
+      "timestamp": "2026-04-29T10:11:40.121095",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -7233,7 +7795,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060618",
+      "timestamp": "2026-04-29T10:11:40.121098",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [
         "E8"
@@ -7246,7 +7808,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060621",
+      "timestamp": "2026-04-29T10:11:40.121101",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -7262,7 +7824,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060624",
+      "timestamp": "2026-04-29T10:11:40.121104",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [
         "E4",
@@ -7276,7 +7838,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060627",
+      "timestamp": "2026-04-29T10:11:40.121107",
       "inclusion_criteria_applied": [
         "I5",
         "I6"
@@ -7292,7 +7854,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060630",
+      "timestamp": "2026-04-29T10:11:40.121109",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -7308,7 +7870,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060632",
+      "timestamp": "2026-04-29T10:11:40.121111",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -7324,7 +7886,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060635",
+      "timestamp": "2026-04-29T10:11:40.121114",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -7335,7 +7897,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060638",
+      "timestamp": "2026-04-29T10:11:40.121117",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -7351,7 +7913,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060640",
+      "timestamp": "2026-04-29T10:11:40.121119",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -7367,7 +7929,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060643",
+      "timestamp": "2026-04-29T10:11:40.121122",
       "inclusion_criteria_applied": [
         "I3",
         "I6"
@@ -7383,7 +7945,7 @@
       "confidence": 0.86,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060646",
+      "timestamp": "2026-04-29T10:11:40.121125",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -7401,7 +7963,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060649",
+      "timestamp": "2026-04-29T10:11:40.121128",
       "inclusion_criteria_applied": [
         "I3",
         "I6"
@@ -7417,7 +7979,7 @@
       "confidence": 0.93,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060652",
+      "timestamp": "2026-04-29T10:11:40.121130",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -7433,7 +7995,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060654",
+      "timestamp": "2026-04-29T10:11:40.121133",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -7449,7 +8011,23 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060657",
+      "timestamp": "2026-04-29T10:11:40.121135",
+      "inclusion_criteria_applied": [
+        "I3",
+        "I4",
+        "I5",
+        "I6"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
+      "study_id": "16508348",
+      "decision": "fulltext_incomplete",
+      "reason": "The study is an empirical, English-language MRI investigation comparing PTSD patients (n=23) to healthy controls (n=17) using both ROI and voxel-based morphometry (VBM). The abstract reports significant voxel clusters from a whole-brain VBM between-group model (lower gray matter in the right hippocampus for PTSD), satisfying whole-brain voxel-wise between-group contrast reporting. Control group is healthy individuals. Therefore inclusion criteria I3, I4, I5, and I6 are met. However, the provided content appears to be limited to the abstract, metadata, and references rather than full article text (methods/results/discussion not fully present); fulltext_incomplete is set to true, reducing certainty. Verification from the complete article would be ideal but based on available information the study qualifies for inclusion.",
+      "confidence": 0.75,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-29T10:11:40.121142",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -7465,7 +8043,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060660",
+      "timestamp": "2026-04-29T10:11:40.121145",
       "inclusion_criteria_applied": [
         "I3",
         "I6"
@@ -7481,7 +8059,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060663",
+      "timestamp": "2026-04-29T10:11:40.121148",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -7497,7 +8075,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060665",
+      "timestamp": "2026-04-29T10:11:40.121150",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -7513,7 +8091,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060668",
+      "timestamp": "2026-04-29T10:11:40.121153",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -7529,7 +8107,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060670",
+      "timestamp": "2026-04-29T10:11:40.121155",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -7545,7 +8123,7 @@
       "confidence": 0.87,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060673",
+      "timestamp": "2026-04-29T10:11:40.121159",
       "inclusion_criteria_applied": [
         "I3",
         "I5",
@@ -7562,7 +8140,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060676",
+      "timestamp": "2026-04-29T10:11:40.121162",
       "inclusion_criteria_applied": [
         "I3",
         "I6"
@@ -7578,7 +8156,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060679",
+      "timestamp": "2026-04-29T10:11:40.121164",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -7594,7 +8172,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060681",
+      "timestamp": "2026-04-29T10:11:40.121166",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -7610,7 +8188,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060684",
+      "timestamp": "2026-04-29T10:11:40.121169",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -7626,7 +8204,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060687",
+      "timestamp": "2026-04-29T10:11:40.121172",
       "inclusion_criteria_applied": [
         "I3",
         "I6"
@@ -7642,7 +8220,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060689",
+      "timestamp": "2026-04-29T10:11:40.121174",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -7658,7 +8236,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060692",
+      "timestamp": "2026-04-29T10:11:40.121177",
       "inclusion_criteria_applied": [
         "I3",
         "I5",
@@ -7675,7 +8253,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060695",
+      "timestamp": "2026-04-29T10:11:40.121180",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -7691,7 +8269,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060698",
+      "timestamp": "2026-04-29T10:11:40.121183",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [
         "E4",
@@ -7706,7 +8284,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060701",
+      "timestamp": "2026-04-29T10:11:40.121186",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [
         "E7",
@@ -7720,7 +8298,7 @@
       "confidence": 0.87,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060704",
+      "timestamp": "2026-04-29T10:11:40.121189",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [
         "E4"
@@ -7733,7 +8311,7 @@
       "confidence": 0.89,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060707",
+      "timestamp": "2026-04-29T10:11:40.121192",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -7744,7 +8322,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060710",
+      "timestamp": "2026-04-29T10:11:40.121195",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -7760,7 +8338,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060713",
+      "timestamp": "2026-04-29T10:11:40.121198",
       "inclusion_criteria_applied": [
         "I3",
         "I5",
@@ -7777,7 +8355,7 @@
       "confidence": 0.91,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060716",
+      "timestamp": "2026-04-29T10:11:40.121201",
       "inclusion_criteria_applied": [
         "I3",
         "I6"
@@ -7793,7 +8371,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060719",
+      "timestamp": "2026-04-29T10:11:40.121204",
       "inclusion_criteria_applied": [
         "I3",
         "I6"
@@ -7809,7 +8387,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060722",
+      "timestamp": "2026-04-29T10:11:40.121207",
       "inclusion_criteria_applied": [
         "I3",
         "I6"
@@ -7825,7 +8403,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060724",
+      "timestamp": "2026-04-29T10:11:40.121209",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -7841,7 +8419,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060727",
+      "timestamp": "2026-04-29T10:11:40.121212",
       "inclusion_criteria_applied": [
         "I6"
       ],
@@ -7854,7 +8432,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060730",
+      "timestamp": "2026-04-29T10:11:40.121214",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -7870,7 +8448,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060733",
+      "timestamp": "2026-04-29T10:11:40.121218",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -7881,7 +8459,7 @@
       "confidence": 0.84,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060736",
+      "timestamp": "2026-04-29T10:11:40.121221",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [
         "E6"
@@ -7894,7 +8472,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060739",
+      "timestamp": "2026-04-29T10:11:40.121224",
       "inclusion_criteria_applied": [
         "I3",
         "I6"
@@ -7911,7 +8489,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060742",
+      "timestamp": "2026-04-29T10:11:40.121226",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -7927,7 +8505,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060745",
+      "timestamp": "2026-04-29T10:11:40.121229",
       "inclusion_criteria_applied": [
         "I3",
         "I6"
@@ -7937,53 +8515,13 @@
       ]
     },
     {
-      "study_id": "39379972",
-      "decision": "excluded_fulltext",
-      "reason": "The study is an empirical, English-language MRI study of PTSD but does not report whole-brain voxel-wise between-group contrasts of GM volume (I4 not met). Although gray matter volume is one of several features extracted, the primary between-group comparisons are of morphometric similarity network (MSN) metrics across a 308-region cortical parcellation rather than voxel-wise GM volume differences, so it does not satisfy I3 (GM volume differences between PTSD and controls as the reported outcome). Control groups (healthy and trauma-exposed healthy individuals) are present (I6 met). Full text appears complete. Therefore the article is excluded because it does not meet the required GM-volume, whole-brain voxel-wise between-group contrast criteria (I3 and I4).",
-      "confidence": 0.85,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060749",
-      "inclusion_criteria_applied": [
-        "I6"
-      ],
-      "exclusion_criteria_applied": []
-    },
-    {
-      "study_id": "39748330",
-      "decision": "excluded_fulltext",
-      "reason": "This study is excluded because it does not meet the required morphometry inclusion criteria for the meta-analysis. Inclusion criteria met: I6 (control population includes healthy controls). Inclusion criteria not met: I3 \u2013 although gray matter volume is one of seven morphometric features used to build morphometric similarity networks (MSN), the paper does not present an empirical analysis of GM volume differences (voxel-wise or regional VBM) between PTSD patients and controls; I4 \u2013 the paper does not report whole-brain voxel-wise between-group contrasts of PTSD vs controls comparing GM volume. No exclusion criteria from the provided list directly apply (exclusion_criteria_applied = []). The full text appears complete. Therefore the study is not eligible for inclusion in a meta-analysis that requires whole-brain GM volume contrasts in PTSD vs controls.",
-      "confidence": 0.85,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060754",
-      "inclusion_criteria_applied": [],
-      "exclusion_criteria_applied": []
-    },
-    {
-      "study_id": "24724093",
-      "decision": "included_fulltext",
-      "reason": "This is an empirical, English-language structural MRI study that compares gray-matter volume between a PTSD group and controls. The study used whole-brain voxel-based morphometry (VBM) to perform voxel-wise between-group contrasts (PTSD/mTBI vs controls) and reports significant between-group results (bilateral anterior amygdala reductions), corroborated by surface-based morphometry (SBM). PTSD diagnosis was established via SCID; the control group consists of previously deployed combat veterans without PTSD or TBI (trauma-exposed controls), which fits allowed control populations. The full text includes Introduction, Methods (neuroimaging acquisition and analysis), Results, and Discussion, so the full text appears complete. Although the PTSD group is comorbid with mild TBI, PTSD diagnosis is present and whole-brain GM comparisons are reported; no exclusion criteria (e.g., ROI-only, non-empirical, or null-only) apply. Therefore the study meets the review\u2019s inclusion criteria for morphometry studies of structural alterations associated with PTSD.",
-      "confidence": 0.88,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060757",
-      "inclusion_criteria_applied": [
-        "I3",
-        "I4",
-        "I5",
-        "I6"
-      ],
-      "exclusion_criteria_applied": []
-    },
-    {
       "study_id": "34791677",
       "decision": "excluded_fulltext",
       "reason": "This study is an empirical English-language structural MRI morphometry study of PTSD (I3 met) that reports whole-brain regional/vertex-based results in tables/figures (I5 met) and uses a normative healthy control database (I6 met). However, it does not present a conventional whole-brain voxel-wise between-group contrast of PTSD patients versus an in-study control group comparing GM volume (or VBM-style voxel-wise maps) as required by I4. Instead, the authors compared patient morphometry to a normative database via Z-scores and parcel-wise/region-wise tests; this does not satisfy inclusion criterion I4. No exclusion criteria (E4\u2013E9) are specifically triggered. Therefore the paper must be excluded for failing to meet I4 (whole-brain voxel-wise between-group contrast).",
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:40.719387",
+      "timestamp": "2026-04-29T10:11:40.121232",
       "inclusion_criteria_applied": [
         "I3",
         "I5",
@@ -7998,7 +8536,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:42.710256",
+      "timestamp": "2026-04-29T10:11:40.121235",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -8010,13 +8548,26 @@
       ]
     },
     {
+      "study_id": "39379972",
+      "decision": "excluded_fulltext",
+      "reason": "The study is an empirical, English-language MRI study of PTSD but does not report whole-brain voxel-wise between-group contrasts of GM volume (I4 not met). Although gray matter volume is one of several features extracted, the primary between-group comparisons are of morphometric similarity network (MSN) metrics across a 308-region cortical parcellation rather than voxel-wise GM volume differences, so it does not satisfy I3 (GM volume differences between PTSD and controls as the reported outcome). Control groups (healthy and trauma-exposed healthy individuals) are present (I6 met). Full text appears complete. Therefore the article is excluded because it does not meet the required GM-volume, whole-brain voxel-wise between-group contrast criteria (I3 and I4).",
+      "confidence": 0.85,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-29T10:11:40.121238",
+      "inclusion_criteria_applied": [
+        "I6"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
       "study_id": "30153637",
       "decision": "excluded_fulltext",
       "reason": "Exclusion: E4 (only ROI analyses). Inclusion met: I3 (empirical English MRI study assessing grey matter volume differences \u2014 manual amygdala volumetry comparing PTSD vs controls), I6 (controls were trauma-exposed non-PTSD individuals), and I5 (results are reported in tables/text). Inclusion not met: I4 (no whole-brain voxel-wise between-group GM volume contrast reported). The study uses manual ROI volumetry of the bilateral amygdalae and does not present any whole-brain voxel-based morphometry or voxel-wise GM contrasts required by the meta-analysis. Therefore it must be excluded from a meta-analysis that requires whole-brain voxel-wise GM results, despite being an otherwise valid structural MRI study of PTSD.",
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:33.872473",
+      "timestamp": "2026-04-29T10:11:40.121241",
       "inclusion_criteria_applied": [
         "I3",
         "I6",
@@ -8033,7 +8584,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:34.420842",
+      "timestamp": "2026-04-29T10:11:40.121244",
       "inclusion_criteria_applied": [
         "I3",
         "I6"
@@ -8049,7 +8600,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:45.889534",
+      "timestamp": "2026-04-29T10:11:40.121247",
       "inclusion_criteria_applied": [
         "I6"
       ],
@@ -8064,7 +8615,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:41.389359",
+      "timestamp": "2026-04-29T10:11:40.121250",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [
         "E8"
@@ -8077,7 +8628,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:45.990714",
+      "timestamp": "2026-04-29T10:11:40.121253",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -8095,7 +8646,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:28.965118",
+      "timestamp": "2026-04-29T10:11:40.121257",
       "inclusion_criteria_applied": [
         "I3",
         "I6"
@@ -8111,7 +8662,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:44:06.828241",
+      "timestamp": "2026-04-29T10:11:40.121259",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -8122,7 +8673,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:55.144290",
+      "timestamp": "2026-04-29T10:11:40.121263",
       "inclusion_criteria_applied": [
         "I3",
         "I6"
@@ -8139,7 +8690,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:41.007737",
+      "timestamp": "2026-04-29T10:11:40.121266",
       "inclusion_criteria_applied": [
         "I6"
       ],
@@ -8152,7 +8703,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:48.391551",
+      "timestamp": "2026-04-29T10:11:40.121269",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [
         "E7",
@@ -8166,7 +8717,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:52.134544",
+      "timestamp": "2026-04-29T10:11:40.121272",
       "inclusion_criteria_applied": [
         "I5"
       ],
@@ -8175,13 +8726,24 @@
       ]
     },
     {
+      "study_id": "39748330",
+      "decision": "excluded_fulltext",
+      "reason": "This study is excluded because it does not meet the required morphometry inclusion criteria for the meta-analysis. Inclusion criteria met: I6 (control population includes healthy controls). Inclusion criteria not met: I3 \u2013 although gray matter volume is one of seven morphometric features used to build morphometric similarity networks (MSN), the paper does not present an empirical analysis of GM volume differences (voxel-wise or regional VBM) between PTSD patients and controls; I4 \u2013 the paper does not report whole-brain voxel-wise between-group contrasts of PTSD vs controls comparing GM volume. No exclusion criteria from the provided list directly apply (exclusion_criteria_applied = []). The full text appears complete. Therefore the study is not eligible for inclusion in a meta-analysis that requires whole-brain GM volume contrasts in PTSD vs controls.",
+      "confidence": 0.85,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-29T10:11:40.121275",
+      "inclusion_criteria_applied": [],
+      "exclusion_criteria_applied": []
+    },
+    {
       "study_id": "41248856",
       "decision": "excluded_fulltext",
       "reason": "This study uses morphometric similarity network (MSN) analyses derived from multiple regional morphological features (including GM volume) at a parcel/regional level and reports between-group MSN differences and mediation analyses. It does not report a whole-brain voxel-wise between-group contrast of grey matter (GM) volume (e.g., VBM) comparing PTSD patients vs controls. Therefore it does not meet the requirement for whole-brain voxel-wise GM volume results. Exclusion is based on E4 (only region/parcellation-level analyses with no qualifying whole-brain voxel-wise GM volume results). It does meet I6 (appropriate control groups: trauma-exposed NonPTSD and healthy controls). It does not meet I3 (no standard GM volume between-group analysis), I4 (no voxel-wise whole-brain GM contrast), nor I5 (no qualifying coordinate table/figures of voxel-wise GM differences). Full text appears complete.",
       "confidence": 0.86,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:47.688745",
+      "timestamp": "2026-04-29T10:11:40.121278",
       "inclusion_criteria_applied": [
         "I6"
       ],
@@ -8196,7 +8758,23 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:43.155254",
+      "timestamp": "2026-04-29T10:11:40.121280",
+      "inclusion_criteria_applied": [
+        "I3",
+        "I4",
+        "I5",
+        "I6"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
+      "study_id": "24724093",
+      "decision": "included_fulltext",
+      "reason": "This is an empirical, English-language structural MRI study that compares gray-matter volume between a PTSD group and controls. The study used whole-brain voxel-based morphometry (VBM) to perform voxel-wise between-group contrasts (PTSD/mTBI vs controls) and reports significant between-group results (bilateral anterior amygdala reductions), corroborated by surface-based morphometry (SBM). PTSD diagnosis was established via SCID; the control group consists of previously deployed combat veterans without PTSD or TBI (trauma-exposed controls), which fits allowed control populations. The full text includes Introduction, Methods (neuroimaging acquisition and analysis), Results, and Discussion, so the full text appears complete. Although the PTSD group is comorbid with mild TBI, PTSD diagnosis is present and whole-brain GM comparisons are reported; no exclusion criteria (e.g., ROI-only, non-empirical, or null-only) apply. Therefore the study meets the review\u2019s inclusion criteria for morphometry studies of structural alterations associated with PTSD.",
+      "confidence": 0.88,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-29T10:11:40.121282",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -8208,7 +8786,7 @@
   ],
   "execution_stats": {
     "stop_after_stage": "full",
-    "search_completed": "2026-04-22T15:43:01.082776",
+    "search_completed": "2026-04-29T10:11:38.879076",
     "studies_found": 144,
     "search_engine": "pubmed",
     "search_query": "((((\"voxel-based morphometr*\"[tiab] OR VBM[tiab] OR morphometr*[tiab] OR \"gray matter volum*\"[tiab] OR \"grey mattr volum*\"[tiab] OR \"gray matter densit*\"[tiab] OR \"grey matter densit*\"[tiab]) AND (\"Stress Disorders, Post-Traumatic\"[Mesh] OR PTSD[tiab] OR \"post-traumatic stress disorder\"[tiab]) AND Humans[mh] AND English[lang] NOT (review[pt] OR \"systematic review\"[tiab] OR meta-analysis[pt]))",
@@ -8217,9 +8795,9 @@
     "retrieval": {
       "scope": "included + excluded",
       "total_considered": 141,
-      "local_found": 98,
-      "retrieved_or_cached": 136,
-      "missing_full_text": 5
+      "local_found": 99,
+      "retrieved_or_cached": 137,
+      "missing_full_text": 4
     },
     "coordinate_parsing": {
       "enabled": true,
@@ -8228,21 +8806,21 @@
     },
     "annotation": {
       "enabled": true,
-      "decisions": 242
+      "decisions": 280
     },
-    "output_completed": "2026-04-22T15:44:07.195289",
+    "output_completed": "2026-04-29T10:11:40.139601",
     "prisma_stats": {
       "total_identified": 144,
       "abstract_screened": 141,
       "abstract_excluded": 52,
-      "fulltext_assessed": 84,
+      "fulltext_assessed": 85,
       "fulltext_excluded": 50,
-      "fulltext_incomplete": 0,
+      "fulltext_incomplete": 1,
       "final_included": 34
     },
     "final_included_count": 34
   },
   "errors": [],
-  "started_at": "2026-04-22T15:43:00.615072",
+  "started_at": "2026-04-29T10:11:38.223114",
   "completed_at": null
 }
