@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cross-Project Fair Manual-vs-Auto Meta Summary</title>
+  <style>
+    :root {
+      --bg: #f4f7fb;
+      --panel: #ffffff;
+      --ink: #1f2933;
+      --line: #d5dee8;
+      --accent: #0f766e;
+    }
+    body { margin: 0; padding: 1rem; background: var(--bg); color: var(--ink); font-family: "IBM Plex Sans", "Segoe UI", sans-serif; }
+    header, section { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 1rem; margin-bottom: 1rem; }
+    h1, h2 { margin-top: 0; }
+    .kpis { display: grid; gap: 0.7rem; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); }
+    .kpi { border: 1px solid var(--line); border-radius: 8px; background: #fbfdff; padding: 0.65rem; }
+    .kpi .label { color: #4a5b70; font-size: 0.85rem; }
+    .kpi .value { color: var(--accent); font-size: 1.3rem; font-weight: 700; }
+    .table-wrap { overflow-x: auto; }
+    table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+    th, td { border: 1px solid var(--line); padding: 0.45rem; text-align: left; vertical-align: top; }
+    th { background: #e9eff6; }
+    .muted { color: #5b6b80; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Cross-Project Fair Manual-vs-Auto Meta Summary</h1>
+    <p>Generated at 2026-04-30T16:14:11.606388Z.</p>
+    <div class="kpis">
+      <div class="kpi"><div class="label">Projects Processed</div><div class="value">9</div></div>
+      <div class="kpi"><div class="label">Projects Succeeded</div><div class="value">5</div></div>
+      <div class="kpi"><div class="label">Runs Summarized</div><div class="value">5</div></div>
+      <div class="kpi"><div class="label">Mean Dice Diagonal</div><div class="value">0.5659</div></div>
+      <div class="kpi"><div class="label">Mean Pearson Diagonal</div><div class="value">0.7853</div></div>
+    </div>
+  </header>
+
+  <section>
+    <h2>Project Status</h2>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Project</th>
+            <th>Status</th>
+            <th>Reason</th>
+            <th>Eligible Runs</th>
+            <th>Fair IDs</th>
+            <th>Manual Meta</th>
+            <th>Compare</th>
+            <th>Project Report</th>
+            <th>Compare Log</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>cue_reactivity</td><td>success</td><td>completed</td><td>1</td><td>144</td><td>cached</td><td>success</td><td><a href="../../projects/cue_reactivity/reports/manual_vs_auto_meta_fair/manual_vs_auto_meta_report.html">manual_vs_auto_meta_report.html</a></td><td><a href="../../projects/cue_reactivity/reports/manual_vs_auto_meta_fair/fair_manual_meta/logs/compare_meta_to_benchmark.log">compare log</a></td></tr><tr><td>decision_making</td><td>success</td><td>completed</td><td>1</td><td>53</td><td>cached</td><td>success</td><td><a href="../../projects/decision_making/reports/manual_vs_auto_meta_fair/manual_vs_auto_meta_report.html">manual_vs_auto_meta_report.html</a></td><td><a href="../../projects/decision_making/reports/manual_vs_auto_meta_fair/fair_manual_meta/logs/compare_meta_to_benchmark.log">compare log</a></td></tr><tr><td>dementia</td><td>skipped</td><td>mapping setup failed: Missing mapping file for project dementia. Searched: /home/zorro/repos/autonima-results/projects/dementia/nmb_mappings.json, /home/zorro/repos/autonima-results/projects/dementia/nmb_mapping.json</td><td>0</td><td>0</td><td>not_run</td><td>not_run</td><td><span class='muted'>missing</span></td><td><span class='muted'>missing</span></td></tr><tr><td>executive_function</td><td>skipped</td><td>no eligible annotation-only runs after validation</td><td>0</td><td>0</td><td>not_run</td><td>not_run</td><td><span class='muted'>missing</span></td><td><span class='muted'>missing</span></td></tr><tr><td>problem_solving</td><td>skipped</td><td>mapping setup failed: Missing mapping file for project problem_solving. Searched: /home/zorro/repos/autonima-results/projects/problem_solving/nmb_mappings.json, /home/zorro/repos/autonima-results/projects/problem_solving/nmb_mapping.json</td><td>0</td><td>0</td><td>not_run</td><td>not_run</td><td><span class='muted'>missing</span></td><td><span class='muted'>missing</span></td></tr><tr><td>social</td><td>success</td><td>completed</td><td>4</td><td>134</td><td>cached</td><td>success</td><td><a href="../../projects/social/reports/manual_vs_auto_meta_fair/manual_vs_auto_meta_report.html">manual_vs_auto_meta_report.html</a></td><td><a href="../../projects/social/reports/manual_vs_auto_meta_fair/fair_manual_meta/logs/compare_meta_to_benchmark.log">compare log</a></td></tr><tr><td>template_</td><td>skipped</td><td>no eligible annotation-only runs after validation</td><td>0</td><td>0</td><td>not_run</td><td>not_run</td><td><span class='muted'>missing</span></td><td><span class='muted'>missing</span></td></tr><tr><td>vbm_of_ptsd</td><td>success</td><td>completed</td><td>1</td><td>10</td><td>cached</td><td>success</td><td><a href="../../projects/vbm_of_ptsd/reports/manual_vs_auto_meta_fair/manual_vs_auto_meta_report.html">manual_vs_auto_meta_report.html</a></td><td><a href="../../projects/vbm_of_ptsd/reports/manual_vs_auto_meta_fair/fair_manual_meta/logs/compare_meta_to_benchmark.log">compare log</a></td></tr><tr><td>vbm_of_substance_use</td><td>success</td><td>completed</td><td>1</td><td>53</td><td>cached</td><td>success</td><td><a href="../../projects/vbm_of_substance_use/reports/manual_vs_auto_meta_fair/manual_vs_auto_meta_report.html">manual_vs_auto_meta_report.html</a></td><td><a href="../../projects/vbm_of_substance_use/reports/manual_vs_auto_meta_fair/fair_manual_meta/logs/compare_meta_to_benchmark.log">compare log</a></td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section>
+    <h2>Per-Run Metrics</h2>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Project</th>
+            <th>Run</th>
+            <th>Dice Mean Diagonal</th>
+            <th>Pearson Mean Diagonal</th>
+            <th>Dice Baseline (all_analyses)</th>
+            <th>Pearson Baseline (all_analyses)</th>
+            <th>Dice Mean Off-Diagonal</th>
+            <th>Pearson Mean Off-Diagonal</th>
+            <th>N Rows</th>
+            <th>N Cols</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>cue_reactivity</td><td>v5-annotation-only</td><td>0.7018</td><td>0.8751</td><td>0.6141</td><td>0.8133</td><td>0.5650</td><td>0.7592</td><td>6</td><td>3</td></tr><tr><td>decision_making</td><td>v2-annotation-only</td><td>0.3536</td><td>0.6321</td><td>0.2765</td><td>0.5873</td><td>0.2230</td><td>0.4694</td><td>6</td><td>3</td></tr><tr><td>social</td><td>v3-annotation-only</td><td>0.4961</td><td>0.6980</td><td>0.5146</td><td>0.7650</td><td>0.3905</td><td>0.6327</td><td>8</td><td>5</td></tr><tr><td>vbm_of_ptsd</td><td>v1-annotation-only</td><td>0.8355</td><td>0.9221</td><td>0.5208</td><td>0.7453</td><td>0.5208</td><td>0.7453</td><td>4</td><td>1</td></tr><tr><td>vbm_of_substance_use</td><td>v2-annotation-only</td><td>0.4425</td><td>0.7992</td><td>0.2189</td><td>0.4606</td><td>0.1117</td><td>0.2944</td><td>9</td><td>6</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="muted">Primary summary metrics are mapped diagonal means. Off-diagonal excludes mapped diagonals and the all_analyses baseline row.</p>
+  </section>
+  <section><h2>Per-Run Dice Chart</h2><img src="run_metrics_dice_plot.png" alt="Per-run Dice chart" style="max-width: 100%; height: auto; border: 1px solid #d5dee8; border-radius: 8px;"></section><section><h2>Per-Run Pearson Chart</h2><img src="run_metrics_pearson_plot.png" alt="Per-run Pearson chart" style="max-width: 100%; height: auto; border: 1px solid #d5dee8; border-radius: 8px;"></section>
+</body>
+</html>
