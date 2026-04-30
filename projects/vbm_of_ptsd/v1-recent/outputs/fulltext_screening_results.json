@@ -7,7 +7,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060557",
+      "timestamp": "2026-04-29T10:11:40.121038",
       "inclusion_criteria_applied": [
         "I3",
         "I6"
@@ -23,7 +23,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060563",
+      "timestamp": "2026-04-29T10:11:40.121044",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -39,7 +39,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060567",
+      "timestamp": "2026-04-29T10:11:40.121048",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [
         "E7",
@@ -53,7 +53,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060570",
+      "timestamp": "2026-04-29T10:11:40.121051",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [
         "E8"
@@ -66,7 +66,7 @@
       "confidence": 0.83,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060573",
+      "timestamp": "2026-04-29T10:11:40.121054",
       "inclusion_criteria_applied": [
         "I3",
         "I5",
@@ -83,7 +83,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060576",
+      "timestamp": "2026-04-29T10:11:40.121057",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -99,7 +99,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060580",
+      "timestamp": "2026-04-29T10:11:40.121060",
       "inclusion_criteria_applied": [
         "I3",
         "I6"
@@ -115,7 +115,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060583",
+      "timestamp": "2026-04-29T10:11:40.121063",
       "inclusion_criteria_applied": [
         "I3",
         "I6"
@@ -131,7 +131,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060585",
+      "timestamp": "2026-04-29T10:11:40.121066",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -147,7 +147,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060588",
+      "timestamp": "2026-04-29T10:11:40.121068",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -163,7 +163,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060591",
+      "timestamp": "2026-04-29T10:11:40.121071",
       "inclusion_criteria_applied": [
         "I6"
       ],
@@ -178,7 +178,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060594",
+      "timestamp": "2026-04-29T10:11:40.121074",
       "inclusion_criteria_applied": [
         "I3",
         "I6"
@@ -194,7 +194,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060597",
+      "timestamp": "2026-04-29T10:11:40.121078",
       "inclusion_criteria_applied": [
         "I3",
         "I6"
@@ -210,7 +210,7 @@
       "confidence": 0.87,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060600",
+      "timestamp": "2026-04-29T10:11:40.121081",
       "inclusion_criteria_applied": [
         "I3",
         "I5",
@@ -227,7 +227,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060603",
+      "timestamp": "2026-04-29T10:11:40.121083",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -243,7 +243,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060605",
+      "timestamp": "2026-04-29T10:11:40.121086",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -259,7 +259,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060608",
+      "timestamp": "2026-04-29T10:11:40.121088",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -275,7 +275,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060611",
+      "timestamp": "2026-04-29T10:11:40.121091",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -291,7 +291,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060613",
+      "timestamp": "2026-04-29T10:11:40.121093",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -307,7 +307,7 @@
       "confidence": 0.87,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060615",
+      "timestamp": "2026-04-29T10:11:40.121095",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -323,7 +323,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060618",
+      "timestamp": "2026-04-29T10:11:40.121098",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [
         "E8"
@@ -336,7 +336,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060621",
+      "timestamp": "2026-04-29T10:11:40.121101",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -352,7 +352,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060624",
+      "timestamp": "2026-04-29T10:11:40.121104",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [
         "E4",
@@ -366,7 +366,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060627",
+      "timestamp": "2026-04-29T10:11:40.121107",
       "inclusion_criteria_applied": [
         "I5",
         "I6"
@@ -382,7 +382,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060630",
+      "timestamp": "2026-04-29T10:11:40.121109",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -398,7 +398,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060632",
+      "timestamp": "2026-04-29T10:11:40.121111",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -414,7 +414,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060635",
+      "timestamp": "2026-04-29T10:11:40.121114",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -425,7 +425,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060638",
+      "timestamp": "2026-04-29T10:11:40.121117",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -441,7 +441,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060640",
+      "timestamp": "2026-04-29T10:11:40.121119",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -457,7 +457,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060643",
+      "timestamp": "2026-04-29T10:11:40.121122",
       "inclusion_criteria_applied": [
         "I3",
         "I6"
@@ -473,7 +473,7 @@
       "confidence": 0.86,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060646",
+      "timestamp": "2026-04-29T10:11:40.121125",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -491,7 +491,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060649",
+      "timestamp": "2026-04-29T10:11:40.121128",
       "inclusion_criteria_applied": [
         "I3",
         "I6"
@@ -507,7 +507,7 @@
       "confidence": 0.93,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060652",
+      "timestamp": "2026-04-29T10:11:40.121130",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -523,7 +523,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060654",
+      "timestamp": "2026-04-29T10:11:40.121133",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -539,7 +539,23 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060657",
+      "timestamp": "2026-04-29T10:11:40.121135",
+      "inclusion_criteria_applied": [
+        "I3",
+        "I4",
+        "I5",
+        "I6"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
+      "study_id": "16508348",
+      "decision": "fulltext_incomplete",
+      "reason": "The study is an empirical, English-language MRI investigation comparing PTSD patients (n=23) to healthy controls (n=17) using both ROI and voxel-based morphometry (VBM). The abstract reports significant voxel clusters from a whole-brain VBM between-group model (lower gray matter in the right hippocampus for PTSD), satisfying whole-brain voxel-wise between-group contrast reporting. Control group is healthy individuals. Therefore inclusion criteria I3, I4, I5, and I6 are met. However, the provided content appears to be limited to the abstract, metadata, and references rather than full article text (methods/results/discussion not fully present); fulltext_incomplete is set to true, reducing certainty. Verification from the complete article would be ideal but based on available information the study qualifies for inclusion.",
+      "confidence": 0.75,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-29T10:11:40.121142",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -555,7 +571,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060660",
+      "timestamp": "2026-04-29T10:11:40.121145",
       "inclusion_criteria_applied": [
         "I3",
         "I6"
@@ -571,7 +587,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060663",
+      "timestamp": "2026-04-29T10:11:40.121148",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -587,7 +603,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060665",
+      "timestamp": "2026-04-29T10:11:40.121150",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -603,7 +619,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060668",
+      "timestamp": "2026-04-29T10:11:40.121153",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -619,7 +635,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060670",
+      "timestamp": "2026-04-29T10:11:40.121155",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -635,7 +651,7 @@
       "confidence": 0.87,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060673",
+      "timestamp": "2026-04-29T10:11:40.121159",
       "inclusion_criteria_applied": [
         "I3",
         "I5",
@@ -652,7 +668,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060676",
+      "timestamp": "2026-04-29T10:11:40.121162",
       "inclusion_criteria_applied": [
         "I3",
         "I6"
@@ -668,7 +684,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060679",
+      "timestamp": "2026-04-29T10:11:40.121164",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -684,7 +700,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060681",
+      "timestamp": "2026-04-29T10:11:40.121166",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -700,7 +716,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060684",
+      "timestamp": "2026-04-29T10:11:40.121169",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -716,7 +732,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060687",
+      "timestamp": "2026-04-29T10:11:40.121172",
       "inclusion_criteria_applied": [
         "I3",
         "I6"
@@ -732,7 +748,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060689",
+      "timestamp": "2026-04-29T10:11:40.121174",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -748,7 +764,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060692",
+      "timestamp": "2026-04-29T10:11:40.121177",
       "inclusion_criteria_applied": [
         "I3",
         "I5",
@@ -765,7 +781,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060695",
+      "timestamp": "2026-04-29T10:11:40.121180",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -781,7 +797,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060698",
+      "timestamp": "2026-04-29T10:11:40.121183",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [
         "E4",
@@ -796,7 +812,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060701",
+      "timestamp": "2026-04-29T10:11:40.121186",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [
         "E7",
@@ -810,7 +826,7 @@
       "confidence": 0.87,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060704",
+      "timestamp": "2026-04-29T10:11:40.121189",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [
         "E4"
@@ -823,7 +839,7 @@
       "confidence": 0.89,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060707",
+      "timestamp": "2026-04-29T10:11:40.121192",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -834,7 +850,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060710",
+      "timestamp": "2026-04-29T10:11:40.121195",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -850,7 +866,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060713",
+      "timestamp": "2026-04-29T10:11:40.121198",
       "inclusion_criteria_applied": [
         "I3",
         "I5",
@@ -867,7 +883,7 @@
       "confidence": 0.91,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060716",
+      "timestamp": "2026-04-29T10:11:40.121201",
       "inclusion_criteria_applied": [
         "I3",
         "I6"
@@ -883,7 +899,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060719",
+      "timestamp": "2026-04-29T10:11:40.121204",
       "inclusion_criteria_applied": [
         "I3",
         "I6"
@@ -899,7 +915,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060722",
+      "timestamp": "2026-04-29T10:11:40.121207",
       "inclusion_criteria_applied": [
         "I3",
         "I6"
@@ -915,7 +931,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060724",
+      "timestamp": "2026-04-29T10:11:40.121209",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -931,7 +947,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060727",
+      "timestamp": "2026-04-29T10:11:40.121212",
       "inclusion_criteria_applied": [
         "I6"
       ],
@@ -944,7 +960,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060730",
+      "timestamp": "2026-04-29T10:11:40.121214",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -960,7 +976,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060733",
+      "timestamp": "2026-04-29T10:11:40.121218",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -971,7 +987,7 @@
       "confidence": 0.84,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060736",
+      "timestamp": "2026-04-29T10:11:40.121221",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [
         "E6"
@@ -984,7 +1000,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060739",
+      "timestamp": "2026-04-29T10:11:40.121224",
       "inclusion_criteria_applied": [
         "I3",
         "I6"
@@ -1001,7 +1017,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060742",
+      "timestamp": "2026-04-29T10:11:40.121226",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -1017,7 +1033,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060745",
+      "timestamp": "2026-04-29T10:11:40.121229",
       "inclusion_criteria_applied": [
         "I3",
         "I6"
@@ -1027,53 +1043,13 @@
       ]
     },
     {
-      "study_id": "39379972",
-      "decision": "excluded_fulltext",
-      "reason": "The study is an empirical, English-language MRI study of PTSD but does not report whole-brain voxel-wise between-group contrasts of GM volume (I4 not met). Although gray matter volume is one of several features extracted, the primary between-group comparisons are of morphometric similarity network (MSN) metrics across a 308-region cortical parcellation rather than voxel-wise GM volume differences, so it does not satisfy I3 (GM volume differences between PTSD and controls as the reported outcome). Control groups (healthy and trauma-exposed healthy individuals) are present (I6 met). Full text appears complete. Therefore the article is excluded because it does not meet the required GM-volume, whole-brain voxel-wise between-group contrast criteria (I3 and I4).",
-      "confidence": 0.85,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060749",
-      "inclusion_criteria_applied": [
-        "I6"
-      ],
-      "exclusion_criteria_applied": []
-    },
-    {
-      "study_id": "39748330",
-      "decision": "excluded_fulltext",
-      "reason": "This study is excluded because it does not meet the required morphometry inclusion criteria for the meta-analysis. Inclusion criteria met: I6 (control population includes healthy controls). Inclusion criteria not met: I3 \u2013 although gray matter volume is one of seven morphometric features used to build morphometric similarity networks (MSN), the paper does not present an empirical analysis of GM volume differences (voxel-wise or regional VBM) between PTSD patients and controls; I4 \u2013 the paper does not report whole-brain voxel-wise between-group contrasts of PTSD vs controls comparing GM volume. No exclusion criteria from the provided list directly apply (exclusion_criteria_applied = []). The full text appears complete. Therefore the study is not eligible for inclusion in a meta-analysis that requires whole-brain GM volume contrasts in PTSD vs controls.",
-      "confidence": 0.85,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060754",
-      "inclusion_criteria_applied": [],
-      "exclusion_criteria_applied": []
-    },
-    {
-      "study_id": "24724093",
-      "decision": "included_fulltext",
-      "reason": "This is an empirical, English-language structural MRI study that compares gray-matter volume between a PTSD group and controls. The study used whole-brain voxel-based morphometry (VBM) to perform voxel-wise between-group contrasts (PTSD/mTBI vs controls) and reports significant between-group results (bilateral anterior amygdala reductions), corroborated by surface-based morphometry (SBM). PTSD diagnosis was established via SCID; the control group consists of previously deployed combat veterans without PTSD or TBI (trauma-exposed controls), which fits allowed control populations. The full text includes Introduction, Methods (neuroimaging acquisition and analysis), Results, and Discussion, so the full text appears complete. Although the PTSD group is comorbid with mild TBI, PTSD diagnosis is present and whole-brain GM comparisons are reported; no exclusion criteria (e.g., ROI-only, non-empirical, or null-only) apply. Therefore the study meets the review\u2019s inclusion criteria for morphometry studies of structural alterations associated with PTSD.",
-      "confidence": 0.88,
-      "model_used": "gpt-5-mini-2025-08-07",
-      "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:02.060757",
-      "inclusion_criteria_applied": [
-        "I3",
-        "I4",
-        "I5",
-        "I6"
-      ],
-      "exclusion_criteria_applied": []
-    },
-    {
       "study_id": "34791677",
       "decision": "excluded_fulltext",
       "reason": "This study is an empirical English-language structural MRI morphometry study of PTSD (I3 met) that reports whole-brain regional/vertex-based results in tables/figures (I5 met) and uses a normative healthy control database (I6 met). However, it does not present a conventional whole-brain voxel-wise between-group contrast of PTSD patients versus an in-study control group comparing GM volume (or VBM-style voxel-wise maps) as required by I4. Instead, the authors compared patient morphometry to a normative database via Z-scores and parcel-wise/region-wise tests; this does not satisfy inclusion criterion I4. No exclusion criteria (E4\u2013E9) are specifically triggered. Therefore the paper must be excluded for failing to meet I4 (whole-brain voxel-wise between-group contrast).",
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:40.719387",
+      "timestamp": "2026-04-29T10:11:40.121232",
       "inclusion_criteria_applied": [
         "I3",
         "I5",
@@ -1088,7 +1064,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:42.710256",
+      "timestamp": "2026-04-29T10:11:40.121235",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -1100,13 +1076,26 @@
       ]
     },
     {
+      "study_id": "39379972",
+      "decision": "excluded_fulltext",
+      "reason": "The study is an empirical, English-language MRI study of PTSD but does not report whole-brain voxel-wise between-group contrasts of GM volume (I4 not met). Although gray matter volume is one of several features extracted, the primary between-group comparisons are of morphometric similarity network (MSN) metrics across a 308-region cortical parcellation rather than voxel-wise GM volume differences, so it does not satisfy I3 (GM volume differences between PTSD and controls as the reported outcome). Control groups (healthy and trauma-exposed healthy individuals) are present (I6 met). Full text appears complete. Therefore the article is excluded because it does not meet the required GM-volume, whole-brain voxel-wise between-group contrast criteria (I3 and I4).",
+      "confidence": 0.85,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-29T10:11:40.121238",
+      "inclusion_criteria_applied": [
+        "I6"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
       "study_id": "30153637",
       "decision": "excluded_fulltext",
       "reason": "Exclusion: E4 (only ROI analyses). Inclusion met: I3 (empirical English MRI study assessing grey matter volume differences \u2014 manual amygdala volumetry comparing PTSD vs controls), I6 (controls were trauma-exposed non-PTSD individuals), and I5 (results are reported in tables/text). Inclusion not met: I4 (no whole-brain voxel-wise between-group GM volume contrast reported). The study uses manual ROI volumetry of the bilateral amygdalae and does not present any whole-brain voxel-based morphometry or voxel-wise GM contrasts required by the meta-analysis. Therefore it must be excluded from a meta-analysis that requires whole-brain voxel-wise GM results, despite being an otherwise valid structural MRI study of PTSD.",
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:33.872473",
+      "timestamp": "2026-04-29T10:11:40.121241",
       "inclusion_criteria_applied": [
         "I3",
         "I6",
@@ -1123,7 +1112,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:34.420842",
+      "timestamp": "2026-04-29T10:11:40.121244",
       "inclusion_criteria_applied": [
         "I3",
         "I6"
@@ -1139,7 +1128,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:45.889534",
+      "timestamp": "2026-04-29T10:11:40.121247",
       "inclusion_criteria_applied": [
         "I6"
       ],
@@ -1154,7 +1143,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:41.389359",
+      "timestamp": "2026-04-29T10:11:40.121250",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [
         "E8"
@@ -1167,7 +1156,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:45.990714",
+      "timestamp": "2026-04-29T10:11:40.121253",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -1185,7 +1174,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:28.965118",
+      "timestamp": "2026-04-29T10:11:40.121257",
       "inclusion_criteria_applied": [
         "I3",
         "I6"
@@ -1201,7 +1190,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:44:06.828241",
+      "timestamp": "2026-04-29T10:11:40.121259",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -1212,7 +1201,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:55.144290",
+      "timestamp": "2026-04-29T10:11:40.121263",
       "inclusion_criteria_applied": [
         "I3",
         "I6"
@@ -1229,7 +1218,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:41.007737",
+      "timestamp": "2026-04-29T10:11:40.121266",
       "inclusion_criteria_applied": [
         "I6"
       ],
@@ -1242,7 +1231,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:48.391551",
+      "timestamp": "2026-04-29T10:11:40.121269",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [
         "E7",
@@ -1256,7 +1245,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:52.134544",
+      "timestamp": "2026-04-29T10:11:40.121272",
       "inclusion_criteria_applied": [
         "I5"
       ],
@@ -1265,13 +1254,24 @@
       ]
     },
     {
+      "study_id": "39748330",
+      "decision": "excluded_fulltext",
+      "reason": "This study is excluded because it does not meet the required morphometry inclusion criteria for the meta-analysis. Inclusion criteria met: I6 (control population includes healthy controls). Inclusion criteria not met: I3 \u2013 although gray matter volume is one of seven morphometric features used to build morphometric similarity networks (MSN), the paper does not present an empirical analysis of GM volume differences (voxel-wise or regional VBM) between PTSD patients and controls; I4 \u2013 the paper does not report whole-brain voxel-wise between-group contrasts of PTSD vs controls comparing GM volume. No exclusion criteria from the provided list directly apply (exclusion_criteria_applied = []). The full text appears complete. Therefore the study is not eligible for inclusion in a meta-analysis that requires whole-brain GM volume contrasts in PTSD vs controls.",
+      "confidence": 0.85,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-29T10:11:40.121275",
+      "inclusion_criteria_applied": [],
+      "exclusion_criteria_applied": []
+    },
+    {
       "study_id": "41248856",
       "decision": "excluded_fulltext",
       "reason": "This study uses morphometric similarity network (MSN) analyses derived from multiple regional morphological features (including GM volume) at a parcel/regional level and reports between-group MSN differences and mediation analyses. It does not report a whole-brain voxel-wise between-group contrast of grey matter (GM) volume (e.g., VBM) comparing PTSD patients vs controls. Therefore it does not meet the requirement for whole-brain voxel-wise GM volume results. Exclusion is based on E4 (only region/parcellation-level analyses with no qualifying whole-brain voxel-wise GM volume results). It does meet I6 (appropriate control groups: trauma-exposed NonPTSD and healthy controls). It does not meet I3 (no standard GM volume between-group analysis), I4 (no voxel-wise whole-brain GM contrast), nor I5 (no qualifying coordinate table/figures of voxel-wise GM differences). Full text appears complete.",
       "confidence": 0.86,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:47.688745",
+      "timestamp": "2026-04-29T10:11:40.121278",
       "inclusion_criteria_applied": [
         "I6"
       ],
@@ -1286,7 +1286,23 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-22T15:43:43.155254",
+      "timestamp": "2026-04-29T10:11:40.121280",
+      "inclusion_criteria_applied": [
+        "I3",
+        "I4",
+        "I5",
+        "I6"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
+      "study_id": "24724093",
+      "decision": "included_fulltext",
+      "reason": "This is an empirical, English-language structural MRI study that compares gray-matter volume between a PTSD group and controls. The study used whole-brain voxel-based morphometry (VBM) to perform voxel-wise between-group contrasts (PTSD/mTBI vs controls) and reports significant between-group results (bilateral anterior amygdala reductions), corroborated by surface-based morphometry (SBM). PTSD diagnosis was established via SCID; the control group consists of previously deployed combat veterans without PTSD or TBI (trauma-exposed controls), which fits allowed control populations. The full text includes Introduction, Methods (neuroimaging acquisition and analysis), Results, and Discussion, so the full text appears complete. Although the PTSD group is comorbid with mild TBI, PTSD diagnosis is present and whole-brain GM comparisons are reported; no exclusion criteria (e.g., ROI-only, non-empirical, or null-only) apply. Therefore the study meets the review\u2019s inclusion criteria for morphometry studies of structural alterations associated with PTSD.",
+      "confidence": 0.88,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-29T10:11:40.121282",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -1296,5 +1312,5 @@
       "exclusion_criteria_applied": []
     }
   ],
-  "timestamp": "2026-04-22T15:44:06.839927"
+  "timestamp": "2026-04-29T10:11:40.121943"
 }

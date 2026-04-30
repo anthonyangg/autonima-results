@@ -1,0 +1,6 @@
+project_name,run,dice_mean_diagonal,pearson_mean_diagonal,dice_mean_off_diagonal,pearson_mean_off_diagonal,all_analyses_dice,all_analyses_pearson,n_rows,n_cols
+cue_reactivity,v5-annotation-only,0.701828,0.875130,0.564983,0.759171,0.614052,0.813257,6,3
+decision_making,v2-annotation-only,0.353631,0.632056,0.222987,0.469388,0.276451,0.587294,6,3
+social,v3-annotation-only,0.496074,0.698039,0.390502,0.632685,0.514627,0.764992,8,5
+vbm_of_ptsd,v1-annotation-only,0.835543,0.922066,0.520767,0.745328,0.520767,0.745328,4,1
+vbm_of_substance_use,v2-annotation-only,0.442498,0.799181,0.111735,0.294403,0.218897,0.460566,9,6

@@ -6,7 +6,7 @@
       "title": "Macro- and microstructural gray matter alterations in sexually assaulted women.",
       "retrieved_at": "2026-04-21T16:36:11.807229",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/31662209.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/31662209.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -16,7 +16,7 @@
       "title": "Structural brain differences predict early traumatic memory processing.",
       "retrieved_at": "2026-04-21T16:36:11.807325",
       "status": "excluded_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/30825218.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/30825218.html",
       "fulltext_available": true,
       "coordinates_found": true
     },
@@ -26,7 +26,7 @@
       "title": "Structural covariance network centrality in maltreated youth with posttraumatic stress disorder.",
       "retrieved_at": "2026-04-21T16:36:11.807464",
       "status": "excluded_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/29294430.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/29294430.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -36,7 +36,7 @@
       "title": "Anterior cingulate cortex grey matter volume abnormalities in adolescents with PTSD after childhood sexual abuse.",
       "retrieved_at": "2026-04-21T16:36:11.807519",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/28888350.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/28888350.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -46,9 +46,9 @@
       "title": "Community violence exposure correlates with smaller gray matter volume and lower IQ in urban adolescents.",
       "retrieved_at": "2026-04-21T16:36:11.807720",
       "status": "excluded_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/29450935.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/29450935.html",
       "fulltext_available": true,
-      "coordinates_found": false
+      "coordinates_found": true
     },
     {
       "pmid": "33169525",
@@ -56,7 +56,7 @@
       "title": "Multimodal structural neuroimaging markers of risk and recovery from posttrauma anhedonia: A prospective investigation.",
       "retrieved_at": "2026-04-21T16:36:11.807872",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/33169525.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/33169525.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -66,15 +66,15 @@
       "title": "Cingulo-insular structural alterations associated with psychogenic symptoms, childhood abuse and PTSD in functional neurological disorders.",
       "retrieved_at": "2026-04-21T16:36:11.807949",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/28416565.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/28416565.html",
       "fulltext_available": true,
-      "coordinates_found": false
+      "coordinates_found": true
     },
     {
       "pmid": "31792202",
       "pmcid": 6889413,
       "title": "Individual prediction of psychotherapy outcome in posttraumatic stress disorder using neuroimaging data.",
-      "retrieved_at": "2026-04-22T15:43:02.058372",
+      "retrieved_at": "2026-04-29T10:11:40.118874",
       "status": "excluded_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -84,7 +84,7 @@
       "pmid": "25000505",
       "pmcid": 4085015,
       "title": "Structural impairments of hippocampus in coal mine gas explosion-related posttraumatic stress disorder.",
-      "retrieved_at": "2026-04-22T15:43:02.058376",
+      "retrieved_at": "2026-04-29T10:11:40.118878",
       "status": "included_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -94,7 +94,7 @@
       "pmid": "28195568",
       "pmcid": 5438025,
       "title": "Military deployment correlates with smaller prefrontal gray matter volume and psychological symptoms in a subclinical population.",
-      "retrieved_at": "2026-04-22T15:43:02.058377",
+      "retrieved_at": "2026-04-29T10:11:40.118878",
       "status": "excluded_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -106,7 +106,7 @@
       "title": "Smaller global and regional cortical volume in combat-related posttraumatic stress disorder.",
       "retrieved_at": "2026-04-21T16:36:11.808403",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/19996042.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/19996042.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -114,7 +114,7 @@
       "pmid": "29939345",
       "pmcid": 6121153,
       "title": "Assault-related self-blame and its association with PTSD in sexually assaulted women: an MRI inquiry.",
-      "retrieved_at": "2026-04-22T15:43:02.058378",
+      "retrieved_at": "2026-04-29T10:11:40.118879",
       "status": "included_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -126,7 +126,7 @@
       "title": "Segmented hippocampal volume in children and adolescents with posttraumatic stress disorder.",
       "retrieved_at": "2026-04-21T16:36:11.808657",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/16199014.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/16199014.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -134,7 +134,7 @@
       "pmid": "24367606",
       "pmcid": 3867453,
       "title": "Mesiotemporal volume loss associated with disorder severity: a VBM study in borderline personality disorder.",
-      "retrieved_at": "2026-04-22T15:43:02.058379",
+      "retrieved_at": "2026-04-29T10:11:40.118880",
       "status": "excluded_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -146,7 +146,7 @@
       "title": "Morphovolumetric changes after EMDR treatment in drug-na\u00efve PTSD patients.",
       "retrieved_at": "2026-04-21T16:36:11.808835",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/28287194.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/28287194.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -156,7 +156,7 @@
       "title": "Reduced anterior cingulate and orbitofrontal volumes in child abuse-related complex PTSD.",
       "retrieved_at": "2026-04-21T16:36:11.808894",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/20673548.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/20673548.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -164,7 +164,7 @@
       "pmid": "28045980",
       "pmcid": 5207406,
       "title": "Long-Term Effects of Acute Stress on the Prefrontal-Limbic System in the Healthy Adult.",
-      "retrieved_at": "2026-04-22T15:43:02.058379",
+      "retrieved_at": "2026-04-29T10:11:40.118880",
       "status": "excluded_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -186,7 +186,7 @@
       "title": "Association between lower P300 amplitude and smaller anterior cingulate cortex volume in patients with posttraumatic stress disorder: a study of victims of Tokyo subway sarin attack.",
       "retrieved_at": "2026-04-21T16:36:11.809371",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/15734342.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/15734342.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -196,7 +196,7 @@
       "title": "Superior temporal gyrus volumes in maltreated children and adolescents with PTSD.",
       "retrieved_at": "2026-04-21T16:36:11.809434",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/11950456.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/11950456.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -206,7 +206,7 @@
       "title": "Burning odor-elicited anxiety in OEF/OIF combat veterans: Inverse relationship to gray matter volume in olfactory cortex.",
       "retrieved_at": "2026-04-21T16:36:11.809625",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/26424424.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/26424424.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -216,7 +216,7 @@
       "title": "Effects of stressful life events on human brain structure: a longitudinal voxel-based morphometry study.",
       "retrieved_at": "2026-04-21T16:36:11.809679",
       "status": "excluded_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/21034297.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/21034297.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -226,9 +226,9 @@
       "title": "White matter integrity alterations in post-traumatic stress disorder.",
       "retrieved_at": "2026-04-21T16:36:11.809800",
       "status": "excluded_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/29265681.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/29265681.html",
       "fulltext_available": true,
-      "coordinates_found": false
+      "coordinates_found": true
     },
     {
       "pmid": "18330460",
@@ -236,7 +236,7 @@
       "title": "Rostral anterior cingulate volume predicts treatment response to cognitive-behavioural therapy for posttraumatic stress disorder.",
       "retrieved_at": "2026-04-21T16:36:11.809874",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/18330460.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/18330460.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -246,7 +246,7 @@
       "title": "Association between the common functional FKBP5 variant (rs1360780) and brain structure in a non-clinical population.",
       "retrieved_at": "2026-04-21T16:36:11.809923",
       "status": "excluded_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/25088286.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/25088286.html",
       "fulltext_available": true,
       "coordinates_found": true
     },
@@ -254,7 +254,7 @@
       "pmid": "22952599",
       "pmcid": 3432060,
       "title": "Decreased premotor cortex volume in victims of urban violence with posttraumatic stress disorder.",
-      "retrieved_at": "2026-04-22T15:43:02.058380",
+      "retrieved_at": "2026-04-29T10:11:40.118881",
       "status": "included_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -266,7 +266,7 @@
       "title": "Frontal and subcortical grey matter reductions in PTSD.",
       "retrieved_at": "2026-04-21T16:36:11.810039",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/28549317.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/28549317.html",
       "fulltext_available": true,
       "coordinates_found": true
     },
@@ -276,7 +276,7 @@
       "title": "Age and gender predict volume decline in the anterior and posterior hippocampus in early adulthood.",
       "retrieved_at": "2026-04-21T16:36:11.810094",
       "status": "excluded_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/11150336.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/11150336.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -284,7 +284,7 @@
       "pmid": "31361352",
       "pmcid": 6851754,
       "title": "Unresolved-Disorganized Attachment is Associated With Smaller Hippocampus and Increased Functional Connectivity Beyond Psychopathology.",
-      "retrieved_at": "2026-04-22T15:43:02.058380",
+      "retrieved_at": "2026-04-29T10:11:40.118881",
       "status": "excluded_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -296,7 +296,7 @@
       "title": "Neural correlates of response bias: Larger hippocampal volume correlates with symptom aggravation in combat-related posttraumatic stress disorder.",
       "retrieved_at": "2026-04-21T16:36:11.810316",
       "status": "excluded_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/30014966.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/30014966.html",
       "fulltext_available": true,
       "coordinates_found": true
     },
@@ -306,7 +306,7 @@
       "title": "Rumination mediates the relationship between structural variations in ventrolateral prefrontal cortex and sensitivity to negative life events.",
       "retrieved_at": "2026-04-21T16:36:11.810400",
       "status": "excluded_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/24121129.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/24121129.html",
       "fulltext_available": true,
       "coordinates_found": true
     },
@@ -314,7 +314,7 @@
       "pmid": "23149446",
       "pmcid": 3565762,
       "title": "Maternal interpersonal affiliation is associated with adolescents' brain structure and reward processing.",
-      "retrieved_at": "2026-04-22T15:43:02.058381",
+      "retrieved_at": "2026-04-29T10:11:40.118882",
       "status": "excluded_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -324,7 +324,7 @@
       "pmid": "30127342",
       "pmcid": 6461829,
       "title": "A transdiagnostic neuroanatomical signature of psychiatric illness.",
-      "retrieved_at": "2026-04-22T15:43:02.058382",
+      "retrieved_at": "2026-04-29T10:11:40.118883",
       "status": "included_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -336,7 +336,7 @@
       "title": "Voxel-based morphometric gray matter correlates of posttraumatic stress disorder.",
       "retrieved_at": "2026-04-21T16:36:11.810900",
       "status": "excluded_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/23746489.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/23746489.html",
       "fulltext_available": true,
       "coordinates_found": true
     },
@@ -346,7 +346,7 @@
       "title": "Abnormal structure of fear circuitry in pediatric post-traumatic stress disorder.",
       "retrieved_at": "2026-04-21T16:36:11.811015",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/25212487.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/25212487.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -356,7 +356,7 @@
       "title": "Duration of posttraumatic stress disorder predicts hippocampal grey matter loss.",
       "retrieved_at": "2026-04-21T16:36:11.811073",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/19794316.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/19794316.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -366,9 +366,9 @@
       "title": "Structural brain abnormalities common to posttraumatic stress disorder and depression.",
       "retrieved_at": "2026-04-21T16:36:11.811225",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/21418787.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/21418787.html",
       "fulltext_available": true,
-      "coordinates_found": false
+      "coordinates_found": true
     },
     {
       "pmid": "26138235",
@@ -376,7 +376,7 @@
       "title": "Structural brain aberrations associated with the dissociative subtype of post-traumatic stress disorder.",
       "retrieved_at": "2026-04-21T16:36:11.811330",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/26138235.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/26138235.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -386,7 +386,7 @@
       "title": "Evaluation of gray matter reduction in patients with typhoon-related posttraumatic stress disorder using causal network analysis of structural MRI.",
       "retrieved_at": "2026-04-21T16:36:11.811454",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/32938511.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/32938511.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -394,7 +394,7 @@
       "pmid": "29761009",
       "pmcid": 5943737,
       "title": "Hippocampal gray matter increases following multimodal psychological treatment for combat-related post-traumatic stress disorder.",
-      "retrieved_at": "2026-04-22T15:43:02.058382",
+      "retrieved_at": "2026-04-29T10:11:40.118884",
       "status": "included_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -404,7 +404,7 @@
       "pmid": "24058706",
       "pmcid": 3776771,
       "title": "Deployment and post-deployment experiences in OEF/OIF veterans: relationship to gray matter volume.",
-      "retrieved_at": "2026-04-22T15:43:02.058383",
+      "retrieved_at": "2026-04-29T10:11:40.118884",
       "status": "included_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -416,7 +416,7 @@
       "title": "Gray matter volume alterations related to trait dissociation in PTSD and traumatized controls.",
       "retrieved_at": "2026-04-21T16:36:11.812496",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/23113800.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/23113800.html",
       "fulltext_available": true,
       "coordinates_found": true
     },
@@ -426,7 +426,7 @@
       "title": "Effects of post-traumatic stress disorder on occipital lobe function and structure.",
       "retrieved_at": "2026-04-21T16:36:11.812651",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/22453299.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/22453299.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -436,7 +436,7 @@
       "title": "Association between flashbacks and structural brain abnormalities in posttraumatic stress disorder.",
       "retrieved_at": "2026-04-21T16:36:11.812758",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/21592738.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/21592738.html",
       "fulltext_available": true,
       "coordinates_found": true
     },
@@ -446,7 +446,7 @@
       "title": "Abnormal Prefrontal Development in Pediatric Posttraumatic Stress Disorder: A Longitudinal Structural and Functional Magnetic Resonance Imaging Study.",
       "retrieved_at": "2026-04-21T16:36:11.812921",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/30343133.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/30343133.html",
       "fulltext_available": true,
       "coordinates_found": true
     },
@@ -456,7 +456,7 @@
       "title": "Post-traumatic stress symptoms correlate with smaller subgenual cingulate, caudate, and insula volumes in unmedicated combat veterans.",
       "retrieved_at": "2026-04-21T16:36:11.813143",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/23021615.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/23021615.html",
       "fulltext_available": true,
       "coordinates_found": true
     },
@@ -466,7 +466,7 @@
       "title": "Posterior structural brain volumes differ in maltreated youth with and without chronic posttraumatic stress disorder.",
       "retrieved_at": "2026-04-21T16:36:11.813572",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/26535944.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/26535944.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -484,7 +484,7 @@
       "pmid": "32977211",
       "pmcid": 7511745,
       "title": "Structural white and gray matter differences in a large sample of patients with Posttraumatic Stress Disorder and a healthy and trauma-exposed control group: Diffusion tensor imaging and region-based morphometry.",
-      "retrieved_at": "2026-04-22T15:43:02.058383",
+      "retrieved_at": "2026-04-29T10:11:40.118885",
       "status": "included_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -496,7 +496,7 @@
       "title": "Limbic scars: long-term consequences of childhood maltreatment revealed by functional and structural magnetic resonance imaging.",
       "retrieved_at": "2026-04-21T16:36:11.813992",
       "status": "excluded_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/22112927.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/22112927.html",
       "fulltext_available": true,
       "coordinates_found": true
     },
@@ -504,7 +504,7 @@
       "pmid": "23155380",
       "pmcid": 3498281,
       "title": "Different regional gray matter loss in recent onset PTSD and non PTSD after a single prolonged trauma exposure.",
-      "retrieved_at": "2026-04-22T15:43:02.058384",
+      "retrieved_at": "2026-04-29T10:11:40.118886",
       "status": "included_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -516,7 +516,7 @@
       "title": "Voxel-based analysis of MRI reveals anterior cingulate gray-matter volume reduction in posttraumatic stress disorder due to terrorism.",
       "retrieved_at": "2026-04-21T16:36:11.814175",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/12853571.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/12853571.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -526,7 +526,17 @@
       "title": "Structure of orbitofrontal cortex and its longitudinal course in cancer-related post-traumatic stress disorder.",
       "retrieved_at": "2026-04-21T16:36:11.814235",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/17923164.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/17923164.html",
+      "fulltext_available": true,
+      "coordinates_found": false
+    },
+    {
+      "pmid": "16508348",
+      "pmcid": null,
+      "title": "Morphometric and psychometric comparisons between non-substance-abusing patients with posttraumatic stress disorder and normal controls.",
+      "retrieved_at": "2026-04-21T16:36:11.814284",
+      "status": "included_abstract",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/Psychotherapy and psychosomatics/16508348.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -536,7 +546,7 @@
       "title": "Reduced gray matter volume in the left prefrontal, occipital, and temporal regions as predictors for posttraumatic stress disorder: a voxel-based morphometric study.",
       "retrieved_at": "2026-04-21T16:36:11.814367",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/30937515.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/30937515.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -544,7 +554,7 @@
       "pmid": "22720021",
       "pmcid": 3374792,
       "title": "Cortical thinning in patients with recent onset post-traumatic stress disorder after a single prolonged trauma exposure.",
-      "retrieved_at": "2026-04-22T15:43:02.058385",
+      "retrieved_at": "2026-04-29T10:11:40.118886",
       "status": "excluded_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -554,7 +564,7 @@
       "pmid": "19538748",
       "pmcid": 2704184,
       "title": "Insular cortex involvement in declarative memory deficits in patients with post-traumatic stress disorder.",
-      "retrieved_at": "2026-04-22T15:43:02.058385",
+      "retrieved_at": "2026-04-29T10:11:40.118887",
       "status": "included_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -564,7 +574,7 @@
       "pmid": "23776553",
       "pmcid": 3680473,
       "title": "Voxel-based morphometry in women with borderline personality disorder with and without comorbid posttraumatic stress disorder.",
-      "retrieved_at": "2026-04-22T15:43:02.058386",
+      "retrieved_at": "2026-04-29T10:11:40.118887",
       "status": "excluded_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -576,7 +586,7 @@
       "title": "Gray matter density in limbic and paralimbic cortices is associated with trauma load and EMDR outcome in PTSD patients.",
       "retrieved_at": "2026-04-21T16:36:11.815314",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/19942229.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/19942229.html",
       "fulltext_available": true,
       "coordinates_found": true
     },
@@ -586,7 +596,7 @@
       "title": "Decreased gray matter volume in the left hippocampus and bilateral calcarine cortex in coal mine flood disaster survivors with recent onset PTSD.",
       "retrieved_at": "2026-04-21T16:36:11.815379",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/21498053.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/21498053.html",
       "fulltext_available": true,
       "coordinates_found": true
     },
@@ -596,7 +606,7 @@
       "title": "Grey matter density changes of structures involved in Posttraumatic Stress Disorder (PTSD) after recovery following Eye Movement Desensitization and Reprocessing (EMDR) therapy.",
       "retrieved_at": "2026-04-21T16:36:11.815459",
       "status": "excluded_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/28667881.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/28667881.html",
       "fulltext_available": true,
       "coordinates_found": true
     },
@@ -606,7 +616,7 @@
       "title": "Relationship between neurocognition and regional brain volumes in traumatized adolescents with and without posttraumatic stress disorder.",
       "retrieved_at": "2026-04-21T16:36:11.815519",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/22948482.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/22948482.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -616,7 +626,7 @@
       "title": "Structural alterations in lateral prefrontal, parietal and posterior midline regions of men with chronic posttraumatic stress disorder.",
       "retrieved_at": "2026-04-21T16:36:11.815724",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/21118656.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/21118656.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -636,7 +646,7 @@
       "title": "Converging evidence for abnormalities of the prefrontal cortex and evaluation of midsagittal structures in pediatric posttraumatic stress disorder: an MRI study.",
       "retrieved_at": "2026-04-21T16:36:11.815875",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/19349151.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/19349151.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -646,7 +656,7 @@
       "title": "Evidence for acquired pregenual anterior cingulate gray matter loss from a twin study of combat-related posttraumatic stress disorder.",
       "retrieved_at": "2026-04-21T16:36:11.815999",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/17825801.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/17825801.html",
       "fulltext_available": true,
       "coordinates_found": true
     },
@@ -656,7 +666,7 @@
       "title": "Evidence of diffuse damage in frontal and occipital cortex in the brain of patients with post-traumatic stress disorder.",
       "retrieved_at": "2026-04-21T16:36:11.816137",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/21710131.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/21710131.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -664,7 +674,7 @@
       "pmid": "27082610",
       "pmcid": 4839854,
       "title": "Analysis of the Metabolic and Structural Brain Changes in Patients With Torture-Related Post-Traumatic Stress Disorder (TR-PTSD) Using \u00b9\u2078F-FDG PET and MRI.",
-      "retrieved_at": "2026-04-22T15:43:02.058386",
+      "retrieved_at": "2026-04-29T10:11:40.118888",
       "status": "included_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -676,7 +686,7 @@
       "title": "Size versus shape differences: contrasting voxel-based and volumetric analyses of the anterior cingulate cortex in individuals with acute posttraumatic stress disorder.",
       "retrieved_at": "2026-04-21T16:36:11.816247",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/16038682.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/16038682.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -686,7 +696,7 @@
       "title": "Smaller amygdala volume and reduced anterior cingulate gray matter density associated with history of post-traumatic stress disorder.",
       "retrieved_at": "2026-04-21T16:36:11.816288",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/19914045.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/19914045.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -696,7 +706,7 @@
       "title": "Gray matter density reduction in the insula in fire survivors with posttraumatic stress disorder: a voxel-based morphometric study.",
       "retrieved_at": "2026-04-21T16:36:11.816375",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/16371250.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/16371250.html",
       "fulltext_available": true,
       "coordinates_found": true
     },
@@ -704,7 +714,7 @@
       "pmid": "34962111",
       "pmcid": 8728591,
       "title": "Regional Gray Matter Volume Related to High Occupational Stress in Firefighters.",
-      "retrieved_at": "2026-04-22T15:43:02.058387",
+      "retrieved_at": "2026-04-29T10:11:40.118888",
       "status": "excluded_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -716,7 +726,7 @@
       "title": "Identifying structural brain markers of resilience to adversity in young people using voxel-based morphometry.",
       "retrieved_at": "2026-04-22T15:08:29.357802",
       "status": "excluded_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/37424502.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/37424502.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -724,7 +734,7 @@
       "pmid": "40163440",
       "pmcid": 11957293,
       "title": "Aerobic exercise and brain structure among military service members and Veterans with varying histories of mild traumatic brain injury: A LIMBIC-CENC exploratory investigation.",
-      "retrieved_at": "2026-04-22T15:43:02.058388",
+      "retrieved_at": "2026-04-29T10:11:40.118889",
       "status": "excluded_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -736,7 +746,7 @@
       "title": "Thalamic volume and fear extinction interact to predict acute posttraumatic stress severity.",
       "retrieved_at": "2026-04-22T15:08:29.358015",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/34304036.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/elsevier_output/34304036/text.txt",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -744,7 +754,7 @@
       "pmid": "33547694",
       "pmcid": 7978114,
       "title": "Neural changes following equine-assisted therapy for posttraumatic stress disorder: A longitudinal multimodal imaging study.",
-      "retrieved_at": "2026-04-22T15:43:02.058388",
+      "retrieved_at": "2026-04-29T10:11:40.118889",
       "status": "included_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -756,7 +766,7 @@
       "title": "An examination of volumetric and cortical thickness correlates of posttraumatic nightmares in male active duty service members.",
       "retrieved_at": "2026-04-22T15:08:29.358133",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/36302277.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/elsevier_output/36302277/text.txt",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -764,7 +774,7 @@
       "pmid": "38166870",
       "pmcid": 10763183,
       "title": "Relationship between SLC6A2 gene polymorphisms and brain volume in Han Chinese adults who lost their sole child.",
-      "retrieved_at": "2026-04-22T15:43:02.058389",
+      "retrieved_at": "2026-04-29T10:11:40.118890",
       "status": "included_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -776,7 +786,7 @@
       "title": "Association of adverse childhood experiences and precuneus volume with intrusive reexperiencing in autism spectrum disorder.",
       "retrieved_at": "2026-04-22T15:08:29.358266",
       "status": "excluded_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/34185397.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/34185397.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -786,7 +796,7 @@
       "title": "The association among individual gray matter volume of frontal-limbic circuitry, fatigue susceptibility, and comorbid neuropsychiatric symptoms following COVID-19.",
       "retrieved_at": "2026-04-22T15:08:29.358316",
       "status": "excluded_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/39798827.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/elsevier_output/39798827/text.txt",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -796,7 +806,7 @@
       "title": "Differential Patterns of Delayed Emotion Circuit Maturation in Abused Girls With and Without Internalizing Psychopathology.",
       "retrieved_at": "2026-04-22T15:08:29.358385",
       "status": "excluded_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/34407623.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/34407623.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -806,7 +816,7 @@
       "title": "Sex-based variations of prefrontal structure and longitudinal symptoms in pediatric posttraumatic stress disorder.",
       "retrieved_at": "2026-04-22T15:08:29.358491",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/36349877.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/36349877.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -816,9 +826,9 @@
       "title": "Brain structural change associated with Cognitive Behavioral Therapy in maltreated children.",
       "retrieved_at": "2026-04-22T15:08:29.358534",
       "status": "excluded_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/38070819.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/elsevier_output/38070819/text.txt",
       "fulltext_available": true,
-      "coordinates_found": false
+      "coordinates_found": true
     },
     {
       "pmid": "36100659",
@@ -826,7 +836,7 @@
       "title": "Racial discrimination associates with lower cingulate cortex thickness in trauma-exposed black women.",
       "retrieved_at": "2026-04-22T15:08:29.358612",
       "status": "excluded_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/36100659.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/36100659.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -836,7 +846,7 @@
       "title": "Structural changes in the thalamus and its subregions in regulating different symptoms of posttraumatic stress disorder.",
       "retrieved_at": "2026-04-22T15:08:29.358651",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/37651834.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/elsevier_output/37651834/text.txt",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -846,7 +856,7 @@
       "title": "Structural covariance, regional topology, and volumetric aspects of amygdala subnuclei in posttraumatic stress disorder using ultra-high field imaging.",
       "retrieved_at": "2026-04-22T15:08:29.358738",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/41457178.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/elsevier_output/41457178/text.txt",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -854,7 +864,7 @@
       "pmid": "35096283",
       "pmcid": 8794066,
       "title": "Preliminary evidence on the neural correlates of timing deficit in post-traumatic stress disorder.",
-      "retrieved_at": "2026-04-22T15:43:02.058389",
+      "retrieved_at": "2026-04-29T10:11:40.118890",
       "status": "included_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -864,7 +874,7 @@
       "pmid": "37497602",
       "pmcid": 10375918,
       "title": "Independent effects of posttraumatic stress disorder diagnosis and metabolic syndrome status on prefrontal cortical thickness and subcortical gray matter volumes.",
-      "retrieved_at": "2026-04-22T15:43:02.058390",
+      "retrieved_at": "2026-04-29T10:11:40.118891",
       "status": "included_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -876,7 +886,7 @@
       "title": "Characterizing Typhoon-related Posttraumatic Stress Disorder Based on Multimodal Fusion of Structural, Diffusion, and Functional Magnetic Resonance Imaging.",
       "retrieved_at": "2026-04-22T15:08:29.358896",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/38042250.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/elsevier_output/38042250/text.txt",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -884,7 +894,7 @@
       "pmid": "39315647",
       "pmcid": 11420672,
       "title": "Transdiagnostic depression severity and its relationship to global and prefrontal-amygdala structural properties in people with major depression and post-traumatic stress disorder.",
-      "retrieved_at": "2026-04-22T15:43:02.058391",
+      "retrieved_at": "2026-04-29T10:11:40.118891",
       "status": "included_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -896,7 +906,7 @@
       "title": "Brain morphological changes and functional neuroanatomy related to cognitive and emotional distractors during working memory maintenance in post-traumatic stress disorder.",
       "retrieved_at": "2026-04-22T15:08:29.359033",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/38614407.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/elsevier_output/38614407/text.txt",
       "fulltext_available": true,
       "coordinates_found": true
     },
@@ -906,9 +916,9 @@
       "title": "Gray matter volume correlates of adolescent posttraumatic stress disorder: A comparison of manual intervention and automated segmentation in FreeSurfer.",
       "retrieved_at": "2026-04-22T15:08:29.359144",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/33962164.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/elsevier_output/33962164/text.txt",
       "fulltext_available": true,
-      "coordinates_found": true
+      "coordinates_found": false
     },
     {
       "pmid": "33957321",
@@ -916,7 +926,7 @@
       "title": "White Matter Alterations Are Associated With Cognitive Dysfunction Decades After Moderate-to-Severe Traumatic Brain Injury and/or Posttraumatic Stress Disorder.",
       "retrieved_at": "2026-04-22T15:08:29.359193",
       "status": "excluded_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/33957321.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/elsevier_output/33957321/text.txt",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -924,7 +934,7 @@
       "pmid": "39753729",
       "pmcid": 11698963,
       "title": "Differential gray matter correlates and machine learning prediction of abuse and internalizing psychopathology in adolescent females.",
-      "retrieved_at": "2026-04-22T15:43:02.058391",
+      "retrieved_at": "2026-04-29T10:11:40.118892",
       "status": "included_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -934,7 +944,7 @@
       "pmid": "33469080",
       "pmcid": 7815843,
       "title": "Differential relationships of PTSD symptom clusters with cortical thickness and grey matter volumes among women with PTSD.",
-      "retrieved_at": "2026-04-22T15:43:02.058392",
+      "retrieved_at": "2026-04-29T10:11:40.118892",
       "status": "included_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -944,7 +954,7 @@
       "pmid": "39497016",
       "pmcid": 12343395,
       "title": "Volumetric Integrated Classification Index: An Integrated Voxel-Based Morphometry and Machine Learning Interpretable Biomarker for Post-Traumatic Stress Disorder.",
-      "retrieved_at": "2026-04-22T15:43:02.058392",
+      "retrieved_at": "2026-04-29T10:11:40.118893",
       "status": "included_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -954,7 +964,7 @@
       "pmid": "40446466",
       "pmcid": 12166459,
       "title": "The effects of traumatic brain Injury, post-traumatic stress disorder on Amyloid-\u03b2 associated network hyperconnectivity and progression of gray matter atrophy.",
-      "retrieved_at": "2026-04-22T15:43:02.058393",
+      "retrieved_at": "2026-04-29T10:11:40.118893",
       "status": "included_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -964,7 +974,7 @@
       "pmid": "33903597",
       "pmcid": 8076198,
       "title": "The brain at war: effects of stress on brain structure in soldiers deployed to a war zone.",
-      "retrieved_at": "2026-04-22T15:43:02.058393",
+      "retrieved_at": "2026-04-29T10:11:40.118894",
       "status": "excluded_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -974,7 +984,7 @@
       "pmid": "23300699",
       "pmcid": 3530484,
       "title": "Reduced visual cortex gray matter volume and thickness in young adults who witnessed domestic violence during childhood.",
-      "retrieved_at": "2026-04-22T15:43:02.058394",
+      "retrieved_at": "2026-04-29T10:11:40.118895",
       "status": "excluded_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -986,7 +996,7 @@
       "title": "Neural functional and structural correlates of childhood maltreatment in women with intimate-partner violence-related posttraumatic stress disorder.",
       "retrieved_at": "2026-04-22T15:14:37.431770",
       "status": "excluded_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/23154098.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/23154098.html",
       "fulltext_available": true,
       "coordinates_found": true
     },
@@ -996,7 +1006,7 @@
       "title": "Associations between subjective sleep quality and brain volume in Gulf War veterans.",
       "retrieved_at": "2026-04-22T15:14:37.431827",
       "status": "excluded_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/24587566.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/24587566.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -1006,7 +1016,7 @@
       "title": "Looking at the bigger picture: Cortical volume, thickness and surface area characteristics in borderline personality disorder with and without posttraumatic stress disorder.",
       "retrieved_at": "2026-04-22T15:14:37.431863",
       "status": "excluded_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/33812313.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/33812313.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -1016,7 +1026,7 @@
       "title": "Whole-brain morphometry in Canadian soldiers with posttraumatic stress disorder.",
       "retrieved_at": "2026-04-22T15:26:00.904895",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/34791677.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/34791677.html",
       "fulltext_available": true,
       "coordinates_found": true
     },
@@ -1026,7 +1036,7 @@
       "title": "Lifetime PTSD and geriatric depression symptomatology relate to altered dorsomedial frontal and amygdala morphometry.",
       "retrieved_at": "2026-04-22T15:26:00.905144",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/28763718.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/elsevier_output/28763718/text.txt",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -1036,7 +1046,7 @@
       "title": "Neuroanatomical signatures associated with dispositional optimism predict COVID-19-related posttraumatic stress symptoms.",
       "retrieved_at": "2026-04-22T15:26:00.905211",
       "status": "excluded_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/37288497.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/37288497.html",
       "fulltext_available": true,
       "coordinates_found": true
     },
@@ -1046,7 +1056,7 @@
       "title": "Amygdalar and hippocampal volume: A comparison between manual segmentation, Freesurfer and VBM.",
       "retrieved_at": "2026-04-22T15:26:00.905253",
       "status": "excluded_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/26057114.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/elsevier_output/26057114/text.txt",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -1054,7 +1064,7 @@
       "pmid": "39379972",
       "pmcid": 11462656,
       "title": "Cortical morphological changes and associated transcriptional signatures in post-traumatic stress disorder and psychological resilience.",
-      "retrieved_at": "2026-04-22T15:43:02.058394",
+      "retrieved_at": "2026-04-29T10:11:40.118895",
       "status": "included_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -1066,7 +1076,7 @@
       "title": "Abnormal metabolite concentrations and amygdala volume in patients with recent-onset posttraumatic stress disorder.",
       "retrieved_at": "2026-04-22T15:26:00.905369",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/30153637.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/elsevier_output/30153637/text.txt",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -1074,7 +1084,7 @@
       "pmid": "34815383",
       "pmcid": 8611009,
       "title": "Cortical complexity in world trade center responders with chronic posttraumatic stress disorder.",
-      "retrieved_at": "2026-04-22T15:43:02.058395",
+      "retrieved_at": "2026-04-29T10:11:40.118896",
       "status": "excluded_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -1086,7 +1096,7 @@
       "title": "Adolescence alcohol exposure impairs fear extinction and alters medial prefrontal cortex plasticity.",
       "retrieved_at": "2026-04-22T15:26:00.905552",
       "status": "excluded_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/35364101.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/elsevier_output/35364101/text.txt",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -1096,7 +1106,7 @@
       "title": "Early life stress and morphometry of the adult anterior cingulate cortex and caudate nuclei.",
       "retrieved_at": "2026-04-22T15:26:00.905593",
       "status": "excluded_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/16616722.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/elsevier_output/16616722/text.txt",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -1106,7 +1116,7 @@
       "title": "Brain structural changes as vulnerability factors and acquired signs of post-earthquake stress.",
       "retrieved_at": "2026-04-22T15:26:00.905631",
       "status": "excluded_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/22614289.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/22614289.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -1116,7 +1126,7 @@
       "title": "Brain morphometry in female victims of intimate partner violence with and without posttraumatic stress disorder.",
       "retrieved_at": "2026-04-22T15:26:00.905664",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/12460692.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/elsevier_output/12460692/text.txt",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -1126,7 +1136,7 @@
       "title": "Structural brain correlates of resilience to traumatic stress in Dutch police officers.",
       "retrieved_at": "2026-04-22T15:26:00.905697",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/28881256.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/elsevier_output/28881256/text.txt",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -1136,7 +1146,7 @@
       "title": "Neural Correlates of Traumatic Brain Injury in Women Survivors of Intimate Partner Violence: A Structural and Functional Connectivity Neuroimaging Study.",
       "retrieved_at": "2026-04-22T15:26:00.905736",
       "status": "excluded_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/34985038.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/34985038.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -1146,7 +1156,7 @@
       "title": "Brain structural abnormalities and mental health sequelae in South Vietnamese ex-political detainees who survived traumatic head injury and torture.",
       "retrieved_at": "2026-04-22T15:26:00.905774",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/19884610.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/19884610.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -1156,7 +1166,7 @@
       "title": "Reduced lateral prefrontal cortical volume is associated with performance on the modified Iowa Gambling Task: A surface based morphometric analysis of previously deployed veterans.",
       "retrieved_at": "2026-04-22T15:26:00.905813",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/28672256.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/elsevier_output/28672256/text.txt",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -1166,7 +1176,7 @@
       "title": "A Pilot Study of Reduced Olfactory Bulb Volume as a Marker of PTSD in Childhood Trauma-Exposed Adult HIV-Infected Patients.",
       "retrieved_at": "2026-04-22T15:26:00.905866",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/29077998.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/29077998.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -1176,7 +1186,7 @@
       "title": "Changes in brain anatomy during the course of posttraumatic stress disorder.",
       "retrieved_at": "2026-04-22T15:26:00.905917",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/21683556.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/elsevier_output/21683556/text.txt",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -1186,7 +1196,7 @@
       "title": "Distinct pre-COVID brain structural signatures in COVID-19-related post-traumatic stress symptoms and post-traumatic growth.",
       "retrieved_at": "2026-04-22T15:26:00.905989",
       "status": "excluded_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/37804248.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/37804248.html",
       "fulltext_available": true,
       "coordinates_found": true
     },
@@ -1194,7 +1204,7 @@
       "pmid": "39226702",
       "pmcid": 11403518,
       "title": "The imprint of dissociative seizures on the brain.",
-      "retrieved_at": "2026-04-22T15:43:02.058396",
+      "retrieved_at": "2026-04-29T10:11:40.118896",
       "status": "excluded_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -1206,7 +1216,7 @@
       "title": "Volumetric and shape analyses of subcortical structures in United States service members with mild traumatic brain injury.",
       "retrieved_at": "2026-04-22T15:26:00.906123",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/27435967.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/27435967.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -1216,7 +1226,7 @@
       "title": "Integrated 3D Modeling and Functional Simulation of the Human Amygdala: A Novel Anatomical and Computational Analyses.",
       "retrieved_at": "2026-04-22T15:26:00.906169",
       "status": "excluded_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/40772991.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/40772991.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -1226,7 +1236,7 @@
       "title": "Developing neuroimaging phenotypes of the default mode network in PTSD: integrating the resting state, working memory, and structural connectivity.",
       "retrieved_at": "2026-04-22T15:26:00.906214",
       "status": "excluded_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/25046537.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/25046537.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -1236,7 +1246,7 @@
       "title": "Transcriptional signal and cell specificity of genes related to cortical structural differences of post-traumatic stress disorder.",
       "retrieved_at": "2026-04-22T15:26:00.906256",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/36773345.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/elsevier_output/36773345/text.txt",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -1244,7 +1254,7 @@
       "pmid": "39587186",
       "pmcid": 11589124,
       "title": "Relationship between post traumatic stress disorder and hand dimensions and hand grip strength in children aged 8-12 exposed to earthquakes.",
-      "retrieved_at": "2026-04-22T15:43:02.058396",
+      "retrieved_at": "2026-04-29T10:11:40.118897",
       "status": "excluded_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -1256,15 +1266,15 @@
       "title": "Persistence of post-traumatic stress disorder in Chinese Shidu parents is associated with combined gray and white matter abnormalities.",
       "retrieved_at": "2026-04-22T15:26:00.906349",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/37716134.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/elsevier_output/37716134/text.txt",
       "fulltext_available": true,
-      "coordinates_found": false
+      "coordinates_found": true
     },
     {
       "pmid": "37542243",
       "pmcid": 10403847,
       "title": "Neurodevelopmental risk and adaptation as a model for comorbidity among internalizing and externalizing disorders: genomics and cell-specific expression enriched morphometric study.",
-      "retrieved_at": "2026-04-22T15:43:02.058397",
+      "retrieved_at": "2026-04-29T10:11:40.118897",
       "status": "excluded_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -1276,7 +1286,7 @@
       "title": "Posttraumatic stress symptom persistence across 24\u00a0years: association with brain structures.",
       "retrieved_at": "2026-04-22T15:26:00.906517",
       "status": "excluded_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/30830577.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/30830577.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -1286,7 +1296,7 @@
       "title": "Reduced cortical thickness in veterans exposed to early life trauma.",
       "retrieved_at": "2026-04-22T15:26:00.906576",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/24862391.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/elsevier_output/24862391/text.txt",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -1294,7 +1304,7 @@
       "pmid": "39748330",
       "pmcid": 11697831,
       "title": "Shared and distinct morphometric similarity network abnormalities in generalized anxiety disorder, posttraumatic stress disorder and social anxiety disorder.",
-      "retrieved_at": "2026-04-22T15:43:02.058397",
+      "retrieved_at": "2026-04-29T10:11:40.118898",
       "status": "included_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -1306,7 +1316,7 @@
       "title": "Gray matter atrophy in the middle frontal gyrus mediates post-traumatic stress symptoms in post-kidney transplant patients: The role of elevated urea levels.",
       "retrieved_at": "2026-04-22T15:26:00.906683",
       "status": "excluded_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/40320178.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/elsevier_output/40320178/text.txt",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -1316,7 +1326,7 @@
       "title": "Abnormality and mediating effects of brain morphological similarity network in post-traumatic stress disorder.",
       "retrieved_at": "2026-04-22T15:26:00.906718",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/41248856.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/elsevier_output/41248856/text.txt",
       "fulltext_available": true,
       "coordinates_found": true
     },
@@ -1326,9 +1336,9 @@
       "title": "Associations among parenting experiences during childhood and adolescence, hypothalamus-pituitary-adrenal axis hypoactivity, and hippocampal gray matter volume reduction in young adults.",
       "retrieved_at": "2026-04-22T15:26:00.906773",
       "status": "excluded_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/22140014.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/22140014.html",
       "fulltext_available": true,
-      "coordinates_found": false
+      "coordinates_found": true
     },
     {
       "pmid": "26171720",
@@ -1336,7 +1346,7 @@
       "title": "Amygdala, Hippocampus, and Ventral Medial Prefrontal Cortex Volumes Differ in Maltreated Youth with and without Chronic Posttraumatic Stress Disorder.",
       "retrieved_at": "2026-04-22T15:26:00.906833",
       "status": "included_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/26171720.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/26171720.html",
       "fulltext_available": true,
       "coordinates_found": false
     },
@@ -1344,7 +1354,7 @@
       "pmid": "24724093",
       "pmcid": 3958771,
       "title": "Reduced amygdala volume is associated with deficits in inhibitory control: a voxel- and surface-based morphometric analysis of comorbid PTSD/mild TBI.",
-      "retrieved_at": "2026-04-22T15:43:02.058398",
+      "retrieved_at": "2026-04-29T10:11:40.118898",
       "status": "included_abstract",
       "full_text_path": null,
       "fulltext_available": true,
@@ -1356,10 +1366,10 @@
       "title": "Childhood trauma associated with smaller hippocampal volume in women with major depression.",
       "retrieved_at": "2026-04-22T15:26:00.906945",
       "status": "excluded_abstract",
-      "full_text_path": "/home/zorro/repos/autonima-results/projects/vbm_of_ptsd/ace_outputs/html/manual/12450959.html",
+      "full_text_path": "/home/zorro/repos/autonima-results/articles/ace_outputs/html/manual/12450959.html",
       "fulltext_available": true,
       "coordinates_found": false
     }
   ],
-  "timestamp": "2026-04-22T15:43:02.058800"
+  "timestamp": "2026-04-29T10:11:40.119267"
 }
