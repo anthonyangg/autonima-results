@@ -7,7 +7,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416894",
+      "timestamp": "2026-04-29T10:14:33.913629",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -18,7 +18,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416900",
+      "timestamp": "2026-04-29T10:14:33.913636",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -34,7 +34,7 @@
       "confidence": 0.86,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416902",
+      "timestamp": "2026-04-29T10:14:33.913639",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -50,7 +50,7 @@
       "confidence": 0.91,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416905",
+      "timestamp": "2026-04-29T10:14:33.913642",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -66,7 +66,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416907",
+      "timestamp": "2026-04-29T10:14:33.913645",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -82,7 +82,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416910",
+      "timestamp": "2026-04-29T10:14:33.913648",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -98,7 +98,7 @@
       "confidence": 0.98,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416912",
+      "timestamp": "2026-04-29T10:14:33.913651",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -114,7 +114,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416915",
+      "timestamp": "2026-04-29T10:14:33.913653",
       "inclusion_criteria_applied": [
         "I2",
         "I3"
@@ -128,7 +128,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416917",
+      "timestamp": "2026-04-29T10:14:33.913656",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -144,7 +144,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416920",
+      "timestamp": "2026-04-29T10:14:33.913659",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -160,7 +160,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416923",
+      "timestamp": "2026-04-29T10:14:33.913663",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [
         "E5"
@@ -173,7 +173,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416925",
+      "timestamp": "2026-04-29T10:14:33.913666",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -189,7 +189,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416928",
+      "timestamp": "2026-04-29T10:14:33.913668",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -205,7 +205,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416930",
+      "timestamp": "2026-04-29T10:14:33.913671",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -221,7 +221,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416933",
+      "timestamp": "2026-04-29T10:14:33.913674",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -237,7 +237,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416936",
+      "timestamp": "2026-04-29T10:14:33.913677",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -253,7 +253,7 @@
       "confidence": 0.86,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416939",
+      "timestamp": "2026-04-29T10:14:33.913680",
       "inclusion_criteria_applied": [
         "I4",
         "I5"
@@ -267,7 +267,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416942",
+      "timestamp": "2026-04-29T10:14:33.913684",
       "inclusion_criteria_applied": [
         "I4",
         "I5"
@@ -281,7 +281,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416944",
+      "timestamp": "2026-04-29T10:14:33.913686",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -297,7 +297,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416946",
+      "timestamp": "2026-04-29T10:14:33.913690",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -313,7 +313,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416949",
+      "timestamp": "2026-04-29T10:14:33.913692",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -329,7 +329,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416952",
+      "timestamp": "2026-04-29T10:14:33.913695",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -345,7 +345,7 @@
       "confidence": 0.93,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416954",
+      "timestamp": "2026-04-29T10:14:33.913698",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -361,7 +361,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416956",
+      "timestamp": "2026-04-29T10:14:33.913700",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -377,7 +377,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416958",
+      "timestamp": "2026-04-29T10:14:33.913703",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -393,7 +393,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416961",
+      "timestamp": "2026-04-29T10:14:33.913707",
       "inclusion_criteria_applied": [
         "I2",
         "I4",
@@ -408,7 +408,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416963",
+      "timestamp": "2026-04-29T10:14:33.913709",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -424,7 +424,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416966",
+      "timestamp": "2026-04-29T10:14:33.913712",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -440,7 +440,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416968",
+      "timestamp": "2026-04-29T10:14:33.913715",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -456,7 +456,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416970",
+      "timestamp": "2026-04-29T10:14:33.913717",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -472,7 +472,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416973",
+      "timestamp": "2026-04-29T10:14:33.913720",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -488,7 +488,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416975",
+      "timestamp": "2026-04-29T10:14:33.913723",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -504,7 +504,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416978",
+      "timestamp": "2026-04-29T10:14:33.913725",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -520,7 +520,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416980",
+      "timestamp": "2026-04-29T10:14:33.913728",
       "inclusion_criteria_applied": [
         "I2",
         "I4",
@@ -537,7 +537,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416983",
+      "timestamp": "2026-04-29T10:14:33.913731",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -553,7 +553,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416985",
+      "timestamp": "2026-04-29T10:14:33.913733",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -569,7 +569,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416988",
+      "timestamp": "2026-04-29T10:14:33.913736",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -585,7 +585,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416991",
+      "timestamp": "2026-04-29T10:14:33.913739",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -601,7 +601,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416993",
+      "timestamp": "2026-04-29T10:14:33.913742",
       "inclusion_criteria_applied": [
         "I5"
       ],
@@ -616,7 +616,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416995",
+      "timestamp": "2026-04-29T10:14:33.913745",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -632,7 +632,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.416998",
+      "timestamp": "2026-04-29T10:14:33.913747",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -648,7 +648,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417000",
+      "timestamp": "2026-04-29T10:14:33.913750",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -664,7 +664,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417002",
+      "timestamp": "2026-04-29T10:14:33.913752",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -680,7 +680,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417005",
+      "timestamp": "2026-04-29T10:14:33.913755",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -696,7 +696,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417007",
+      "timestamp": "2026-04-29T10:14:33.913757",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -712,7 +712,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417009",
+      "timestamp": "2026-04-29T10:14:33.913760",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -728,7 +728,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417012",
+      "timestamp": "2026-04-29T10:14:33.913763",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -744,7 +744,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417014",
+      "timestamp": "2026-04-29T10:14:33.913765",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -760,7 +760,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417016",
+      "timestamp": "2026-04-29T10:14:33.913768",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -776,7 +776,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417018",
+      "timestamp": "2026-04-29T10:14:33.913770",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -792,7 +792,7 @@
       "confidence": 0.6,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417025",
+      "timestamp": "2026-04-29T10:14:33.913778",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -808,7 +808,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417029",
+      "timestamp": "2026-04-29T10:14:33.913781",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -824,7 +824,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417031",
+      "timestamp": "2026-04-29T10:14:33.913784",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -840,7 +840,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417034",
+      "timestamp": "2026-04-29T10:14:33.913787",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -856,7 +856,7 @@
       "confidence": 0.98,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417036",
+      "timestamp": "2026-04-29T10:14:33.913790",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -872,7 +872,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417039",
+      "timestamp": "2026-04-29T10:14:33.913792",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -888,7 +888,7 @@
       "confidence": 0.84,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417042",
+      "timestamp": "2026-04-29T10:14:33.913796",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -904,7 +904,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417045",
+      "timestamp": "2026-04-29T10:14:33.913799",
       "inclusion_criteria_applied": [
         "I2"
       ],
@@ -919,7 +919,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417047",
+      "timestamp": "2026-04-29T10:14:33.913801",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -935,7 +935,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417049",
+      "timestamp": "2026-04-29T10:14:33.913804",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -951,7 +951,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417052",
+      "timestamp": "2026-04-29T10:14:33.913807",
       "inclusion_criteria_applied": [
         "I5"
       ],
@@ -966,7 +966,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417055",
+      "timestamp": "2026-04-29T10:14:33.913810",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -982,7 +982,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417058",
+      "timestamp": "2026-04-29T10:14:33.913813",
       "inclusion_criteria_applied": [
         "I5"
       ],
@@ -997,7 +997,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417060",
+      "timestamp": "2026-04-29T10:14:33.913816",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1013,7 +1013,7 @@
       "confidence": 0.55,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417064",
+      "timestamp": "2026-04-29T10:14:33.913820",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1028,7 +1028,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417067",
+      "timestamp": "2026-04-29T10:14:33.913823",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -1044,7 +1044,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417070",
+      "timestamp": "2026-04-29T10:14:33.913826",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -1060,7 +1060,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417072",
+      "timestamp": "2026-04-29T10:14:33.913829",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1076,7 +1076,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417075",
+      "timestamp": "2026-04-29T10:14:33.913832",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -1092,7 +1092,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417077",
+      "timestamp": "2026-04-29T10:14:33.913835",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1108,7 +1108,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417080",
+      "timestamp": "2026-04-29T10:14:33.913838",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -1124,7 +1124,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417083",
+      "timestamp": "2026-04-29T10:14:33.913841",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -1140,7 +1140,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417086",
+      "timestamp": "2026-04-29T10:14:33.913843",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1156,7 +1156,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417089",
+      "timestamp": "2026-04-29T10:14:33.913846",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -1172,7 +1172,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417091",
+      "timestamp": "2026-04-29T10:14:33.913849",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1187,7 +1187,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417093",
+      "timestamp": "2026-04-29T10:14:33.913852",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1203,7 +1203,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417096",
+      "timestamp": "2026-04-29T10:14:33.913855",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -1219,7 +1219,7 @@
       "confidence": 0.86,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417099",
+      "timestamp": "2026-04-29T10:14:33.913858",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1235,7 +1235,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417101",
+      "timestamp": "2026-04-29T10:14:33.913861",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1251,7 +1251,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417105",
+      "timestamp": "2026-04-29T10:14:33.913865",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -1262,7 +1262,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417107",
+      "timestamp": "2026-04-29T10:14:33.913867",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1278,7 +1278,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417109",
+      "timestamp": "2026-04-29T10:14:33.913870",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1294,7 +1294,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417119",
+      "timestamp": "2026-04-29T10:14:33.913873",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1310,7 +1310,7 @@
       "confidence": 0.86,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417123",
+      "timestamp": "2026-04-29T10:14:33.913876",
       "inclusion_criteria_applied": [
         "I2",
         "I4",
@@ -1325,7 +1325,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417127",
+      "timestamp": "2026-04-29T10:14:33.913880",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -1341,7 +1341,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417130",
+      "timestamp": "2026-04-29T10:14:33.913883",
       "inclusion_criteria_applied": [
         "I5"
       ],
@@ -1354,7 +1354,7 @@
       "confidence": 0.93,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417133",
+      "timestamp": "2026-04-29T10:14:33.913885",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1370,7 +1370,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417137",
+      "timestamp": "2026-04-29T10:14:33.913889",
       "inclusion_criteria_applied": [
         "I2"
       ],
@@ -1385,7 +1385,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417140",
+      "timestamp": "2026-04-29T10:14:33.913892",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -1401,7 +1401,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417143",
+      "timestamp": "2026-04-29T10:14:33.913895",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -1417,7 +1417,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417145",
+      "timestamp": "2026-04-29T10:14:33.913897",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1433,7 +1433,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417148",
+      "timestamp": "2026-04-29T10:14:33.913900",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1449,7 +1449,7 @@
       "confidence": 0.86,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417150",
+      "timestamp": "2026-04-29T10:14:33.913903",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -1465,7 +1465,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417153",
+      "timestamp": "2026-04-29T10:14:33.913907",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -1481,7 +1481,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417156",
+      "timestamp": "2026-04-29T10:14:33.913909",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1497,7 +1497,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417159",
+      "timestamp": "2026-04-29T10:14:33.913912",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -1513,7 +1513,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417161",
+      "timestamp": "2026-04-29T10:14:33.913915",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1529,7 +1529,7 @@
       "confidence": 0.84,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417163",
+      "timestamp": "2026-04-29T10:14:33.913918",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -1544,7 +1544,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417166",
+      "timestamp": "2026-04-29T10:14:33.913920",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1560,7 +1560,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417169",
+      "timestamp": "2026-04-29T10:14:33.913924",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -1571,7 +1571,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417171",
+      "timestamp": "2026-04-29T10:14:33.913926",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1587,7 +1587,7 @@
       "confidence": 0.3,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417174",
+      "timestamp": "2026-04-29T10:14:33.913930",
       "inclusion_criteria_applied": [
         "I2"
       ],
@@ -1600,7 +1600,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417177",
+      "timestamp": "2026-04-29T10:14:33.913934",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -1611,7 +1611,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417180",
+      "timestamp": "2026-04-29T10:14:33.913938",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1627,7 +1627,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417183",
+      "timestamp": "2026-04-29T10:14:33.913944",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -1643,7 +1643,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417186",
+      "timestamp": "2026-04-29T10:14:33.913948",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -1659,7 +1659,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417188",
+      "timestamp": "2026-04-29T10:14:33.913951",
       "inclusion_criteria_applied": [
         "I5"
       ],
@@ -1674,7 +1674,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417191",
+      "timestamp": "2026-04-29T10:14:33.913954",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1690,7 +1690,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417194",
+      "timestamp": "2026-04-29T10:14:33.913957",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -1706,7 +1706,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417197",
+      "timestamp": "2026-04-29T10:14:33.913961",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -1721,7 +1721,7 @@
       "confidence": 0.93,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417199",
+      "timestamp": "2026-04-29T10:14:33.913963",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1737,7 +1737,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417202",
+      "timestamp": "2026-04-29T10:14:33.913966",
       "inclusion_criteria_applied": [
         "I2",
         "I4",
@@ -1754,7 +1754,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417205",
+      "timestamp": "2026-04-29T10:14:33.913970",
       "inclusion_criteria_applied": [
         "I2"
       ],
@@ -1769,7 +1769,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417208",
+      "timestamp": "2026-04-29T10:14:33.913973",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1784,7 +1784,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417211",
+      "timestamp": "2026-04-29T10:14:33.913976",
       "inclusion_criteria_applied": [
         "I2"
       ],
@@ -1799,7 +1799,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417213",
+      "timestamp": "2026-04-29T10:14:33.913979",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1815,7 +1815,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417215",
+      "timestamp": "2026-04-29T10:14:33.913981",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1831,7 +1831,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417218",
+      "timestamp": "2026-04-29T10:14:33.913984",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1847,7 +1847,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417220",
+      "timestamp": "2026-04-29T10:14:33.913986",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1863,7 +1863,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417222",
+      "timestamp": "2026-04-29T10:14:33.913989",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1879,7 +1879,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417225",
+      "timestamp": "2026-04-29T10:14:33.913991",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1895,7 +1895,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417227",
+      "timestamp": "2026-04-29T10:14:33.913994",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1911,7 +1911,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417230",
+      "timestamp": "2026-04-29T10:14:33.913997",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -1927,7 +1927,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417232",
+      "timestamp": "2026-04-29T10:14:33.914000",
       "inclusion_criteria_applied": [
         "I2",
         "I4",
@@ -1944,7 +1944,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417235",
+      "timestamp": "2026-04-29T10:14:33.914003",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1960,7 +1960,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417237",
+      "timestamp": "2026-04-29T10:14:33.914005",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1976,7 +1976,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417239",
+      "timestamp": "2026-04-29T10:14:33.914008",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -1992,7 +1992,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417242",
+      "timestamp": "2026-04-29T10:14:33.914011",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -2003,7 +2003,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417244",
+      "timestamp": "2026-04-29T10:14:33.914013",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2019,7 +2019,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417246",
+      "timestamp": "2026-04-29T10:14:33.914017",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2035,7 +2035,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417249",
+      "timestamp": "2026-04-29T10:14:33.914019",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2051,7 +2051,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417251",
+      "timestamp": "2026-04-29T10:14:33.914022",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2067,7 +2067,7 @@
       "confidence": 0.86,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417254",
+      "timestamp": "2026-04-29T10:14:33.914025",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2083,7 +2083,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417256",
+      "timestamp": "2026-04-29T10:14:33.914028",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -2099,7 +2099,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417259",
+      "timestamp": "2026-04-29T10:14:33.914031",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -2114,7 +2114,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417261",
+      "timestamp": "2026-04-29T10:14:33.914033",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2130,7 +2130,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417264",
+      "timestamp": "2026-04-29T10:14:33.914036",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2146,7 +2146,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417267",
+      "timestamp": "2026-04-29T10:14:33.914039",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -2160,7 +2160,7 @@
       "confidence": 0.89,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417270",
+      "timestamp": "2026-04-29T10:14:33.914042",
       "inclusion_criteria_applied": [
         "I4",
         "I5"
@@ -2174,7 +2174,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417272",
+      "timestamp": "2026-04-29T10:14:33.914045",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2190,7 +2190,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417275",
+      "timestamp": "2026-04-29T10:14:33.914048",
       "inclusion_criteria_applied": [
         "I2",
         "I4",
@@ -2207,7 +2207,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417277",
+      "timestamp": "2026-04-29T10:14:33.914050",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2223,7 +2223,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417279",
+      "timestamp": "2026-04-29T10:14:33.914052",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2239,7 +2239,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417282",
+      "timestamp": "2026-04-29T10:14:33.914056",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -2253,7 +2253,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417284",
+      "timestamp": "2026-04-29T10:14:33.914058",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2268,7 +2268,7 @@
       "confidence": 0.98,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417287",
+      "timestamp": "2026-04-29T10:14:33.914061",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2284,7 +2284,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417290",
+      "timestamp": "2026-04-29T10:14:33.914064",
       "inclusion_criteria_applied": [
         "I5"
       ],
@@ -2299,7 +2299,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417293",
+      "timestamp": "2026-04-29T10:14:33.914067",
       "inclusion_criteria_applied": [
         "I5"
       ],
@@ -2312,7 +2312,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417296",
+      "timestamp": "2026-04-29T10:14:33.914070",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -2326,7 +2326,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417299",
+      "timestamp": "2026-04-29T10:14:33.914074",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -2341,7 +2341,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417302",
+      "timestamp": "2026-04-29T10:14:33.914077",
       "inclusion_criteria_applied": [
         "I2",
         "I4",
@@ -2358,7 +2358,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417304",
+      "timestamp": "2026-04-29T10:14:33.914079",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2374,7 +2374,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417307",
+      "timestamp": "2026-04-29T10:14:33.914082",
       "inclusion_criteria_applied": [
         "I5"
       ],
@@ -2387,7 +2387,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417309",
+      "timestamp": "2026-04-29T10:14:33.914085",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2403,7 +2403,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417312",
+      "timestamp": "2026-04-29T10:14:33.914088",
       "inclusion_criteria_applied": [
         "I2",
         "I4",
@@ -2420,7 +2420,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417314",
+      "timestamp": "2026-04-29T10:14:33.914091",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2436,7 +2436,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417317",
+      "timestamp": "2026-04-29T10:14:33.914094",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -2447,7 +2447,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417320",
+      "timestamp": "2026-04-29T10:14:33.914096",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2463,7 +2463,7 @@
       "confidence": 0.94,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417322",
+      "timestamp": "2026-04-29T10:14:33.914099",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2479,7 +2479,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417324",
+      "timestamp": "2026-04-29T10:14:33.914101",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2495,7 +2495,7 @@
       "confidence": 0.35,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417327",
+      "timestamp": "2026-04-29T10:14:33.914105",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -2506,7 +2506,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417330",
+      "timestamp": "2026-04-29T10:14:33.914108",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2522,7 +2522,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417332",
+      "timestamp": "2026-04-29T10:14:33.914110",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2538,7 +2538,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417335",
+      "timestamp": "2026-04-29T10:14:33.914113",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -2554,7 +2554,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417338",
+      "timestamp": "2026-04-29T10:14:33.914116",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2570,7 +2570,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417340",
+      "timestamp": "2026-04-29T10:14:33.914120",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -2586,7 +2586,7 @@
       "confidence": 0.93,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417343",
+      "timestamp": "2026-04-29T10:14:33.914123",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -2602,7 +2602,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417345",
+      "timestamp": "2026-04-29T10:14:33.914126",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2618,7 +2618,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417348",
+      "timestamp": "2026-04-29T10:14:33.914130",
       "inclusion_criteria_applied": [
         "I2",
         "I4",
@@ -2635,7 +2635,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417351",
+      "timestamp": "2026-04-29T10:14:33.914133",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -2651,7 +2651,7 @@
       "confidence": 0.87,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417354",
+      "timestamp": "2026-04-29T10:14:33.914136",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -2667,7 +2667,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417356",
+      "timestamp": "2026-04-29T10:14:33.914138",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2683,7 +2683,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417359",
+      "timestamp": "2026-04-29T10:14:33.914142",
       "inclusion_criteria_applied": [
         "I4"
       ],
@@ -2696,7 +2696,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417362",
+      "timestamp": "2026-04-29T10:14:33.914145",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2712,7 +2712,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417365",
+      "timestamp": "2026-04-29T10:14:33.914148",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -2723,7 +2723,7 @@
       "confidence": 0.86,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417367",
+      "timestamp": "2026-04-29T10:14:33.914151",
       "inclusion_criteria_applied": [
         "I2",
         "I4",
@@ -2740,7 +2740,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417370",
+      "timestamp": "2026-04-29T10:14:33.914154",
       "inclusion_criteria_applied": [
         "I2",
         "I4",
@@ -2755,7 +2755,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417373",
+      "timestamp": "2026-04-29T10:14:33.914157",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -2770,7 +2770,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417376",
+      "timestamp": "2026-04-29T10:14:33.914160",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -2786,7 +2786,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417379",
+      "timestamp": "2026-04-29T10:14:33.914163",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2802,7 +2802,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417381",
+      "timestamp": "2026-04-29T10:14:33.914166",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2818,7 +2818,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417384",
+      "timestamp": "2026-04-29T10:14:33.914169",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -2834,7 +2834,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417386",
+      "timestamp": "2026-04-29T10:14:33.914171",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2850,7 +2850,7 @@
       "confidence": 0.86,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417388",
+      "timestamp": "2026-04-29T10:14:33.914174",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2866,7 +2866,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417391",
+      "timestamp": "2026-04-29T10:14:33.914177",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2882,7 +2882,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417394",
+      "timestamp": "2026-04-29T10:14:33.914180",
       "inclusion_criteria_applied": [
         "I2",
         "I4",
@@ -2899,7 +2899,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417396",
+      "timestamp": "2026-04-29T10:14:33.914182",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2915,7 +2915,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417399",
+      "timestamp": "2026-04-29T10:14:33.914185",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2931,7 +2931,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417401",
+      "timestamp": "2026-04-29T10:14:33.914187",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2947,7 +2947,7 @@
       "confidence": 0.91,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417404",
+      "timestamp": "2026-04-29T10:14:33.914191",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -2963,7 +2963,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417407",
+      "timestamp": "2026-04-29T10:14:33.914194",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -2979,7 +2979,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417409",
+      "timestamp": "2026-04-29T10:14:33.914196",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -2994,7 +2994,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417412",
+      "timestamp": "2026-04-29T10:14:33.914199",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -3010,7 +3010,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417415",
+      "timestamp": "2026-04-29T10:14:33.914202",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3026,7 +3026,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417417",
+      "timestamp": "2026-04-29T10:14:33.914204",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3042,7 +3042,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417420",
+      "timestamp": "2026-04-29T10:14:33.914207",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -3053,7 +3053,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417423",
+      "timestamp": "2026-04-29T10:14:33.914211",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -3069,7 +3069,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417425",
+      "timestamp": "2026-04-29T10:14:33.914213",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3085,7 +3085,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417428",
+      "timestamp": "2026-04-29T10:14:33.914216",
       "inclusion_criteria_applied": [
         "I5"
       ],
@@ -3098,7 +3098,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417430",
+      "timestamp": "2026-04-29T10:14:33.914219",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3114,7 +3114,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417433",
+      "timestamp": "2026-04-29T10:14:33.914222",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -3130,7 +3130,7 @@
       "confidence": 0.15,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417437",
+      "timestamp": "2026-04-29T10:14:33.914226",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -3141,7 +3141,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417440",
+      "timestamp": "2026-04-29T10:14:33.914229",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3157,7 +3157,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417442",
+      "timestamp": "2026-04-29T10:14:33.914232",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -3173,7 +3173,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417445",
+      "timestamp": "2026-04-29T10:14:33.914234",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3189,7 +3189,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417447",
+      "timestamp": "2026-04-29T10:14:33.914237",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3204,7 +3204,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417449",
+      "timestamp": "2026-04-29T10:14:33.914240",
       "inclusion_criteria_applied": [
         "I2",
         "I3"
@@ -3218,7 +3218,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417452",
+      "timestamp": "2026-04-29T10:14:33.914242",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3234,7 +3234,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417455",
+      "timestamp": "2026-04-29T10:14:33.914246",
       "inclusion_criteria_applied": [
         "I2"
       ],
@@ -3249,7 +3249,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417457",
+      "timestamp": "2026-04-29T10:14:33.914248",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3265,7 +3265,7 @@
       "confidence": 0.86,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417460",
+      "timestamp": "2026-04-29T10:14:33.914251",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3281,7 +3281,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417462",
+      "timestamp": "2026-04-29T10:14:33.914254",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3297,7 +3297,7 @@
       "confidence": 0.86,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417465",
+      "timestamp": "2026-04-29T10:14:33.914257",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3313,7 +3313,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417468",
+      "timestamp": "2026-04-29T10:14:33.914260",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": []
     },
@@ -3324,7 +3324,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417471",
+      "timestamp": "2026-04-29T10:14:33.914263",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3340,7 +3340,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417473",
+      "timestamp": "2026-04-29T10:14:33.914266",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -3356,7 +3356,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417476",
+      "timestamp": "2026-04-29T10:14:33.914269",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [
         "E6"
@@ -3369,7 +3369,7 @@
       "confidence": 0.78,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417479",
+      "timestamp": "2026-04-29T10:14:33.914273",
       "inclusion_criteria_applied": [
         "I5"
       ],
@@ -3382,7 +3382,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417482",
+      "timestamp": "2026-04-29T10:14:33.914276",
       "inclusion_criteria_applied": [
         "I5"
       ],
@@ -3395,7 +3395,7 @@
       "confidence": 0.86,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417485",
+      "timestamp": "2026-04-29T10:14:33.914279",
       "inclusion_criteria_applied": [
         "I4",
         "I5"
@@ -3409,7 +3409,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417488",
+      "timestamp": "2026-04-29T10:14:33.914281",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3425,7 +3425,7 @@
       "confidence": 0.86,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417491",
+      "timestamp": "2026-04-29T10:14:33.914285",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -3441,7 +3441,7 @@
       "confidence": 0.89,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417493",
+      "timestamp": "2026-04-29T10:14:33.914287",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3457,7 +3457,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417496",
+      "timestamp": "2026-04-29T10:14:33.914290",
       "inclusion_criteria_applied": [
         "I4",
         "I5"
@@ -3471,7 +3471,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417499",
+      "timestamp": "2026-04-29T10:14:33.914293",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3487,7 +3487,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417502",
+      "timestamp": "2026-04-29T10:14:33.914296",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -3503,7 +3503,7 @@
       "confidence": 0.93,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417504",
+      "timestamp": "2026-04-29T10:14:33.914299",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3519,7 +3519,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417507",
+      "timestamp": "2026-04-29T10:14:33.914301",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3535,7 +3535,7 @@
       "confidence": 0.87,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417509",
+      "timestamp": "2026-04-29T10:14:33.914304",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3551,7 +3551,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417511",
+      "timestamp": "2026-04-29T10:14:33.914306",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3566,7 +3566,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417514",
+      "timestamp": "2026-04-29T10:14:33.914309",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3582,7 +3582,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417516",
+      "timestamp": "2026-04-29T10:14:33.914311",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3598,7 +3598,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417519",
+      "timestamp": "2026-04-29T10:14:33.914314",
       "inclusion_criteria_applied": [
         "I4",
         "I5"
@@ -3612,7 +3612,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417522",
+      "timestamp": "2026-04-29T10:14:33.914318",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -3628,7 +3628,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417524",
+      "timestamp": "2026-04-29T10:14:33.914321",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3644,7 +3644,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417526",
+      "timestamp": "2026-04-29T10:14:33.914323",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3660,7 +3660,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417529",
+      "timestamp": "2026-04-29T10:14:33.914326",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -3676,7 +3676,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417532",
+      "timestamp": "2026-04-29T10:14:33.914330",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3692,7 +3692,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417534",
+      "timestamp": "2026-04-29T10:14:33.914333",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3708,7 +3708,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417537",
+      "timestamp": "2026-04-29T10:14:33.914336",
       "inclusion_criteria_applied": [
         "I5"
       ],
@@ -3723,7 +3723,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417539",
+      "timestamp": "2026-04-29T10:14:33.914339",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3739,7 +3739,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417542",
+      "timestamp": "2026-04-29T10:14:33.914342",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -3755,7 +3755,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417545",
+      "timestamp": "2026-04-29T10:14:33.914345",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3771,7 +3771,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417547",
+      "timestamp": "2026-04-29T10:14:33.914347",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3787,7 +3787,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417550",
+      "timestamp": "2026-04-29T10:14:33.914350",
       "inclusion_criteria_applied": [
         "I2",
         "I4",
@@ -3798,13 +3798,29 @@
       ]
     },
     {
+      "study_id": "36200376",
+      "decision": "included_fulltext",
+      "reason": "This is an empirical, English-language structural MRI study using voxel-based morphometry comparing grey matter volume between substance users (heroin and cocaine use disorder groups) and healthy controls. The paper reports both region-of-interest focused analyses and explicit exploratory whole-brain VBM analyses (noted in the main text and Supplementary Table 1), satisfying the requirement for whole-brain between-group contrasts. Participant demographics (age/sex), substance use characteristics, MRI field strength (3T), and preprocessing/statistical software (FSL-VBM, dcm2niix, etc.) are reported. Core article content (introduction, methods, results, discussion) is present in the provided full text. Therefore the study meets the review\u2019s inclusion criteria for empirical whole-brain GM comparisons and does not meet any exclusion criteria.",
+      "confidence": 0.95,
+      "model_used": "gpt-5-mini-2025-08-07",
+      "screening_type": "fulltext",
+      "timestamp": "2026-04-29T10:14:33.914353",
+      "inclusion_criteria_applied": [
+        "I2",
+        "I3",
+        "I4",
+        "I5"
+      ],
+      "exclusion_criteria_applied": []
+    },
+    {
       "study_id": "34364191",
       "decision": "included_fulltext",
       "reason": "This is an empirical human structural MRI study (voxel-based morphometry) comparing grey matter density/volume between cocaine user groups (smoked and insufflated) and matched healthy controls. The authors performed whole-brain voxelwise t-tests (cluster p<.05, extent threshold=50 voxels) and report significant caudate GMd differences associated with behavior; results and coordinates are referenced in main/supplementary materials (tables/figures). Participant demographics, MRI field strength (1.5 T), and preprocessing/statistical software (CAT12, DPARSF, SPM) are reported. Therefore it satisfies inclusion criteria I2, I3, I4 and I5. No exclusion criteria are met (not ROI-only; not non-empirical). Full text appears complete (methods, results, discussion present).",
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417552",
+      "timestamp": "2026-04-29T10:14:33.914356",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3820,7 +3836,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417555",
+      "timestamp": "2026-04-29T10:14:33.914359",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -3836,7 +3852,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417557",
+      "timestamp": "2026-04-29T10:14:33.914362",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3852,7 +3868,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417560",
+      "timestamp": "2026-04-29T10:14:33.914365",
       "inclusion_criteria_applied": [
         "I4",
         "I5"
@@ -3866,7 +3882,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417563",
+      "timestamp": "2026-04-29T10:14:33.914368",
       "inclusion_criteria_applied": [
         "I3",
         "I4",
@@ -3881,7 +3897,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417565",
+      "timestamp": "2026-04-29T10:14:33.914370",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3897,7 +3913,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417567",
+      "timestamp": "2026-04-29T10:14:33.914373",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3913,7 +3929,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417570",
+      "timestamp": "2026-04-29T10:14:33.914375",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3929,7 +3945,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417572",
+      "timestamp": "2026-04-29T10:14:33.914378",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3945,7 +3961,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417575",
+      "timestamp": "2026-04-29T10:14:33.914381",
       "inclusion_criteria_applied": [
         "I4",
         "I5"
@@ -3959,7 +3975,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417577",
+      "timestamp": "2026-04-29T10:14:33.914384",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3977,7 +3993,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417580",
+      "timestamp": "2026-04-29T10:14:33.914387",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -3993,7 +4009,7 @@
       "confidence": 0.93,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417582",
+      "timestamp": "2026-04-29T10:14:33.914389",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -4009,7 +4025,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417585",
+      "timestamp": "2026-04-29T10:14:33.914392",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -4025,7 +4041,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417588",
+      "timestamp": "2026-04-29T10:14:33.914395",
       "inclusion_criteria_applied": [
         "I5"
       ],
@@ -4038,7 +4054,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417592",
+      "timestamp": "2026-04-29T10:14:33.914397",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -4054,7 +4070,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417596",
+      "timestamp": "2026-04-29T10:14:33.914400",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -4070,7 +4086,7 @@
       "confidence": 0.87,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417599",
+      "timestamp": "2026-04-29T10:14:33.914403",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -4086,7 +4102,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417603",
+      "timestamp": "2026-04-29T10:14:33.914405",
       "inclusion_criteria_applied": [
         "I4"
       ],
@@ -4099,7 +4115,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417608",
+      "timestamp": "2026-04-29T10:14:33.914409",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -4115,7 +4131,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417612",
+      "timestamp": "2026-04-29T10:14:33.914411",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -4131,7 +4147,7 @@
       "confidence": 0.86,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417617",
+      "timestamp": "2026-04-29T10:14:33.914414",
       "inclusion_criteria_applied": [
         "I2",
         "I4",
@@ -4146,7 +4162,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417622",
+      "timestamp": "2026-04-29T10:14:33.914417",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -4162,7 +4178,7 @@
       "confidence": 0.86,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417626",
+      "timestamp": "2026-04-29T10:14:33.914420",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -4178,7 +4194,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417631",
+      "timestamp": "2026-04-29T10:14:33.914423",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -4194,7 +4210,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417635",
+      "timestamp": "2026-04-29T10:14:33.914425",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -4210,7 +4226,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417639",
+      "timestamp": "2026-04-29T10:14:33.914428",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -4226,7 +4242,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417643",
+      "timestamp": "2026-04-29T10:14:33.914430",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -4241,7 +4257,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417647",
+      "timestamp": "2026-04-29T10:14:33.914433",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -4257,7 +4273,7 @@
       "confidence": 0.86,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417652",
+      "timestamp": "2026-04-29T10:14:33.914435",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -4273,7 +4289,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417657",
+      "timestamp": "2026-04-29T10:14:33.914438",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -4289,7 +4305,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417661",
+      "timestamp": "2026-04-29T10:14:33.914441",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -4305,7 +4321,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417666",
+      "timestamp": "2026-04-29T10:14:33.914444",
       "inclusion_criteria_applied": [
         "I2",
         "I5"
@@ -4321,7 +4337,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417670",
+      "timestamp": "2026-04-29T10:14:33.914447",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -4337,7 +4353,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417674",
+      "timestamp": "2026-04-29T10:14:33.914450",
       "inclusion_criteria_applied": [
         "I5"
       ],
@@ -4350,7 +4366,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417678",
+      "timestamp": "2026-04-29T10:14:33.914453",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -4366,7 +4382,7 @@
       "confidence": 0.78,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417683",
+      "timestamp": "2026-04-29T10:14:33.914456",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -4381,7 +4397,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417687",
+      "timestamp": "2026-04-29T10:14:33.914458",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -4397,7 +4413,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417691",
+      "timestamp": "2026-04-29T10:14:33.914461",
       "inclusion_criteria_applied": [
         "I3",
         "I5"
@@ -4411,7 +4427,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417695",
+      "timestamp": "2026-04-29T10:14:33.914464",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -4427,7 +4443,7 @@
       "confidence": 0.86,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417699",
+      "timestamp": "2026-04-29T10:14:33.914467",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -4442,7 +4458,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417704",
+      "timestamp": "2026-04-29T10:14:33.914470",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -4458,7 +4474,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417707",
+      "timestamp": "2026-04-29T10:14:33.914472",
       "inclusion_criteria_applied": [
         "I2",
         "I3",
@@ -4474,12 +4490,12 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "fulltext",
-      "timestamp": "2026-04-14T15:27:24.417712",
+      "timestamp": "2026-04-29T10:14:33.914475",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [
         "E6"
       ]
     }
   ],
-  "timestamp": "2026-04-14T15:27:24.426763"
+  "timestamp": "2026-04-29T10:14:33.923417"
 }
