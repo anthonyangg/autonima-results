@@ -1,6 +1,11 @@
 project_name,run,dice_mean_diagonal,pearson_mean_diagonal,dice_mean_off_diagonal,pearson_mean_off_diagonal,all_analyses_dice,all_analyses_pearson,n_rows,n_cols
-cue_reactivity,v5-annotation-only,0.701828,0.875130,0.564983,0.759171,0.614052,0.813257,6,3
-decision_making,v2-annotation-only,0.353631,0.632056,0.222987,0.469388,0.276451,0.587294,6,3
+cue_reactivity,v5-annotation-only-gpt,0.701828,0.875130,0.564983,0.759171,0.614052,0.813257,6,3
+decision_making,v2-annotation-only-gpt,0.353631,0.632056,0.222987,0.469388,0.276451,0.587294,6,3
+dementia,v2-annotation-only,0.388306,0.677879,0.322311,0.596966,0.342347,0.615968,7,4
+dementia,v2-annotation-only-abstract,0.390272,0.705875,0.329958,0.615981,0.348189,0.621885,7,4
+dementia,v3-annotation-only,0.459827,0.723412,0.336908,0.629172,0.348189,0.621885,7,4
+problem_solving,v1-annotation-only,0.571868,0.757155,0.464059,0.662457,0.524916,0.742033,8,5
+problem_solving,v2-annotation-only-gpt,0.447736,0.654351,0.393779,0.598515,0.515261,0.732451,8,5
 social,v3-annotation-only,0.496074,0.698039,0.390502,0.632685,0.514627,0.764992,8,5
 vbm_of_ptsd,v1-annotation-only,0.835543,0.922066,0.520767,0.745328,0.520767,0.745328,4,1
-vbm_of_substance_use,v2-annotation-only,0.442498,0.799181,0.111735,0.294403,0.218897,0.460566,9,6
+vbm_of_substance_use,v2-annotation-only-gpt,0.442498,0.799181,0.111735,0.294403,0.218897,0.460566,9,6
