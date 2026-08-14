@@ -1,0 +1,115 @@
+{
+  "cache": {
+    "changed_stages": [],
+    "invalidated_stages": []
+  },
+  "completed_at": "2026-08-13T13:46:54-05:00",
+  "current_stage": null,
+  "execution_id": "migration-9868ab656d8d06b6821ac3e4",
+  "schema_version": 2,
+  "stages": [
+    {
+      "completed_at": "2026-08-13T13:46:54-05:00",
+      "counters": {
+        "studies_found": 486
+      },
+      "error": null,
+      "planned": true,
+      "source": "cache",
+      "stage": "search",
+      "started_at": "2026-08-13T13:46:54-05:00",
+      "status": "completed"
+    },
+    {
+      "completed_at": "2026-08-13T13:46:54-05:00",
+      "counters": {
+        "excluded": 105,
+        "included": 380,
+        "screened": 485
+      },
+      "error": null,
+      "planned": true,
+      "source": "cache",
+      "stage": "abstract",
+      "started_at": "2026-08-13T13:46:54-05:00",
+      "status": "completed"
+    },
+    {
+      "completed_at": "2026-08-13T13:46:54-05:00",
+      "counters": {
+        "available": 0,
+        "fulltext_candidates": 380
+      },
+      "error": null,
+      "planned": true,
+      "source": "cache",
+      "stage": "retrieval",
+      "started_at": "2026-08-13T13:46:54-05:00",
+      "status": "completed"
+    },
+    {
+      "completed_at": "2026-08-13T13:46:54-05:00",
+      "counters": {
+        "excluded": 31,
+        "included": 118,
+        "incomplete": 0,
+        "screened": 149
+      },
+      "error": null,
+      "planned": true,
+      "source": "cache",
+      "stage": "fulltext",
+      "started_at": "2026-08-13T13:46:54-05:00",
+      "status": "completed"
+    },
+    {
+      "completed_at": "2026-08-13T13:46:54-05:00",
+      "counters": {
+        "analyses": 928,
+        "coordinates": 6767,
+        "studies": 198
+      },
+      "error": null,
+      "planned": true,
+      "source": "cache",
+      "stage": "parsing",
+      "started_at": "2026-08-13T13:46:54-05:00",
+      "status": "completed"
+    },
+    {
+      "completed_at": "2026-08-13T13:46:54-05:00",
+      "counters": {
+        "annotations": 6,
+        "decisions": 1536
+      },
+      "error": null,
+      "planned": true,
+      "source": "cache",
+      "stage": "annotation",
+      "started_at": "2026-08-13T13:46:54-05:00",
+      "status": "completed"
+    },
+    {
+      "completed_at": "2026-08-13T13:46:54-05:00",
+      "counters": {
+        "abstract_excluded": 136,
+        "abstract_screened": 486,
+        "final_included": 118,
+        "fulltext_assessed": 118,
+        "fulltext_excluded": 134,
+        "nimads_available": true,
+        "total_identified": 486
+      },
+      "error": null,
+      "planned": true,
+      "source": "cache",
+      "stage": "output",
+      "started_at": "2026-08-13T13:46:54-05:00",
+      "status": "completed"
+    }
+  ],
+  "started_at": "2026-08-13T13:46:54-05:00",
+  "status": "completed",
+  "stop_after_stage": "full",
+  "updated_at": "2026-08-13T13:46:54-05:00"
+}

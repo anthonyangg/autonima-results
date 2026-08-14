@@ -169,7 +169,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "130c595bed62c4ab91b664dda9acb344e8ab7ec254d963739eaf63e5d7e1c3d5"
+      }
     },
     {
       "pmid": "22458561",
@@ -1041,7 +1047,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "4de684aa8272c4670607ddb1ad6884ee35f52cc1387bbdc356376b5ef6a37f3f"
+      }
     },
     {
       "pmid": "30243035",
@@ -1319,7 +1331,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "2b9e5770b37dc0db95204d8ab5e76b05c675c557770e0624f4f942ee824d04a7"
+      }
     },
     {
       "pmid": "29090683",
@@ -1373,7 +1391,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "6585d49edde7166fcb5517f732d7c05e88e1fef75820c51394926110bb4c7ca3"
+      }
     },
     {
       "pmid": "32853997",
@@ -1419,7 +1443,13 @@
           "table_id": "tbl0010",
           "points": []
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "3cadf055597565e62e76c432d3c98e6e314f5d2c3bd60021ee84fd6f5c11ccf0"
+      }
     },
     {
       "pmid": "31715379",
@@ -1716,7 +1746,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "e603643b9602226cb370896b76f9387f703115b7a55f3864de75bbd775c440c9"
+      }
     },
     {
       "pmid": "28521241",
@@ -1903,7 +1939,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "4acc74b8a6918e82b80c2b2f5ae07f9898a10dac407fea0c3af3ead01d39c6bf"
+      }
     },
     {
       "pmid": "26769333",
@@ -2012,7 +2054,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "5235db852698167bbb9eead683f13639563488486e0654d388c04b7f311697ab"
+      }
     },
     {
       "pmid": "29059451",
@@ -2094,7 +2142,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "113580b4dcebf7f4a37a70fe7ccb182331ae4daea8fbd186c6ec5d92017bbd4d"
+      }
     },
     {
       "pmid": "30788529",
@@ -2197,7 +2251,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "c1db8871bd7de12196a06650d2e73d6d3d54b28c9b29fc946c20988e753a0042"
+      }
     },
     {
       "pmid": "29106683",
@@ -2475,7 +2535,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "6d545ce10ed7789b44960e85348bb13b60218a19f69b320020bf455886755dae"
+      }
     },
     {
       "pmid": "26119472",
@@ -2753,7 +2819,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "ec03bea6ccf66cd38c64afbc2a3939cf1a9c32732de67524e7f0bbc79875226c"
+      }
     },
     {
       "pmid": "31972520",
@@ -3333,7 +3405,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "46a576575aeea962058feacf0dd24dc8c436ae861cd2029419134f1fa5ee03b3"
+      }
     },
     {
       "pmid": "21185518",
@@ -3701,7 +3779,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "405437339fa9a0fd2af3c3a4be651e323d0043aa7085560493abb776a5d2cf87"
+      }
     },
     {
       "pmid": "31420667",
@@ -3788,7 +3872,13 @@
           "table_id": "T2",
           "points": []
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "829136097d59746f7571e3f529cb2eb1d62d5f7166896433a65978d1197ae671"
+      }
     },
     {
       "pmid": "31174338",
@@ -3891,7 +3981,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "3b73a42f534f63005d44c3f250c4fc359fea35a8b3d8211435dcdce2e0992165"
+      }
     },
     {
       "pmid": "26805583",
@@ -3957,7 +4053,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "b5cb6dc3aaff6182fb5b9c3d3661284f162cd6bc79615b85e8abb5e1ec878292"
+      }
     },
     {
       "pmid": "30844426",
@@ -4274,7 +4376,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "668a14a39dba108d3c42d54af35ffc961f4cd154ec271957510afd05987be0b4"
+      }
     },
     {
       "pmid": "24988265",
@@ -4517,7 +4625,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "9bf8bcb44a72ca454b0df9a319859e487651dbeeab0d75cb310a26a99b7fb6d9"
+      }
     },
     {
       "pmid": "30019454",
@@ -5005,7 +5119,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "548c2ab2185de60c5b08fb031398568ba452190c0d353f58a345324194fc6d3d"
+      }
     },
     {
       "pmid": "26883294",
@@ -5343,7 +5463,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "9077fcfe22324fc1d11c5ef7d0354847490cb5dbc2c8f67329608125adeb6fda"
+      }
     },
     {
       "pmid": "25875013",
@@ -5876,7 +6002,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "d01fbc291e4325bf575172c7f4d09bc6f90759c6386f96162237a176cb3a32e6"
+      }
     },
     {
       "pmid": "12381499",
@@ -6112,7 +6244,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "065ce182412a80d85ab192e16bbac72a25d1a0690764ab712c80e79fadcdcb8f"
+      }
     },
     {
       "pmid": "24376278",
@@ -6376,7 +6514,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "f5a3f3927fcbc24c06c79665b4cc51884111f079b1f7bb9a9bb6ad33f242df9f"
+      }
     },
     {
       "pmid": "26478134",
@@ -6605,7 +6749,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "6c20151f23e27b087e82facf69cec4cdcd3f30c50ae69e7b8bf192959bb54370"
+      }
     },
     {
       "pmid": "29410011",
@@ -7583,7 +7733,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "5a006f758c859ec2de61d7bf4074c1075bc9755bea9742fe1a89ce539022eb7d"
+      }
     },
     {
       "pmid": "30066136",
@@ -7679,7 +7835,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "210d2da9294e912f360a7f57285f5cac4eb91f24a25b373c409afe7f2742703d"
+      }
     },
     {
       "pmid": "27654662",
@@ -7920,7 +8082,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "866359677cbe5316849a583e6484caa32091da82dfbbca54f12916bd8fb7db28"
+      }
     },
     {
       "pmid": "31746092",
@@ -8289,7 +8457,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "ec609ee9ade5d7909dd377313641e350170a5a39c29a080ea9978412229f9875"
+      }
     },
     {
       "pmid": "26125586",
@@ -9176,7 +9350,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "356a95257a5d7e2920ba92aae070efd0c615d132f69572647952fbb68b71fbad"
+      }
     },
     {
       "pmid": "22890475",
@@ -9477,7 +9657,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "a0953d75272db887ce1ddf16e3fc67b09dc570b3761ea0bee24074d31e1f8e95"
+      }
     },
     {
       "pmid": "21219260",
@@ -9965,7 +10151,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "cafb546aadd6ccb809bdcd7b0b5abcf434f58bddeceee1397dfa24fd8e8bce3a"
+      }
     },
     {
       "pmid": "19968401",
@@ -11090,7 +11282,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "331a4838f04697b828474ab2023959bbf462b2873e660edf3160ea15671225f7"
+      }
     },
     {
       "pmid": "24304235",
@@ -11172,7 +11370,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "d4adebe7405515b7a7d0438b64043a03981b4dd31f3a84c689ba330dfbd0f6b2"
+      }
     },
     {
       "pmid": "29984874",
@@ -11674,7 +11878,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "ae4f72f89f7956ab451bd1dbe77ebd83ef49a9d334f46808f170e8aa30dd8f89"
+      }
     },
     {
       "pmid": "29343732",
@@ -11973,7 +12183,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "acec1834b436c2fd0074c19ad0944e4e25995479bf041757d0f646d0267636bc"
+      }
     },
     {
       "pmid": "17217932",
@@ -14181,7 +14397,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "e2e18feee27d3b756a00945fca60b232c0473499f122df25c2cd4ff75ac7b06d"
+      }
     },
     {
       "pmid": "17375140",
@@ -14398,7 +14620,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "4ce305350f21b0e2da165b57beea9d7a380af8442c11ff1e0663241e48cf3f70"
+      }
     },
     {
       "pmid": "21466926",
@@ -14593,7 +14821,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "d73f78d073112ba3d8bd092828c97360d8a5cda9de3d12f638a47752206f3d20"
+      }
     },
     {
       "pmid": "22329835",
@@ -15094,7 +15328,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "1f4158546a4003017eaff907ee0dcd7fd76cf4edeeef4ab8ed8eb262c406d411"
+      }
     },
     {
       "pmid": "15127179",
@@ -15323,7 +15563,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "6fc0a236253cc12a90feba2f47a6b74f8ce4979986159314a15fbffb3bcdba50"
+      }
     },
     {
       "pmid": "22580204",
@@ -16017,7 +16263,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "a9aa2c6babb751d5542a648c79b4434c5aaa5f6bfb7fc89e9cfb2496aba90c07"
+      }
     },
     {
       "pmid": "31439409",
@@ -16225,7 +16477,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "acb9b362840b4c2c5062756e8993abf5f96dd6a5874fa1c0872615742c483f73"
+      }
     },
     {
       "pmid": "19369561",
@@ -17111,7 +17369,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "47635ab6f34b5e609dd898df7828ed5dd06627364302d566e8047f3e11772df0"
+      }
     },
     {
       "pmid": "26475784",
@@ -17853,7 +18117,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "3df65f4ccb6dab199eeb5a34e7a2435febbd96ff0947cb5c14de1a6a50775f87"
+      }
     },
     {
       "pmid": "26893259",
@@ -18214,7 +18484,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "1db4cb16596be5701f6d202ecdeef26aecf9bad75fad3545b2c65ee6f9494eef"
+      }
     },
     {
       "pmid": "16123763",
@@ -18271,7 +18547,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "27a75d4e886bfc78688565405972e65c7a9a6f91d15089b1356d4606961035eb"
+      }
     },
     {
       "pmid": "32285159",
@@ -18409,7 +18691,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "b53da47fba3661b61bb8d0ce354cf2a222ce987a302a35f993386fea7165ad7b"
+      }
     },
     {
       "pmid": "22860092",
@@ -18820,7 +19108,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "2eeffbd808796455c0572390d32049d5cce30c536a2599b1632be4e89a181427"
+      }
     },
     {
       "pmid": "18823721",
@@ -20232,7 +20526,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "3fabfedc93bf86e4efe4e99225058a5ef4bc9b0081f7b1117bf46bbef3a11851"
+      }
     },
     {
       "pmid": "30143454",
@@ -20846,7 +21146,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "520acd2c42439737025ecd9dc3eb01ec5f434fd50f70bb313aac002224dca246"
+      }
     },
     {
       "pmid": "19135471",
@@ -21056,7 +21362,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "57bf33cd1664e24d8796911450c5a4f43cac8c705036485749593ce0af2aa5cb"
+      }
     },
     {
       "pmid": "24035535",
@@ -21899,7 +22211,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "bd4c9d3e4f1cf76c462167b5cfd4b470ae5fbc020ca47800287efb2f33a46b91"
+      }
     },
     {
       "pmid": "21790899",
@@ -23908,7 +24226,13 @@
           "table_id": "1964",
           "points": []
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "ac8b73b6ad0d2af4702db566c545d2d2d8fd7c30d14c5673cda8704343c6dfc0"
+      }
     },
     {
       "pmid": "22542509",
@@ -24402,7 +24726,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "509deb32fdf3ed28c9216956d4662c62a5a95da082a4c32d2f3554c6775fe87d"
+      }
     },
     {
       "pmid": "31908107",
@@ -25121,7 +25451,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "89f8c9dde2c60f3551ca69a4a459ea10aaddb9bbe5c06409a92f3ac9a4de45e4"
+      }
     },
     {
       "pmid": "32862560",
@@ -25563,7 +25899,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "5aafc2f6d9e0184e9e23b630044a147335703ddba83bb4b3ff51559d85676fff"
+      }
     },
     {
       "pmid": "23131612",
@@ -25638,7 +25980,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "b54b1858abf8df76fd1f594d753ab7fac460b48c1d6dbe40ea49f5736eee0199"
+      }
     },
     {
       "pmid": "30268001",
@@ -25741,7 +26089,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "ec5c8bd405257d9223363f6690f4c17f52b760da1cca8fe2383b8d84717cdb32"
+      }
     },
     {
       "pmid": "21199958",
@@ -27125,7 +27479,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "31cc2a30f9a572d9fdab89c7c9449a549c1dcd53b07e5a90fbd2d8d722d09af7"
+      }
     },
     {
       "pmid": "17291784",
@@ -27296,7 +27656,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "f9d8842692aeaabe2b028699f71d8b3bdbcc0a0a0b16cf1e02c2b89bec7547fb"
+      }
     },
     {
       "pmid": "24186078",
@@ -27462,7 +27828,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "5cd351e96542651de84ddc9269f2e894ea806538260cc9764f4a50793fc99c45"
+      }
     },
     {
       "pmid": "31647945",
@@ -27679,7 +28051,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "bd166f7ae94e2df9f72728ed2294bc92d49c9bc3a4df915ef872ac19beaf7616"
+      }
     },
     {
       "pmid": "27312405",
@@ -28104,7 +28482,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "3a91c23e477d47f64549be45270d8bbb0d15baadd5cd47562158b0ddf977ba04"
+      }
     },
     {
       "pmid": "25035299",
@@ -28266,7 +28650,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "a5716d19ad669b7ac845bb4a19c825efc44ca695ad680d8c6454234f2a9de8f4"
+      }
     },
     {
       "pmid": "16759342",
@@ -28831,7 +29221,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "fc8807595c9047ce1d1d96f5651dee6d17c54d990ad69e2da96ed1f246072f94"
+      }
     },
     {
       "pmid": "17307790",
@@ -29317,7 +29713,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "a6ce81ce1dda3bce18dd7acb81d40d7fe8320630060cf928e27576511b37e8c0"
+      }
     },
     {
       "pmid": "12860777",
@@ -29588,7 +29990,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "a92ce30d5dbbfebb47e639df7956f3c78a98695a32707f434300fd5620b92696"
+      }
     },
     {
       "pmid": "28801730",
@@ -29652,7 +30060,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "c5c871b0fd37f088dca4fe15bce41c9791f220f42d84ee78c7af3c3a94d68427"
+      }
     },
     {
       "pmid": "19107465",
@@ -30206,7 +30620,13 @@
           "table_id": "48",
           "points": []
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "e0f860c839b7145afd68d3b6046aa7caeb3e40dbe5e2df9bdd87173736e986f9"
+      }
     },
     {
       "pmid": "11296095",
@@ -30644,7 +31064,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "eb780bd2dc50785a6908b5dc1fee98d2f8d7fbc760a6f222051056c36dd53707"
+      }
     },
     {
       "pmid": "20703221",
@@ -30747,7 +31173,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "6bea0c72d551171b45d1c7122f7af42b1fca1ba1050fc488dd500b59818c282a"
+      }
     },
     {
       "pmid": "23708507",
@@ -31627,7 +32059,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "f18860ae2e83a7038d55899e96eccb9e0585df2df0b0ed68d4f4e55275fe6907"
+      }
     },
     {
       "pmid": "20604987",
@@ -32150,7 +32588,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "8d807cf75ce1a894a54219f38643029523186fb640118d9f2f4ec8408b0e35d7"
+      }
     },
     {
       "pmid": "21292243",
@@ -32477,7 +32921,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "c21e74a5783a10becc07d100889c644f86690064e881e1e120a8de46562d81f7"
+      }
     },
     {
       "pmid": "23876228",
@@ -33434,7 +33884,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "acbe836849029447d3b1c0f8ffa8d971bb262838569d5e831d6d4000c881b97c"
+      }
     },
     {
       "pmid": "29421336",
@@ -34411,7 +34867,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "2d9686217c9bbdd47346a3a0c6018d2ab2751abf62a959f2a4c616d15e175e45"
+      }
     },
     {
       "pmid": "22097928",
@@ -34605,7 +35067,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "60bc2444d647e8eba337af7a7b9296bf465f8b6fbc32bc4800f907efb7a73abc"
+      }
     },
     {
       "pmid": "25421512",
@@ -34785,7 +35253,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "c262f21d10b5922aa1509ea8f7e38104e727def289ef616b9cedd954a673fd69"
+      }
     },
     {
       "pmid": "16899037",
@@ -35045,7 +35519,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "dd5c9bcd2b0a90cd5ea9ce73c7e2c9f7c328755e9ab25c966248ebebd3d1884d"
+      }
     },
     {
       "pmid": "23078363",
@@ -35618,7 +36098,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "90dfdb97998f0a89962a2b03083acbf025442dc047bc241f9dccb4de0300de0d"
+      }
     },
     {
       "pmid": "24411804",
@@ -36246,7 +36732,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "1efe7d2b750ea12c273c3cff4fe372bcf8949689d064a5f1d595cc1d3cccfb67"
+      }
     },
     {
       "pmid": "18266213",
@@ -36606,7 +37098,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "043193fe26de78a3987159e6229690c993ab630dd26847824638efca8c9abd30"
+      }
     },
     {
       "pmid": "19365394",
@@ -36947,7 +37445,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "fc18724352cce5debacd7c74665fbe1489deee6cb0fb0c525a49c8eba6aa12c4"
+      }
     },
     {
       "pmid": "23421569",
@@ -37142,7 +37646,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "cf238dba41bcfc05831a52b7c33304ef04972d695ad2b248df4eb0bfe0fc423e"
+      }
     },
     {
       "pmid": "26204262",
@@ -37805,7 +38315,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "c6c84713fc0c11e1de769bf26afa7a1cf9aa3d309d9f13d70f2c8004074c1716"
+      }
     },
     {
       "pmid": "24695721",
@@ -38055,7 +38571,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "33e34897b67c496c1b0ae670ac89f582f60b00a9ec30988b0a5b7f1cbcfede9a"
+      }
     },
     {
       "pmid": "20571434",
@@ -38284,7 +38806,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "fd65f3f932c1ac84bfdfb879ee2925635b6a87fa09e9bf6d50d41cf32b36401f"
+      }
     },
     {
       "pmid": "24939441",
@@ -38471,7 +38999,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "85fd1b58e78d5be62e81d788cfa500475bc15474bd7cda47c18153dbe081b53e"
+      }
     },
     {
       "pmid": "30041007",
@@ -38658,7 +39192,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "d7b1df89065fcb5965209ad875eb2053a258268db6d00ccd7d47eddfdd35d938"
+      }
     },
     {
       "pmid": "26809268",
@@ -38929,7 +39469,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "465f4f2a5f756e71e256f14841075a509b0d7ce7cc10c0dcf9a285173d4191b3"
+      }
     },
     {
       "pmid": "26038158",
@@ -39256,7 +39802,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "98e0806416ff2e3198e6de4675e9e87197ebb32107dcedd69d9412594037c052"
+      }
     },
     {
       "pmid": "22209236",
@@ -39556,7 +40108,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "008e4c658d71216a9d66eea46c6ceeaba68574da557634dd048a230cbe042617"
+      }
     },
     {
       "pmid": "20670348",
@@ -40086,7 +40644,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "9822562d18d7804c5242491f59e955497cbfb70d70f7ad751afbfb177cb817fe"
+      }
     },
     {
       "pmid": "25142207",
@@ -41028,7 +41592,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "b9efb7bb5aa7f3aa5bdc6eb89e36dd63b5d349883b36733c5e6cc52cf6ba47e6"
+      }
     },
     {
       "pmid": "23188041",
@@ -41157,7 +41727,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "0a1bfcdc11e9b02993e82f447802df3cb355fb80af38cc6fb6e03231b0908bc8"
+      }
     },
     {
       "pmid": "24529072",
@@ -41470,7 +42046,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "cb052d5e0df4ee6f731f60990e33dee986d918d96393d965164199fdd511f086"
+      }
     },
     {
       "pmid": "16133128",
@@ -42259,7 +42841,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "c9ea7cc6843755ff512e0bc162cb800e600bc4f1e44e759add41f3e5538f05ef"
+      }
     },
     {
       "pmid": "14679386",
@@ -42719,7 +43307,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "f152acfd303f71422a57448953682d5a77623b08d23bd1dfd50a72ddf1248213"
+      }
     },
     {
       "pmid": "19420266",
@@ -42898,7 +43492,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "fd0c7c8b1ae286f70404186f203a8a746f0edf83477d11a55e06126900438c3b"
+      }
     },
     {
       "pmid": "17611740",
@@ -43041,7 +43641,13 @@
           "table_id": "90",
           "points": []
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "c1235a4b874176a43bd49136c7cfa45927f7139c9bc5a24376d55d726426c0ab"
+      }
     },
     {
       "pmid": "16085533",
@@ -43340,7 +43946,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "b2e328e038fe88f9fd01d4dce273841f95c7a94d91b5cbd7af8edd5c9418c931"
+      }
     },
     {
       "pmid": "23497788",
@@ -43941,7 +44553,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "29bdddaf8c617fcfb177c6ee7be2eb8e0bb2cc3800b85c808561922f78d0b41f"
+      }
     },
     {
       "pmid": "31204249",
@@ -44611,7 +45229,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "e04dcac101a8d497512c0805b955b4eb5fb4570ec650a0cd57cf24799bb3e53b"
+      }
     },
     {
       "pmid": "24261848",
@@ -44791,7 +45415,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "81510a439d9c14fb3814adc479ee24398590ef507a2ea83b29d7fdcad86c1855"
+      }
     },
     {
       "pmid": "31069895",
@@ -44847,7 +45477,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "62f35f16c42ced484050d5509cd3909d0854dd65b30fc21e12da6bcdc8fecb17"
+      }
     },
     {
       "pmid": "24392892",
@@ -45685,7 +46321,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "f8343761e6646f1d8b5e6db7db30e73483a5d784d8d5accf8ef86d8b689f7d25"
+      }
     },
     {
       "pmid": "25214465",
@@ -46180,7 +46822,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "9a80bae7d2b9f72788d27148b50611f80eb35ca82f6bf0995707f8beb9dc6e12"
+      }
     },
     {
       "pmid": "22921709",
@@ -46304,7 +46952,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "7a599b59556d7c19ff357653e616b95c3638d5550028b55ada8b02015a2b7484"
+      }
     },
     {
       "pmid": "30928885",
@@ -46652,7 +47306,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "b6e349b35fa0f49fcd8bcbc39357129d23cf0bd976985dc534a3160ff9f07344"
+      }
     },
     {
       "pmid": "19015835",
@@ -47332,7 +47992,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "3555fe199dcaaa4e1c8a03bcd917f5d41c2078d2bf2049a97b9296f1eb60741f"
+      }
     },
     {
       "pmid": "22759909",
@@ -48485,7 +49151,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "bf0642ac202b70df10408ad90a2e17f333b8511f142a5a8d5507183e97151c2b"
+      }
     },
     {
       "pmid": "32678839",
@@ -48539,7 +49211,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "24448469ef98ff4631772bd613cbd31777f43a186846efebe09b40d80addd43d"
+      }
     },
     {
       "pmid": "21790907",
@@ -49006,7 +49684,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "4e182a030ec523919f3a135a094c579327249d3879cf274cefcba65ffaece526"
+      }
     },
     {
       "pmid": "27815773",
@@ -50131,7 +50815,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "bc3c152cefe4692da932e7cf34f02bc89fcc0234d2a753d7e06e4b303509e82d"
+      }
     },
     {
       "pmid": "24949564",
@@ -50556,7 +51246,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "be86c0593d4a40d4d331139984293320445f6e1ba43fc6906e76d3561bfe5914"
+      }
     },
     {
       "pmid": "18704100",
@@ -51044,7 +51740,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "90c715edc9c26bfbd6b11417cdda559a5839a1925565fc4f7104ab066c4583b3"
+      }
     },
     {
       "pmid": "22264344",
@@ -51467,7 +52169,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "0e7dd3e6df9adaa382649235f879ce2700c3025306562827b4f9eb3a0eae4947"
+      }
     },
     {
       "pmid": "22028765",
@@ -51955,7 +52663,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "62e1b55a9352e504fd830981001b91c0cc9d93c79c0062d6c61619591e28eae0"
+      }
     },
     {
       "pmid": "23667541",
@@ -52338,7 +53052,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "e7ad9acac7e7e9a86f2d62567130525b1f05e6c45185c04148ccda0fecd728ed"
+      }
     },
     {
       "pmid": "18391135",
@@ -52728,7 +53448,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "181b8417e1cf9eabe99237e6c634ae4b0c192ed13b6fbaca46f21f3d8c0de25b"
+      }
     },
     {
       "pmid": "17987060",
@@ -53180,7 +53906,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "861e9e10fcd6ab34d31f35490c3b0793f7977ede93bd500a5f8af7f19319636d"
+      }
     },
     {
       "pmid": "16023086",
@@ -53258,7 +53990,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "9281832e98dcb6cf8a18a16b46ee7fcbd0a9dfec9ccda3d65cb30b6020e87ed6"
+      }
     },
     {
       "pmid": "27168331",
@@ -55641,7 +56379,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "d8de3c478286e6cd4a9ab6be7470f46a5c4ce8d4d5daefe6c3834490caa589f5"
+      }
     },
     {
       "pmid": "19260039",
@@ -55905,7 +56649,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "8f6acc302acf792d47b8a18c770ff80f375fc57e388e0fc030bb16ea9c16538e"
+      }
     },
     {
       "pmid": "23571420",
@@ -57037,7 +57787,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "b1bd82cc119fe2503ad4e8f14aee72fc6ebe16ae85ece3675d820090821e63d7"
+      }
     },
     {
       "pmid": "20678551",
@@ -57595,7 +58351,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "e6177b533ba754aaae2e4e071033673b7cb3501a8f541bba7e037ab1ed3fd633"
+      }
     },
     {
       "pmid": "22591950",
@@ -57812,7 +58574,13 @@
           "table_id": "t0010",
           "points": []
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "9b78512b601b3da768905b1a72c5d2d0a40a10f575c2715b961cceae9a23cf70"
+      }
     },
     {
       "pmid": "23389755",
@@ -57980,7 +58748,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "ea9fc2070ea48b14e2bea79e12ca84e97ecbbcf8dfc9be556c59a7deffbc7b35"
+      }
     },
     {
       "pmid": "23245948",
@@ -58674,7 +59448,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "484fa238ee6bfd57f00b38e6d5a5d0fc5ba131500eadf0441135b10b59f67c08"
+      }
     },
     {
       "pmid": "23408738",
@@ -58938,7 +59718,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "9e4fe6b7b9b74f2461fee84703550dab7ad2765f6f90ec4c19369830b7fb3725"
+      }
     },
     {
       "pmid": "16406379",
@@ -59083,7 +59869,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "53c969ddfbdec059dd9d57b7eb6c7b0d06ffc62f6d880b42e17270ca9639c260"
+      }
     },
     {
       "pmid": "19650816",
@@ -59656,7 +60448,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "7d467db99f80c7b29bfca5d75fd47a5ca838224b944846cd56af002ec7f73b0f"
+      }
     },
     {
       "pmid": "20840335",
@@ -61175,7 +61973,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "a7368b8c6e8abb6f0878075f3e70af6f818da132a3ede75a352d2c91c57feab3"
+      }
     },
     {
       "pmid": "26295336",
@@ -61349,7 +62153,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "4616f5492b52f67a6d8d5f6380931a11d0373165653fc99f178af3aee41a8fc1"
+      }
     },
     {
       "pmid": "23325372",
@@ -61494,7 +62304,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "6a6dadd427ab5e3c0d088a96068d355b6adb722d6758a893ac5f42c0e6af6a8b"
+      }
     },
     {
       "pmid": "25781230",
@@ -61807,7 +62623,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "ab41d7d998c84c6a8f70c014c671293cd9ae947f708817b26586172bb419ae7e"
+      }
     },
     {
       "pmid": "22461323",
@@ -62477,7 +63299,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "ea142177d99d35e8b6c5fbe6434bf2c22c6e672ff08157aaceef493796dee00c"
+      }
     },
     {
       "pmid": "27005897",
@@ -62636,7 +63464,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "330c36b0abeee9a3a85af4a61a0bf5919b97b3be3deeb5bc6de74b1d46c1dda2"
+      }
     },
     {
       "pmid": "21764527",
@@ -62907,7 +63741,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "4e227df462c3635319982eb11f92c3bfc196df0641b5818f2869b6cf105c43b4"
+      }
     },
     {
       "pmid": "16598192",
@@ -63717,7 +64557,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "d2a776cfb4b7533379b0f9725f8b81e668348529c22e43dcfdc8ce9b0ac29c1b"
+      }
     },
     {
       "pmid": "18851716",
@@ -63826,7 +64672,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "c71b404126842b7312e79d65b842a10fb3b4ea4ddd7f3c93c2cc6231f8e72cb0"
+      }
     },
     {
       "pmid": "22957019",
@@ -64048,7 +64900,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "fdc8699a157f077d1235d91774d599c02cee4adbb9f5622aa346782f865bb498"
+      }
     },
     {
       "pmid": "21169809",
@@ -64312,7 +65170,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "30c304c5d93ca224c51c15ad3c46ed4a9f4def71e508eba1cd45061a56cef45c"
+      }
     },
     {
       "pmid": "20823246",
@@ -64816,7 +65680,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "dc8de6e0766a4567adf948a256629ad0e562113daba5bb848c41f99b0eef2f9d"
+      }
     },
     {
       "pmid": "20729530",
@@ -65556,7 +66426,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "1184e0f0c8c1c6b8ffbbc01aba4b79d7f7f69ab03d2e96550c2d1de1cdfeb86a"
+      }
     },
     {
       "pmid": "21223301",
@@ -66077,7 +66953,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "1524e33507a98f223647818a39413b0cfed2d5b6203e42603632c5d4b1937f80"
+      }
     },
     {
       "pmid": "22155218",
@@ -66348,7 +67230,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "aaa618a6d4a80dab752b97645a99d141917ab3f99b3b603650599dfb35d96d99"
+      }
     },
     {
       "pmid": "25937240",
@@ -66556,7 +67444,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "289dbc8157e85f91d90af63e2ab2c09fe6d5d590e57c6438c314419e3ef5c383"
+      }
     },
     {
       "pmid": "28398588",
@@ -66693,7 +67587,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "b1cdf5c9cdc26e08384640482eb8dda02906f84215777409d7e44cda4b452992"
+      }
     },
     {
       "pmid": "26026506",
@@ -66804,7 +67704,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "a7f12dd5f2f50fd1185d89c9b2f5ca0c3d1b5f3902876ba22d57f06e67439aa6"
+      }
     },
     {
       "pmid": "25697860",
@@ -67054,7 +67960,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "68bc5f37f474199bd623f419814d6ceb05b670f45b433d692c77131341e0ac25"
+      }
     },
     {
       "pmid": "22974271",
@@ -67426,7 +68338,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "0549780f1da3ffba050485a7dcae11bec09518abef65a6a69ee5f7fd11895a4e"
+      }
     },
     {
       "pmid": "27542906",
@@ -67702,7 +68620,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "cad051a5cb44574b579323baae118038272b2cdd979977d7cbd0e2148d461a59"
+      }
     },
     {
       "pmid": "20044075",
@@ -67882,7 +68806,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "9c349cc29a3ee0bfc5c44ebea36d9eef0b0bf8c4a45759e53496612da63e2ab8"
+      }
     },
     {
       "pmid": "21248113",
@@ -68132,7 +69062,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "3f2b2b05b0ac6e4c03dc91323a90805d0fa4e6dfa4bce8437834385a44e0c284"
+      }
     },
     {
       "pmid": "19632211",
@@ -68857,7 +69793,13 @@
           "table_id": "tbl3",
           "points": []
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "3e3d25fd33306014c92229ef60b9a4b0bf6a66a40e39bba74322334d55d731cc"
+      }
     },
     {
       "pmid": "22381514",
@@ -69283,7 +70225,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "dbfeaccc52e0c583458814a4a26277b7c85e8f8bdb6ac1a04b07815bee23fb36"
+      }
     },
     {
       "pmid": "23221317",
@@ -69680,7 +70628,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "95b18431f2297d766d8e7d0f71d14f8e126f8cbfd770048a7404a4562e23c20d"
+      }
     },
     {
       "pmid": "21993878",
@@ -70088,7 +71042,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "0570c099e8fdaa5cb2493c131b8b49a89ee970e78f9535e1fc25f843cee3c09e"
+      }
     },
     {
       "pmid": "17488322",
@@ -70300,7 +71260,13 @@
           "table_id": "11",
           "points": []
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "96954ed54a12fe33062c9654ce85fa4a14fba29e5f89c266d88019184ae41611"
+      }
     },
     {
       "pmid": "24361634",
@@ -70956,7 +71922,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "1d104712dce2a55a207ab61c83619e49adb72c7efda5f5dbdadb6972f5255ac5"
+      }
     },
     {
       "pmid": "26289945",
@@ -71227,7 +72199,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "ffa92c272e5315055a06b7c80b4c9c0d50cc1219cd7c8d4aa35f356391bd8ea4"
+      }
     },
     {
       "pmid": "25567427",
@@ -71414,7 +72392,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "bf3d11b4c1fd387f7d41a337aede321d0d0b793b161961948e05357989a8c352"
+      }
     },
     {
       "pmid": "29499312",
@@ -71552,7 +72536,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "ef9e6c057e5f97d728ef25d3c45ee2f040675c3f71bdf2caee1429a7afa05607"
+      }
     },
     {
       "pmid": "22281932",
@@ -72679,7 +73669,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "2855cd20d6eb9bc4fe6118646490e4c22a6cf530177d9c4ec14f0a3a650a0a0c"
+      }
     },
     {
       "pmid": "25536500",
@@ -73860,7 +74856,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "f0493eb65cdccb244b868ac020ad3b8bf155fe11cda3cdd69d6dc492e98ab4e8"
+      }
     },
     {
       "pmid": "18507736",
@@ -74768,7 +75770,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "0ab81415057bb1455c6a3dc53a05fbcdef2fb1a1d2e0495c31e2d4eaabb2a5a0"
+      }
     },
     {
       "pmid": "22234380",
@@ -74955,7 +75963,13 @@
           "table_id": "88",
           "points": []
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "09d3ce8f79fb0e273a6c841deca21ffe68be9dabdec1bc9844ab04d91814ae59"
+      }
     },
     {
       "pmid": "30467911",
@@ -75172,7 +76186,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "cfe5e8e149ed31be6842142eeea8a7f7b5fa5ae9882ae702ce5a29f09ffa3cf9"
+      }
     },
     {
       "pmid": "27489006",
@@ -75360,7 +76380,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "2e00206515787db726b4ff42ed3f014de318293e949a7de1ba44724c988b0080"
+      }
     },
     {
       "pmid": "20932921",
@@ -75946,7 +76972,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "c8d05e0d5a4e776ac210d71a4e915053f0882a9fa83707f3580543ad73f95c25"
+      }
     },
     {
       "pmid": "29880873",
@@ -76629,7 +77661,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "5b81c50b49aa7aba6c85a6bb0ce8b7a45fb5d9a6411fe78877ca47b742fddf24"
+      }
     },
     {
       "pmid": "30096639",
@@ -76879,7 +77917,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "b321ee6e98a63b73518636a2a650088530a8f65f1be1f5ba2e142219efc73eb4"
+      }
     },
     {
       "pmid": "28190083",
@@ -77066,7 +78110,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "11871fd75252aec380b481afe8187a8dd3d9fdeb9451ddd7843cc1cf225ec83b"
+      }
     },
     {
       "pmid": "31376437",
@@ -77627,7 +78677,13 @@
           "table_id": "tbl6",
           "points": []
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "bd2a60aa08a6c9b3f8b9845e187a209969341c18b5d91484879b9fe4195da0ee"
+      }
     },
     {
       "pmid": "17921372",
@@ -77851,7 +78907,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "94bc3637eb67b2fd2c198f997b0e9098cc03685a5daf6a0f549f4db421b6c62c"
+      }
     },
     {
       "pmid": "25528694",
@@ -77987,7 +79049,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "3aa64fa14b22cca8cf1f8f6de034cf3747921264af413c55ae012cc4540234bd"
+      }
     },
     {
       "pmid": "30649528",
@@ -78080,7 +79148,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "e19b290b5aeb5d31060fc512913a0f53c667b598ad3274c0749209a174850a0f"
+      }
     },
     {
       "pmid": "22288977",
@@ -78435,7 +79509,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "18b816b71ea83927c6a204e4c5c450be70a919b6516ef08f8db0c34823eb1b03"
+      }
     },
     {
       "pmid": "31014470",
@@ -78587,7 +79667,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "46917d6911ec32da9db97b0cb6b610dbcbb8f264f254c67d56e11d5b05a712c2"
+      }
     },
     {
       "pmid": "23924756",
@@ -78755,7 +79841,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "22b3de1a3ede33d4e4c471e3745400000a76acebd6485fcd8e0308079dfaa894"
+      }
     },
     {
       "pmid": "23313402",
@@ -79271,7 +80363,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "4f29511ecfc34dce7fe70217837d8345b5b0d09ea02eec61f098caf8feadd459"
+      }
     },
     {
       "pmid": "25365800",
@@ -79420,7 +80518,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "85a557e16a8e3139d8484ec78b59fd731a89459c2d1d241b0dcf20384c13854a"
+      }
     },
     {
       "pmid": "20090671",
@@ -81595,7 +82699,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "09e1d57fc8152648735a8e153ef42817bad7dcc1c3cb2d2bbccd6a3458d962c0"
+      }
     },
     {
       "pmid": "29130147",
@@ -82167,7 +83277,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "e0c6d09f5aa040cef45d5efa3c3021f89f615e088384026e0adea1d4bfc3da85"
+      }
     },
     {
       "pmid": "22483100",
@@ -82431,7 +83547,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "2474f6f0d87bed397deea9ad69dd48e65a3a809f288d3ef885ecc095e5607cc0"
+      }
     },
     {
       "pmid": "28960762",
@@ -83024,7 +84146,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "b219af3adef57b4f491c137e4779e45d64e99725269f406a114d324c84cf0835"
+      }
     },
     {
       "pmid": "30165099",
@@ -83625,7 +84753,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "4392531f5be513e3aba8bd4efa482319489cc83900b43215a18826c657f156c3"
+      }
     },
     {
       "pmid": "32713944",
@@ -83885,7 +85019,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "197f22db79b0aa4b3bc2a07d889a4534ce5930106d985190d8a95569055d664c"
+      }
     },
     {
       "pmid": "21859165",
@@ -84365,7 +85505,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "0c2c947214502b12f1fa5e416f582e8cbf49ff40b2b5d6e65fbe4ac40e61e520"
+      }
     },
     {
       "pmid": "27012714",
@@ -84811,7 +85957,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "9d7268d0655fe12c6c63407822c5f5cb1189527d56b147a1b270f5675c09bf40"
+      }
     },
     {
       "pmid": "26145276",
@@ -85306,7 +86458,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "c3e12cd8a97f6835238d076fea176a5eff30c58d8ba10afa23b29284385cb9a1"
+      }
     },
     {
       "pmid": "23778853",
@@ -85521,7 +86679,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "da3b73ecfeeba2f2ce0b6e9ceecf654fbd633242595c07d3b821a7f1d46eda40"
+      }
     },
     {
       "pmid": "25279500",
@@ -86476,7 +87640,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "5656038209c291f669a0b8193360042433d4da19ddda072695751f1162a300a6"
+      }
     },
     {
       "pmid": "22576622",
@@ -86585,7 +87755,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "582864ccbc9fbbc20e0a4b317b3658cade7ebee1811d5aa5cb0e508eaf8993d7"
+      }
     },
     {
       "pmid": "20688176",
@@ -86681,7 +87857,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "3d01ad53b5394a9aa9385a3490aa09394c8c1f2d914f0ded7299cc997b444cf5"
+      }
     },
     {
       "pmid": "19129383",
@@ -86875,7 +88057,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "c60ef90414ee49d3b0888becd13f022fd279d2ae4add7bbe065909814d2c8c5d"
+      }
     },
     {
       "pmid": "20096712",
@@ -87103,7 +88291,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "e12657ce8179d7461d7dcde7aa783f86e5f5fbb6e36cd42c4101f1003a4b7c83"
+      }
     },
     {
       "pmid": "27524657",
@@ -87529,7 +88723,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "836841cb614757c1859c53992f60938521f63a4fd970486f16c1542dd965aa5a"
+      }
     },
     {
       "pmid": "19636426",
@@ -87955,7 +89155,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "22c886a81072c3506650209a05983063df40aa54c1078048a9cad3218f9df510"
+      }
     },
     {
       "pmid": "23261871",
@@ -88562,7 +89768,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "ce1c7b8f68acdada3f8c75d78ed434601a6f3268b3871bc41ce618a4ce368d17"
+      }
     },
     {
       "pmid": "22114078",
@@ -88735,7 +89947,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "dacedf8dcbaee592133c43e5ae86626af78d58491585561bcddf43ce3fdb5a83"
+      }
     },
     {
       "pmid": "23929709",
@@ -88975,7 +90193,13 @@
           "table_id": "10",
           "points": []
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "3a94c94e951a7a5187c5d9ed200413c1dbf8d7489d2daf7b054494cdddef4013"
+      }
     },
     {
       "pmid": "23954410",
@@ -89736,7 +90960,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "a5aaad79499f11286bc52b778a57da0b64a89f17a4ab23a0da2e48ed6a8c34fe"
+      }
     },
     {
       "pmid": "25564288",
@@ -90394,7 +91624,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "c54277ca931f771464f4aa9d5deb4ad6741a7a9b1bb7a4959ef16f51cb426a01"
+      }
     },
     {
       "pmid": "23061530",
@@ -90510,7 +91746,13 @@
           "table_id": "1955",
           "points": []
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "e6172519d0ac44496f034a5ff74ac836f6d620f24b155d517f212848331b8a26"
+      }
     },
     {
       "pmid": "25228353",
@@ -90745,7 +91987,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "e4a043d36045accb06c033f73beb4289e42e9dca0bd915ff214bb5a54d8a8f0b"
+      }
     },
     {
       "pmid": "27524674",
@@ -91121,7 +92369,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "ba3ab77bfd5b36d69a157c715d30546999c4b60989c3beef7f2935c9b68ed397"
+      }
     },
     {
       "pmid": "25887154",
@@ -91854,7 +93108,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "4e7141b791004af2e258b0c4feba1cd883a48206ceaa78fd85413fdb23f7761b"
+      }
     },
     {
       "pmid": "27649775",
@@ -92405,7 +93665,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "d245aac16b2fe776b93c4255ebe780813a0a07ac462595ebdca1cfea0e9900f7"
+      }
     },
     {
       "pmid": "29906489",
@@ -93102,7 +94368,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "0390d554b84b2de3c3297f17493e2ac3db5bb300f3ec2d8531beb73d3b036328"
+      }
     },
     {
       "pmid": "22960252",
@@ -93765,7 +95037,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "a97016d6145261c65ab4bf44c3cdb78c7f35154016aa48817f4b60f4961d5610"
+      }
     },
     {
       "pmid": "32599553",
@@ -95169,7 +96447,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "d409f57ad99c3415876d366a8b7b3c52991d72efb7860dd90e8a875ce6f067ec"
+      }
     },
     {
       "pmid": "29944963",
@@ -95300,7 +96584,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "9dd83eb61670bb3c74cab60e3a2b4fd8797c8c9c85ff94daeb7d6efef29775e3"
+      }
     },
     {
       "pmid": "21440645",
@@ -96231,7 +97521,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "06005e6485ff367395223be005da2049551c4f00b0bbf44c0f8ca26b687259b1"
+      }
     },
     {
       "pmid": "22928000",
@@ -96303,7 +97599,13 @@
           "table_id": "pone-0043598-t001",
           "points": []
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "f558f2f1908e1eff55efe5082fe247be849597cb7f2553b80d91d1c3d227db9a"
+      }
     },
     {
       "pmid": "24914005",
@@ -96383,7 +97685,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "8fe4f4fa1359ad8ba071158cae9d9252f093bda2da92f8ef92e1f9d13724ecd6"
+      }
     },
     {
       "pmid": "22476609",
@@ -97508,7 +98816,13 @@
           "table_id": "34",
           "points": []
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "99870ae8f0e2184ac6e4eff8edc4e17c53b9ab399cea92830cdebfe83c8b8268"
+      }
     },
     {
       "pmid": "31326440",
@@ -97688,7 +99002,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "c7dd5dd24dfcc85ae1e15640564c1444b4d635d70319b4cf38d62b291fbcaae2"
+      }
     },
     {
       "pmid": "29438844",
@@ -98330,7 +99650,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "47317d16da42005a0c7b7d863d8205794290d66528e268941962f325edd85577"
+      }
     },
     {
       "pmid": "30445718",
@@ -98779,7 +100105,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "fa0a3132f266f3f26bba8d3914d15c96257c36f07b1d2c8ae9e1c12d3f57b61f"
+      }
     },
     {
       "pmid": "24465445",
@@ -100014,7 +101346,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "d269b905a3812b26cefae4e9863085c33d697ec4bd398e885a986519aa2e95f2"
+      }
     },
     {
       "pmid": "32359232",
@@ -100578,7 +101916,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "429cc103c182ad25954d9b667a3e2da6382ad4b7a5f10ec4c4061a31662cdf79"
+      }
     },
     {
       "pmid": "28284776",
@@ -100819,7 +102163,13 @@
           "table_id": "t0005",
           "points": []
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "96602f0ded7dd6755db0e71b7eb4e5c1b094412fc17d3cf63b93a4c6217f0f1a"
+      }
     },
     {
       "pmid": "28451921",
@@ -100978,7 +102328,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "b63b8f055a3e0f1577e4e3d5c0fe49cceb7d58ecc33c623208243bfa12476938"
+      }
     },
     {
       "pmid": "30646204",
@@ -101383,7 +102739,13 @@
           "table_id": "zoi180286t2",
           "points": []
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "dbe2345c225f4e35e1decab79e00da2a8a041250ad455be39568a53d86a3d154"
+      }
     },
     {
       "pmid": "23836764",
@@ -103300,7 +104662,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "01f77ad579046b3a41c660f27c055ad0d8a1a5d625d2bb6576883679156d4021"
+      }
     },
     {
       "pmid": "24583185",
@@ -104936,7 +106304,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "169fc730c83c3cbc1ffca78cf49dbade3057746442b02ac0bb43e5184ddc9a8e"
+      }
     },
     {
       "pmid": "31874448",
@@ -105067,7 +106441,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "3af621584306349c2536b6ff2ee720570adb8806ffaa49c4bbbe2c17e6712a71"
+      }
     },
     {
       "pmid": "28881072",
@@ -105128,7 +106508,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "a4e3a50ce664f92fb5c6d6e6354abe46c957b45b9ef59242e14ca37469d9a23e"
+      }
     },
     {
       "pmid": "30711509",
@@ -105454,7 +106840,13 @@
           "table_id": "tbl3",
           "points": []
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "f4fa19c394bb502d254dc2e5e365d678ae659d131769837829ab204e168b861a"
+      }
     },
     {
       "pmid": "28929362",
@@ -105634,7 +107026,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "955396dbdd30236c9ddcc07efed3632de74c2d975208c0344ad5db8c694e5389"
+      }
     },
     {
       "pmid": "21464344",
@@ -105792,7 +107190,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "e284732e019a18b88709aafea040f4081bdc358f469c52414a6043325db3a2d1"
+      }
     },
     {
       "pmid": "17986612",
@@ -106273,7 +107677,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "7903d2497b33bcbca99b8272e2dbc796c679325ca2b43ff584b5117c36dd3985"
+      }
     },
     {
       "pmid": "24183133",
@@ -106571,7 +107981,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "07321062490cfa677c15fcdf1b1c387689336200fb30cf328af9a00291f1210f"
+      }
     },
     {
       "pmid": "18413289",
@@ -108144,7 +109560,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "9607fa889419b7444ff30764c5877a9eaa8176258b9a10661f0bb556f6ff192c"
+      }
     },
     {
       "pmid": "25339705",
@@ -108786,7 +110208,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "363c2f52b3e70d6cfa6d438863ef8e95840a3148c9e790fd639b266e624fbdae"
+      }
     },
     {
       "pmid": "28958900",
@@ -109681,7 +111109,13 @@
           "table_id": "tbl3",
           "points": []
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "d8568785b9234d5484b0196241414ae7bda8e52f8c2c22b98a214af52852472b"
+      }
     },
     {
       "pmid": "19806158",
@@ -109854,7 +111288,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "9679d56cd2776abcee1adebe81176988e8e62aff3ca7d0c34dc0ad2fe61bb3f5"
+      }
     },
     {
       "pmid": "27479051",
@@ -110496,7 +111936,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "40963728271bd9bcaccbd4fe9fab7150465385cc2189243824c29add2508cf43"
+      }
     },
     {
       "pmid": "23128082",
@@ -110974,7 +112420,13 @@
           "table_id": "t0010",
           "points": []
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "e1cee11b54baee210ace24aec2cb13bd1d9ebd470d73c555c9c8452078f83954"
+      }
     },
     {
       "pmid": "20920491",
@@ -111714,7 +113166,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "3065deea76ddb646fe8fcd2c6077f216f1300ac2ae4d9dfd0c90569b240df702"
+      }
     },
     {
       "pmid": "22406414",
@@ -112013,7 +113471,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "aa5d66c2f44c48c684346514129f430a565815184fe297893eb7fb78427f03a5"
+      }
     },
     {
       "pmid": "23566308",
@@ -113065,7 +114529,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "8508c27da40eae34d206e8e0d1c0468676367a4a55236da4f6934175cb392c0c"
+      }
     },
     {
       "pmid": "25796007",
@@ -113131,7 +114601,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "9b2bd6aa419f881561aed3e723080df6305e10d619607df3e5f8c991b3a534e9"
+      }
     },
     {
       "pmid": "22505321",
@@ -113652,7 +115128,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "4b64fb1589513130bb88e729658820bc3b1b4de99abbd303d00a3a2321a2fce9"
+      }
     },
     {
       "pmid": "19028527",
@@ -113951,7 +115433,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "48033bf3354f48ca74f4476f9ac5211689152befa47c5834caa8bc89cffbb1d3"
+      }
     },
     {
       "pmid": "23364016",
@@ -114318,7 +115806,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "8ba8d99421444b161ed16e31ff8710ae95b60c5e0ac171939eeb5e4f1fc18a44"
+      }
     },
     {
       "pmid": "18460331",
@@ -115310,7 +116804,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "18f79162446d0b2c3e22920aebfbda09e16663327437ef70f1ba5b2ad201c938"
+      }
     },
     {
       "pmid": "28746733",
@@ -116272,7 +117772,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "e0eef307afcbe800acaad0032d67b3db8ce281af2be7f4c213070b5fddb0f69d"
+      }
     },
     {
       "pmid": "27845255",
@@ -116730,7 +118236,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "5df00572175a34381a62de08461c499d96fd59054dac59d7e8a5671aceb7bc3f"
+      }
     },
     {
       "pmid": "29025878",
@@ -116925,7 +118437,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "1ed229ee3e906d802738af1a93bf67adf2630da2311767f824af087bd875c17e"
+      }
     },
     {
       "pmid": "30556913",
@@ -117432,7 +118950,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "e6b35d31b4c8dcef4194fc1dda59075dfa2fadb6e0ecc71f725e8742e0d5c9c7"
+      }
     },
     {
       "pmid": "23382517",
@@ -117793,7 +119317,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "b30da2839498c66ce16f8decc8a841ceb72f8a776b275e581ad0401b33e028a5"
+      }
     },
     {
       "pmid": "21593494",
@@ -118408,7 +119938,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "4a953f79016f2bfda29370f670050db8ca53113d4ff92074d1492bc62dc38c06"
+      }
     },
     {
       "pmid": "32541652",
@@ -119022,7 +120558,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "4ebfd59843ba32248f96dea95a64c5fd152fdf5ac507b8b1291a83463c7b70ec"
+      }
     },
     {
       "pmid": "22006991",
@@ -121406,7 +122948,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "314bd5875881e1c1421b2f3c1d13704a8c0dd53f0bb66c384fb00586d62e1460"
+      }
     },
     {
       "pmid": "23683790",
@@ -121563,7 +123111,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "e1155738f9612fe852e933f031fce582707de9255c9d7aa1308b63807e44568f"
+      }
     },
     {
       "pmid": "31342097",
@@ -121595,7 +123149,13 @@
           "table_id": "101",
           "points": []
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "e844f7593bec77c60ef6b21e7f300bbcc496eba9e514631a97eaceb71524ae19"
+      }
     },
     {
       "pmid": "21926423",
@@ -121999,7 +123559,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "ce0f204cb68e39b0a1a1f6ce9c2ee909e0ef10ac26f6f6521e1e93c50cb4621b"
+      }
     },
     {
       "pmid": "31202048",
@@ -122151,7 +123717,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "1050cb55f0e35085b3adf059d5cc7559614d6fa15a5fe13c0e3876c966a7bcdc"
+      }
     },
     {
       "pmid": "31931900",
@@ -122316,7 +123888,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "c18d5d285f7fdcee41b721bf0d65805cd33cd5da471eed7dcb4bfb63e49093cb"
+      }
     },
     {
       "pmid": "21045002",
@@ -122473,7 +124051,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "39b794e8a95e47259c509fc78b3b36dc7c37668e3e8581e16b398bbe9d161b4f"
+      }
     },
     {
       "pmid": "31394197",
@@ -122627,7 +124211,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "0af67b386a63c1b60b329ff070b2247b1eb5b03b6510156c6bbc6fe6d35e0b24"
+      }
     },
     {
       "pmid": "23155368",
@@ -122913,7 +124503,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "315b666851ebdfb0c04f5211d803f44b7cc2e0d71fb1e89aec2ac687df006899"
+      }
     },
     {
       "pmid": "29227227",
@@ -123058,7 +124654,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "9698a04c744d14ed48d6a40801aef285993adb9adbcbaa24531009b2569caa99"
+      }
     },
     {
       "pmid": "28401670",
@@ -123203,7 +124805,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "1d51b19da94c02a0e90317ae7ebb5a917ab19695a631288748a3ada73d73922c"
+      }
     },
     {
       "pmid": "26331843",
@@ -123581,7 +125189,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "27d2a170b55f9d9547c98edd71c4beeadb3846e08bc4adf9d9f9384a6e810866"
+      }
     },
     {
       "pmid": "22850734",
@@ -123665,7 +125279,13 @@
           "table_id": "353",
           "points": []
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "849092646141a707c25cb9feca0779581ee8209ed18ca0ee14ee2f5290e770f9"
+      }
     },
     {
       "pmid": "30590423",
@@ -123962,7 +125582,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "e4f6a10b3a45600c48ef8b3ad61aabbf6df430aee3f63c912e3ef998d7c3f5bb"
+      }
     },
     {
       "pmid": "20445032",
@@ -124464,7 +126090,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "fbb140ef0fc7af40018dd67f7367cb72c9ac9df4aed7deb30e0af0319bb146fc"
+      }
     },
     {
       "pmid": "32553642",
@@ -124539,7 +126171,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "8af9d5dbfe92a13d144b4b2079930a81426a6f49e9e34c3bf7f3438a38a238ca"
+      }
     },
     {
       "pmid": "23307469",
@@ -125012,7 +126650,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "7b807e78e566febb50a4a416a6ca425760b7cf4526cd992eafda0daedabcf234"
+      }
     },
     {
       "pmid": "38326432",
@@ -126843,7 +128487,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "d1b48d98aaf87bd6628253157a5ed76e6ce59b30b97805222e9f241f34f18d9d"
+      }
     },
     {
       "pmid": "40102270",
@@ -126904,7 +128554,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "02f6db07c19909a60c0cd930de92db01b7574f704096983fb14eb553bb2d686e"
+      }
     },
     {
       "pmid": "39357397",
@@ -127119,7 +128775,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "bfd76e396cdec5469c90d25c2b9a2751292aafd1578f9bce2019715cc3e53038"
+      }
     },
     {
       "pmid": "39373255",
@@ -127565,7 +129227,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "6b8cfaf154e7246ac21ebb4770125dc6664bd7808a5baf729a1b2174fc8a0990"
+      }
     },
     {
       "pmid": "35462263",
@@ -127682,7 +129350,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "92dd177450f35678999e32ce535e0217b3be2afc3c9fd8099c1d0ff1c6da276b"
+      }
     },
     {
       "pmid": "33408330",
@@ -127939,7 +129613,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "d64e75e3287ada7fff95894e87e25694606a63fde6d7f5fe1acbb858e3a5fa6a"
+      }
     },
     {
       "pmid": "35202814",
@@ -128023,7 +129703,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "68751668a47805222e865061ba56c8f21a76d6103cca703670b9cdec1ee67cef"
+      }
     },
     {
       "pmid": "34000396",
@@ -128359,7 +130045,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "90aa72749e08b2e8a1b674095c7622b000ae60218ec231518ea1aef98158a584"
+      }
     },
     {
       "pmid": "34622344",
@@ -128759,7 +130451,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "5a87a49dcbbe23afb2bd891dc22634c00a31770e39bfeb5639fb3c904aaf9ef0"
+      }
     },
     {
       "pmid": "37401734",
@@ -128820,7 +130518,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "ca690ccc4a530b552b8e26526fa3e3fbbb9111a948c84565a5159cb6e40b89c5"
+      }
     },
     {
       "pmid": "39660770",
@@ -128965,7 +130669,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "ef93b65de1a2a8d66ac9dc567a3a9eccf9b17c9cea6a014b8e0ec85c1f873faf"
+      }
     },
     {
       "pmid": "37996557",
@@ -129484,7 +131194,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "15eeec8dc7bc8aab0d8cee9bc933e1f2be7ae7fd6ab8c5d8d36d5f8c2d244034"
+      }
     },
     {
       "pmid": "33098179",
@@ -129815,7 +131531,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "d02916a3a43103f61c3d8ed07c5a323c4143d711b85f777833351b2be50a6c33"
+      }
     },
     {
       "pmid": "33369272",
@@ -129971,7 +131693,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "f4a8e73e952b99e0e4eaf21b85229f86449c5c779b3acd0b86c31867a5b2cc17"
+      }
     },
     {
       "pmid": "35788255",
@@ -130151,7 +131879,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "8eba7acd1a316c35c7188066d097c29ca54606f05d8500a5aa5f6c27f9720c4c"
+      }
     },
     {
       "pmid": "38431152",
@@ -130247,7 +131981,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "b94ddb503183386c82879ff5e431033000aa866ab59fb22f29b498a3f37f632e"
+      }
     },
     {
       "pmid": "34245869",
@@ -130525,7 +132265,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "885647cbaedf484b3e44d04ef12202e11ab86f357e9fc58caf2d7126e11d246d"
+      }
     },
     {
       "pmid": "33630132",
@@ -130684,7 +132430,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "bdf1724d22f92c7e40308999e5c3d37637f2860b5dae33fe09f0a28f4cb448ab"
+      }
     },
     {
       "pmid": "41043644",
@@ -131370,7 +133122,13 @@
           "table_id": "t0015",
           "points": []
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "405bb6af28b9c430f87e32424c5e7201304307844260a8f8e72392d45be995e3"
+      }
     },
     {
       "pmid": "38926543",
@@ -131472,7 +133230,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "46b2102786c90bbef2f3a3bf9aa9baf5025d75ba235b6a11a5bf58799f14c45b"
+      }
     },
     {
       "pmid": "31028603",
@@ -131653,7 +133417,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "bb2d7829e44808904e871c3953c8071a7c495877d5e4f0a789384fc61d0e4abf"
+      }
     },
     {
       "pmid": "37434487",
@@ -132712,7 +134482,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "2c14aee53f4118481de81cf24a40a7a410b8b29d6286cdf025b2e373f5042367"
+      }
     },
     {
       "pmid": "39485856",
@@ -132857,7 +134633,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "7c6b6ce27f1deb33aa7990e64410ab1276860870a1a7b9b5e528386a6e6a12a8"
+      }
     },
     {
       "pmid": "38710170",
@@ -133443,7 +135225,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "a3651bbc3356a188c91b33cf33e6f90b38a25199ef98f57dea2e0b36d3119e85"
+      }
     },
     {
       "pmid": "33221340",
@@ -134036,7 +135824,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "0f784ef4c8b9f49b337a1efbeb053e651955ce675a36e7dc971c5c06410bfd64"
+      }
     },
     {
       "pmid": "33864389",
@@ -134904,7 +136698,13 @@
           "table_id": "115",
           "points": []
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "cec0d1c139b0473d944fded7274ceccb6e0d9abeb6a98a00322923dbb8e0bb47"
+      }
     },
     {
       "pmid": "33157169",
@@ -135373,7 +137173,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "f97664c83c4e4f75033b4ad13d9d66a58dfb427a2b8a7b1b707a00214898c5d7"
+      }
     },
     {
       "pmid": "34429396",
@@ -135581,7 +137387,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "dcf65d2b72cfdf39f7ee950055d0dd2c82bc9733a1e6a0849ab708ebb65b9d93"
+      }
     },
     {
       "pmid": "34312937",
@@ -135978,7 +137790,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "30891a1700827ab893c07599878b1428144c31759d67874003abd1de907fdee2"
+      }
     },
     {
       "pmid": "39853353",
@@ -136081,7 +137899,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "8b61ed038cc12f92cd7d606f320d692bcde97fbf7806987ab0cf0bb453aa1f69"
+      }
     },
     {
       "pmid": "37252876",
@@ -136603,7 +138427,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "f8c107de93f5aaae32461e2bf837a59b527de518927a0f4e31bdc3ffdfeb11d6"
+      }
     },
     {
       "pmid": "37806450",
@@ -136859,7 +138689,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "36aad5172d082b46b8930d18c924e8f46d7e4e8efcdfcea5610c8be9d64240ef"
+      }
     },
     {
       "pmid": "34175784",
@@ -137102,7 +138938,13 @@
           "table_id": "1754",
           "points": []
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "00ce56f4ad57098e126534b3f2d3c03559a804dae061a872c23da4c9c568a40e"
+      }
     },
     {
       "pmid": "37717082",
@@ -137226,7 +139068,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "a223ffad73bc3ed948a3199cef6eec0eb734c0892feade5df211c287a70e22ed"
+      }
     },
     {
       "pmid": "34894615",
@@ -138771,7 +140619,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "4fe79727e6c5d741172ce36c23a2e910bcfad9398e5d24a10f5389f845e84b72"
+      }
     },
     {
       "pmid": "38017638",
@@ -138902,7 +140756,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "ea46381084d325400779992912a522eb4f693ebe28b8909ec7a5cd323044ef45"
+      }
     },
     {
       "pmid": "36717232",
@@ -139208,7 +141068,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "447577d158b44adb7d1bb0334fa0208274f6ee8efce2e5495f7ee6d1f97db46d"
+      }
     },
     {
       "pmid": "33901056",
@@ -139429,7 +141295,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "efea1169f6c87bf42c059ebad801c7c9baa9d051f37c4373bc070ad24eeb1905"
+      }
     },
     {
       "pmid": "35244138",
@@ -140105,7 +141977,13 @@
           "table_id": "2146",
           "points": []
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "63a105082749c586c2af923e1016a38b34a578b6f29fb68b4ac9c48e14c06e96"
+      }
     },
     {
       "pmid": "30734916",
@@ -140684,7 +142562,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "f4f1de4a7e972c2fef65d71f0fc99ca2e0d1f1b0b3bbcd7bb590aef8dbbbe21f"
+      }
     },
     {
       "pmid": "36536243",
@@ -141039,7 +142923,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "db1452c2780e506a8f1f7cc510656656a5ba9ce282af9c05b4b25e56dbcced85"
+      }
     },
     {
       "pmid": "35763033",
@@ -141632,7 +143522,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "5cd105c4b97cd72909ad87cee90ac030696a49f811bcb12a434e78fffaec68f0"
+      }
     },
     {
       "pmid": "34427358",
@@ -142225,7 +144121,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "096101ebfc4e49b000656272d292e86ce9e5ce1e31a0e0c20a1e3ac0e1bd263a"
+      }
     },
     {
       "pmid": "37861062",
@@ -142433,7 +144335,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "1b9a1637dc1af8ef9e45e121a932f30d160daf65d6d44f2eb730cccf5287e431"
+      }
     },
     {
       "pmid": "40681585",
@@ -142606,7 +144514,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "1d52648832d4c05dee32ffbba927370dcd21a971838bcf62723cf7407a75212c"
+      }
     },
     {
       "pmid": "41495379",
@@ -142765,7 +144679,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "ea51ed9fe49d0a81823a2c00a33faba5f715de0af2070412d380d46a9feb01d8"
+      }
     },
     {
       "pmid": "40859695",
@@ -143439,7 +145359,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "d94602b537dda153a5a5e2f59c812df16956c3a46aa462242c5f89423089bcd0"
+      }
     },
     {
       "pmid": "33417264",
@@ -143879,7 +145805,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "dc5a488350ceb4cddf04c1062167af6a99f6a897d463471ffa6f74ba9a0bc744"
+      }
     },
     {
       "pmid": "33484852",
@@ -143926,7 +145858,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "8b8812dc1531a3716e35069b0bd16fea22d801bc832cfdf6f7bb1d226b7cda20"
+      }
     },
     {
       "pmid": "33331960",
@@ -144050,7 +145988,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "93ed9252577735d11d5ddd159f169c7872862b059687dfd1c6fae1de7e05fbf5"
+      }
     },
     {
       "pmid": "38253167",
@@ -144984,7 +146928,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "fdd2a647d0bdfbb9452c381717a09e8a3449a0530d826b4f4bd78c2ab39a2a8a"
+      }
     },
     {
       "pmid": "41043799",
@@ -145129,7 +147079,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "9baef08fc770a424dcaf90b84581784f31dc34898a7217cbca9eea0dbd0dbbb2"
+      }
     },
     {
       "pmid": "34404907",
@@ -145274,7 +147230,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "bb94e8a5ee9f4f6a06a64de42d4d0bbbee529833611d417da2ee97d12ad05054"
+      }
     },
     {
       "pmid": "35895611",
@@ -145310,7 +147272,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "977342600df1ed78eaad3eb0af24481a3bd32871c0980d425a6b5e24b4f00368"
+      }
     },
     {
       "pmid": "35182553",
@@ -145889,7 +147857,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "1da5d6ce637c21e00e9181707ee9abd1893aac04400dbcbf4ee939800993fa5a"
+      }
     },
     {
       "pmid": "33367955",
@@ -146236,7 +148210,13 @@
           "table_id": "Tab2",
           "points": []
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "8d63d99a7e17864c8192c5242b8f832d0ffcd2ae1d58c5fc8d67f67eeb373a76"
+      }
     },
     {
       "pmid": "35033928",
@@ -146812,7 +148792,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "aadf33ead8e1b01d354b8a731b721c9d8440e73e03adcee9f71cf0b2e477568a"
+      }
     },
     {
       "pmid": "34635191",
@@ -147047,7 +149033,13 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "3d0827153bdf862eb4e36fae29007246021e748ed9badd45ed86cad180c70aa6"
+      }
     },
     {
       "pmid": "41667838",
@@ -147514,8 +149506,19 @@
             }
           ]
         }
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "658d58993f0cc43f21f4e58452a99bf6756aece67cc1720cc689f8753ca7f2bf"
+      }
     }
   ],
-  "timestamp": "2026-04-28T22:35:46.150783"
+  "timestamp": "2026-04-28T22:35:46.150783",
+  "cache_signature": {
+    "schema_version": 2,
+    "stage": "parsing",
+    "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e"
+  }
 }

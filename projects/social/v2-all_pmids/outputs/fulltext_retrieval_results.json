@@ -3041,5 +3041,10 @@
       "full_text_path": "/home/zorro/repos/autonima-results/social-processing/ace_scrape/articles/html/Nature human behaviour/31844272.html"
     }
   ],
-  "timestamp": "2025-11-05T13:22:16.090780"
+  "timestamp": "2025-11-05T13:22:16.090780",
+  "cache_signature": {
+    "schema_version": 2,
+    "stage": "retrieval",
+    "stage_hash": "59c1236b0f5670069cf9c926fd7acc71412937162a53e2cfa8f9df2a0a31f6a8"
+  }
 }

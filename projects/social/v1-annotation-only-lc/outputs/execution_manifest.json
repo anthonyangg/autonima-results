@@ -1,0 +1,30 @@
+{
+  "cache_policy": "auto",
+  "changed_stages": [],
+  "completed_at": "2026-08-13T13:46:54-05:00",
+  "completed_stage": "full",
+  "config_hash": "b994e6c12064b5539b9859352d616da28b0afd76f720dcdc300081824be63556",
+  "copied_cache": [],
+  "created_at": "2026-08-13T13:46:54-05:00",
+  "executed_config_path": "/home/zorro/repos/autonima-results/projects/social/v1-annotation-only-lc/outputs/config.executed.yaml",
+  "execution_id": "migration-a59695e0e3ada61b6da3e904",
+  "invalidated": [],
+  "migration": {
+    "kind": "one_time_committed_cache_v2",
+    "source_commit": "6ba5b5a598b88c696f9b5abc920bb535cc92f621"
+  },
+  "parent_execution_id": null,
+  "schema_version": 2,
+  "stage_hashes": {
+    "abstract": "a8eb9b0dbc6a0fee2092b8027690642b683f6a91cc7b6420eabc969d6394b1a7",
+    "annotation": "b79de0d36a2e7aff70ede2d449076f55fbd43ee7f80f0dfdeabfb829456984b0",
+    "fulltext": "a8eb9b0dbc6a0fee2092b8027690642b683f6a91cc7b6420eabc969d6394b1a7",
+    "output": "bbf5c92866f2212de7ac9166fd29430aaa3828b57ff283f8d84b0d3747947b96",
+    "parsing": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+    "retrieval": "64bda84f6b0c7734897eea229565962a176ec8726981b4f1186d03df7685903c",
+    "search": "37b14bff0acac3d796c496d30a81a4367f9902cb4e97c5d953aabe8e06ff6998"
+  },
+  "started_at": "2026-08-13T13:46:54-05:00",
+  "status": "completed",
+  "stop_after_stage": "full"
+}

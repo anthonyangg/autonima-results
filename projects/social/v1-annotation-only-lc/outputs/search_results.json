@@ -8635,5 +8635,10 @@
       "fulltext_exclusion_criteria_applied": []
     }
   ],
-  "timestamp": "2026-02-25T12:18:20.236898"
+  "timestamp": "2026-02-25T12:18:20.236898",
+  "cache_signature": {
+    "schema_version": 2,
+    "stage": "search",
+    "stage_hash": "37b14bff0acac3d796c496d30a81a4367f9902cb4e97c5d953aabe8e06ff6998"
+  }
 }

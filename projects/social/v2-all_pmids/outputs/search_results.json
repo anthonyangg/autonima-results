@@ -15985,5 +15985,10 @@
       "analyses": []
     }
   ],
-  "timestamp": "2025-11-05T13:22:12.599834"
+  "timestamp": "2025-11-05T13:22:12.599834",
+  "cache_signature": {
+    "schema_version": 2,
+    "stage": "search",
+    "stage_hash": "d5e625393ccc5a550b5e80cfa629f656b52351d0e7376b8688bc37a259d67044"
+  }
 }

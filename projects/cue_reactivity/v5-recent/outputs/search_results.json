@@ -71637,5 +71637,10 @@
       "fulltext_exclusion_criteria_applied": []
     }
   ],
-  "timestamp": "2026-04-28T22:57:06.847707"
+  "timestamp": "2026-04-28T22:57:06.847707",
+  "cache_signature": {
+    "schema_version": 2,
+    "stage": "search",
+    "stage_hash": "2b43e35e57759d846648f974f77cedf46bf4c490ad6a0fd261b4c321326b8bb3"
+  }
 }

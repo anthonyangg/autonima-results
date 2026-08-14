@@ -9,7 +9,14 @@
       "screening_type": "fulltext",
       "timestamp": "2026-04-29T10:14:33.913629",
       "inclusion_criteria_applied": [],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "e65b4e59c24d1a6cccb9c0ab6ebb62a0d24e5b9cc44fd381f72d1d371e64dad3",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "24832823",
@@ -25,7 +32,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "63d9448b2997900f7bb56955a5907682dafe1a12a88d2cf0d447c0ecb39123f0",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "29629981",
@@ -41,7 +55,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "baaf8a4faa814c6cd6409a9031c40b14b7de59d4c7002c26e904ebc2d93efbd3",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "28150390",
@@ -57,7 +78,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "e6078a6fa9a229fc68ff7467dbaef9cf84a061b13001f2dcca8191870744a0d7",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "23182846",
@@ -73,7 +101,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "aeadc2b760ed95df865f76e86d7be4e167b0f80f5aaa6335269dd776a14547c9",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "14706428",
@@ -89,7 +124,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "ff52d14fbe8879072eb487af4fe86fbe243e802fed494150d407d32fd0bf1033",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "29225356",
@@ -105,7 +147,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "d9a431297e3c1c0af6f29e3bc67c11f6448c6fc21ce518a38035bdf802f24f34",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "29084454",
@@ -119,7 +168,14 @@
         "I2",
         "I3"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "37c4ac84db9940753e43ad710a4349f0b5912f2745aa8284db711ed430aba2c0",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "21338692",
@@ -135,7 +191,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "15801fc837647d3452f61d7bb5d33071fd33eb68aa80c6dc07cdc7419e04085f",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "22750208",
@@ -151,7 +214,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "785708a406951c2db1db809b317db1611e11240755580e4c94c9c79a8ad714f7",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "30529017",
@@ -164,7 +234,14 @@
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "1d82b7ef56b2ab641c66a3f84f4aca858229cea6cb83a280be28d3c707ec2cd6",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "30780151",
@@ -180,7 +257,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "953b1fff3b161f3b946d9495d5eb0da9f25a6fe32f90f786476f24860b44b2c1",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "20096794",
@@ -196,7 +280,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "f28f6d499d015b2cea4fe6aecfd4e7dccf8b69c97467e3273443f651aeaf19a7",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "20699124",
@@ -212,7 +303,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "258e0067b7587868511081d1818360869b0775f90201489547d625cf33cd03ab",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "24633558",
@@ -228,7 +326,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "763a34a5711c099a1f0de6143f722a9ea384bb4d98da9f5427585d331cc31561",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "24258223",
@@ -244,7 +349,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "37b884b962fb75faeb71aafe29a2d4baf737bc0536855698e352151bd172681d",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "26947584",
@@ -258,7 +370,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "794ee381ae9ea72eb45696362d91f90e49e0b726880b4a956f5ba13755ae6bd4",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "28646566",
@@ -272,7 +391,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "5097cddd5d079957f926332d72eabd3499f82c7a05867e0a2956a00743858f28",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "26045474",
@@ -288,7 +414,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "f2f18d92c9a7aae8e8d0b0b52e695b336b94e7d203065f6667c0d3b09dd957fa",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "23167305",
@@ -304,7 +437,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "dcba3d3b660b53cc695c63fbe0cc3d9b4109b45f6689d5d2194fb6ef3da5e1d9",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "22445480",
@@ -320,7 +460,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "2c5c8d8edf05008e4c45ec49466d61f8a8e8738a0becfbe65957a17ee2e67f9b",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "28622625",
@@ -336,7 +483,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "0f628f9470406ba93b8312377842c835b13975021f5c4dae2b701b95d7465a74",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "25708696",
@@ -352,7 +506,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "ba2dbf2c78093d665260e091d9e689f7058d5d7a9c653c7e5939746693ed506b",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "25172407",
@@ -368,7 +529,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "73675f7ab364bd06ef6807cb184f48cad4a6f3dc99d9596aca9f27967d8bba27",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "24090712",
@@ -384,7 +552,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "666173a5fb2404c666da8988fbaf59f696305ed7cbdfdf429697bdc62fec1e35",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "29679913",
@@ -399,7 +574,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "a062e126dc65e34fe2698f3c99a240da609e9bb04634b7654e7c981c6cd51983",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "17047671",
@@ -415,7 +597,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "beedc391347e9146c9f0a4a8403861cd61dc5a28f098659800bfbe536b80f124",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "25990865",
@@ -431,7 +620,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "8265c59b24d89a366cb76fa1caa12f8cf05353bc76a7a4d70b3e849421df5159",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "27408790",
@@ -447,7 +643,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "6c96823ecc4958b684d5d900b00303832f7f8c2ea07d2f40a8327d734f9b257f",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "17299505",
@@ -463,7 +666,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "71587b669caf7d956ac5b699527046106661964312272f7baf4c63f5b2bb8730",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "17951002",
@@ -479,7 +689,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "70831b371e22a7984fb6a016736562ffd82d8419d94427f14ef9845e22d8ac83",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "26900571",
@@ -495,7 +712,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "809310ae6a3ae490d2400a95e583bd4cba38653d6439ce123373d4895fc4d720",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "20817105",
@@ -511,7 +735,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "9313ddc1b05ff6cbb6a9f0079322e2990f21d65cd779b5d3367f67620f726953",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "24738841",
@@ -528,7 +759,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "9250221509fb591b8cbb1001aaefd354a0c60bcf62d38ca0ed796f26e5c9a90b",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "22391134",
@@ -544,7 +782,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "9465b6a067b71c277238613b09332a9865d928d5b597f94049debb5afae91688",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "23527239",
@@ -560,7 +805,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "758b4d75e8e9c80c3c10a4be3c55eae6de4087ee21160adfd9daaab45681c577",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "25262572",
@@ -576,7 +828,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "3e89c8e0cd6f704d12427d610516dcf284f2c5822baf058f4d6ff0e274491c16",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "29410011",
@@ -592,7 +851,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "eac175b6d2598d86fd05316974f648e892952f28e1d667d803a5dfcee8c1174d",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "26278682",
@@ -607,7 +873,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "cfa6b2ab13c3a7182cd8563d6e56beba75e0c079456fb80321e6178523ee7e81",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "32038340",
@@ -623,7 +896,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "74e74051c865278c59bc06a86117894947344f7bef93064b667ead527c0dbaec",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "26303184",
@@ -639,7 +919,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "2393504d755dc1a99879f15281f7a7ef5aaefe0580a91d2952a9a0628cb19e1a",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "30643026",
@@ -655,7 +942,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "f6f4e74548ec64a47cbfb32122294243bb2f4defe704119c3fbf8f95d90b360d",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "17127079",
@@ -671,7 +965,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "903683943899095942e8edd9afd625fb761386ed0f2e20220f5ecca6c66d096f",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "27654848",
@@ -687,7 +988,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "b70ea9463947f57810c4db6d9a9e6ba28f01cd1689b71f57c7e3985c5f646bc4",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "29734343",
@@ -703,7 +1011,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "245195c3f93174d47ae33807a99838825e12a262d32126229a891dfc9c6bc7b9",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "28887180",
@@ -719,7 +1034,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "57b77009ee76cb2cbf321752c43e6d0ac2db70eef877bfd3655d6b14a45677fc",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "14643939",
@@ -735,7 +1057,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "1ca0fa8d47411b199c68910a46a98a7c21649dd01b13f4a97ad33d8a211b212e",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "18801475",
@@ -751,7 +1080,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "9bc17a9f1d81b0ab59105d2113d8cc8ad9f899f2845cd5a4c8918a4d29e639ab",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "25678093",
@@ -767,7 +1103,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "691c9c7b3a6838a6bc8d44fc41c02dd82491adeb278943c2c74903942774b1b9",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "30082140",
@@ -783,7 +1126,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "bcf1352b009deef3cca1a5d54d03704c599cda93cf19f228c36be5e7532c2638",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "9161613",
@@ -799,7 +1149,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "cbbe0326596640fc811ec3a54a28ec0661635febfe9d3496dd778f4a958bc07b",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "26187691",
@@ -815,7 +1172,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "0f68e6749e8600907d14df1694b5086a7634c53074388a7b3207607a82908342",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "11822992",
@@ -831,7 +1195,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "2a64c40db90a233e8d87622c81e102f78c92cff3721185e43bfe2ecf005184ea",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "30639181",
@@ -847,7 +1218,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "8bf5e233ad212ddf2337a8c77280328f497750e3fad84a50faf5501f9f2d0b18",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "22270405",
@@ -863,7 +1241,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "825420b722693620e4d1d964565f804e2d16f435b15bf6bd0ef122256a1bee3b",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "21078704",
@@ -879,7 +1264,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "62eb6792aaa6708ad6f3f4e3adc2b726b1b9a8a13a2ea5f5caae45fcf1d9e9ce",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "24273408",
@@ -895,7 +1287,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "86c6edc604336f9c392efb36df86b7e402e4815323da1050dc13fa2035dc7e14",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "17306776",
@@ -910,7 +1309,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "5550496fbdf00203d46f1c63bbf26f2bd9bb9cbb560ea551731a3dd06fed3585",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "21691942",
@@ -926,7 +1332,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "d2e714aeaf6ae89ea21edd3751c1196ab88a496bc9fd03dd289c6ab65c49a116",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "25278147",
@@ -942,7 +1355,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "7b4967789158521ddba0a12279749792049c616acac0655925207c243a9c7b99",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "31326579",
@@ -957,7 +1377,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "b72d90cdbb9741501d903212b2c49fd49410c879b3d56df393bd9aa98936a3e1",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "28285206",
@@ -973,7 +1400,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "1295e37d99c06f6f280d3dbd6c352c56533de482f73dd81a8409739d80bdb242",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "31011757",
@@ -988,7 +1422,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "deedf7c1b2eae9f3cfa68f2608c7181c39a4036f69f4d2bcc84c09869aef0335",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "23916536",
@@ -1004,7 +1445,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "06d2e0fe0733af06cf1584080cb829b631e2098e41b67559043900cc47fd96ac",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "26021304",
@@ -1019,7 +1467,14 @@
         "I3",
         "I4"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "fab97cdb7d895517b9955763c8df70a19344a4a12ac3dfbdc2e7a60639ab0c53",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "21664935",
@@ -1035,7 +1490,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "ee7b39122845fa370d1de8cd6434b7cac3633aed2c357f9c6e98463f5b7437dd",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "20413277",
@@ -1051,7 +1513,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "04ccbed50a88da239a1ead75ebef3cfb64ef7ef261ce2335088ffbd87c92262a",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "29065207",
@@ -1067,7 +1536,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "dfaba8278adea8426acb6320dd306eaddce1f91e1ecdda091edd93f680fd4cff",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "17169528",
@@ -1083,7 +1559,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "a7f93f33276b34324d013e3abbe38f6d6718cfaa64a98804291db0de7f47a1eb",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "25123156",
@@ -1099,7 +1582,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "dbcdbdb74419f1c218400e478fe1e80c3ca1cb429a4939bd1286dfedad97e1b3",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "27207916",
@@ -1115,7 +1605,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "17dcdb1111ce2f8bffb1de9a8bb8be25ce245cd99ac2e5ae8375159568fcdcce",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "23400239",
@@ -1131,7 +1628,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "022b68219610883ba38d97ed3f606b9e3eec3815e02b8aecb180c9ffd6fff6d4",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "25632127",
@@ -1147,7 +1651,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "e17b95e79412b43328d38ae72cffb261fac20ba032c8755d86137269070fdcc3",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "27757129",
@@ -1163,7 +1674,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "6c194acac45466694f798a332f54bf5621f76c95ed64a8be0e130c89275deaef",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "30336705",
@@ -1178,7 +1696,14 @@
         "I3",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "920644cf5298aab65544620c7cfcc223324af5d189506fe801e5f03eebce11c1",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "24179800",
@@ -1194,7 +1719,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "f9ada427b21a824fb916916b06b925d15255eeb098ab390af947a5454efa4720",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "25803861",
@@ -1210,7 +1742,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "bf2bbe35b1988bfd4a161713c65356e3bc54acdde7984ce4521f73dea926176f",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "27126701",
@@ -1226,7 +1765,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "7e477d087cf6ee5ff668d1b8bea2692b8928e9aa360095d75377486eb4a8ecfd",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "24918068",
@@ -1242,7 +1788,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "f1ed8567b528f0dcb7b3104ee47728cd0f805f211f0169b39d10f88c9569b362",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "12498754",
@@ -1253,7 +1806,14 @@
       "screening_type": "fulltext",
       "timestamp": "2026-04-29T10:14:33.913865",
       "inclusion_criteria_applied": [],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "12c52c6adecde974cf386d9789908a390d89d5d397ca332489434acc746d1584",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "27865039",
@@ -1269,7 +1829,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "a015987a4382fe688fe813bdb25db36d73078d5670deb0b54dbaa51e5ba9a51f",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "24086317",
@@ -1285,7 +1852,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "bd67d3a9daff3fe28682a97c065fe0ef480c2f326ec233867b0cc2eadef2d10a",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "19707568",
@@ -1301,7 +1875,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "faa7f2f5c32b5c8556270e19780d90cbdb91ad45eddcfc53f69b50ce293c9dd4",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "27529648",
@@ -1316,7 +1897,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "28021164f6fb4a29141940f2bb72d5b4630701eb7296ba02dbef6b32b1e902a7",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "24994509",
@@ -1332,7 +1920,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "fb251c7ff3caf87b1907bba15945f94772ed103ec2caf61c4c6882e36f540a5d",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "24077067",
@@ -1345,7 +1940,14 @@
       "inclusion_criteria_applied": [
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "9bea2cc93daf00c200edbe414ca65cef03e3df3aad1cc2dacadfbb4e13668093",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "15766635",
@@ -1361,7 +1963,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "9256a438419a4381af23fa80b296c313df2bc310231b7c49555315ddfd23b587",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "8561288",
@@ -1376,7 +1985,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "39a0dc680fe194a00610337230ae42e35dac0f8f70f9aa6e2cf8c94559164598",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "10762735",
@@ -1392,7 +2008,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "3cf8cdf1f38e589c8911b9dad551ff748a0f7b8496d27672f3be7842ea3197a2",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "30543846",
@@ -1408,7 +2031,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "0fbc8734f0f9b30f0ff25997d0a804b9ab34f31c8bbfafce4d8855457c98b3a6",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "30963660",
@@ -1424,7 +2054,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "eda582ac33ec6902d24533a4c0a514a9470231ab04093bde9505c414a9dc8b23",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "31072760",
@@ -1440,7 +2077,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "66a619256225a1283af89dfac5aa9b3b12107328db471d2397af94d378b69395",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "28098946",
@@ -1456,7 +2100,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "2084c180d98c8fcb5b03a0c971400101140ab9a1026d90d15c5e62501da23aa7",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "27334243",
@@ -1472,7 +2123,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "509e18dcbbf3f57265f74b80069e3828e9db60a7186ebc84e33ffa1ebe706678",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "25125263",
@@ -1488,7 +2146,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "ff1ae2e6d7b1e046f2a77202ab1e3afe8cc2d075919c34a7d7446557f3bc182d",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "27130832",
@@ -1504,7 +2169,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "beed8b8bad25737895a58dfd2d04c4226709aa0f1df2f4c23b8e68b28ec27a2a",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "25510982",
@@ -1520,7 +2192,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "e5aa004a8c44c3082fb2a0ee8131183e244cc5f1b8bcf903d08752851847ba0f",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "26422004",
@@ -1535,7 +2214,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "e9755f6a969b455907e445e911796557e4a24f700f5f50a9e28a8760564e0bd7",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "23311613",
@@ -1551,7 +2237,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "6f258421c04360a79e350c4b1282f506173a70de0c21b4de3a82c0a9de868c27",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "25668330",
@@ -1562,7 +2255,14 @@
       "screening_type": "fulltext",
       "timestamp": "2026-04-29T10:14:33.913924",
       "inclusion_criteria_applied": [],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "2e190fa5f0a3226c83cc311e3aac4bb38f46ed61b5569b49f30e8bdda041e6cf",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "15607838",
@@ -1578,7 +2278,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "59ef7a4c9220d80a7ee3fd536a3650adbf1ac01da132b6e93ff01bc6d94df54e",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "23838052",
@@ -1591,7 +2298,14 @@
       "inclusion_criteria_applied": [
         "I2"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "5fbf8b687755e77c00bff4c23d5b6886017041b269d489327113a3a2097d7f83",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "29680476",
@@ -1602,7 +2316,14 @@
       "screening_type": "fulltext",
       "timestamp": "2026-04-29T10:14:33.913934",
       "inclusion_criteria_applied": [],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "703c5b2b39f446441f27a86cbfe1f6de57f3b758d3172b16c5a275c587816ff1",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "21438934",
@@ -1618,7 +2339,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "467ba34784d566b1a6ff131090fad986c62d103358f435150a0dfe3e502622c3",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "26948669",
@@ -1634,7 +2362,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "c83e800ccb16217c1c0bbeaa1352560a67b0b37b89faa821dc69360883fec8c9",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "19650817",
@@ -1650,7 +2385,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "39d884889dbc69d46e69bb68f4e9ca94e1c2d3b577312d2e967dc06b8d80f1f5",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "21952669",
@@ -1665,7 +2407,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "9ee81e54609a8e6ec1616ae948374535c0b65a95334bb6ffb1d8203795d85fe8",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "22098260",
@@ -1681,7 +2430,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "9589cad069ebcb03322f571247251176b1f54761328f89d745381d14aa8190a6",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "26918784",
@@ -1697,7 +2453,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "0f684d2370023e104939d682d9c6f3858fcdc61f9a975c8a174b321a40202e2d",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "20237258",
@@ -1712,7 +2475,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "f13eb9e1e0b9916b54ca864c9ed8b8343dd4d1be534dcbff2916ec35087cb6f7",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "21599718",
@@ -1728,7 +2498,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "a587df2c93122e6313a5efd5e98277c21ddb1e2331adc79ffac259185ba0d700",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "21909705",
@@ -1745,7 +2522,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "2727a648a6b185ee7761cffeb1dfd4a886aaa410810b9f2ca9a188fdc4af36d0",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "7771636",
@@ -1760,7 +2544,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "9a56fb38c0349c6fea49480b6572296cba54b64e1f57dec190e23a634cfecc19",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "25170881",
@@ -1775,7 +2566,14 @@
         "I3",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "2412298a35c1f3ccb901acae85d199a98467a9f464fb2235595a6f5e99a2a152",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "16131857",
@@ -1790,7 +2588,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "9273701fdcbbcd97d6a2986a9a4de567d9e8a4ba4b3688d17667fdec06064167",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "24483366",
@@ -1806,7 +2611,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "bf69db9a6b2d1adb11b6d63be9f877854f37f7385647e14a7948a8d015139e31",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "21281718",
@@ -1822,7 +2634,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "b4eb35fc69a15efb344ea3c8a41eb0f80de643917e672da4c669dcd31a15d17f",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "21383264",
@@ -1838,7 +2657,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "3b058cec612008343550afabcffb326bbeccd48741c1d777a052a090a6dfd072",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "21982932",
@@ -1854,7 +2680,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "3c2db078e15a4c92f261634ecdabe94457117c3f57d0a58d743b2dd4a1315ad9",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "29881337",
@@ -1870,7 +2703,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "0934bcb0a76c4ed47e74df19b65c18d8860c863d5541be883d6b33ef40e05518",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "26616173",
@@ -1886,7 +2726,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "af7c327f35655f8e3fc72b4e15cc40cb4bd3a025a944c20a19e6906adf157c6c",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "22717339",
@@ -1902,7 +2749,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "ed29c2cc8ec19b4e61d76f3c3ecff6986b41399f3092d5fbca6b5422cf916384",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "25367022",
@@ -1918,7 +2772,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "56a02aa067f10f84bf5ec0b5a1bf661b06f4868d08d71f7524211cf639165857",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "23153869",
@@ -1935,7 +2796,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "13317976a2a87622be8c999ef41522c5b1ffdfc2d8ece8d55d6f92fa357abd37",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "27575491",
@@ -1951,7 +2819,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "720d78a4308a918756f43efdf3e00332d760951a9287ef5a36932d8ed2b9fa23",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "17088334",
@@ -1967,7 +2842,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "43286525cbf263d6deb6f9cedbf0d4792aee28c99f01e9315a882a5ab609339c",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "24741043",
@@ -1983,7 +2865,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "ad55a8d87b98558cdf7fdc967546ae544d3f17b86bf338bd5f096cd416426966",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "30941093",
@@ -1994,7 +2883,14 @@
       "screening_type": "fulltext",
       "timestamp": "2026-04-29T10:14:33.914011",
       "inclusion_criteria_applied": [],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "bd90abccc05232b43652b5400508399551e9285e47a1ea482801df8ac23f4d42",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "24789323",
@@ -2010,7 +2906,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "51f6605005355159763d59cf17aaeca2d22503b4c5c82d1f664ce67f2d3128a9",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "21050680",
@@ -2026,7 +2929,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "eeb2a91654ca82d5103933ead7538d2b4f16fa3c45d157fb99178785cba40867",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "29058369",
@@ -2042,7 +2952,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "94d6f7c9e88164a6e0ec44a2aac88d4d303ea4a725467135dbc86bb01f88f271",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "24286968",
@@ -2058,7 +2975,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "f7e2c5e2c9ff473608abde312b282b1a2a346a8425e3cf3d7fe3bfdfcd9d055a",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "22775285",
@@ -2074,7 +2998,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "c128d71d7ba3e87f98bc6c6902428c715c2e74eb38344f3bcd4cea02d9a13b82",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "24850422",
@@ -2090,7 +3021,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "b0c4c68b335193a5a7189cddc7e0d8e8b4b8cd8dabdfcd2b938fb6f614af6a96",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "28971228",
@@ -2105,7 +3043,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "9696cd7af7f7e8afb3d443559c27dbc5cb9fae92c4b6b29243c0c9cf0a0b31d4",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "25090480",
@@ -2121,7 +3066,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "eaba614d832bdedca7460a15a112e915f234600e6c5b53b32e6266550b6bad29",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "17004938",
@@ -2137,7 +3089,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "670118bb24b8e567f640375a9edcd0007aea3ac62095da2ccc40e71afb6b3ba4",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "27207918",
@@ -2151,7 +3110,14 @@
         "I2",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "bd2b9cecbeca1df7f426b60b42b4e929c9792a9e8ad38b961ed1b94d900c311a",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "18407470",
@@ -2165,7 +3131,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "fb57493a15c9a5ccb6c2ceb4183030a0d79aaa4b82a8396e3bec3aefb69a5445",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "20570057",
@@ -2181,7 +3154,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "433b01b7a96dba187eef9d1bd510e941d5f9fc8495d8a3986b8e7fb837c1af1d",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "12880835",
@@ -2198,7 +3178,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "57a3651dd1391ada4b1dac94477c836c9cead566dbfc3a98fe1aff96df395766",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "16872844",
@@ -2214,7 +3201,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "4efa5f74cfc8ea347a0fea3b72ad56962e1ef48e9c3c7eea03df536d516fbb01",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "27625988",
@@ -2230,7 +3224,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "70f36085f3cbff6f0772420cde98cad3888663066bd1b6bde29ebd235037951c",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "30456877",
@@ -2244,7 +3245,14 @@
         "I2",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "d3f3f011daeb1e802d4eea50b2cdc37be1446c31cc00fcdcaf5e47f0028d2046",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "9783561",
@@ -2259,7 +3267,14 @@
         "I3",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "66b01f2663cb694fb9ff49f77358fec19cd195fa25fc240dfdffa35a89ec212c",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "24342420",
@@ -2275,7 +3290,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "279a7dd9f8b5dcd136a9a60e8f51bac94e6405763b2e56d411556ed5d4cabb25",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "19859774",
@@ -2290,7 +3312,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "63da305caa803c798f898f1847bfeec11be3018f539f197eba2513458d207099",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "27996310",
@@ -2303,7 +3332,14 @@
       "inclusion_criteria_applied": [
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "c2f34601f9d8f91aa045bb84503740f0924b05d5540643887415209bdb6cf792",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "30513444",
@@ -2317,7 +3353,14 @@
         "I2",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "179eae92e31ff43521b76875ae79cff43ecb4be90a2cccb007ccb0857d9a0eaf",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "29308437",
@@ -2332,7 +3375,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "ad6b48f539982850a7f89df4f4dfde86a3a040a766e3a3cb395e6a888b11b257",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "23927455",
@@ -2349,7 +3399,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "bf827c98a497fd289c9055006d22fe59ee5f6f35c32828a2bb80a7594593debd",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "30262893",
@@ -2365,7 +3422,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "a08cc2723aa11f011513536bf10d19a7b2d1c32e2c633ed12e813eca2666ee7d",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "24256621",
@@ -2378,7 +3442,14 @@
       "inclusion_criteria_applied": [
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "21c30970093e0ee4b7149975c44a305ee9a06046655f351c52c4dd19e04aace7",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "26786150",
@@ -2394,7 +3465,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "526e4aca44c85442ba150beed8097df66e60b1a8e78b60f67f66c75fa886cb73",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "28959223",
@@ -2411,7 +3489,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "ea24ee325689ed84daad0e11c4ac2199660375ef3ac3f9d56bdf763e08c41120",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "26164485",
@@ -2427,7 +3512,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "ca3576133786ce810a38123505e1b2ffd1a864d724cabecf90002b5888d1ac64",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "28763777",
@@ -2438,7 +3530,14 @@
       "screening_type": "fulltext",
       "timestamp": "2026-04-29T10:14:33.914094",
       "inclusion_criteria_applied": [],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "a7f118b2c51eb01d8446f8ff6bedd8a7204161e013772f8148c8d22e7b13aaf1",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "19775795",
@@ -2454,7 +3553,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "982fc50b2d879168ff1058d741d0d4f2336d42601f8abef641ba0871f4ed82b6",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "30142603",
@@ -2470,7 +3576,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "af8d5736c2a6c2bc4d12882b3fd88bb0780c6f040032b20cc7ec86e5b4f3c9d7",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "26078198",
@@ -2486,7 +3599,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "2cad95169f6a694c556d921b0b109ea1210c13367888a534a86c770f287385f5",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "12122034",
@@ -2497,7 +3617,14 @@
       "screening_type": "fulltext",
       "timestamp": "2026-04-29T10:14:33.914105",
       "inclusion_criteria_applied": [],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "c977c6f3b7ca7463cb8bbdc4452f49bd4ece34d8971a3b23be9b932931eb3563",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "27500453",
@@ -2513,7 +3640,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "652a08abc5f49040b0e895ff4a8b194f903a47d6641650762ab6888a6083f3f5",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "28992531",
@@ -2529,7 +3663,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "8f88c041283d8294f88d9923f144f010d4e531705880499b8ea69added6363b4",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "19645730",
@@ -2545,7 +3686,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "724fd04a1d49060f8ddb3f1b0b63de0eb056ede8eec2d9ca50824da95abaef5e",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "24478673",
@@ -2561,7 +3709,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "e1b3fc529a63748c8b7a07da7087e180ac042ca400b71014d36ae530949ea8d4",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "12167554",
@@ -2577,7 +3732,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "097778d4126b45fb7e3bc9dfad2ad8ef16f1d32b3fceee1f7af1f99f2c6a7e3c",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "17137758",
@@ -2593,7 +3755,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "b9f87fd91c55cd81426b7945f60d99049140548af69a3711f05d1984290191bb",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "23190458",
@@ -2609,7 +3778,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "f4bca854ebfc7bed9a375696e46234db19ec4fe877e55fa1122a448843b0a6e8",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "22135719",
@@ -2626,7 +3802,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "2af0eff53fc27d940934f39429358ef466ed3a3eedb1f0a6e4d48b3acc795d50",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "32116822",
@@ -2642,7 +3825,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "83fbc3f719107b45e9eb1a214dad315771e37f338f722b930ce201f510a73f5f",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "26025509",
@@ -2658,7 +3848,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "585538023ed5ab867ced1ef3dc2dd58c0d2eae62fee39a662be3a0b5e7dcf23e",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "19112522",
@@ -2674,7 +3871,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "9cfed87522195225fbdbf54865c91035626265c25a043581fbd1d2a4b9f25728",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "18044583",
@@ -2687,7 +3891,14 @@
       "inclusion_criteria_applied": [
         "I4"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "ab1b469674fcdb1e720f5fc5aed274166e968ff49c1d5ad64fecf26db2aac0b5",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "24496784",
@@ -2703,7 +3914,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "1b002fbb54991767ce3d802a63fbcb1efba6a7bfbe6ee95cd38348af4ca45f41",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "29847018",
@@ -2714,7 +3932,14 @@
       "screening_type": "fulltext",
       "timestamp": "2026-04-29T10:14:33.914148",
       "inclusion_criteria_applied": [],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "c8e2d9536d5a8151961d76b3584fbb01b8d6ad08a42369d105b7b040f3f3402b",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "23748383",
@@ -2731,7 +3956,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "4ae3050c7cd58edf12b08390e97ae1887e1bf8493490c8ff358cc0d00c1b1b41",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "25896164",
@@ -2746,7 +3978,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "948d889a7891943d283a3e7767bd47fe79c72548bbe72d50b054c01a7c231a2a",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "24140937",
@@ -2761,7 +4000,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "54d386b94fa66bbfbf17e8c8e6ab3f636af7d55e5069e8173c85a29b08cd26ec",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "29691937",
@@ -2777,7 +4023,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "8c5a08a571d396a485fcc7ea78b5e26848a1d3e9f27fd0686c6f8dd8854e3c45",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "25988724",
@@ -2793,7 +4046,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "e8ffef2b41af6b3d746b3d8e58fef3b9b573e788e44d3ff2242ebe27e42f5dc2",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "27224247",
@@ -2809,7 +4069,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "38a870a7b8c7fbf55365bdae549fa229bba9dd1ca250bc61a9dfddefa1dea4e0",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "31161472",
@@ -2825,7 +4092,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "8eee097f289bb06071727ae6bcf221b08d33678b91a34b54e8306a40c69cfce4",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "26133201",
@@ -2841,7 +4115,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "4cdfbe32f4387931c7a9d9a9b6336e06bf8ef2ccce4df72a55539469e8d8f9c1",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "22076160",
@@ -2857,7 +4138,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "a143a1399db8f8f0541628988cd9d61524d6b46a723f947c3d74d63b7063c50b",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "16369836",
@@ -2873,7 +4161,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "e68f0d7eaf12ecd8851fe2f6d6bb7423742239d66faa027ead235c8fe0d511a1",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "29582514",
@@ -2890,7 +4185,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "4b0aafa720f421b86af567c60585ed631bb7b3b458785d160e6edb2e78270ce8",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "25727574",
@@ -2906,7 +4208,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "bf479816ab4239cbf18e303b02765a80e7c186c8ed5fc0f1d3c91ea971bf452c",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "26404024",
@@ -2922,7 +4231,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "b7c693e85630d9d372fc980461d8fae4a69c96c682c255829b6593acfbd3704d",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "19531112",
@@ -2938,7 +4254,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "3d2bbfb8a642d7ae7f9ce9679d488fe17d26fee5676ce5e390b98565494b4c76",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "31419768",
@@ -2954,7 +4277,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "13e757999f156fc0f8cf57ab2bbf5f7d9ab7bef1d08c61029af78d4183a26a09",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "16054344",
@@ -2970,7 +4300,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "23f8ec7a7003047fb0dd8e5372425ba74bd283c2fdc849fd249712a10f96f628",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "11981133",
@@ -2985,7 +4322,14 @@
         "I3",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "639e0b64b9f5c6a11a28085d5f541f302d81d012000495947d68dd3ebd66dbfd",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "30945801",
@@ -3001,7 +4345,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "bf911c225d57b267193481747d37a34f7c8fc4b44a72aaa5f8dd966931938100",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "20731627",
@@ -3017,7 +4368,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "384aace3806ada2932feb7c81e451bbfbb7c56fc70a9869d1b740f7654dd15c5",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "20688176",
@@ -3033,7 +4391,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "24b0215c17dce616008c4eb2aa1cc5a0faaf8c51f8fa66780ce430bc82393859",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "27782768",
@@ -3044,7 +4409,14 @@
       "screening_type": "fulltext",
       "timestamp": "2026-04-29T10:14:33.914207",
       "inclusion_criteria_applied": [],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "d1d57d308f2cbcf5b8aee62d217b945b96437bdb15211e6f92d8382e64605ffc",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "21392170",
@@ -3060,7 +4432,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "379baa38685a4da80eb87b8973d65b67f6db70db12933e1bb4793390188ad17c",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "23469861",
@@ -3076,7 +4455,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "f319c478608f1ef0e4c83695f496bd44fd51f1df859492a3e30be242d79861bb",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "20424827",
@@ -3089,7 +4475,14 @@
       "inclusion_criteria_applied": [
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "afcd288f1680f96a288fbeff698af166962aee26dd324bee529593e2c68578ef",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "23352851",
@@ -3105,7 +4498,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "26a52c20c405aba035724c7c2641aa5c4857f509fef027359a100632293c4be6",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "24676464",
@@ -3121,7 +4521,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "8fa56e91e613525476ce0cb55ce50beccce4ff687d40a4ffada638e954eb09be",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "30154290",
@@ -3132,7 +4539,14 @@
       "screening_type": "fulltext",
       "timestamp": "2026-04-29T10:14:33.914226",
       "inclusion_criteria_applied": [],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "7b8a0986ef62708de568cb6d58a42114bed1fafd4c989ffd5385e5b945b6b0ec",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "22386968",
@@ -3148,7 +4562,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "8937e60181cfed9b86dc473583c459fa2a7e7bbc330976c02cb63dd5d0ee893a",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "21612768",
@@ -3164,7 +4585,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "b61fda2c3b8e216c85d08104fbbd4a3545f619fa964f44697b903c613e9ed2d9",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "24147643",
@@ -3180,7 +4608,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "a59271c1c4551acc1532877012fe8318f7c89d95ca2fc9c1989baaa585e6613a",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "16950573",
@@ -3195,7 +4630,14 @@
         "I3",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "ab1afc26ff2c826782d9a7053c1bd1dbcfa0d97c00fa8fd6a7bae903a1fc9bb1",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "15229050",
@@ -3209,7 +4651,14 @@
         "I2",
         "I3"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "6575986b6e8f41219dfc58a09e07b0a915f16d7e10c94797d3c90f3fab05c011",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "21690575",
@@ -3225,7 +4674,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "eeb81a71cb2135425a73d3fdc643bed95bf51f96eb8ac8b3dfe46d2226b8ab56",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "14506401",
@@ -3240,7 +4696,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "ad303b262bae9b362bdb9cd30a1c94798099dc94d5b8968e06af35c80403a64f",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "23072363",
@@ -3256,7 +4719,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "1b4e616ab7b145daa450d0d81379905a01bf27a0ed1941647dc61b5c18fc2eec",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "26497657",
@@ -3272,7 +4742,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "b640e11eae9359a34ca32dfd4c5229b1cbb101107fc7ad05bb2f642aa71d8870",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "18165464",
@@ -3288,7 +4765,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "664810baae1c45a86964b9f4a51eeaa5031a2b86d8f3c7210ea1ae4ebe450a81",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "24200204",
@@ -3304,7 +4788,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "f6c7feb0f9601388b18d805d963fa5216db1701c5841a75e373d11bc3f30812b",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "11707642",
@@ -3315,7 +4806,14 @@
       "screening_type": "fulltext",
       "timestamp": "2026-04-29T10:14:33.914260",
       "inclusion_criteria_applied": [],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "538169452d4af15f2757c3e0ddaa5d92726d5700f7e77f599749da6eadea6bc3",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "16962291",
@@ -3331,7 +4829,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "cc6c841639a83e3ca07fc552e697262ccaeea9bc1800bfe887f1d741bf0fea8e",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "16684342",
@@ -3347,7 +4852,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "b3683cd46067cb45324b695bba7074846b9c1acadbf0c41d5f12caa24be75100",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "15095470",
@@ -3360,7 +4872,14 @@
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [
         "E6"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "5ca812cb773515fe8719d5237f1b49c08dc20895300aae18aaee76e2781aece3",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "23027680",
@@ -3373,7 +4892,14 @@
       "inclusion_criteria_applied": [
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "c7825948504591e78006546013891a4d96de1d5ed30b5f99205ca72b7ca6329c",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "35246521",
@@ -3386,7 +4912,14 @@
       "inclusion_criteria_applied": [
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "dfe4824f272032d589e87548aaba51d9d82bd305d7c4fd8485cf0f4f6047a1b8",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "41062029",
@@ -3400,7 +4933,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "2a9e59ca39a577dd0bee683b53dfa815408d561b765a3ff4fa3e005f90e6426e",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "32272912",
@@ -3416,7 +4956,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "67b51967725368e14a57dabd32cfceefe0cd1d02c4c0a7c0107813b43248e7a8",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "41123310",
@@ -3432,7 +4979,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "08153e14ed955c33c94e672a94f5256523d347f05f44ea8eda70b6a2c7bf7a76",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "33621927",
@@ -3448,7 +5002,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "da69c1b5b8ad93598f6919dfb83d88efab685c643760afcd44844da1ba7c347b",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "34628875",
@@ -3462,7 +5023,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "307723be59d8a944b6a67325af3a9b459c8d5887d7e0ab2f36a09cda3f8d94e1",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "36008158",
@@ -3478,7 +5046,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "2514c790482bc803e49483881196e05f85c0cf4b2355772063d8db00e001486a",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "38600850",
@@ -3494,7 +5069,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "18a0ade8565e88c2c98fbdb6cce7d65734b50d3a05c83af4a0413ee88384fed5",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "31930036",
@@ -3510,7 +5092,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "30de8a88a7c403115cae84c9b7c8f537936b66c5c03ac02ac5fb430c35be1eb4",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "33012519",
@@ -3526,7 +5115,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "1c3ce92999dd853bb782f30df421941cc40b8222bd0adc94566ec07c3f89d65b",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "31941972",
@@ -3542,7 +5138,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "1d736aaed3d948b56032416223f45ecf104235bc627b716232ba4b870da47348",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "36528239",
@@ -3557,7 +5160,14 @@
         "I3",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "8a63e4ae655cdbdfe7fb85cf210d8928bc1d2b2b6e4743047b66adfe8c344a6e",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "33865925",
@@ -3573,7 +5183,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "ea13f1600a07c8776d9d98aceeb370c1af2d6a2a4f608ab3709a58756c2ade89",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "34749288",
@@ -3589,7 +5206,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "55d990125ee64486a307267b5afc01f4afe370f685f42a79400e2999e2a9c148",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "31699293",
@@ -3603,7 +5227,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "07ae92f3786b07028245facd7a3dd886d4d083fc7c25f0d4067748ad72429d5a",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "31653477",
@@ -3619,7 +5250,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "173ad8c2aaadd203fa22ebc31e575585dc4dce626cb364da5a40167f21a832c4",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "34808037",
@@ -3635,7 +5273,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "bdebd4aa175ff21bb0ae65a71a6f1a142587b37ac9e3277cd4d9846f9dde6221",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "33770525",
@@ -3651,7 +5296,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "aed65975473953c8c4fd29c3147d5f3f49b1868909424adb832106d9cbbf1b70",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "36924741",
@@ -3667,7 +5319,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "50a66f44d506e5da3e405be308591fa8dcd58b64478643695feb57f92705ce8f",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "31688973",
@@ -3683,7 +5342,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "9342982f509daa01b391f4a3d9b5b144781c6b07260a493900624e1030499f50",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "34416865",
@@ -3699,7 +5365,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "91d4b62c466329bcfe16a61c919db9bb183e8895229e59699dff072836ced75c",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "41106213",
@@ -3714,7 +5387,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "0d8057d42b89bcdcd1d665050eec4eecff9583ad5f56d9d404742aa0d4b22ec6",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "36621586",
@@ -3730,7 +5410,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "926253fd1b5da8187effbe2603edd30fcaf0f26da87bd05afbcb1182f11e226b",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "36580868",
@@ -3746,7 +5433,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "dca255cc0a6a7e78c85871950e15c80c42cff7abf51d1c0b10724128f4d3c347",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "41851085",
@@ -3762,7 +5456,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "57ab2b4d66eac787cd9525d84480f00c85580117934c009db85fabfbe376d76d",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "34438322",
@@ -3778,7 +5479,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "4ef8ab1492a7b9fffa1f97b9d72232b8f0c7a15e8ad53b09f3edf2e1bf1336d4",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "36112825",
@@ -3795,7 +5503,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "619a1e213963223c431876932aa2c413728228f674baf570144ceb5e1cd49820",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "36200376",
@@ -3811,7 +5526,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "f554e1c9ebcbfb258f06b862a8373c64ad6dd477fb3736b5277fc36ad960b54f",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "34364191",
@@ -3827,7 +5549,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "6256f546aaa3816f9c8e079a8f4178af1b720f21897d5df72d8e2753e2ddc45b",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "41389382",
@@ -3843,7 +5572,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "30bd419396fb9658e89916a09a9b7f1990c8c554343c24f634567dde9c0ddbcb",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "32717665",
@@ -3859,7 +5595,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "1ed0b9aaf52947197e5e47aadfec32f1dfd691b0ae711ee9e9c653c08957c169",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "38753392",
@@ -3873,7 +5616,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "75fd27db8a9dbd903c4da7db1ea97f9da058be9ce003b43c296932cff10560dd",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "34526885",
@@ -3888,7 +5638,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "3560fdc6365a6e63737a80116d2efd9429462fa0a3404ace2f4fdfedfd624334",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "33278513",
@@ -3904,7 +5661,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "224acdd86fa9e5767c0fbf2d77784ed009aa573618996520116a3d8f1d42d6cf",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "35653911",
@@ -3920,7 +5684,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "d387beadf24d9338e6e713cd973f40c1a59718b21958b5cbe43a8e92b4199614",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "34390509",
@@ -3936,7 +5707,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "858e8a6b3018fd7a81893bf8128e2aa99016806baf3718d50b72162114b3a873",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "31805488",
@@ -3952,7 +5730,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "97fb5471d3399851a4cd30871389db66cd06b489dd1a34f3b595cee935ddbfa4",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "34435833",
@@ -3966,7 +5751,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "dc5abdb254d52f2f81eed39c80a711eccbb58bfa1993beb4093cca67971e1a57",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "32857473",
@@ -3984,7 +5776,14 @@
       ],
       "exclusion_criteria_applied": [
         "[]"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "0fda30d51d264bc26a9b99516a7fe15ddd0fec8af87ae3084f9a349f44a3a2f3",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "37436103",
@@ -4000,7 +5799,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "a582cdef906e9d233f8b27766d9d4a1a9d299197cf2d1b9d9dd218a4215c6a9e",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "38820804",
@@ -4016,7 +5822,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "22668a3d456a1a30ec29d69a0125ec461c7a4740a67c5e0f88189df3167f393f",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "33947835",
@@ -4032,7 +5845,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "16e5d7235e01b97ab09b98aa5d8d4d339d6f6e1c946d9d39ad9f58b5195c87e0",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "41877877",
@@ -4045,7 +5865,14 @@
       "inclusion_criteria_applied": [
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "44952843ba662f8a190f1bbc3ed2be320bd96c8d15537cfba7a0a622723f14eb",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "35779511",
@@ -4061,7 +5888,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "69b16baa877691375cced0ebac5a5cf06e057b2abfdba465f46efaf9362daf8a",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "39732318",
@@ -4077,7 +5911,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "5f0cda1489028a89f6b759100c0254a73431082dd7c17f1e7fc589bf0f365d32",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "39300763",
@@ -4093,7 +5934,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "8cf7a43def3d019b8de809e69b86c895dd2ccc61890ae447044b4c8db126a9bf",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "35968362",
@@ -4106,7 +5954,14 @@
       "inclusion_criteria_applied": [
         "I4"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "4c9cc951f59be46718442defd727f2e034ccf58712401b1c50254ce542d9fb2c",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "33556459",
@@ -4122,7 +5977,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "03b887ba89cc7b6b4c0f50b495a8693d3c4b0b7555da650890acae8806e4ca01",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "34478708",
@@ -4138,7 +6000,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "5417f28e82505228373c751fa9eeb5e7749a8bd05f9b183fdb228c13f3d4f135",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "41519176",
@@ -4153,7 +6022,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "6789e1408ee6edc2822234343af4fd85ec2aa39e96c8844bbedfd3d596d93aee",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "32428790",
@@ -4169,7 +6045,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "24f15c90a1dd155768c28a87d1731e0fcf93991b7811d627386d8810f7d4ac17",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "33462781",
@@ -4185,7 +6068,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "b00d30619fc2bd2ff4cbe60f22c084335b9ad2df224bdebb05ef970b6d353210",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "39233273",
@@ -4201,7 +6091,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "4426c20d163428192718ebc0bf8574d4ad16cf91afb1527ed7d077ba578baff2",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "40072344",
@@ -4217,7 +6114,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "05962d600371e66d31c836a3e2305b0ca9e0eb969bbc31169808c9da13500ae6",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "31422451",
@@ -4233,7 +6137,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "57eb862744cd099c5168057700f390acf614a95632d047ee3af001e01d561739",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "40450399",
@@ -4248,7 +6159,14 @@
         "I3",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "9ebd8f496795efae93b6745c3316fbf94bf50de819275fb3e114562abb220c67",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "31820807",
@@ -4264,7 +6182,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "29a48af7d09c7cc5f57a8359e395ee6067626c61b97b9c0322ad4fdd5867990c",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "32387173",
@@ -4280,7 +6205,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "8629c90f12c00e9ca0bc43663f9e20863756bf69dacee436cfeb0fc7d269fdf9",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "39875081",
@@ -4296,7 +6228,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "bc6861c382b2083461bf07da9da2a9a41ea55b5849f6266c7a76837521b02cdb",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "40794481",
@@ -4312,7 +6251,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "1f6620d0d7cd9f2159ed500fc4b543fa55c1f20aa62d7d5831e2e7b01fe2518f",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "40739321",
@@ -4328,7 +6274,14 @@
       ],
       "exclusion_criteria_applied": [
         "E5"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "e641f91406935e6d8e4547aa67f92ce548ba85658f6a69abbb2524ad9b1008c6",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "39823711",
@@ -4344,7 +6297,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "891abf9329190302644c1a3a7343276c6b356a23809fb1773cb6cf6aa15135ab",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "41764177",
@@ -4357,7 +6317,14 @@
       "inclusion_criteria_applied": [
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "b96fa2627679767e86750e0a2985c76be55714e002e28464a2df8190843ee85a",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "38519565",
@@ -4373,7 +6340,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "c58ecd671e6177444d0fcec6e5e4626c0dc9a61d20c3a03866f0ea9ef3f74830",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "35250540",
@@ -4388,7 +6362,14 @@
         "I3",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "65a4b04982d6ef000c1511ce5a9a5efb455d7d1f1193788d0dc2ec238cd39021",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "37323647",
@@ -4404,7 +6385,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "8bb41bd9cc70f3e1e19d6e510cee9d932e3b8efa584b6dbea81de2eb9fb5df0b",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "38660010",
@@ -4418,7 +6406,14 @@
         "I3",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "7094b9692b92d236016aed660aa5bcf12bd2c59995184cea2dde636d66b226cb",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "35115969",
@@ -4434,7 +6429,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "e7c4749505c3c50f745b9391189c86dd8b81f9155e1732fa5e734f71a8aa516f",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "40718763",
@@ -4449,7 +6451,14 @@
         "I3",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "53c20d5c0805a70b51f4c371eda82f8c0c341105aa747c362a349ee0169fc07d",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "36873223",
@@ -4465,7 +6474,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "cef9fd7900caba29680456efa236fb5cc87427cc18f43a19df4813c6a78c3c1c",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "33543128",
@@ -4481,7 +6497,14 @@
         "I4",
         "I5"
       ],
-      "exclusion_criteria_applied": []
+      "exclusion_criteria_applied": [],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "5036b5fbdfb7060655c414067907240097885642748a413e9bf87af0534ce334",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     },
     {
       "study_id": "41971270",
@@ -4494,8 +6517,20 @@
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [
         "E6"
-      ]
+      ],
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "fulltext",
+        "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c",
+        "study_input_hash": "da4677545a4d8a4e2448fb3c5693e7419bb13f3756fa8761f2805b5753ad32e0",
+        "model": "gpt-5-mini-2025-08-07"
+      }
     }
   ],
-  "timestamp": "2026-04-29T10:14:33.923417"
+  "timestamp": "2026-04-29T10:14:33.923417",
+  "cache_signature": {
+    "schema_version": 2,
+    "stage": "fulltext",
+    "stage_hash": "46b5e387e2a963e94ba7787a59996a0d969c97712d99101c597430f31f8a1d7c"
+  }
 }
