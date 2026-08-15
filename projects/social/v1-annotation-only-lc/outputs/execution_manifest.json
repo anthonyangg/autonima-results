@@ -1,30 +1,136 @@
 {
-  "cache_policy": "auto",
-  "changed_stages": [],
-  "completed_at": "2026-08-13T13:46:54-05:00",
-  "completed_stage": "full",
-  "config_hash": "b994e6c12064b5539b9859352d616da28b0afd76f720dcdc300081824be63556",
-  "copied_cache": [],
-  "created_at": "2026-08-13T13:46:54-05:00",
-  "executed_config_path": "/home/zorro/repos/autonima-results/projects/social/v1-annotation-only-lc/outputs/config.executed.yaml",
-  "execution_id": "migration-a59695e0e3ada61b6da3e904",
-  "invalidated": [],
-  "migration": {
-    "kind": "one_time_committed_cache_v2",
-    "source_commit": "6ba5b5a598b88c696f9b5abc920bb535cc92f621"
+  "cache_plan": {
+    "changed_stages": [
+      "search",
+      "annotation"
+    ],
+    "copyable_stages": [
+      "search",
+      "retrieval",
+      "parsing"
+    ],
+    "has_cache_artifacts": true,
+    "has_previous_execution": true,
+    "recompute_stages": [
+      "abstract",
+      "fulltext",
+      "annotation",
+      "output"
+    ],
+    "schema_version": 2,
+    "source_output": "/home/zorro/repos/autonima-results/projects/social/v1-annotation-only-lc",
+    "stage_hashes": {
+      "abstract": "a8eb9b0dbc6a0fee2092b8027690642b683f6a91cc7b6420eabc969d6394b1a7",
+      "annotation": "97a0c56a60c2c22a2b66c7ccc8df4d4c624d4120694eb24e98047d58ebd31007",
+      "fulltext": "a8eb9b0dbc6a0fee2092b8027690642b683f6a91cc7b6420eabc969d6394b1a7",
+      "output": "bbf5c92866f2212de7ac9166fd29430aaa3828b57ff283f8d84b0d3747947b96",
+      "parsing": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+      "retrieval": "64bda84f6b0c7734897eea229565962a176ec8726981b4f1186d03df7685903c",
+      "search": "3bb01ae40cd285f88f42662aeee609a6b590d56ad19cbc56c280f31ec7f22ab3"
+    },
+    "stages": {
+      "abstract": {
+        "action": "recompute",
+        "artifact_is_modern": false,
+        "config_changed": false,
+        "copy_artifact": false,
+        "has_artifact": false,
+        "reason": "no cache artifact is available"
+      },
+      "annotation": {
+        "action": "recompute",
+        "artifact_is_modern": true,
+        "config_changed": true,
+        "copy_artifact": false,
+        "has_artifact": true,
+        "reason": "annotation configuration changed"
+      },
+      "fulltext": {
+        "action": "recompute",
+        "artifact_is_modern": false,
+        "config_changed": false,
+        "copy_artifact": false,
+        "has_artifact": false,
+        "reason": "no cache artifact is available"
+      },
+      "output": {
+        "action": "recompute",
+        "artifact_is_modern": false,
+        "config_changed": false,
+        "copy_artifact": false,
+        "has_artifact": true,
+        "reason": "derived outputs are regenerated"
+      },
+      "parsing": {
+        "action": "incremental",
+        "artifact_is_modern": true,
+        "config_changed": false,
+        "copy_artifact": true,
+        "has_artifact": true,
+        "reason": "signed entries will be validated against current inputs"
+      },
+      "retrieval": {
+        "action": "incremental",
+        "artifact_is_modern": true,
+        "config_changed": false,
+        "copy_artifact": true,
+        "has_artifact": true,
+        "reason": "retrieval cache is valid and missing texts will be fetched"
+      },
+      "search": {
+        "action": "incremental",
+        "artifact_is_modern": true,
+        "config_changed": true,
+        "copy_artifact": true,
+        "has_artifact": true,
+        "reason": "search changed; cached metadata will be matched by PMID"
+      }
+    },
+    "unsupported_cache": false,
+    "unverified_stages": []
   },
-  "parent_execution_id": null,
+  "cache_policy": "auto",
+  "changed_stages": [
+    "search",
+    "annotation"
+  ],
+  "completed_at": "2026-08-15T07:22:52.178610+00:00",
+  "completed_stage": "full",
+  "config_hash": "173bee4caa8369f0831c02bac438070205213788256715b0b2346377260fc01a",
+  "copied_cache": [],
+  "created_at": "2026-08-15T07:19:58.021296+00:00",
+  "executed_config_path": "/home/zorro/repos/autonima-results/projects/social/v1-annotation-only-lc/outputs/config.executed.yaml",
+  "execution_id": "d38820b1-f83f-424f-97c4-4cbb78873182",
+  "invalidated": [
+    {
+      "path": "/home/zorro/repos/autonima-results/projects/social/v1-annotation-only-lc/outputs/annotation_results.json",
+      "stage": "annotation"
+    },
+    {
+      "path": "/home/zorro/repos/autonima-results/projects/social/v1-annotation-only-lc/outputs/final_results.json",
+      "stage": "output"
+    },
+    {
+      "path": "/home/zorro/repos/autonima-results/projects/social/v1-annotation-only-lc/outputs/nimads_studyset.json",
+      "stage": "output"
+    },
+    {
+      "path": "/home/zorro/repos/autonima-results/projects/social/v1-annotation-only-lc/outputs/nimads_annotation.json",
+      "stage": "output"
+    }
+  ],
+  "parent_execution_id": "migration-a59695e0e3ada61b6da3e904",
   "schema_version": 2,
   "stage_hashes": {
     "abstract": "a8eb9b0dbc6a0fee2092b8027690642b683f6a91cc7b6420eabc969d6394b1a7",
-    "annotation": "b79de0d36a2e7aff70ede2d449076f55fbd43ee7f80f0dfdeabfb829456984b0",
+    "annotation": "97a0c56a60c2c22a2b66c7ccc8df4d4c624d4120694eb24e98047d58ebd31007",
     "fulltext": "a8eb9b0dbc6a0fee2092b8027690642b683f6a91cc7b6420eabc969d6394b1a7",
     "output": "bbf5c92866f2212de7ac9166fd29430aaa3828b57ff283f8d84b0d3747947b96",
     "parsing": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
     "retrieval": "64bda84f6b0c7734897eea229565962a176ec8726981b4f1186d03df7685903c",
-    "search": "37b14bff0acac3d796c496d30a81a4367f9902cb4e97c5d953aabe8e06ff6998"
+    "search": "3bb01ae40cd285f88f42662aeee609a6b590d56ad19cbc56c280f31ec7f22ab3"
   },
-  "started_at": "2026-08-13T13:46:54-05:00",
+  "started_at": "2026-08-15T07:19:58.021310+00:00",
   "status": "completed",
   "stop_after_stage": "full"
 }

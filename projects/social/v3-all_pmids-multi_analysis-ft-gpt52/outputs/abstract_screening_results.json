@@ -7,7 +7,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640468",
+      "timestamp": "2026-08-15T02:48:40.654123",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -25,7 +25,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640475",
+      "timestamp": "2026-08-15T02:48:40.654256",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -43,7 +43,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640479",
+      "timestamp": "2026-08-15T02:48:40.654375",
       "inclusion_criteria_applied": [
         "I1"
       ],
@@ -63,7 +63,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640482",
+      "timestamp": "2026-08-15T02:48:40.654495",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -81,7 +81,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640485",
+      "timestamp": "2026-08-15T02:48:40.654614",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -99,7 +99,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640488",
+      "timestamp": "2026-08-15T02:48:40.654727",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -117,7 +117,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640490",
+      "timestamp": "2026-08-15T02:48:40.654842",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -135,7 +135,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640498",
+      "timestamp": "2026-08-15T02:48:40.654966",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -153,7 +153,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640501",
+      "timestamp": "2026-08-15T02:48:40.655086",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -171,7 +171,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640503",
+      "timestamp": "2026-08-15T02:48:40.655200",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -189,7 +189,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640506",
+      "timestamp": "2026-08-15T02:48:40.655314",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -207,7 +207,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640508",
+      "timestamp": "2026-08-15T02:48:40.655429",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -225,7 +225,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640510",
+      "timestamp": "2026-08-15T02:48:40.655542",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -243,7 +243,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640512",
+      "timestamp": "2026-08-15T02:48:40.655660",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -261,7 +261,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640514",
+      "timestamp": "2026-08-15T02:48:40.655783",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -279,7 +279,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640516",
+      "timestamp": "2026-08-15T02:48:40.655898",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -297,7 +297,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640518",
+      "timestamp": "2026-08-15T02:48:40.656016",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -315,7 +315,7 @@
       "confidence": 0.93,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640520",
+      "timestamp": "2026-08-15T02:48:40.656142",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -333,7 +333,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640526",
+      "timestamp": "2026-08-15T02:48:40.656262",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -351,7 +351,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640529",
+      "timestamp": "2026-08-15T02:48:40.656384",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -369,7 +369,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640531",
+      "timestamp": "2026-08-15T02:48:40.656503",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -387,7 +387,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640533",
+      "timestamp": "2026-08-15T02:48:40.656624",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -405,7 +405,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640536",
+      "timestamp": "2026-08-15T02:48:40.656739",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -423,7 +423,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640539",
+      "timestamp": "2026-08-15T02:48:40.656852",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -441,7 +441,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640541",
+      "timestamp": "2026-08-15T02:48:40.656964",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -459,7 +459,7 @@
       "confidence": 0.6,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640543",
+      "timestamp": "2026-08-15T02:48:40.657076",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -477,7 +477,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640545",
+      "timestamp": "2026-08-15T02:48:40.657191",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -495,7 +495,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640547",
+      "timestamp": "2026-08-15T02:48:40.657302",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -513,7 +513,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640549",
+      "timestamp": "2026-08-15T02:48:40.657417",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -531,7 +531,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640551",
+      "timestamp": "2026-08-15T02:48:40.657533",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -549,7 +549,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640553",
+      "timestamp": "2026-08-15T02:48:40.657654",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -567,7 +567,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640555",
+      "timestamp": "2026-08-15T02:48:40.657770",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -585,7 +585,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640557",
+      "timestamp": "2026-08-15T02:48:40.657882",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -603,7 +603,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640559",
+      "timestamp": "2026-08-15T02:48:40.657993",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -621,7 +621,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640561",
+      "timestamp": "2026-08-15T02:48:40.658103",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -639,7 +639,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640563",
+      "timestamp": "2026-08-15T02:48:40.658216",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -657,7 +657,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640565",
+      "timestamp": "2026-08-15T02:48:40.658329",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -675,7 +675,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640567",
+      "timestamp": "2026-08-15T02:48:40.658446",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -693,7 +693,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640569",
+      "timestamp": "2026-08-15T02:48:40.658560",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -711,7 +711,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640572",
+      "timestamp": "2026-08-15T02:48:40.658676",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -729,7 +729,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640574",
+      "timestamp": "2026-08-15T02:48:40.658792",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -747,7 +747,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640576",
+      "timestamp": "2026-08-15T02:48:40.658906",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -765,7 +765,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640578",
+      "timestamp": "2026-08-15T02:48:40.659024",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -783,7 +783,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640580",
+      "timestamp": "2026-08-15T02:48:40.659140",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -801,7 +801,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640582",
+      "timestamp": "2026-08-15T02:48:40.659255",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -819,7 +819,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640584",
+      "timestamp": "2026-08-15T02:48:40.659374",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -837,7 +837,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640585",
+      "timestamp": "2026-08-15T02:48:40.659549",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -855,7 +855,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640587",
+      "timestamp": "2026-08-15T02:48:40.659670",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -873,7 +873,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640589",
+      "timestamp": "2026-08-15T02:48:40.659785",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -891,7 +891,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640592",
+      "timestamp": "2026-08-15T02:48:40.659906",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -909,7 +909,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640594",
+      "timestamp": "2026-08-15T02:48:40.660015",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -927,7 +927,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640596",
+      "timestamp": "2026-08-15T02:48:40.660129",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -945,7 +945,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640597",
+      "timestamp": "2026-08-15T02:48:40.660238",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -963,7 +963,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640600",
+      "timestamp": "2026-08-15T02:48:40.660349",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -981,7 +981,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640602",
+      "timestamp": "2026-08-15T02:48:40.660462",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -999,7 +999,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640604",
+      "timestamp": "2026-08-15T02:48:40.660572",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1017,7 +1017,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640606",
+      "timestamp": "2026-08-15T02:48:40.660691",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1035,7 +1035,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640608",
+      "timestamp": "2026-08-15T02:48:40.660804",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1053,7 +1053,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640609",
+      "timestamp": "2026-08-15T02:48:40.660917",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1071,7 +1071,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640611",
+      "timestamp": "2026-08-15T02:48:40.661034",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1089,7 +1089,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640613",
+      "timestamp": "2026-08-15T02:48:40.661146",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1107,7 +1107,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640617",
+      "timestamp": "2026-08-15T02:48:40.661258",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1125,7 +1125,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640619",
+      "timestamp": "2026-08-15T02:48:40.661373",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1143,7 +1143,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640621",
+      "timestamp": "2026-08-15T02:48:40.661485",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1161,7 +1161,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640624",
+      "timestamp": "2026-08-15T02:48:40.661600",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1179,7 +1179,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640629",
+      "timestamp": "2026-08-15T02:48:40.661717",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1197,7 +1197,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640631",
+      "timestamp": "2026-08-15T02:48:40.661831",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1215,7 +1215,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640633",
+      "timestamp": "2026-08-15T02:48:40.661944",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1233,7 +1233,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640635",
+      "timestamp": "2026-08-15T02:48:40.662058",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1251,7 +1251,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640637",
+      "timestamp": "2026-08-15T02:48:40.662167",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1269,7 +1269,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640639",
+      "timestamp": "2026-08-15T02:48:40.662277",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1287,7 +1287,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640641",
+      "timestamp": "2026-08-15T02:48:40.662394",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1305,7 +1305,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640643",
+      "timestamp": "2026-08-15T02:48:40.662506",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1323,7 +1323,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640645",
+      "timestamp": "2026-08-15T02:48:40.662623",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1341,7 +1341,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640647",
+      "timestamp": "2026-08-15T02:48:40.662738",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1359,7 +1359,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640649",
+      "timestamp": "2026-08-15T02:48:40.662850",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1377,7 +1377,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640650",
+      "timestamp": "2026-08-15T02:48:40.662959",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1395,7 +1395,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640653",
+      "timestamp": "2026-08-15T02:48:40.663075",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1413,7 +1413,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640655",
+      "timestamp": "2026-08-15T02:48:40.663180",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1431,7 +1431,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640656",
+      "timestamp": "2026-08-15T02:48:40.663293",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1449,7 +1449,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640658",
+      "timestamp": "2026-08-15T02:48:40.663406",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1467,7 +1467,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640660",
+      "timestamp": "2026-08-15T02:48:40.663517",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1485,7 +1485,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640664",
+      "timestamp": "2026-08-15T02:48:40.663633",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1503,7 +1503,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640666",
+      "timestamp": "2026-08-15T02:48:40.663748",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1521,7 +1521,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640668",
+      "timestamp": "2026-08-15T02:48:40.663862",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1539,7 +1539,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640669",
+      "timestamp": "2026-08-15T02:48:40.663977",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1557,7 +1557,7 @@
       "confidence": 0.65,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640671",
+      "timestamp": "2026-08-15T02:48:40.664092",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1575,7 +1575,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640673",
+      "timestamp": "2026-08-15T02:48:40.664205",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1593,7 +1593,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640675",
+      "timestamp": "2026-08-15T02:48:40.664319",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1611,7 +1611,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640676",
+      "timestamp": "2026-08-15T02:48:40.664433",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1629,7 +1629,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640678",
+      "timestamp": "2026-08-15T02:48:40.664544",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1647,7 +1647,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640680",
+      "timestamp": "2026-08-15T02:48:40.664664",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1665,7 +1665,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640682",
+      "timestamp": "2026-08-15T02:48:40.664785",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1683,7 +1683,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640684",
+      "timestamp": "2026-08-15T02:48:40.664902",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1701,7 +1701,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640686",
+      "timestamp": "2026-08-15T02:48:40.665013",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1719,7 +1719,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640688",
+      "timestamp": "2026-08-15T02:48:40.665124",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1737,7 +1737,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640690",
+      "timestamp": "2026-08-15T02:48:40.665240",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1755,7 +1755,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640692",
+      "timestamp": "2026-08-15T02:48:40.665356",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1773,7 +1773,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640694",
+      "timestamp": "2026-08-15T02:48:40.665461",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1791,7 +1791,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640696",
+      "timestamp": "2026-08-15T02:48:40.665568",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1809,7 +1809,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640698",
+      "timestamp": "2026-08-15T02:48:40.665682",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1827,7 +1827,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640699",
+      "timestamp": "2026-08-15T02:48:40.665792",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1845,7 +1845,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640701",
+      "timestamp": "2026-08-15T02:48:40.665911",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1863,7 +1863,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640705",
+      "timestamp": "2026-08-15T02:48:40.666015",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1881,7 +1881,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640707",
+      "timestamp": "2026-08-15T02:48:40.666130",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1899,7 +1899,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640709",
+      "timestamp": "2026-08-15T02:48:40.666241",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1917,7 +1917,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640710",
+      "timestamp": "2026-08-15T02:48:40.666354",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1935,7 +1935,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640713",
+      "timestamp": "2026-08-15T02:48:40.666465",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1953,7 +1953,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640715",
+      "timestamp": "2026-08-15T02:48:40.666576",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1971,7 +1971,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640717",
+      "timestamp": "2026-08-15T02:48:40.666693",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -1989,7 +1989,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640719",
+      "timestamp": "2026-08-15T02:48:40.666808",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2007,7 +2007,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640721",
+      "timestamp": "2026-08-15T02:48:40.666921",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2025,7 +2025,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640723",
+      "timestamp": "2026-08-15T02:48:40.667033",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2043,7 +2043,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640725",
+      "timestamp": "2026-08-15T02:48:40.667147",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2061,7 +2061,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640727",
+      "timestamp": "2026-08-15T02:48:40.667260",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2079,7 +2079,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640729",
+      "timestamp": "2026-08-15T02:48:40.667373",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2097,7 +2097,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640731",
+      "timestamp": "2026-08-15T02:48:40.667484",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2115,7 +2115,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640733",
+      "timestamp": "2026-08-15T02:48:40.667604",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2133,7 +2133,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640739",
+      "timestamp": "2026-08-15T02:48:40.667716",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2151,7 +2151,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640813",
+      "timestamp": "2026-08-15T02:48:40.667835",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2169,7 +2169,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640815",
+      "timestamp": "2026-08-15T02:48:40.667949",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2187,7 +2187,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640817",
+      "timestamp": "2026-08-15T02:48:40.668055",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2205,7 +2205,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640819",
+      "timestamp": "2026-08-15T02:48:40.668170",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2223,7 +2223,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640821",
+      "timestamp": "2026-08-15T02:48:40.668283",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2241,7 +2241,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640826",
+      "timestamp": "2026-08-15T02:48:40.668395",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2259,7 +2259,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640828",
+      "timestamp": "2026-08-15T02:48:40.668506",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2277,7 +2277,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640830",
+      "timestamp": "2026-08-15T02:48:40.668619",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2295,7 +2295,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640833",
+      "timestamp": "2026-08-15T02:48:40.668738",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2313,7 +2313,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640835",
+      "timestamp": "2026-08-15T02:48:40.668849",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2331,7 +2331,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640837",
+      "timestamp": "2026-08-15T02:48:40.668959",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2349,7 +2349,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640839",
+      "timestamp": "2026-08-15T02:48:40.669072",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2367,7 +2367,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640841",
+      "timestamp": "2026-08-15T02:48:40.669182",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2385,7 +2385,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640843",
+      "timestamp": "2026-08-15T02:48:40.669297",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2403,7 +2403,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640845",
+      "timestamp": "2026-08-15T02:48:40.669411",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2421,7 +2421,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640847",
+      "timestamp": "2026-08-15T02:48:40.669522",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2439,7 +2439,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640848",
+      "timestamp": "2026-08-15T02:48:40.669643",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2457,7 +2457,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640850",
+      "timestamp": "2026-08-15T02:48:40.669763",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2475,7 +2475,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640852",
+      "timestamp": "2026-08-15T02:48:40.669876",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2493,7 +2493,7 @@
       "confidence": 0.65,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640854",
+      "timestamp": "2026-08-15T02:48:40.669987",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2511,7 +2511,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640856",
+      "timestamp": "2026-08-15T02:48:40.670098",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2529,7 +2529,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640858",
+      "timestamp": "2026-08-15T02:48:40.670213",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2547,7 +2547,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640859",
+      "timestamp": "2026-08-15T02:48:40.670331",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2565,7 +2565,7 @@
       "confidence": 0.86,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640861",
+      "timestamp": "2026-08-15T02:48:40.670444",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2583,7 +2583,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640863",
+      "timestamp": "2026-08-15T02:48:40.670557",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2601,7 +2601,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640865",
+      "timestamp": "2026-08-15T02:48:40.670675",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2619,7 +2619,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640867",
+      "timestamp": "2026-08-15T02:48:40.670798",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2637,7 +2637,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640870",
+      "timestamp": "2026-08-15T02:48:40.670918",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2655,7 +2655,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640872",
+      "timestamp": "2026-08-15T02:48:40.671034",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2673,7 +2673,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640874",
+      "timestamp": "2026-08-15T02:48:40.671149",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2691,7 +2691,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640880",
+      "timestamp": "2026-08-15T02:48:40.671261",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2709,7 +2709,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640882",
+      "timestamp": "2026-08-15T02:48:40.671377",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2727,7 +2727,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640884",
+      "timestamp": "2026-08-15T02:48:40.671490",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2745,7 +2745,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640886",
+      "timestamp": "2026-08-15T02:48:40.671609",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2763,7 +2763,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640888",
+      "timestamp": "2026-08-15T02:48:40.671720",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2781,7 +2781,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640889",
+      "timestamp": "2026-08-15T02:48:40.671833",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2799,7 +2799,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640891",
+      "timestamp": "2026-08-15T02:48:40.671947",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2817,7 +2817,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640893",
+      "timestamp": "2026-08-15T02:48:40.672061",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2835,7 +2835,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640895",
+      "timestamp": "2026-08-15T02:48:40.672174",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2853,7 +2853,7 @@
       "confidence": 0.6,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640914",
+      "timestamp": "2026-08-15T02:48:40.672285",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2871,7 +2871,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640916",
+      "timestamp": "2026-08-15T02:48:40.672398",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2889,7 +2889,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640918",
+      "timestamp": "2026-08-15T02:48:40.672513",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2907,7 +2907,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640920",
+      "timestamp": "2026-08-15T02:48:40.672651",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2925,7 +2925,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640922",
+      "timestamp": "2026-08-15T02:48:40.672766",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2943,7 +2943,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640924",
+      "timestamp": "2026-08-15T02:48:40.672875",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2961,7 +2961,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640925",
+      "timestamp": "2026-08-15T02:48:40.672993",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2979,7 +2979,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640927",
+      "timestamp": "2026-08-15T02:48:40.673111",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -2997,7 +2997,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640929",
+      "timestamp": "2026-08-15T02:48:40.673229",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3015,7 +3015,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640932",
+      "timestamp": "2026-08-15T02:48:40.673339",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3033,7 +3033,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640934",
+      "timestamp": "2026-08-15T02:48:40.673451",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3051,7 +3051,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640936",
+      "timestamp": "2026-08-15T02:48:40.673561",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3069,7 +3069,7 @@
       "confidence": 0.65,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640938",
+      "timestamp": "2026-08-15T02:48:40.673679",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3087,7 +3087,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640940",
+      "timestamp": "2026-08-15T02:48:40.673793",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3105,7 +3105,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640942",
+      "timestamp": "2026-08-15T02:48:40.673904",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3123,7 +3123,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640944",
+      "timestamp": "2026-08-15T02:48:40.674020",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3141,7 +3141,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640946",
+      "timestamp": "2026-08-15T02:48:40.674132",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3159,7 +3159,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640948",
+      "timestamp": "2026-08-15T02:48:40.674241",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3177,7 +3177,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640950",
+      "timestamp": "2026-08-15T02:48:40.674355",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3195,7 +3195,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640952",
+      "timestamp": "2026-08-15T02:48:40.674470",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3213,7 +3213,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640954",
+      "timestamp": "2026-08-15T02:48:40.674586",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3231,7 +3231,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640956",
+      "timestamp": "2026-08-15T02:48:40.674705",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3249,7 +3249,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640958",
+      "timestamp": "2026-08-15T02:48:40.674820",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3267,7 +3267,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640960",
+      "timestamp": "2026-08-15T02:48:40.674934",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3285,7 +3285,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640962",
+      "timestamp": "2026-08-15T02:48:40.675055",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3303,7 +3303,7 @@
       "confidence": 0.65,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640963",
+      "timestamp": "2026-08-15T02:48:40.675158",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3321,7 +3321,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640965",
+      "timestamp": "2026-08-15T02:48:40.675275",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3339,7 +3339,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640967",
+      "timestamp": "2026-08-15T02:48:40.675390",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3357,7 +3357,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640969",
+      "timestamp": "2026-08-15T02:48:40.675505",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3375,7 +3375,7 @@
       "confidence": 0.6,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640971",
+      "timestamp": "2026-08-15T02:48:40.675623",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3393,7 +3393,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640974",
+      "timestamp": "2026-08-15T02:48:40.675740",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3411,7 +3411,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640976",
+      "timestamp": "2026-08-15T02:48:40.675850",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3429,7 +3429,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640978",
+      "timestamp": "2026-08-15T02:48:40.675965",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3447,7 +3447,7 @@
       "confidence": 0.6,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640980",
+      "timestamp": "2026-08-15T02:48:40.676088",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3465,7 +3465,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640983",
+      "timestamp": "2026-08-15T02:48:40.676201",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3483,7 +3483,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640985",
+      "timestamp": "2026-08-15T02:48:40.676315",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3501,7 +3501,7 @@
       "confidence": 0.35,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640987",
+      "timestamp": "2026-08-15T02:48:40.676427",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3519,7 +3519,7 @@
       "confidence": 0.98,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640988",
+      "timestamp": "2026-08-15T02:48:40.676543",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3537,7 +3537,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640991",
+      "timestamp": "2026-08-15T02:48:40.676662",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3555,7 +3555,7 @@
       "confidence": 0.4,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640992",
+      "timestamp": "2026-08-15T02:48:40.676769",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3573,7 +3573,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640995",
+      "timestamp": "2026-08-15T02:48:40.676884",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3591,7 +3591,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640996",
+      "timestamp": "2026-08-15T02:48:40.676999",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3609,7 +3609,7 @@
       "confidence": 0.6,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.640998",
+      "timestamp": "2026-08-15T02:48:40.677104",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3627,7 +3627,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641000",
+      "timestamp": "2026-08-15T02:48:40.677218",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3645,7 +3645,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641002",
+      "timestamp": "2026-08-15T02:48:40.677330",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3663,7 +3663,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641004",
+      "timestamp": "2026-08-15T02:48:40.677444",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3681,7 +3681,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641005",
+      "timestamp": "2026-08-15T02:48:40.677553",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3699,7 +3699,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641007",
+      "timestamp": "2026-08-15T02:48:40.677677",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3717,7 +3717,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641009",
+      "timestamp": "2026-08-15T02:48:40.677790",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3735,7 +3735,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641011",
+      "timestamp": "2026-08-15T02:48:40.677902",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3753,7 +3753,7 @@
       "confidence": 0.78,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641013",
+      "timestamp": "2026-08-15T02:48:40.678014",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3771,7 +3771,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641016",
+      "timestamp": "2026-08-15T02:48:40.678130",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3789,7 +3789,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641018",
+      "timestamp": "2026-08-15T02:48:40.678244",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3807,7 +3807,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641020",
+      "timestamp": "2026-08-15T02:48:40.678356",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3825,7 +3825,7 @@
       "confidence": 0.65,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641022",
+      "timestamp": "2026-08-15T02:48:40.678468",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3843,7 +3843,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641024",
+      "timestamp": "2026-08-15T02:48:40.678581",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3861,7 +3861,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641026",
+      "timestamp": "2026-08-15T02:48:40.678698",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3879,7 +3879,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641027",
+      "timestamp": "2026-08-15T02:48:40.678815",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3897,7 +3897,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641030",
+      "timestamp": "2026-08-15T02:48:40.678928",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3915,7 +3915,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641031",
+      "timestamp": "2026-08-15T02:48:40.679042",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3933,7 +3933,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641033",
+      "timestamp": "2026-08-15T02:48:40.679156",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3951,7 +3951,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641035",
+      "timestamp": "2026-08-15T02:48:40.679272",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3969,7 +3969,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641037",
+      "timestamp": "2026-08-15T02:48:40.679396",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -3987,7 +3987,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641038",
+      "timestamp": "2026-08-15T02:48:40.679510",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4005,7 +4005,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641040",
+      "timestamp": "2026-08-15T02:48:40.679629",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4023,7 +4023,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641042",
+      "timestamp": "2026-08-15T02:48:40.679748",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4041,7 +4041,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641044",
+      "timestamp": "2026-08-15T02:48:40.679864",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4059,7 +4059,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641046",
+      "timestamp": "2026-08-15T02:48:40.679979",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4077,7 +4077,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641048",
+      "timestamp": "2026-08-15T02:48:40.680094",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4095,7 +4095,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641050",
+      "timestamp": "2026-08-15T02:48:40.680203",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4113,7 +4113,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641052",
+      "timestamp": "2026-08-15T02:48:40.680316",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4131,7 +4131,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641054",
+      "timestamp": "2026-08-15T02:48:40.680437",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4149,7 +4149,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641056",
+      "timestamp": "2026-08-15T02:48:40.680552",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4167,7 +4167,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641059",
+      "timestamp": "2026-08-15T02:48:40.680674",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4185,7 +4185,7 @@
       "confidence": 0.72,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641061",
+      "timestamp": "2026-08-15T02:48:40.680787",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4203,7 +4203,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641063",
+      "timestamp": "2026-08-15T02:48:40.680899",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4221,7 +4221,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641065",
+      "timestamp": "2026-08-15T02:48:40.681014",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4239,7 +4239,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641069",
+      "timestamp": "2026-08-15T02:48:40.681131",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4257,7 +4257,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641074",
+      "timestamp": "2026-08-15T02:48:40.681248",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4275,7 +4275,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641076",
+      "timestamp": "2026-08-15T02:48:40.681361",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4293,7 +4293,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641077",
+      "timestamp": "2026-08-15T02:48:40.681475",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4311,7 +4311,7 @@
       "confidence": 0.65,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641079",
+      "timestamp": "2026-08-15T02:48:40.681588",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4329,7 +4329,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641081",
+      "timestamp": "2026-08-15T02:48:40.681706",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4347,7 +4347,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641083",
+      "timestamp": "2026-08-15T02:48:40.681818",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4365,7 +4365,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641085",
+      "timestamp": "2026-08-15T02:48:40.681932",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4383,7 +4383,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641087",
+      "timestamp": "2026-08-15T02:48:40.682047",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4401,7 +4401,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641089",
+      "timestamp": "2026-08-15T02:48:40.682160",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4419,7 +4419,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641090",
+      "timestamp": "2026-08-15T02:48:40.682274",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4437,7 +4437,7 @@
       "confidence": 0.65,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641092",
+      "timestamp": "2026-08-15T02:48:40.682388",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4455,7 +4455,7 @@
       "confidence": 0.3,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641094",
+      "timestamp": "2026-08-15T02:48:40.682500",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4473,7 +4473,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641096",
+      "timestamp": "2026-08-15T02:48:40.682614",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4491,7 +4491,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641098",
+      "timestamp": "2026-08-15T02:48:40.682736",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4509,7 +4509,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641099",
+      "timestamp": "2026-08-15T02:48:40.682851",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4527,7 +4527,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641101",
+      "timestamp": "2026-08-15T02:48:40.682962",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4545,7 +4545,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641105",
+      "timestamp": "2026-08-15T02:48:40.683074",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4563,7 +4563,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641106",
+      "timestamp": "2026-08-15T02:48:40.683186",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4581,7 +4581,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641109",
+      "timestamp": "2026-08-15T02:48:40.683299",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4599,7 +4599,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641111",
+      "timestamp": "2026-08-15T02:48:40.683420",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4617,7 +4617,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641112",
+      "timestamp": "2026-08-15T02:48:40.683534",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4635,7 +4635,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641114",
+      "timestamp": "2026-08-15T02:48:40.683651",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4653,7 +4653,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641116",
+      "timestamp": "2026-08-15T02:48:40.683767",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4671,7 +4671,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641118",
+      "timestamp": "2026-08-15T02:48:40.683884",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4689,7 +4689,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641120",
+      "timestamp": "2026-08-15T02:48:40.683993",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4707,7 +4707,7 @@
       "confidence": 0.65,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641122",
+      "timestamp": "2026-08-15T02:48:40.684107",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4725,7 +4725,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641124",
+      "timestamp": "2026-08-15T02:48:40.684224",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4743,7 +4743,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641126",
+      "timestamp": "2026-08-15T02:48:40.684344",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4761,7 +4761,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641128",
+      "timestamp": "2026-08-15T02:48:40.684450",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4779,7 +4779,7 @@
       "confidence": 0.65,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641130",
+      "timestamp": "2026-08-15T02:48:40.684556",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4797,7 +4797,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641131",
+      "timestamp": "2026-08-15T02:48:40.684674",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4815,7 +4815,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641133",
+      "timestamp": "2026-08-15T02:48:40.684788",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4833,7 +4833,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641135",
+      "timestamp": "2026-08-15T02:48:40.684900",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4851,7 +4851,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641137",
+      "timestamp": "2026-08-15T02:48:40.685012",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4869,7 +4869,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641139",
+      "timestamp": "2026-08-15T02:48:40.685127",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4887,7 +4887,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641140",
+      "timestamp": "2026-08-15T02:48:40.685241",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4905,7 +4905,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641142",
+      "timestamp": "2026-08-15T02:48:40.685354",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4923,7 +4923,7 @@
       "confidence": 0.65,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641145",
+      "timestamp": "2026-08-15T02:48:40.685469",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4941,7 +4941,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641148",
+      "timestamp": "2026-08-15T02:48:40.685581",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4959,7 +4959,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641150",
+      "timestamp": "2026-08-15T02:48:40.685697",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4977,7 +4977,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641151",
+      "timestamp": "2026-08-15T02:48:40.685813",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -4995,7 +4995,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641154",
+      "timestamp": "2026-08-15T02:48:40.685946",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5013,7 +5013,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641156",
+      "timestamp": "2026-08-15T02:48:40.686061",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5031,7 +5031,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641158",
+      "timestamp": "2026-08-15T02:48:40.686176",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5049,7 +5049,7 @@
       "confidence": 0.93,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641160",
+      "timestamp": "2026-08-15T02:48:40.686291",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5067,7 +5067,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641162",
+      "timestamp": "2026-08-15T02:48:40.686409",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5085,7 +5085,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641164",
+      "timestamp": "2026-08-15T02:48:40.686521",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5103,7 +5103,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641165",
+      "timestamp": "2026-08-15T02:48:40.686639",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5121,7 +5121,7 @@
       "confidence": 0.65,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641167",
+      "timestamp": "2026-08-15T02:48:40.686751",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5139,7 +5139,7 @@
       "confidence": 0.6,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641169",
+      "timestamp": "2026-08-15T02:48:40.686864",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5157,7 +5157,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641171",
+      "timestamp": "2026-08-15T02:48:40.686977",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5175,7 +5175,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641173",
+      "timestamp": "2026-08-15T02:48:40.687091",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5193,7 +5193,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641175",
+      "timestamp": "2026-08-15T02:48:40.687211",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5211,7 +5211,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641177",
+      "timestamp": "2026-08-15T02:48:40.687328",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5229,7 +5229,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641178",
+      "timestamp": "2026-08-15T02:48:40.687440",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5247,7 +5247,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641180",
+      "timestamp": "2026-08-15T02:48:40.687556",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5265,7 +5265,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641182",
+      "timestamp": "2026-08-15T02:48:40.687677",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5283,7 +5283,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641184",
+      "timestamp": "2026-08-15T02:48:40.687788",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5301,7 +5301,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641187",
+      "timestamp": "2026-08-15T02:48:40.687901",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5319,7 +5319,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641189",
+      "timestamp": "2026-08-15T02:48:40.688016",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5337,7 +5337,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641191",
+      "timestamp": "2026-08-15T02:48:40.688128",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5355,7 +5355,7 @@
       "confidence": 0.6,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641193",
+      "timestamp": "2026-08-15T02:48:40.688243",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5373,7 +5373,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641195",
+      "timestamp": "2026-08-15T02:48:40.688364",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5391,7 +5391,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641197",
+      "timestamp": "2026-08-15T02:48:40.688477",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5409,7 +5409,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641199",
+      "timestamp": "2026-08-15T02:48:40.688590",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5427,7 +5427,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641200",
+      "timestamp": "2026-08-15T02:48:40.688710",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5445,7 +5445,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641202",
+      "timestamp": "2026-08-15T02:48:40.688825",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5463,7 +5463,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641204",
+      "timestamp": "2026-08-15T02:48:40.688940",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5481,7 +5481,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641206",
+      "timestamp": "2026-08-15T02:48:40.689047",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5499,7 +5499,7 @@
       "confidence": 0.65,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641208",
+      "timestamp": "2026-08-15T02:48:40.689168",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5517,7 +5517,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641210",
+      "timestamp": "2026-08-15T02:48:40.689285",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5535,7 +5535,7 @@
       "confidence": 0.65,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641211",
+      "timestamp": "2026-08-15T02:48:40.689400",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5553,7 +5553,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641213",
+      "timestamp": "2026-08-15T02:48:40.689512",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5571,7 +5571,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641215",
+      "timestamp": "2026-08-15T02:48:40.689629",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5589,7 +5589,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641217",
+      "timestamp": "2026-08-15T02:48:40.689743",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5607,7 +5607,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641219",
+      "timestamp": "2026-08-15T02:48:40.689850",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5625,7 +5625,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641221",
+      "timestamp": "2026-08-15T02:48:40.689967",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5643,7 +5643,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641222",
+      "timestamp": "2026-08-15T02:48:40.690081",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5661,7 +5661,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641224",
+      "timestamp": "2026-08-15T02:48:40.690199",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5679,7 +5679,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641226",
+      "timestamp": "2026-08-15T02:48:40.690312",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5697,7 +5697,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641229",
+      "timestamp": "2026-08-15T02:48:40.690426",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5715,7 +5715,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641231",
+      "timestamp": "2026-08-15T02:48:40.690539",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5733,7 +5733,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641233",
+      "timestamp": "2026-08-15T02:48:40.690658",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5751,7 +5751,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641237",
+      "timestamp": "2026-08-15T02:48:40.690774",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5769,7 +5769,7 @@
       "confidence": 0.45,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641239",
+      "timestamp": "2026-08-15T02:48:40.690888",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5787,7 +5787,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641241",
+      "timestamp": "2026-08-15T02:48:40.691003",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5805,7 +5805,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641243",
+      "timestamp": "2026-08-15T02:48:40.691118",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5823,7 +5823,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641245",
+      "timestamp": "2026-08-15T02:48:40.691230",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5841,7 +5841,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641247",
+      "timestamp": "2026-08-15T02:48:40.691349",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5859,7 +5859,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641248",
+      "timestamp": "2026-08-15T02:48:40.691462",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5877,7 +5877,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641250",
+      "timestamp": "2026-08-15T02:48:40.691571",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5895,7 +5895,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641252",
+      "timestamp": "2026-08-15T02:48:40.691692",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5913,7 +5913,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641254",
+      "timestamp": "2026-08-15T02:48:40.691803",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5931,7 +5931,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641256",
+      "timestamp": "2026-08-15T02:48:40.691916",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5949,7 +5949,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641258",
+      "timestamp": "2026-08-15T02:48:40.692027",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5967,7 +5967,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641260",
+      "timestamp": "2026-08-15T02:48:40.692144",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -5985,7 +5985,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641261",
+      "timestamp": "2026-08-15T02:48:40.692260",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6003,7 +6003,7 @@
       "confidence": 0.65,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641263",
+      "timestamp": "2026-08-15T02:48:40.692382",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6021,7 +6021,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641265",
+      "timestamp": "2026-08-15T02:48:40.692495",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6039,7 +6039,7 @@
       "confidence": 0.6,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641267",
+      "timestamp": "2026-08-15T02:48:40.692607",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6057,7 +6057,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641269",
+      "timestamp": "2026-08-15T02:48:40.692720",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6075,7 +6075,7 @@
       "confidence": 0.65,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641272",
+      "timestamp": "2026-08-15T02:48:40.692830",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6093,7 +6093,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641274",
+      "timestamp": "2026-08-15T02:48:40.692944",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6111,7 +6111,7 @@
       "confidence": 0.35,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641276",
+      "timestamp": "2026-08-15T02:48:40.693052",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6129,7 +6129,7 @@
       "confidence": 0.74,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641278",
+      "timestamp": "2026-08-15T02:48:40.693170",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6147,7 +6147,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641280",
+      "timestamp": "2026-08-15T02:48:40.693282",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6165,7 +6165,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641282",
+      "timestamp": "2026-08-15T02:48:40.693395",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6183,7 +6183,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641284",
+      "timestamp": "2026-08-15T02:48:40.693511",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6201,7 +6201,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641285",
+      "timestamp": "2026-08-15T02:48:40.693634",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6219,7 +6219,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641287",
+      "timestamp": "2026-08-15T02:48:40.693753",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6237,7 +6237,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641289",
+      "timestamp": "2026-08-15T02:48:40.693870",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6255,7 +6255,7 @@
       "confidence": 1.0,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641291",
+      "timestamp": "2026-08-15T02:48:40.693978",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6273,7 +6273,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641293",
+      "timestamp": "2026-08-15T02:48:40.694089",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6291,7 +6291,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641295",
+      "timestamp": "2026-08-15T02:48:40.694204",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6309,7 +6309,7 @@
       "confidence": 0.99,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641297",
+      "timestamp": "2026-08-15T02:48:40.694324",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6327,7 +6327,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641298",
+      "timestamp": "2026-08-15T02:48:40.694434",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6345,7 +6345,7 @@
       "confidence": 0.45,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641300",
+      "timestamp": "2026-08-15T02:48:40.694540",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6363,7 +6363,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641329",
+      "timestamp": "2026-08-15T02:48:40.694657",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6381,7 +6381,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641332",
+      "timestamp": "2026-08-15T02:48:40.694766",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6399,7 +6399,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641334",
+      "timestamp": "2026-08-15T02:48:40.694877",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6417,7 +6417,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641336",
+      "timestamp": "2026-08-15T02:48:40.694991",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6435,7 +6435,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641338",
+      "timestamp": "2026-08-15T02:48:40.695106",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6453,7 +6453,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641341",
+      "timestamp": "2026-08-15T02:48:40.695223",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6471,7 +6471,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641343",
+      "timestamp": "2026-08-15T02:48:40.695338",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6489,7 +6489,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641345",
+      "timestamp": "2026-08-15T02:48:40.695451",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6507,7 +6507,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641347",
+      "timestamp": "2026-08-15T02:48:40.695569",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6525,7 +6525,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641350",
+      "timestamp": "2026-08-15T02:48:40.695683",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6543,7 +6543,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641352",
+      "timestamp": "2026-08-15T02:48:40.695798",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6561,7 +6561,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641354",
+      "timestamp": "2026-08-15T02:48:40.695911",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6579,7 +6579,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641356",
+      "timestamp": "2026-08-15T02:48:40.696029",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6597,7 +6597,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641359",
+      "timestamp": "2026-08-15T02:48:40.696143",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6615,7 +6615,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641361",
+      "timestamp": "2026-08-15T02:48:40.696259",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6633,7 +6633,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641363",
+      "timestamp": "2026-08-15T02:48:40.696371",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6651,7 +6651,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641364",
+      "timestamp": "2026-08-15T02:48:40.696486",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6669,7 +6669,7 @@
       "confidence": 0.93,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641366",
+      "timestamp": "2026-08-15T02:48:40.696605",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6687,7 +6687,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641368",
+      "timestamp": "2026-08-15T02:48:40.696711",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6705,7 +6705,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641370",
+      "timestamp": "2026-08-15T02:48:40.696831",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6723,7 +6723,7 @@
       "confidence": 0.99,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641372",
+      "timestamp": "2026-08-15T02:48:40.696942",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6741,7 +6741,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641374",
+      "timestamp": "2026-08-15T02:48:40.697052",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6759,7 +6759,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641376",
+      "timestamp": "2026-08-15T02:48:40.697157",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6777,7 +6777,7 @@
       "confidence": 0.93,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641378",
+      "timestamp": "2026-08-15T02:48:40.697269",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6795,7 +6795,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641379",
+      "timestamp": "2026-08-15T02:48:40.697382",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6813,7 +6813,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641381",
+      "timestamp": "2026-08-15T02:48:40.697495",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6831,7 +6831,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641385",
+      "timestamp": "2026-08-15T02:48:40.697618",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6849,7 +6849,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641387",
+      "timestamp": "2026-08-15T02:48:40.697734",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6867,7 +6867,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641389",
+      "timestamp": "2026-08-15T02:48:40.697848",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6885,7 +6885,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641391",
+      "timestamp": "2026-08-15T02:48:40.697960",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6903,7 +6903,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641393",
+      "timestamp": "2026-08-15T02:48:40.698078",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6921,7 +6921,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641394",
+      "timestamp": "2026-08-15T02:48:40.698190",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6939,7 +6939,7 @@
       "confidence": 0.62,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641397",
+      "timestamp": "2026-08-15T02:48:40.698301",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6957,7 +6957,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641398",
+      "timestamp": "2026-08-15T02:48:40.698414",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6975,7 +6975,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641400",
+      "timestamp": "2026-08-15T02:48:40.698527",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -6993,7 +6993,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641402",
+      "timestamp": "2026-08-15T02:48:40.698645",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7011,7 +7011,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641404",
+      "timestamp": "2026-08-15T02:48:40.698766",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7029,7 +7029,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641406",
+      "timestamp": "2026-08-15T02:48:40.698885",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7047,7 +7047,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641408",
+      "timestamp": "2026-08-15T02:48:40.698996",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7065,7 +7065,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641410",
+      "timestamp": "2026-08-15T02:48:40.699130",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7083,7 +7083,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641412",
+      "timestamp": "2026-08-15T02:48:40.699246",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7101,7 +7101,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641414",
+      "timestamp": "2026-08-15T02:48:40.699357",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7119,7 +7119,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641416",
+      "timestamp": "2026-08-15T02:48:40.699467",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7137,7 +7137,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641417",
+      "timestamp": "2026-08-15T02:48:40.699578",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7155,7 +7155,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641419",
+      "timestamp": "2026-08-15T02:48:40.699701",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7173,7 +7173,7 @@
       "confidence": 0.72,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641422",
+      "timestamp": "2026-08-15T02:48:40.699814",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7191,7 +7191,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641424",
+      "timestamp": "2026-08-15T02:48:40.699927",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7209,7 +7209,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641426",
+      "timestamp": "2026-08-15T02:48:40.700041",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7227,7 +7227,7 @@
       "confidence": 0.72,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641429",
+      "timestamp": "2026-08-15T02:48:40.700153",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7245,7 +7245,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641431",
+      "timestamp": "2026-08-15T02:48:40.700268",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7263,7 +7263,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641433",
+      "timestamp": "2026-08-15T02:48:40.700381",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7281,7 +7281,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641436",
+      "timestamp": "2026-08-15T02:48:40.700495",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7299,7 +7299,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641439",
+      "timestamp": "2026-08-15T02:48:40.700618",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7317,7 +7317,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641441",
+      "timestamp": "2026-08-15T02:48:40.700733",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7335,7 +7335,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641443",
+      "timestamp": "2026-08-15T02:48:40.700848",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7353,7 +7353,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641445",
+      "timestamp": "2026-08-15T02:48:40.700962",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7371,7 +7371,7 @@
       "confidence": 0.78,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641447",
+      "timestamp": "2026-08-15T02:48:40.701074",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7389,7 +7389,7 @@
       "confidence": 0.6,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641449",
+      "timestamp": "2026-08-15T02:48:40.701189",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7407,7 +7407,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641451",
+      "timestamp": "2026-08-15T02:48:40.701306",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7425,7 +7425,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641453",
+      "timestamp": "2026-08-15T02:48:40.701421",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7443,7 +7443,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641455",
+      "timestamp": "2026-08-15T02:48:40.701534",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7461,7 +7461,7 @@
       "confidence": 0.99,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641457",
+      "timestamp": "2026-08-15T02:48:40.701648",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7479,7 +7479,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641459",
+      "timestamp": "2026-08-15T02:48:40.701766",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7497,7 +7497,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641460",
+      "timestamp": "2026-08-15T02:48:40.701875",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7515,7 +7515,7 @@
       "confidence": 0.93,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641462",
+      "timestamp": "2026-08-15T02:48:40.701989",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7533,7 +7533,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641464",
+      "timestamp": "2026-08-15T02:48:40.702101",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7551,7 +7551,7 @@
       "confidence": 0.35,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641466",
+      "timestamp": "2026-08-15T02:48:40.702204",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7569,7 +7569,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641468",
+      "timestamp": "2026-08-15T02:48:40.702317",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7587,7 +7587,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641470",
+      "timestamp": "2026-08-15T02:48:40.702433",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7605,7 +7605,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641474",
+      "timestamp": "2026-08-15T02:48:40.702549",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7623,7 +7623,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641477",
+      "timestamp": "2026-08-15T02:48:40.702658",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7641,7 +7641,7 @@
       "confidence": 0.65,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641479",
+      "timestamp": "2026-08-15T02:48:40.702771",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7659,7 +7659,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641481",
+      "timestamp": "2026-08-15T02:48:40.702882",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7677,7 +7677,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641482",
+      "timestamp": "2026-08-15T02:48:40.702996",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7695,7 +7695,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641484",
+      "timestamp": "2026-08-15T02:48:40.703111",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7713,7 +7713,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641486",
+      "timestamp": "2026-08-15T02:48:40.703228",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7731,7 +7731,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641488",
+      "timestamp": "2026-08-15T02:48:40.703334",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7749,7 +7749,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641490",
+      "timestamp": "2026-08-15T02:48:40.703446",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7767,7 +7767,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641492",
+      "timestamp": "2026-08-15T02:48:40.703558",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7785,7 +7785,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641494",
+      "timestamp": "2026-08-15T02:48:40.703669",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7803,7 +7803,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641496",
+      "timestamp": "2026-08-15T02:48:40.703786",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7821,7 +7821,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641498",
+      "timestamp": "2026-08-15T02:48:40.703901",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7839,7 +7839,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641500",
+      "timestamp": "2026-08-15T02:48:40.704019",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7857,7 +7857,7 @@
       "confidence": 0.6,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641502",
+      "timestamp": "2026-08-15T02:48:40.704125",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7875,7 +7875,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641504",
+      "timestamp": "2026-08-15T02:48:40.704242",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7893,7 +7893,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641505",
+      "timestamp": "2026-08-15T02:48:40.704357",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7911,7 +7911,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641507",
+      "timestamp": "2026-08-15T02:48:40.704473",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7929,7 +7929,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641509",
+      "timestamp": "2026-08-15T02:48:40.704586",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7947,7 +7947,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641511",
+      "timestamp": "2026-08-15T02:48:40.704710",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7965,7 +7965,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641513",
+      "timestamp": "2026-08-15T02:48:40.704824",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -7983,7 +7983,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641516",
+      "timestamp": "2026-08-15T02:48:40.704928",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8001,7 +8001,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641518",
+      "timestamp": "2026-08-15T02:48:40.705043",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8019,7 +8019,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641520",
+      "timestamp": "2026-08-15T02:48:40.705155",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8037,7 +8037,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641523",
+      "timestamp": "2026-08-15T02:48:40.705270",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8055,7 +8055,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641526",
+      "timestamp": "2026-08-15T02:48:40.705387",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8073,7 +8073,7 @@
       "confidence": 0.7,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641528",
+      "timestamp": "2026-08-15T02:48:40.705502",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8091,7 +8091,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641530",
+      "timestamp": "2026-08-15T02:48:40.705624",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8109,7 +8109,7 @@
       "confidence": 0.92,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641531",
+      "timestamp": "2026-08-15T02:48:40.705738",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8127,7 +8127,7 @@
       "confidence": 0.65,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641533",
+      "timestamp": "2026-08-15T02:48:40.705850",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8145,7 +8145,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641535",
+      "timestamp": "2026-08-15T02:48:40.705970",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8163,7 +8163,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641537",
+      "timestamp": "2026-08-15T02:48:40.706087",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8181,7 +8181,7 @@
       "confidence": 0.65,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641539",
+      "timestamp": "2026-08-15T02:48:40.706198",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8199,7 +8199,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641541",
+      "timestamp": "2026-08-15T02:48:40.706317",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8217,7 +8217,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641543",
+      "timestamp": "2026-08-15T02:48:40.706432",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8235,7 +8235,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641545",
+      "timestamp": "2026-08-15T02:48:40.706550",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8253,7 +8253,7 @@
       "confidence": 0.88,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641547",
+      "timestamp": "2026-08-15T02:48:40.706667",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8271,7 +8271,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641549",
+      "timestamp": "2026-08-15T02:48:40.706790",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8289,7 +8289,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641551",
+      "timestamp": "2026-08-15T02:48:40.706905",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8307,7 +8307,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641552",
+      "timestamp": "2026-08-15T02:48:40.707020",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8325,7 +8325,7 @@
       "confidence": 0.78,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641555",
+      "timestamp": "2026-08-15T02:48:40.707133",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8343,7 +8343,7 @@
       "confidence": 0.8,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641556",
+      "timestamp": "2026-08-15T02:48:40.707247",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8361,7 +8361,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641560",
+      "timestamp": "2026-08-15T02:48:40.707358",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8379,7 +8379,7 @@
       "confidence": 0.85,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641562",
+      "timestamp": "2026-08-15T02:48:40.707476",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8397,7 +8397,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641564",
+      "timestamp": "2026-08-15T02:48:40.707595",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8415,7 +8415,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641565",
+      "timestamp": "2026-08-15T02:48:40.707708",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8433,7 +8433,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641567",
+      "timestamp": "2026-08-15T02:48:40.707824",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8451,7 +8451,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641569",
+      "timestamp": "2026-08-15T02:48:40.707938",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8469,7 +8469,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641571",
+      "timestamp": "2026-08-15T02:48:40.708058",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8487,7 +8487,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641573",
+      "timestamp": "2026-08-15T02:48:40.708174",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8505,7 +8505,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641575",
+      "timestamp": "2026-08-15T02:48:40.708292",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8523,7 +8523,7 @@
       "confidence": 0.6,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641577",
+      "timestamp": "2026-08-15T02:48:40.708400",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8541,7 +8541,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641579",
+      "timestamp": "2026-08-15T02:48:40.708522",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8559,7 +8559,7 @@
       "confidence": 0.65,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641580",
+      "timestamp": "2026-08-15T02:48:40.708639",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8577,7 +8577,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641582",
+      "timestamp": "2026-08-15T02:48:40.708758",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8595,7 +8595,7 @@
       "confidence": 0.9,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641584",
+      "timestamp": "2026-08-15T02:48:40.708868",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8613,7 +8613,7 @@
       "confidence": 0.75,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641586",
+      "timestamp": "2026-08-15T02:48:40.708983",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8631,7 +8631,7 @@
       "confidence": 0.65,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641588",
+      "timestamp": "2026-08-15T02:48:40.709091",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8649,7 +8649,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641590",
+      "timestamp": "2026-08-15T02:48:40.709202",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8667,7 +8667,7 @@
       "confidence": 0.65,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641592",
+      "timestamp": "2026-08-15T02:48:40.709312",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8685,7 +8685,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641594",
+      "timestamp": "2026-08-15T02:48:40.709418",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8703,7 +8703,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641596",
+      "timestamp": "2026-08-15T02:48:40.709523",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8721,7 +8721,7 @@
       "confidence": 0.95,
       "model_used": "gpt-5-mini-2025-08-07",
       "screening_type": "abstract",
-      "timestamp": "2026-01-14T16:09:55.641597",
+      "timestamp": "2026-08-15T02:48:40.709641",
       "inclusion_criteria_applied": [],
       "exclusion_criteria_applied": [],
       "cache_signature": {
@@ -8733,7 +8733,7 @@
       }
     }
   ],
-  "timestamp": "2026-01-14T16:09:55.647497",
+  "timestamp": "2026-08-15T02:48:40.717529",
   "cache_signature": {
     "schema_version": 2,
     "stage": "abstract",

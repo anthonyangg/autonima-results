@@ -1,86 +1,19 @@
 {
   "studies": [
     {
-      "pmid": "22952599",
-      "analyses": [
-        {
-          "name": null,
-          "description": "Results of t-tests comparing PTSD and control groups.",
-          "table_id": "pone-0042560-t002",
-          "points": [
-            {
-              "coordinates": [
-                53.0,
-                -1.0,
-                35.0
-              ],
-              "space": "MNI",
-              "values": [
-                {
-                  "value": 5.01,
-                  "kind": "z-statistic"
-                }
-              ]
-            },
-            {
-              "coordinates": [
-                -12.0,
-                54.0,
-                10.0
-              ],
-              "space": "MNI",
-              "values": [
-                {
-                  "value": 4.14,
-                  "kind": "z-statistic"
-                }
-              ]
-            },
-            {
-              "coordinates": [
-                31.0,
-                -76.0,
-                47.0
-              ],
-              "space": "MNI",
-              "values": [
-                {
-                  "value": 4.16,
-                  "kind": "z-statistic"
-                }
-              ]
-            },
-            {
-              "coordinates": [
-                53.0,
-                -25.0,
-                -3.0
-              ],
-              "space": "MNI",
-              "values": [
-                {
-                  "value": 3.37,
-                  "kind": "z-statistic"
-                }
-              ]
-            }
-          ]
-        }
-      ],
+      "pmid": "28549317",
       "cache_signature": {
         "schema_version": 2,
         "stage": "parsing",
         "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
-        "study_input_hash": "9e2ee847de8e7f9e9b32a68fe36fd9031e32033eb1807679e4d8c2960f672d5d"
-      }
-    },
-    {
-      "pmid": "28549317",
+        "study_input_hash": "317030e3f90784b807e0a598eca3ee357a004fef5394e98b4b8a22f1188c05f6"
+      },
       "analyses": [
         {
-          "name": "PTSD<HC: Whole Brain VBM grey matter results.",
-          "description": null,
-          "table_id": "17",
+          "name": "PTSD < HC (Whole-brain VBM grey matter)",
+          "description": "Whole-brain VBM grey matter results from table caption: regions where PTSD < HC (reduced grey matter in PTSD). Coordinates reported in MNI space.",
+          "table_id": "823",
+          "parsed": true,
           "points": [
             {
               "coordinates": [
@@ -175,7 +108,7 @@
               "space": "MNI",
               "values": [
                 {
-                  "value": 0.005,
+                  "value": "0.005",
                   "kind": "p-value"
                 }
               ]
@@ -189,7 +122,7 @@
               "space": "MNI",
               "values": [
                 {
-                  "value": 0.004,
+                  "value": "0.004",
                   "kind": "p-value"
                 }
               ]
@@ -217,7 +150,7 @@
               "space": "MNI",
               "values": [
                 {
-                  "value": 0.005,
+                  "value": "0.005",
                   "kind": "p-value"
                 }
               ]
@@ -231,7 +164,7 @@
               "space": "MNI",
               "values": [
                 {
-                  "value": 0.001,
+                  "value": "0.001",
                   "kind": "p-value"
                 }
               ]
@@ -357,7 +290,7 @@
               "space": "MNI",
               "values": [
                 {
-                  "value": 0.007,
+                  "value": "0.007",
                   "kind": "p-value"
                 }
               ]
@@ -449,9 +382,10 @@
           ]
         },
         {
-          "name": "PTSD<TC: Whole Brain VBM grey matter results.",
-          "description": null,
-          "table_id": "18",
+          "name": "PTSD < TC: Whole Brain VBM grey matter results",
+          "description": "Table: PTSD<TC: Whole Brain VBM grey matter results. Coordinates reported in MNI space. Grey matter signal intensity reported as mean (SD) for PTSD and TC; FWE-corrected p-values provided per cluster.",
+          "table_id": "824",
+          "parsed": true,
           "points": [
             {
               "coordinates": [
@@ -461,6 +395,14 @@
               ],
               "space": "MNI",
               "values": [
+                {
+                  "value": "0.495 (0.07)",
+                  "kind": "other"
+                },
+                {
+                  "value": "0.566 (0.05)",
+                  "kind": "other"
+                },
                 {
                   "value": "<0.001",
                   "kind": "p-value"
@@ -475,6 +417,14 @@
               ],
               "space": "MNI",
               "values": [
+                {
+                  "value": "0.502 (0.06)",
+                  "kind": "other"
+                },
+                {
+                  "value": "0.578 (0.05)",
+                  "kind": "other"
+                },
                 {
                   "value": "<0.001",
                   "kind": "p-value"
@@ -490,7 +440,15 @@
               "space": "MNI",
               "values": [
                 {
-                  "value": 0.005,
+                  "value": "0.392 (0.08)",
+                  "kind": "other"
+                },
+                {
+                  "value": "0.465 (0.08)",
+                  "kind": "other"
+                },
+                {
+                  "value": "0.005",
                   "kind": "p-value"
                 }
               ]
@@ -503,6 +461,14 @@
               ],
               "space": "MNI",
               "values": [
+                {
+                  "value": "0.452 (0.06)",
+                  "kind": "other"
+                },
+                {
+                  "value": "0.539 (0.10)",
+                  "kind": "other"
+                },
                 {
                   "value": "<0.001",
                   "kind": "p-value"
@@ -518,6 +484,14 @@
               "space": "MNI",
               "values": [
                 {
+                  "value": "0.471 (0.07)",
+                  "kind": "other"
+                },
+                {
+                  "value": "0.570 (0.11)",
+                  "kind": "other"
+                },
+                {
                   "value": "<0.001",
                   "kind": "p-value"
                 }
@@ -531,6 +505,14 @@
               ],
               "space": "MNI",
               "values": [
+                {
+                  "value": "0.594 (0.09)",
+                  "kind": "other"
+                },
+                {
+                  "value": "0.684 (0.11)",
+                  "kind": "other"
+                },
                 {
                   "value": "<0.001",
                   "kind": "p-value"
@@ -546,7 +528,15 @@
               "space": "MNI",
               "values": [
                 {
-                  "value": 0.002,
+                  "value": "0.440 (0.05)",
+                  "kind": "other"
+                },
+                {
+                  "value": "0.515 (0.08)",
+                  "kind": "other"
+                },
+                {
+                  "value": "0.002",
                   "kind": "p-value"
                 }
               ]
@@ -559,6 +549,14 @@
               ],
               "space": "MNI",
               "values": [
+                {
+                  "value": "0.426 (0.06)",
+                  "kind": "other"
+                },
+                {
+                  "value": "0.497 (0.06)",
+                  "kind": "other"
+                },
                 {
                   "value": "<0.001",
                   "kind": "p-value"
@@ -574,6 +572,14 @@
               "space": "MNI",
               "values": [
                 {
+                  "value": "0.380 (0.04)",
+                  "kind": "other"
+                },
+                {
+                  "value": "0.447 (0.06)",
+                  "kind": "other"
+                },
+                {
                   "value": "<0.001",
                   "kind": "p-value"
                 }
@@ -587,6 +593,14 @@
               ],
               "space": "MNI",
               "values": [
+                {
+                  "value": "0.402 (0.04)",
+                  "kind": "other"
+                },
+                {
+                  "value": "0.471 (0.05)",
+                  "kind": "other"
+                },
                 {
                   "value": "<0.001",
                   "kind": "p-value"
@@ -602,6 +616,14 @@
               "space": "MNI",
               "values": [
                 {
+                  "value": "0.504 (0.05)",
+                  "kind": "other"
+                },
+                {
+                  "value": "0.572 (0.05)",
+                  "kind": "other"
+                },
+                {
                   "value": "<0.001",
                   "kind": "p-value"
                 }
@@ -615,6 +637,14 @@
               ],
               "space": "MNI",
               "values": [
+                {
+                  "value": "0.495 (0.04)",
+                  "kind": "other"
+                },
+                {
+                  "value": "0.556 (0.04)",
+                  "kind": "other"
+                },
                 {
                   "value": "<0.001",
                   "kind": "p-value"
@@ -630,6 +660,14 @@
               "space": "MNI",
               "values": [
                 {
+                  "value": "0.566 (0.09)",
+                  "kind": "other"
+                },
+                {
+                  "value": "0.636 (0.07)",
+                  "kind": "other"
+                },
+                {
                   "value": "<0.001",
                   "kind": "p-value"
                 }
@@ -643,6 +681,14 @@
               ],
               "space": "MNI",
               "values": [
+                {
+                  "value": "0.611 (0.07)",
+                  "kind": "other"
+                },
+                {
+                  "value": "0.691 (0.07)",
+                  "kind": "other"
+                },
                 {
                   "value": "<0.001",
                   "kind": "p-value"
@@ -658,6 +704,14 @@
               "space": "MNI",
               "values": [
                 {
+                  "value": "0.386 (0.06)",
+                  "kind": "other"
+                },
+                {
+                  "value": "0.470 (0.06)",
+                  "kind": "other"
+                },
+                {
                   "value": "<0.001",
                   "kind": "p-value"
                 }
@@ -671,6 +725,14 @@
               ],
               "space": "MNI",
               "values": [
+                {
+                  "value": "0.421 (0.06)",
+                  "kind": "other"
+                },
+                {
+                  "value": "0.489 (0.07)",
+                  "kind": "other"
+                },
                 {
                   "value": "<0.001",
                   "kind": "p-value"
@@ -686,6 +748,14 @@
               "space": "MNI",
               "values": [
                 {
+                  "value": "0.555 (0.09)",
+                  "kind": "other"
+                },
+                {
+                  "value": "0.641 (0.09)",
+                  "kind": "other"
+                },
+                {
                   "value": "<0.001",
                   "kind": "p-value"
                 }
@@ -699,6 +769,14 @@
               ],
               "space": "MNI",
               "values": [
+                {
+                  "value": "0.537 (0.10)",
+                  "kind": "other"
+                },
+                {
+                  "value": "0.632 (0.10)",
+                  "kind": "other"
+                },
                 {
                   "value": "<0.001",
                   "kind": "p-value"
@@ -714,6 +792,14 @@
               "space": "MNI",
               "values": [
                 {
+                  "value": "0.511 (0.06)",
+                  "kind": "other"
+                },
+                {
+                  "value": "0.591 (0.09)",
+                  "kind": "other"
+                },
+                {
                   "value": "<0.001",
                   "kind": "p-value"
                 }
@@ -727,6 +813,14 @@
               ],
               "space": "MNI",
               "values": [
+                {
+                  "value": "0.535 (0.09)",
+                  "kind": "other"
+                },
+                {
+                  "value": "0.636 (0.11)",
+                  "kind": "other"
+                },
                 {
                   "value": "<0.001",
                   "kind": "p-value"
@@ -742,6 +836,14 @@
               "space": "MNI",
               "values": [
                 {
+                  "value": "0.401 (0.07)",
+                  "kind": "other"
+                },
+                {
+                  "value": "0.462 (0.06)",
+                  "kind": "other"
+                },
+                {
                   "value": "<0.001",
                   "kind": "p-value"
                 }
@@ -755,6 +857,14 @@
               ],
               "space": "MNI",
               "values": [
+                {
+                  "value": "0.456 (0.07)",
+                  "kind": "other"
+                },
+                {
+                  "value": "0.524 (0.05)",
+                  "kind": "other"
+                },
                 {
                   "value": "<0.001",
                   "kind": "p-value"
@@ -770,6 +880,14 @@
               "space": "MNI",
               "values": [
                 {
+                  "value": "0.444 (0.06)",
+                  "kind": "other"
+                },
+                {
+                  "value": "0.528 (0.07)",
+                  "kind": "other"
+                },
+                {
                   "value": "<0.001",
                   "kind": "p-value"
                 }
@@ -783,6 +901,14 @@
               ],
               "space": "MNI",
               "values": [
+                {
+                  "value": "0.427 (0.06)",
+                  "kind": "other"
+                },
+                {
+                  "value": "0.512 (0.07)",
+                  "kind": "other"
+                },
                 {
                   "value": "<0.001",
                   "kind": "p-value"
@@ -798,7 +924,15 @@
               "space": "MNI",
               "values": [
                 {
-                  "value": 0.001,
+                  "value": "0.173 (0.04)",
+                  "kind": "other"
+                },
+                {
+                  "value": "0.201 (0.04)",
+                  "kind": "other"
+                },
+                {
+                  "value": "0.001",
                   "kind": "p-value"
                 }
               ]
@@ -807,25 +941,330 @@
         },
         {
           "name": "Amygdala (right) (cog 26, -2, -28)",
-          "description": null,
-          "table_id": "19",
-          "points": []
+          "description": "Correlation (r) between right amygdala seed (cog 26, -2, -28) and cortical areas; rACC (left) at cog -4, 34, 2 reported with r, p, r^2.",
+          "table_id": "825",
+          "parsed": true,
+          "points": [
+            {
+              "coordinates": [
+                26.0,
+                -2.0,
+                -28.0
+              ],
+              "space": null,
+              "values": []
+            },
+            {
+              "coordinates": [
+                -4.0,
+                34.0,
+                2.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": -0.449,
+                  "kind": "correlation"
+                },
+                {
+                  "value": 0.024,
+                  "kind": "p-value"
+                },
+                {
+                  "value": 0.202,
+                  "kind": "other"
+                }
+              ]
+            }
+          ]
         }
-      ],
+      ]
+    },
+    {
+      "pmid": "30127342",
       "cache_signature": {
         "schema_version": 2,
         "stage": "parsing",
         "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
-        "study_input_hash": "e919d19a5705447805c10c7cfc357fdb59b5243b152062075e28c9fb3fa22c33"
-      }
+        "study_input_hash": "66ca39bef5c2f4a065018a5cea6de7ca0ec93ba62cfed1232c02db41167265e5"
+      },
+      "analyses": [
+        {
+          "name": "All patients \u2014 Right putamen",
+          "description": "Partial correlation between gray matter volume in the right putamen and symptom severity; age and gender controlled. Symptom scales: PANSS (FEP), HAM-D (MDD), CAPS (PTSD), Y-BOCS (OCD).",
+          "table_id": "Tab2",
+          "parsed": false,
+          "points": [
+            {
+              "coordinates": [
+                29.0,
+                9.0,
+                -8.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 0.313,
+                  "kind": "correlation"
+                },
+                {
+                  "value": "p < 0.001",
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "All patients \u2014 Left putamen",
+          "description": "Partial correlation between gray matter volume in the left putamen and symptom severity; age and gender controlled. Symptom scales: PANSS (FEP), HAM-D (MDD), CAPS (PTSD), Y-BOCS (OCD).",
+          "table_id": "Tab2",
+          "parsed": false,
+          "points": [
+            {
+              "coordinates": [
+                -29.0,
+                8.0,
+                -5.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 0.326,
+                  "kind": "correlation"
+                },
+                {
+                  "value": "p < 0.001",
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "FEP \u2014 Right putamen",
+          "description": "Partial correlation between gray matter volume in the right putamen and symptom severity in FEP (first-episode psychosis); age and gender controlled. Symptoms measured with PANSS total score.",
+          "table_id": "Tab2",
+          "parsed": false,
+          "points": [
+            {
+              "coordinates": [
+                28.0,
+                7.0,
+                8.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 0.072,
+                  "kind": "correlation"
+                },
+                {
+                  "value": "p = 0.731",
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "FEP \u2014 Left putamen",
+          "description": "Partial correlation between gray matter volume in the left putamen and symptom severity in FEP (first-episode psychosis); age and gender controlled. Symptoms measured with PANSS total score.",
+          "table_id": "Tab2",
+          "parsed": false,
+          "points": [
+            {
+              "coordinates": [
+                -27.0,
+                8.0,
+                6.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 0.178,
+                  "kind": "correlation"
+                },
+                {
+                  "value": "p = 0.042",
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MDD \u2014 Right putamen",
+          "description": "Partial correlation between gray matter volume in the right putamen and symptom severity in MDD (major depressive disorder); age and gender controlled. Symptoms measured with HAM-D.",
+          "table_id": "Tab2",
+          "parsed": false,
+          "points": [
+            {
+              "coordinates": [
+                26.0,
+                12.0,
+                -8.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 0.24,
+                  "kind": "correlation"
+                },
+                {
+                  "value": "p = 0.023",
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MDD \u2014 Left putamen",
+          "description": "Partial correlation between gray matter volume in the left putamen and symptom severity in MDD (major depressive disorder); age and gender controlled. Symptoms measured with HAM-D.",
+          "table_id": "Tab2",
+          "parsed": false,
+          "points": [
+            {
+              "coordinates": [
+                -26.0,
+                10.0,
+                -5.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 0.101,
+                  "kind": "correlation"
+                },
+                {
+                  "value": "p = 0.512",
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PTSD \u2014 Right putamen",
+          "description": "Partial correlation between gray matter volume in the right putamen and symptom severity in PTSD (post-traumatic stress disorder); age and gender controlled. Symptoms measured with CAPS.",
+          "table_id": "Tab2",
+          "parsed": false,
+          "points": [
+            {
+              "coordinates": [
+                32.0,
+                5.0,
+                -9.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 0.247,
+                  "kind": "correlation"
+                },
+                {
+                  "value": "p = 0.020",
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PTSD \u2014 Left putamen",
+          "description": "Partial correlation between gray matter volume in the left putamen and symptom severity in PTSD (post-traumatic stress disorder); age and gender controlled. Symptoms measured with CAPS.",
+          "table_id": "Tab2",
+          "parsed": false,
+          "points": [
+            {
+              "coordinates": [
+                -27.0,
+                9.0,
+                -8.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 0.21,
+                  "kind": "correlation"
+                },
+                {
+                  "value": "p = 0.050",
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "OCD \u2014 Right putamen",
+          "description": "Partial correlation between gray matter volume in the right putamen and symptom severity in OCD (obsessive-compulsive disorder); age and gender controlled. Symptoms measured with Y-BOCS.",
+          "table_id": "Tab2",
+          "parsed": false,
+          "points": [
+            {
+              "coordinates": [
+                24.0,
+                11.0,
+                0.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 0.275,
+                  "kind": "correlation"
+                },
+                {
+                  "value": "p = 0.009",
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "OCD \u2014 Left putamen",
+          "description": "Partial correlation between gray matter volume in the left putamen and symptom severity in OCD (obsessive-compulsive disorder); age and gender controlled. Symptoms measured with Y-BOCS.",
+          "table_id": "Tab2",
+          "parsed": false,
+          "points": [
+            {
+              "coordinates": [
+                -24.0,
+                11.0,
+                1.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 0.253,
+                  "kind": "correlation"
+                },
+                {
+                  "value": "p = 0.017",
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "pmid": "21418787",
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "959acef673dc8903a8266e1af6b82e9877c6b55d34e887d9b5d86b3d5557f56b"
+      },
       "analyses": [
         {
-          "name": "Regions of significant brain volume reduction in the combined PTSD and major depression groups compared with controls*",
-          "description": null,
+          "name": "Combined PTSD + major depression < controls (brain volume reductions)",
+          "description": "Regions of significant brain volume reduction in the combined PTSD and major depression groups compared with controls. Coordinates reported in MNI space from table caption/header. Z-scores provided (cluster-level FWE-corrected; some rows annotated as cluster-level only or small-volume corrected in footnotes).",
           "table_id": "803",
+          "parsed": true,
           "points": [
             {
               "coordinates": [
@@ -998,9 +1437,10 @@
           ]
         },
         {
-          "name": "Regions of significant brain volume reduction in the PTSD group associated with increasing Beck Anxiety Inventory32 scores*",
-          "description": null,
+          "name": "PTSD group: brain volume reductions associated with increasing Beck Anxiety Inventory scores",
+          "description": "Regions of significant brain volume reduction in the PTSD group associated with increasing Beck Anxiety Inventory scores (Table). Significant at p < 0.05, FWE-corrected, whole-brain cluster level.",
           "table_id": "804",
+          "parsed": true,
           "points": [
             {
               "coordinates": [
@@ -1187,9 +1627,10 @@
           ]
         },
         {
-          "name": "Regions of significant brain volume increases in the major depression group associated with increasing Beck Anxiety Inventory32 scores*",
-          "description": null,
+          "name": "Major depression group \u2014 brain volume increases associated with increasing Beck Anxiety Inventory scores",
+          "description": "Regions of significant brain volume increases in the major depression group associated with increasing Beck Anxiety Inventory scores (significant at p < 0.05, FWE-corrected, whole-brain cluster level).",
           "table_id": "805",
+          "parsed": true,
           "points": [
             {
               "coordinates": [
@@ -1222,9 +1663,10 @@
           ]
         },
         {
-          "name": "Regions of significant brain volume reduction in the PTSD group with increasing Beck Depression Inventory33 scores*",
-          "description": null,
+          "name": "PTSD group: brain volume reduction with increasing Beck Depression Inventory scores",
+          "description": "Regions showing significant brain volume reduction with increasing Beck Depression Inventory scores in the PTSD group (p < 0.05, FWE cluster-corrected; coordinates in MNI space).",
           "table_id": "806",
+          "parsed": true,
           "points": [
             {
               "coordinates": [
@@ -1285,9 +1727,10 @@
           ]
         },
         {
-          "name": "Regions of significant brain volume increases in the major depression group with increasing Beck Depression Inventory33 scores*",
-          "description": null,
+          "name": "Major depression group \u2014 brain volume increases with increasing Beck Depression Inventory scores",
+          "description": "Regions of significant brain volume increases in the major depression group with increasing Beck Depression Inventory scores (MNI coordinates; z-scores). Significant at p < 0.05, FWE-corrected, whole-brain cluster level.",
           "table_id": "807",
+          "parsed": true,
           "points": [
             {
               "coordinates": [
@@ -1347,425 +1790,73 @@
             }
           ]
         }
-      ],
+      ]
+    },
+    {
+      "pmid": "38614407",
       "cache_signature": {
         "schema_version": 2,
         "stage": "parsing",
         "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
-        "study_input_hash": "dbe16936c049eea76578aef026d4a55a73b9c2d7ed8d57a2ed656bbdbcbe2c2c"
-      }
-    },
-    {
-      "pmid": "23113800",
+        "study_input_hash": "6119194b57fbe1d63ae2653e5cd49667890ab15c8842ba3420eaea2fbe62e5d9"
+      },
       "analyses": [
         {
-          "name": "NS > S",
+          "name": "Maintenance trial: PTSD > HC",
           "description": null,
-          "table_id": "16",
+          "table_id": "tbl0010",
+          "parsed": true,
           "points": [
             {
               "coordinates": [
-                25.0,
-                41.0,
-                26.0
-              ],
-              "space": "MNI",
-              "values": [
-                {
-                  "value": 0.008,
-                  "kind": "p-value"
-                },
-                {
-                  "value": 4.02,
-                  "kind": "t-statistic"
-                },
-                {
-                  "value": "<0.001",
-                  "kind": "p-value"
-                }
-              ]
-            },
-            {
-              "coordinates": [
-                23.0,
-                46.0,
-                23.0
-              ],
-              "space": "MNI",
-              "values": [
-                {
-                  "value": 3.28,
-                  "kind": "t-statistic"
-                },
-                {
-                  "value": 0.001,
-                  "kind": "p-value"
-                }
-              ]
-            },
-            {
-              "coordinates": [
-                -26.0,
-                38.0,
-                26.0
-              ],
-              "space": "MNI",
-              "values": [
-                {
-                  "value": 0.066,
-                  "kind": "p-value"
-                },
-                {
-                  "value": 4.52,
-                  "kind": "t-statistic"
-                },
-                {
-                  "value": "<0.001",
-                  "kind": "p-value"
-                }
-              ]
-            },
-            {
-              "coordinates": [
-                41.0,
-                -45.0,
-                -23.0
-              ],
-              "space": "MNI",
-              "values": [
-                {
-                  "value": 0.077,
-                  "kind": "p-value"
-                },
-                {
-                  "value": 3.99,
-                  "kind": "t-statistic"
-                },
-                {
-                  "value": "<0.001",
-                  "kind": "p-value"
-                }
-              ]
-            },
-            {
-              "coordinates": [
-                -36.0,
-                -30.0,
-                -6.0
-              ],
-              "space": "MNI",
-              "values": [
-                {
-                  "value": 0.132,
-                  "kind": "p-value"
-                },
-                {
-                  "value": 3.83,
-                  "kind": "t-statistic"
-                },
-                {
-                  "value": 0.001,
-                  "kind": "p-value"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "DES+",
-          "description": null,
-          "table_id": "16",
-          "points": [
-            {
-              "coordinates": [
-                46.0,
-                50.0,
-                16.0
-              ],
-              "space": "MNI",
-              "values": [
-                {
-                  "value": "<0.001",
-                  "kind": "p-value"
-                },
-                {
-                  "value": 4.84,
-                  "kind": "t-statistic"
-                },
-                {
-                  "value": "<0.001",
-                  "kind": "p-value"
-                }
-              ]
-            },
-            {
-              "coordinates": [
-                -7.0,
-                67.0,
-                9.0
-              ],
-              "space": "MNI",
-              "values": [
-                {
-                  "value": 4.43,
-                  "kind": "t-statistic"
-                },
-                {
-                  "value": "<0.001",
-                  "kind": "p-value"
-                }
-              ]
-            },
-            {
-              "coordinates": [
-                -29.0,
-                41.0,
-                26.0
-              ],
-              "space": "MNI",
-              "values": [
-                {
-                  "value": 4.39,
-                  "kind": "t-statistic"
-                },
-                {
-                  "value": "<0.001",
-                  "kind": "p-value"
-                }
-              ]
-            },
-            {
-              "coordinates": [
-                -31.0,
-                25.0,
-                -31.0
-              ],
-              "space": "MNI",
-              "values": [
-                {
-                  "value": 0.001,
-                  "kind": "p-value"
-                },
-                {
-                  "value": 5.27,
-                  "kind": "t-statistic"
-                },
-                {
-                  "value": "<0.001",
-                  "kind": "p-value"
-                }
-              ]
-            },
-            {
-              "coordinates": [
-                -32.0,
-                24.0,
-                -33.0
-              ],
-              "space": "MNI",
-              "values": [
-                {
-                  "value": 4.92,
-                  "kind": "t-statistic"
-                },
-                {
-                  "value": "<0.001",
-                  "kind": "p-value"
-                }
-              ]
-            },
-            {
-              "coordinates": [
-                -29.0,
-                18.0,
-                -23.0
-              ],
-              "space": "MNI",
-              "values": [
-                {
-                  "value": "<0.001",
-                  "kind": "p-value"
-                },
-                {
-                  "value": 4.27,
-                  "kind": "t-statistic"
-                },
-                {
-                  "value": 0.001,
-                  "kind": "p-value"
-                }
-              ]
-            },
-            {
-              "coordinates": [
-                30.0,
-                21.0,
-                -28.0
-              ],
-              "space": "MNI",
-              "values": [
-                {
-                  "value": 3.3,
-                  "kind": "t-statistic"
-                },
-                {
-                  "value": 0.001,
-                  "kind": "p-value"
-                }
-              ]
-            },
-            {
-              "coordinates": [
-                -10.0,
-                -2.0,
-                -23.0
-              ],
-              "space": "MNI",
-              "values": [
-                {
-                  "value": 3.62,
-                  "kind": "t-statistic"
-                },
-                {
-                  "value": 0.001,
-                  "kind": "p-value"
-                }
-              ]
-            },
-            {
-              "coordinates": [
-                60.0,
-                -59.0,
-                26.0
-              ],
-              "space": "MNI",
-              "values": [
-                {
-                  "value": 0.004,
-                  "kind": "p-value"
-                },
-                {
-                  "value": 4.11,
-                  "kind": "t-statistic"
-                },
-                {
-                  "value": 0.001,
-                  "kind": "p-value"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "DES-",
-          "description": null,
-          "table_id": "16",
-          "points": [
-            {
-              "coordinates": [
-                21.0,
-                7.0,
-                9.0
-              ],
-              "space": "MNI",
-              "values": [
-                {
-                  "value": 0.053,
-                  "kind": "p-value"
-                },
-                {
-                  "value": 3.91,
-                  "kind": "t-statistic"
-                },
-                {
-                  "value": "<0.001",
-                  "kind": "p-value"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "DES-T+",
-          "description": null,
-          "table_id": "16",
-          "points": [
-            {
-              "coordinates": [
-                11.0,
-                35.0,
-                53.0
-              ],
-              "space": "MNI",
-              "values": [
-                {
-                  "value": 0.046,
-                  "kind": "p-value"
-                },
-                {
-                  "value": 3.89,
-                  "kind": "t-statistic"
-                },
-                {
-                  "value": "<0.001",
-                  "kind": "p-value"
-                }
-              ]
-            },
-            {
-              "coordinates": [
-                50.0,
-                23.0,
+                -50.0,
+                2.0,
                 -24.0
               ],
               "space": "MNI",
               "values": [
                 {
-                  "value": "<0.001",
-                  "kind": "p-value"
-                },
-                {
-                  "value": 3.65,
+                  "value": 4.54,
                   "kind": "t-statistic"
                 },
                 {
-                  "value": 0.001,
+                  "value": 0.015,
                   "kind": "p-value"
                 }
               ]
             },
             {
               "coordinates": [
-                -33.0,
-                25.0,
-                -32.0
+                -48.0,
+                -68.0,
+                20.0
               ],
               "space": "MNI",
               "values": [
                 {
-                  "value": 4.4,
+                  "value": 4.18,
                   "kind": "t-statistic"
                 },
                 {
-                  "value": "<0.001",
+                  "value": 0.019,
                   "kind": "p-value"
                 }
               ]
             },
             {
               "coordinates": [
-                -42.0,
-                24.0,
-                -23.0
+                -64.0,
+                -44.0,
+                22.0
               ],
               "space": "MNI",
               "values": [
                 {
-                  "value": 3.19,
+                  "value": 4.14,
                   "kind": "t-statistic"
                 },
                 {
-                  "value": 0.001,
+                  "value": 0.037,
                   "kind": "p-value"
                 }
               ]
@@ -1773,21 +1864,17 @@
             {
               "coordinates": [
                 58.0,
-                -62.0,
-                29.0
+                -4.0,
+                2.0
               ],
               "space": "MNI",
               "values": [
                 {
-                  "value": 0.094,
-                  "kind": "p-value"
-                },
-                {
-                  "value": 4.1,
+                  "value": 3.95,
                   "kind": "t-statistic"
                 },
                 {
-                  "value": "<0.001",
+                  "value": 0.033,
                   "kind": "p-value"
                 }
               ]
@@ -1795,185 +1882,43 @@
           ]
         },
         {
-          "name": "DES-T-",
+          "name": "Distractor trial (Human face vs scrambled): HC > PTSD",
           "description": null,
-          "table_id": "16",
+          "table_id": "tbl0010",
+          "parsed": true,
           "points": [
             {
               "coordinates": [
+                28.0,
+                62.0,
+                10.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.72,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": 0.042,
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                58.0,
                 20.0,
-                10.0,
-                3.0
-              ],
-              "space": "MNI",
-              "values": [
-                {
-                  "value": 0.334,
-                  "kind": "p-value"
-                },
-                {
-                  "value": 3.15,
-                  "kind": "t-statistic"
-                },
-                {
-                  "value": 0.001,
-                  "kind": "p-value"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "DES-A+",
-          "description": null,
-          "table_id": "16",
-          "points": [
-            {
-              "coordinates": [
-                29.0,
-                28.0,
-                26.0
-              ],
-              "space": "MNI",
-              "values": [
-                {
-                  "value": 0.038,
-                  "kind": "p-value"
-                },
-                {
-                  "value": 6.68,
-                  "kind": "t-statistic"
-                },
-                {
-                  "value": "<0.001",
-                  "kind": "p-value"
-                }
-              ]
-            },
-            {
-              "coordinates": [
-                23.0,
-                52.0,
-                15.0
-              ],
-              "space": "MNI",
-              "values": [
-                {
-                  "value": 3.06,
-                  "kind": "t-statistic"
-                },
-                {
-                  "value": 0.003,
-                  "kind": "p-value"
-                }
-              ]
-            },
-            {
-              "coordinates": [
-                50.0,
-                50.0,
-                17.0
-              ],
-              "space": "MNI",
-              "values": [
-                {
-                  "value": "<0.001",
-                  "kind": "p-value"
-                },
-                {
-                  "value": 4.35,
-                  "kind": "t-statistic"
-                },
-                {
-                  "value": "<0.001",
-                  "kind": "p-value"
-                }
-              ]
-            },
-            {
-              "coordinates": [
-                -30.0,
-                41.0,
-                27.0
-              ],
-              "space": "MNI",
-              "values": [
-                {
-                  "value": 0.001,
-                  "kind": "p-value"
-                },
-                {
-                  "value": 4.21,
-                  "kind": "t-statistic"
-                },
-                {
-                  "value": "<0.001",
-                  "kind": "p-value"
-                }
-              ]
-            },
-            {
-              "coordinates": [
-                -32.0,
-                22.0,
-                -22.0
-              ],
-              "space": "MNI",
-              "values": [
-                {
-                  "value": 0.056,
-                  "kind": "p-value"
-                },
-                {
-                  "value": 3.45,
-                  "kind": "t-statistic"
-                },
-                {
-                  "value": 0.001,
-                  "kind": "p-value"
-                }
-              ]
-            },
-            {
-              "coordinates": [
-                -29.0,
-                28.0,
-                -33.0
-              ],
-              "space": "MNI",
-              "values": [
-                {
-                  "value": 0.052,
-                  "kind": "p-value"
-                },
-                {
-                  "value": 4.44,
-                  "kind": "t-statistic"
-                },
-                {
-                  "value": "<0.001",
-                  "kind": "p-value"
-                }
-              ]
-            },
-            {
-              "coordinates": [
-                60.0,
-                -69.0,
                 28.0
               ],
               "space": "MNI",
               "values": [
                 {
-                  "value": 0.051,
-                  "kind": "p-value"
-                },
-                {
-                  "value": 3.06,
+                  "value": 4.58,
                   "kind": "t-statistic"
                 },
                 {
-                  "value": 0.003,
+                  "value": 0.033,
                   "kind": "p-value"
                 }
               ]
@@ -1981,49 +1926,47 @@
           ]
         },
         {
-          "name": "DES-A-",
+          "name": "Distractor trial (Trauma-related vs neutral): PTSD > HC",
           "description": null,
-          "table_id": "16",
+          "table_id": "tbl0010",
+          "parsed": true,
           "points": [
             {
               "coordinates": [
-                24.0,
-                9.0,
-                5.0
+                -60.0,
+                -32.0,
+                18.0
               ],
               "space": "MNI",
               "values": [
                 {
-                  "value": "<0.001",
-                  "kind": "p-value"
-                },
-                {
-                  "value": 4.32,
+                  "value": 4.53,
                   "kind": "t-statistic"
                 },
                 {
-                  "value": "<0.001",
+                  "value": 0.009,
                   "kind": "p-value"
                 }
               ]
             }
           ]
         }
-      ],
+      ]
+    },
+    {
+      "pmid": "30343133",
       "cache_signature": {
         "schema_version": 2,
         "stage": "parsing",
         "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
-        "study_input_hash": "72062389be38bc617e191573ce60053ec71988ab90e7780b9a459227c25eb2d8"
-      }
-    },
-    {
-      "pmid": "30343133",
+        "study_input_hash": "cb2cff22c83d5c4d5308d26ca7e7614b04b8872261b61afeb0e485913dfc97d5"
+      },
       "analyses": [
         {
           "name": "TD > PTSD",
           "description": null,
-          "table_id": "22",
+          "table_id": "801",
+          "parsed": true,
           "points": [
             {
               "coordinates": [
@@ -2100,7 +2043,8 @@
         {
           "name": "Group \u00d7 Time",
           "description": null,
-          "table_id": "22",
+          "table_id": "801",
+          "parsed": true,
           "points": [
             {
               "coordinates": [
@@ -2121,7 +2065,8 @@
         {
           "name": "PTSD > TD",
           "description": null,
-          "table_id": "22",
+          "table_id": "801",
+          "parsed": true,
           "points": [
             {
               "coordinates": [
@@ -2141,8 +2086,9 @@
         },
         {
           "name": "Group \u00d7 Time",
-          "description": null,
-          "table_id": "23",
+          "description": "Seed-Based RSFC Longitudinal Analyses (Table caption)",
+          "table_id": "802",
+          "parsed": true,
           "points": [
             {
               "coordinates": [
@@ -2202,235 +2148,755 @@
             }
           ]
         }
-      ],
+      ]
+    },
+    {
+      "pmid": "23113800",
       "cache_signature": {
         "schema_version": 2,
         "stage": "parsing",
         "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
-        "study_input_hash": "d96be4d5c630ba5dd2c91e6e935b5ef2e735d8fa9c1cdadd498a42d02ff940c3"
-      }
-    },
-    {
-      "pmid": "23021615",
+        "study_input_hash": "e5627a5899fe5d91c2ae173bd06f3463a50e6f21c655fed8583b2ec15200b67d"
+      },
       "analyses": [
         {
-          "name": "\u2191CAPS, \u2193GMV",
+          "name": "NS > S",
           "description": null,
-          "table_id": "1",
+          "table_id": "827",
+          "parsed": true,
           "points": [
             {
               "coordinates": [
-                6.0,
-                -4.0,
-                -8.0
+                25.0,
+                41.0,
+                26.0
               ],
-              "space": null,
+              "space": "MNI",
               "values": [
                 {
-                  "value": 4.0,
-                  "kind": "z-statistic"
+                  "value": 0.008,
+                  "kind": "p-value"
+                },
+                {
+                  "value": 4.02,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
                 }
               ]
             },
             {
               "coordinates": [
-                -32.0,
-                -12.0,
-                16.0
+                23.0,
+                46.0,
+                23.0
               ],
-              "space": null,
+              "space": "MNI",
               "values": [
                 {
-                  "value": 3.87,
-                  "kind": "z-statistic"
+                  "value": 3.28,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "0.001",
+                  "kind": "p-value"
                 }
               ]
             },
             {
               "coordinates": [
-                36.0,
-                -10.0,
-                20.0
-              ],
-              "space": null,
-              "values": [
-                {
-                  "value": 3.89,
-                  "kind": "z-statistic"
-                }
-              ]
-            },
-            {
-              "coordinates": [
-                -60.0,
                 -26.0,
-                -10.0
+                38.0,
+                26.0
               ],
-              "space": null,
+              "space": "MNI",
               "values": [
                 {
-                  "value": 3.78,
-                  "kind": "z-statistic"
+                  "value": 0.066,
+                  "kind": "p-value"
+                },
+                {
+                  "value": 4.52,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                41.0,
+                -45.0,
+                -23.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 0.077,
+                  "kind": "p-value"
+                },
+                {
+                  "value": 3.99,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -36.0,
+                -30.0,
+                -6.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 0.132,
+                  "kind": "p-value"
+                },
+                {
+                  "value": 3.83,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "0.001",
+                  "kind": "p-value"
                 }
               ]
             }
           ]
         },
         {
-          "name": "\u2191Child Trauma, \u2193GMV",
+          "name": "DES+",
           "description": null,
-          "table_id": "1",
+          "table_id": "827",
+          "parsed": true,
           "points": [
             {
               "coordinates": [
-                -44.0,
-                -70.0,
-                -54.0
+                46.0,
+                50.0,
+                16.0
               ],
-              "space": null,
+              "space": "MNI",
               "values": [
                 {
-                  "value": 3.98,
-                  "kind": "z-statistic"
+                  "value": "<0.001",
+                  "kind": "p-value"
+                },
+                {
+                  "value": 31097.0,
+                  "kind": "other"
+                },
+                {
+                  "value": 4.84,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
                 }
               ]
             },
             {
               "coordinates": [
-                -28.0,
-                -68.0,
-                -26.0
+                -7.0,
+                67.0,
+                9.0
               ],
-              "space": null,
+              "space": "MNI",
               "values": [
                 {
-                  "value": 3.35,
-                  "kind": "z-statistic"
+                  "value": 4.43,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
                 }
               ]
             },
             {
               "coordinates": [
-                16.0,
-                -76.0,
-                -52.0
+                -29.0,
+                41.0,
+                26.0
               ],
-              "space": null,
+              "space": "MNI",
               "values": [
                 {
-                  "value": 3.39,
-                  "kind": "z-statistic"
+                  "value": 4.39,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
                 }
               ]
             },
             {
               "coordinates": [
-                36.0,
-                -70.0,
-                -26.0
+                -31.0,
+                25.0,
+                -31.0
               ],
-              "space": null,
+              "space": "MNI",
               "values": [
                 {
-                  "value": 3.49,
-                  "kind": "z-statistic"
+                  "value": 0.001,
+                  "kind": "p-value"
+                },
+                {
+                  "value": 8063.0,
+                  "kind": "other"
+                },
+                {
+                  "value": 5.27,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -32.0,
+                24.0,
+                -33.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.92,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -29.0,
+                18.0,
+                -23.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                },
+                {
+                  "value": 8615.0,
+                  "kind": "other"
+                },
+                {
+                  "value": 4.27,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                30.0,
+                21.0,
+                -28.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.3,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -10.0,
+                -2.0,
+                -23.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.62,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                60.0,
+                -59.0,
+                26.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 0.004,
+                  "kind": "p-value"
+                },
+                {
+                  "value": 6073.0,
+                  "kind": "other"
+                },
+                {
+                  "value": 4.11,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "0.001",
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "DES-",
+          "description": null,
+          "table_id": "827",
+          "parsed": true,
+          "points": [
+            {
+              "coordinates": [
+                21.0,
+                7.0,
+                9.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 0.053,
+                  "kind": "p-value"
+                },
+                {
+                  "value": 3801.0,
+                  "kind": "other"
+                },
+                {
+                  "value": 3.91,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "DES-T+",
+          "description": null,
+          "table_id": "827",
+          "parsed": true,
+          "points": [
+            {
+              "coordinates": [
+                11.0,
+                35.0,
+                53.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 0.046,
+                  "kind": "p-value"
+                },
+                {
+                  "value": 3940.0,
+                  "kind": "other"
+                },
+                {
+                  "value": 3.89,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                50.0,
+                23.0,
+                -24.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                },
+                {
+                  "value": 16192.0,
+                  "kind": "other"
+                },
+                {
+                  "value": 3.65,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -33.0,
+                25.0,
+                -32.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 4.4,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
                 }
               ]
             },
             {
               "coordinates": [
                 -42.0,
-                -30.0,
-                38.0
+                24.0,
+                -23.0
               ],
-              "space": null,
+              "space": "MNI",
               "values": [
                 {
-                  "value": 3.95,
-                  "kind": "z-statistic"
+                  "value": 3.19,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                58.0,
+                -62.0,
+                29.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 0.094,
+                  "kind": "p-value"
+                },
+                {
+                  "value": 3339.0,
+                  "kind": "other"
+                },
+                {
+                  "value": 4.1,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
                 }
               ]
             }
           ]
         },
         {
-          "name": "Non-PTSD > PTSD",
+          "name": "DES-T-",
           "description": null,
-          "table_id": "1",
+          "table_id": "827",
+          "parsed": true,
           "points": [
             {
               "coordinates": [
+                20.0,
                 10.0,
-                8.0,
-                -14.0
+                3.0
               ],
-              "space": null,
+              "space": "MNI",
               "values": [
                 {
-                  "value": 4.44,
-                  "kind": "z-statistic"
+                  "value": 0.334,
+                  "kind": "p-value"
+                },
+                {
+                  "value": 2297.0,
+                  "kind": "other"
+                },
+                {
+                  "value": 3.15,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "0.001",
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "DES-A+",
+          "description": null,
+          "table_id": "827",
+          "parsed": true,
+          "points": [
+            {
+              "coordinates": [
+                29.0,
+                28.0,
+                26.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 0.038,
+                  "kind": "p-value"
+                },
+                {
+                  "value": 4084.0,
+                  "kind": "other"
+                },
+                {
+                  "value": 6.68,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                23.0,
+                52.0,
+                15.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 3.06,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "0.003",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                50.0,
+                50.0,
+                17.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                },
+                {
+                  "value": 9363.0,
+                  "kind": "other"
+                },
+                {
+                  "value": 4.35,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -30.0,
+                41.0,
+                27.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 0.001,
+                  "kind": "p-value"
+                },
+                {
+                  "value": 7782.0,
+                  "kind": "other"
+                },
+                {
+                  "value": 4.21,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
                 }
               ]
             },
             {
               "coordinates": [
                 -32.0,
-                -12.0,
-                18.0
+                22.0,
+                -22.0
               ],
-              "space": null,
+              "space": "MNI",
               "values": [
                 {
-                  "value": 3.68,
-                  "kind": "z-statistic"
+                  "value": 0.056,
+                  "kind": "p-value"
+                },
+                {
+                  "value": 3769.0,
+                  "kind": "other"
+                },
+                {
+                  "value": 3.45,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "0.001",
+                  "kind": "p-value"
                 }
               ]
             },
             {
               "coordinates": [
-                38.0,
-                42.0,
-                14.0
+                -29.0,
+                28.0,
+                -33.0
               ],
-              "space": null,
+              "space": "MNI",
               "values": [
                 {
-                  "value": 4.37,
-                  "kind": "z-statistic"
+                  "value": 0.052,
+                  "kind": "p-value"
+                },
+                {
+                  "value": 3825.0,
+                  "kind": "other"
+                },
+                {
+                  "value": 4.44,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
                 }
               ]
             },
             {
               "coordinates": [
-                -64.0,
-                -26.0,
-                -10.0
+                60.0,
+                -69.0,
+                28.0
               ],
-              "space": null,
+              "space": "MNI",
               "values": [
                 {
-                  "value": 3.79,
-                  "kind": "z-statistic"
+                  "value": 0.051,
+                  "kind": "p-value"
+                },
+                {
+                  "value": 3846.0,
+                  "kind": "other"
+                },
+                {
+                  "value": 3.06,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "0.003",
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "DES-A-",
+          "description": null,
+          "table_id": "827",
+          "parsed": true,
+          "points": [
+            {
+              "coordinates": [
+                24.0,
+                9.0,
+                5.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
+                },
+                {
+                  "value": 9335.0,
+                  "kind": "other"
+                },
+                {
+                  "value": 4.32,
+                  "kind": "t-statistic"
+                },
+                {
+                  "value": "<0.001",
+                  "kind": "p-value"
                 }
               ]
             }
           ]
         }
-      ],
+      ]
+    },
+    {
+      "pmid": "23155380",
       "cache_signature": {
         "schema_version": 2,
         "stage": "parsing",
         "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
-        "study_input_hash": "fbcd87e19c333edad57030d52a390c3328ece6d2757ea0a533399b6e1b4edead"
-      }
-    },
-    {
-      "pmid": "23155380",
+        "study_input_hash": "358b24fd91ee9eb4ed4c01af78873f73814a5fa9a5cb172f825ad1e242aac057"
+      },
       "analyses": [
         {
-          "name": "Normal control (n\u000220) > Recent onset PTSD (n\u000210)",
+          "name": "Normal control (n=20) > Recent onset PTSD (n=10)",
           "description": null,
           "table_id": "pone-0048298-t002",
+          "parsed": true,
           "points": [
             {
               "coordinates": [
@@ -2453,9 +2919,10 @@
           ]
         },
         {
-          "name": "Normal control (n\u000220) > non PTSD (n\u000210)",
+          "name": "Normal control (n=20) > non PTSD (n=10)",
           "description": null,
           "table_id": "pone-0048298-t002",
+          "parsed": true,
           "points": [
             {
               "coordinates": [
@@ -2496,9 +2963,10 @@
           ]
         },
         {
-          "name": "trauma survivors",
-          "description": "Correlations of Gray matter volume with CAPS score in trauma survivors, recent onset PTSD and non PTSD.",
+          "name": "Correlation of gray matter volume with CAPS score \u2014 trauma survivors",
+          "description": null,
           "table_id": "pone-0048298-t003",
+          "parsed": true,
           "points": [
             {
               "coordinates": [
@@ -2593,9 +3061,10 @@
           ]
         },
         {
-          "name": "PTSD group",
-          "description": "Correlations of Gray matter volume with CAPS score in trauma survivors, recent onset PTSD and non PTSD.",
+          "name": "Correlation of gray matter volume with CAPS score \u2014 PTSD group",
+          "description": null,
           "table_id": "pone-0048298-t003",
+          "parsed": true,
           "points": [
             {
               "coordinates": [
@@ -2652,28 +3121,240 @@
               ]
             }
           ]
-        },
-        {
-          "name": "non PTSD group",
-          "description": "Correlations of Gray matter volume with CAPS score in trauma survivors, recent onset PTSD and non PTSD.",
-          "table_id": "pone-0048298-t003",
-          "points": []
         }
-      ],
+      ]
+    },
+    {
+      "pmid": "23021615",
       "cache_signature": {
         "schema_version": 2,
         "stage": "parsing",
         "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
-        "study_input_hash": "3a7e050fe0d48b469712541196a52e6d5e04a27d9ed6805ed0c2159ef7b17b67"
-      }
+        "study_input_hash": "d2e900e850596a0ea7630e2bb060c77c777a7472842b36fab396c456aeb7f2a4"
+      },
+      "analyses": [
+        {
+          "name": "\u2191CAPS, \u2193GMV",
+          "description": null,
+          "table_id": "785",
+          "parsed": true,
+          "points": [
+            {
+              "coordinates": [
+                6.0,
+                -4.0,
+                -8.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.0,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -32.0,
+                -12.0,
+                16.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.87,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                36.0,
+                -10.0,
+                20.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.89,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -60.0,
+                -26.0,
+                -10.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.78,
+                  "kind": "z-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "\u2191Child Trauma, \u2193GMV",
+          "description": null,
+          "table_id": "785",
+          "parsed": true,
+          "points": [
+            {
+              "coordinates": [
+                -44.0,
+                -70.0,
+                -54.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.98,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -28.0,
+                -68.0,
+                -26.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.35,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                16.0,
+                -76.0,
+                -52.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.39,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                36.0,
+                -70.0,
+                -26.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.49,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -42.0,
+                -30.0,
+                38.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.95,
+                  "kind": "z-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Non-PTSD > PTSD",
+          "description": null,
+          "table_id": "785",
+          "parsed": true,
+          "points": [
+            {
+              "coordinates": [
+                10.0,
+                8.0,
+                -14.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.44,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -32.0,
+                -12.0,
+                18.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.68,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                38.0,
+                42.0,
+                14.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.37,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -64.0,
+                -26.0,
+                -10.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.79,
+                  "kind": "z-statistic"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "pmid": "19942229",
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "80aea32ee9f9d630748e5d6937cdf30ebb31e6b68878d593609007e350aea6e3"
+      },
       "analyses": [
         {
-          "name": "Regions in which GM density was significantly lower in S as compared to NS (NS > S).",
-          "description": null,
-          "table_id": "2",
+          "name": "NS > S (GM density lower in S compared to NS)",
+          "description": "Regions in which GM density was significantly lower in S as compared to NS (NS > S).",
+          "table_id": "792",
+          "parsed": false,
           "points": [
             {
               "coordinates": [
@@ -2684,15 +3365,15 @@
               "space": "TAL",
               "values": [
                 {
-                  "value": 0.054,
-                  "kind": "p-value"
-                },
-                {
                   "value": 3.59,
                   "kind": "z-statistic"
                 },
                 {
                   "value": 0.001,
+                  "kind": "p-value"
+                },
+                {
+                  "value": 0.054,
                   "kind": "p-value"
                 }
               ]
@@ -2772,9 +3453,10 @@
           ]
         },
         {
-          "name": "Regions in which GM density was significantly lower in NR as compared to R (R > NR).",
-          "description": null,
-          "table_id": "3",
+          "name": "R > NR (GM density lower in NR compared to R)",
+          "description": "Regions in which gray-matter (GM) density was significantly lower in non-responders (NR) compared to responders (R) \u2014 contrast R > NR. Coordinates reported in Talairach space from table caption/headers.",
+          "table_id": "793",
+          "parsed": true,
           "points": [
             {
               "coordinates": [
@@ -2784,10 +3466,6 @@
               ],
               "space": "TAL",
               "values": [
-                {
-                  "value": 0.036,
-                  "kind": "p-value"
-                },
                 {
                   "value": 4.54,
                   "kind": "z-statistic"
@@ -2843,10 +3521,6 @@
               "space": "TAL",
               "values": [
                 {
-                  "value": 0.029,
-                  "kind": "p-value"
-                },
-                {
                   "value": 4.03,
                   "kind": "z-statistic"
                 },
@@ -2901,10 +3575,6 @@
               "space": "TAL",
               "values": [
                 {
-                  "value": 0.025,
-                  "kind": "p-value"
-                },
-                {
                   "value": 3.16,
                   "kind": "z-statistic"
                 },
@@ -2935,9 +3605,10 @@
           ]
         },
         {
-          "name": "Regions in which GM density negatively correlated with TAQ-.",
+          "name": "GM density negatively correlated with TAQ-",
           "description": null,
-          "table_id": "4",
+          "table_id": "794",
+          "parsed": true,
           "points": [
             {
               "coordinates": [
@@ -2976,6 +3647,10 @@
                 {
                   "value": 0.001,
                   "kind": "p-value"
+                },
+                {
+                  "value": 0.001,
+                  "kind": "p-value"
                 }
               ]
             },
@@ -2990,6 +3665,10 @@
                 {
                   "value": 4.42,
                   "kind": "z-statistic"
+                },
+                {
+                  "value": 0.001,
+                  "kind": "p-value"
                 },
                 {
                   "value": 0.001,
@@ -3034,6 +3713,10 @@
                 {
                   "value": 0.001,
                   "kind": "p-value"
+                },
+                {
+                  "value": 0.001,
+                  "kind": "p-value"
                 }
               ]
             },
@@ -3048,6 +3731,10 @@
                 {
                   "value": 3.27,
                   "kind": "z-statistic"
+                },
+                {
+                  "value": 0.001,
+                  "kind": "p-value"
                 },
                 {
                   "value": 0.001,
@@ -3092,6 +3779,10 @@
                 {
                   "value": 0.001,
                   "kind": "p-value"
+                },
+                {
+                  "value": 0.001,
+                  "kind": "p-value"
                 }
               ]
             },
@@ -3106,6 +3797,10 @@
                 {
                   "value": 3.74,
                   "kind": "z-statistic"
+                },
+                {
+                  "value": 0.001,
+                  "kind": "p-value"
                 },
                 {
                   "value": 0.001,
@@ -3150,6 +3845,10 @@
                 {
                   "value": 0.001,
                   "kind": "p-value"
+                },
+                {
+                  "value": 0.001,
+                  "kind": "p-value"
                 }
               ]
             },
@@ -3190,6 +3889,10 @@
                 {
                   "value": 0.001,
                   "kind": "p-value"
+                },
+                {
+                  "value": 0.032,
+                  "kind": "p-value"
                 }
               ]
             },
@@ -3207,6 +3910,10 @@
                 },
                 {
                   "value": 0.001,
+                  "kind": "p-value"
+                },
+                {
+                  "value": 0.032,
                   "kind": "p-value"
                 }
               ]
@@ -3247,6 +3954,10 @@
                 },
                 {
                   "value": 0.001,
+                  "kind": "p-value"
+                },
+                {
+                  "value": 0.003,
                   "kind": "p-value"
                 }
               ]
@@ -3310,6 +4021,10 @@
                 {
                   "value": 0.001,
                   "kind": "p-value"
+                },
+                {
+                  "value": 0.014,
+                  "kind": "p-value"
                 }
               ]
             },
@@ -3359,93 +4074,133 @@
             }
           ]
         }
-      ],
+      ]
+    },
+    {
+      "pmid": "39497016",
       "cache_signature": {
         "schema_version": 2,
         "stage": "parsing",
         "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
-        "study_input_hash": "ce821c0197da92737dcc0cc58c47f1c75a65a000e8561ac4519eb76f3d72b9e3"
-      }
-    },
-    {
-      "pmid": "21498053",
+        "study_input_hash": "5e450328ef2f7eb60dc30e76b3feb188866decd08e3d48b55a2c37772161c03a"
+      },
       "analyses": [
         {
-          "name": "Coordinates and significance values of the gray matter decrease in PTSD patients compared with non-PTSD subjects.",
-          "description": null,
-          "table_id": "11",
+          "name": "PTSD < HC",
+          "description": "Regions of grey matter reduction in PTSD versus healthy controls",
+          "table_id": "Tab1",
+          "parsed": true,
           "points": [
             {
               "coordinates": [
-                -17.0,
-                -9.0,
-                -26.0
+                -4.0,
+                52.0,
+                19.0
               ],
               "space": "MNI",
               "values": [
                 {
-                  "value": 4.1,
-                  "kind": "z-statistic"
-                },
-                {
-                  "value": 0.01,
-                  "kind": "p-value"
+                  "value": -4.6312,
+                  "kind": "t-statistic"
                 }
               ]
             },
             {
               "coordinates": [
-                5.0,
-                -81.0,
-                15.0
+                34.0,
+                44.0,
+                28.0
               ],
               "space": "MNI",
               "values": [
                 {
-                  "value": 3.4,
-                  "kind": "z-statistic"
-                },
+                  "value": -4.9514,
+                  "kind": "t-statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PTSD < HC (VICI values reduction)",
+          "description": "Regions of VICI values reduction in PTSD versus healthy controls. Coordinates reported in MNI space.",
+          "table_id": "Tab3",
+          "parsed": true,
+          "points": [
+            {
+              "coordinates": [
+                -4.0,
+                31.0,
+                -22.0
+              ],
+              "space": "MNI",
+              "values": [
                 {
-                  "value": 0.01,
-                  "kind": "p-value"
+                  "value": -4.6121,
+                  "kind": "t-statistic"
                 }
               ]
             },
             {
               "coordinates": [
-                -12.0,
-                -67.0,
-                17.0
+                24.0,
+                -34.0,
+                -7.0
               ],
               "space": "MNI",
               "values": [
                 {
-                  "value": 3.4,
-                  "kind": "z-statistic"
-                },
+                  "value": -4.57,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -57.0,
+                -27.0,
+                1.0
+              ],
+              "space": "MNI",
+              "values": [
                 {
-                  "value": 0.001,
-                  "kind": "p-value"
+                  "value": -4.5165,
+                  "kind": "t-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                23.0,
+                49.0,
+                21.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": -5.925,
+                  "kind": "t-statistic"
                 }
               ]
             }
           ]
         }
-      ],
+      ]
+    },
+    {
+      "pmid": "17825801",
       "cache_signature": {
         "schema_version": 2,
         "stage": "parsing",
         "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
-        "study_input_hash": "1ecaa7f5123f16267358fd4c879056abc260ba61750ecc2a7ddb5a0e46d3a3f1"
-      }
-    },
-    {
-      "pmid": "17825801",
+        "study_input_hash": "35dcc0c03e14f23c6b6ef77c6f4d1549132367d8cdb95eec042c8ee297e6ede5"
+      },
       "analyses": [
         {
           "name": null,
           "description": null,
-          "table_id": "6",
+          "table_id": "787",
+          "parsed": true,
           "points": [
             {
               "coordinates": [
@@ -3564,9 +4319,10 @@
           ]
         },
         {
-          "name": "Combat-Exposed Twins: PTSD vs. non-PTSD",
+          "name": "Combat-Exposed Twins: PTSD vs. non-PTSD \u2014 Unadjusted",
           "description": null,
-          "table_id": "7",
+          "table_id": "788",
+          "parsed": false,
           "points": [
             {
               "coordinates": [
@@ -3581,28 +4337,8 @@
                   "kind": "z-statistic"
                 },
                 {
-                  "value": 4.43,
-                  "kind": "z-statistic"
-                },
-                {
-                  "value": 3.23,
-                  "kind": "z-statistic"
-                },
-                {
-                  "value": 3.98,
-                  "kind": "z-statistic"
-                },
-                {
-                  "value": 3.39,
-                  "kind": "z-statistic"
-                },
-                {
-                  "value": 3.19,
-                  "kind": "z-statistic"
-                },
-                {
-                  "value": 2.07,
-                  "kind": "z-statistic"
+                  "value": ".001",
+                  "kind": "p-value"
                 }
               ]
             },
@@ -3619,28 +4355,8 @@
                   "kind": "z-statistic"
                 },
                 {
-                  "value": 4.36,
-                  "kind": "z-statistic"
-                },
-                {
-                  "value": 3.05,
-                  "kind": "z-statistic"
-                },
-                {
-                  "value": 4.11,
-                  "kind": "z-statistic"
-                },
-                {
-                  "value": 4.63,
-                  "kind": "z-statistic"
-                },
-                {
-                  "value": 3.56,
-                  "kind": "z-statistic"
-                },
-                {
-                  "value": 1.52,
-                  "kind": "z-statistic"
+                  "value": ".001",
+                  "kind": "p-value"
                 }
               ]
             },
@@ -3657,28 +4373,8 @@
                   "kind": "z-statistic"
                 },
                 {
-                  "value": 3.98,
-                  "kind": "z-statistic"
-                },
-                {
-                  "value": 3.32,
-                  "kind": "z-statistic"
-                },
-                {
-                  "value": 3.06,
-                  "kind": "z-statistic"
-                },
-                {
-                  "value": 3.26,
-                  "kind": "z-statistic"
-                },
-                {
-                  "value": 3.63,
-                  "kind": "z-statistic"
-                },
-                {
-                  "value": 2.15,
-                  "kind": "z-statistic"
+                  "value": ".005",
+                  "kind": "p-value"
                 }
               ]
             },
@@ -3695,37 +4391,498 @@
                   "kind": "z-statistic"
                 },
                 {
-                  "value": 3.59,
-                  "kind": "z-statistic"
-                },
-                {
-                  "value": 2.5,
-                  "kind": "z-statistic"
-                },
-                {
-                  "value": 2.79,
-                  "kind": "z-statistic"
-                },
-                {
-                  "value": 2.4,
-                  "kind": "z-statistic"
-                },
-                {
-                  "value": 2.92,
-                  "kind": "z-statistic"
-                },
-                {
-                  "value": 0.93,
-                  "kind": "z-statistic"
+                  "value": ".004",
+                  "kind": "p-value"
                 }
               ]
             }
           ]
         },
         {
-          "name": "Diagnosis \u00d7 Combat Exposure Interaction",
+          "name": "Combat-Exposed Twins: PTSD vs. non-PTSD \u2014 Age",
           "description": null,
-          "table_id": "7",
+          "table_id": "788",
+          "parsed": false,
+          "points": [
+            {
+              "coordinates": [
+                44.0,
+                -2.0,
+                -14.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.43,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": ".001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                34.0,
+                -28.0,
+                -16.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.36,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": ".001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -36.0,
+                10.0,
+                -4.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.98,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": ".005",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                0.0,
+                46.0,
+                10.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.59,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": ".009",
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Combat-Exposed Twins: PTSD vs. non-PTSD \u2014 Combat Severity",
+          "description": null,
+          "table_id": "788",
+          "parsed": false,
+          "points": [
+            {
+              "coordinates": [
+                44.0,
+                -2.0,
+                -14.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.23,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": ".05",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                34.0,
+                -28.0,
+                -16.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.05,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": ".11",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -36.0,
+                10.0,
+                -4.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.32,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": ".03",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                0.0,
+                46.0,
+                10.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 2.5,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": ".18",
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Combat-Exposed Twins: PTSD vs. non-PTSD \u2014 Traumatic Events",
+          "description": null,
+          "table_id": "788",
+          "parsed": false,
+          "points": [
+            {
+              "coordinates": [
+                44.0,
+                -2.0,
+                -14.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.98,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": ".005",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                34.0,
+                -28.0,
+                -16.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.11,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": ".004",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -36.0,
+                10.0,
+                -4.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.06,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": ".07",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                0.0,
+                46.0,
+                10.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 2.79,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": ".08",
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Combat-Exposed Twins: PTSD vs. non-PTSD \u2014 MAST Score",
+          "description": null,
+          "table_id": "788",
+          "parsed": false,
+          "points": [
+            {
+              "coordinates": [
+                44.0,
+                -2.0,
+                -14.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.39,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": ".02",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                34.0,
+                -28.0,
+                -16.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 4.63,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": "<.001",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -36.0,
+                10.0,
+                -4.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.26,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": ".04",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                0.0,
+                46.0,
+                10.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 2.4,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": ".14",
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Combat-Exposed Twins: PTSD vs. non-PTSD \u2014 Childhood Abuse",
+          "description": null,
+          "table_id": "788",
+          "parsed": false,
+          "points": [
+            {
+              "coordinates": [
+                44.0,
+                -2.0,
+                -14.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.19,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": ".04",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                34.0,
+                -28.0,
+                -16.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.56,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": ".04",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -36.0,
+                10.0,
+                -4.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 3.63,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": ".01",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                0.0,
+                46.0,
+                10.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 2.92,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": ".03",
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Combat-Exposed Twins: PTSD vs. non-PTSD \u2014 SCL-90-R Depression",
+          "description": null,
+          "table_id": "788",
+          "parsed": false,
+          "points": [
+            {
+              "coordinates": [
+                44.0,
+                -2.0,
+                -14.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 2.07,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": ".49",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                34.0,
+                -28.0,
+                -16.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 1.52,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": ".99",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -36.0,
+                10.0,
+                -4.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 2.15,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": ".44",
+                  "kind": "p-value"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                0.0,
+                46.0,
+                10.0
+              ],
+              "space": null,
+              "values": [
+                {
+                  "value": 0.93,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": ".99",
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Diagnosis \u00d7 Combat Exposure Interaction \u2014 Unadjusted",
+          "description": null,
+          "table_id": "788",
+          "parsed": false,
           "points": [
             {
               "coordinates": [
@@ -3740,48 +4897,185 @@
                   "kind": "z-statistic"
                 },
                 {
+                  "value": ".02",
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Diagnosis \u00d7 Combat Exposure Interaction \u2014 Age",
+          "description": null,
+          "table_id": "788",
+          "parsed": false,
+          "points": [
+            {
+              "coordinates": [
+                8.0,
+                50.0,
+                12.0
+              ],
+              "space": null,
+              "values": [
+                {
                   "value": 3.39,
                   "kind": "z-statistic"
                 },
+                {
+                  "value": ".02",
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Diagnosis \u00d7 Combat Exposure Interaction \u2014 Combat Severity",
+          "description": null,
+          "table_id": "788",
+          "parsed": false,
+          "points": [
+            {
+              "coordinates": [
+                8.0,
+                50.0,
+                12.0
+              ],
+              "space": null,
+              "values": [
                 {
                   "value": 3.32,
                   "kind": "z-statistic"
                 },
                 {
+                  "value": ".02",
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Diagnosis \u00d7 Combat Exposure Interaction \u2014 Traumatic Events",
+          "description": null,
+          "table_id": "788",
+          "parsed": false,
+          "points": [
+            {
+              "coordinates": [
+                8.0,
+                50.0,
+                12.0
+              ],
+              "space": null,
+              "values": [
+                {
                   "value": 2.76,
                   "kind": "z-statistic"
                 },
+                {
+                  "value": ".10",
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Diagnosis \u00d7 Combat Exposure Interaction \u2014 MAST Score",
+          "description": null,
+          "table_id": "788",
+          "parsed": false,
+          "points": [
+            {
+              "coordinates": [
+                8.0,
+                50.0,
+                12.0
+              ],
+              "space": null,
+              "values": [
                 {
                   "value": 2.77,
                   "kind": "z-statistic"
                 },
                 {
+                  "value": ".10",
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Diagnosis \u00d7 Combat Exposure Interaction \u2014 Childhood Abuse",
+          "description": null,
+          "table_id": "788",
+          "parsed": false,
+          "points": [
+            {
+              "coordinates": [
+                8.0,
+                50.0,
+                12.0
+              ],
+              "space": null,
+              "values": [
+                {
                   "value": 3.42,
                   "kind": "z-statistic"
                 },
                 {
+                  "value": ".01",
+                  "kind": "p-value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Diagnosis \u00d7 Combat Exposure Interaction \u2014 SCL-90-R Depression",
+          "description": null,
+          "table_id": "788",
+          "parsed": false,
+          "points": [
+            {
+              "coordinates": [
+                8.0,
+                50.0,
+                12.0
+              ],
+              "space": null,
+              "values": [
+                {
                   "value": 1.81,
                   "kind": "z-statistic"
+                },
+                {
+                  "value": ".53",
+                  "kind": "p-value"
                 }
               ]
             }
           ]
         }
-      ],
+      ]
+    },
+    {
+      "pmid": "16371250",
       "cache_signature": {
         "schema_version": 2,
         "stage": "parsing",
         "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
-        "study_input_hash": "3e2adfb78095e338d5c42ce9c0198a87ea100645fa9c271ed19d79b1b4dd6658"
-      }
-    },
-    {
-      "pmid": "16371250",
+        "study_input_hash": "331639641292ccdaa198bd9c254b59d20bb8a5cd5f81e701acae52eceb41881c"
+      },
       "analyses": [
         {
-          "name": "Reductions in gray matter in PTSD patients compared with non-PTSD subjects",
-          "description": null,
-          "table_id": "12",
+          "name": "Gray matter reductions in PTSD patients vs non-PTSD (PTSD < non-PTSD)",
+          "description": "Reductions in gray matter in PTSD patients compared with non-PTSD subjects (table: Talairach coordinates)",
+          "table_id": "830",
+          "parsed": true,
           "points": [
             {
               "coordinates": [
@@ -3841,273 +5135,158 @@
             }
           ]
         }
-      ],
+      ]
+    },
+    {
+      "pmid": "21498053",
       "cache_signature": {
         "schema_version": 2,
         "stage": "parsing",
         "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
-        "study_input_hash": "4d7267150915b9e38c2c2e554e766f362a6472fdd9d656e12b87fe7f12be2211"
-      }
-    },
-    {
-      "pmid": "38614407",
+        "study_input_hash": "9fc7f8f56cd78b8d80db505f7d8d3a7a7ddfcad2d1a624f12b98745a3c665bd5"
+      },
       "analyses": [
         {
-          "name": "HC > PTSD",
-          "description": "a. Maintenance trial",
-          "table_id": "25",
-          "points": []
-        },
-        {
-          "name": "PTSD > HC",
-          "description": "a. Maintenance trial",
-          "table_id": "25",
+          "name": "Gray matter decrease in PTSD patients compared with non-PTSD subjects",
+          "description": null,
+          "table_id": "816",
+          "parsed": true,
           "points": [
             {
               "coordinates": [
-                -50.0,
-                2.0,
-                -24.0
+                -17.0,
+                -9.0,
+                -26.0
               ],
               "space": "MNI",
               "values": [
                 {
-                  "value": 4.54,
-                  "kind": "t-statistic"
+                  "value": 4.1,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 0.01,
+                  "kind": "p-value"
                 }
               ]
             },
             {
               "coordinates": [
-                -48.0,
-                -68.0,
-                20.0
+                5.0,
+                -81.0,
+                15.0
               ],
               "space": "MNI",
               "values": [
                 {
-                  "value": 4.18,
-                  "kind": "t-statistic"
+                  "value": 3.4,
+                  "kind": "z-statistic"
+                },
+                {
+                  "value": 0.01,
+                  "kind": "p-value"
                 }
               ]
             },
             {
               "coordinates": [
-                -64.0,
-                -44.0,
-                22.0
+                -12.0,
+                -67.0,
+                17.0
               ],
               "space": "MNI",
               "values": [
                 {
-                  "value": 4.14,
-                  "kind": "t-statistic"
-                }
-              ]
-            },
-            {
-              "coordinates": [
-                58.0,
-                -4.0,
-                2.0
-              ],
-              "space": "MNI",
-              "values": [
+                  "value": 3.4,
+                  "kind": "z-statistic"
+                },
                 {
-                  "value": 3.95,
-                  "kind": "t-statistic"
+                  "value": 0.001,
+                  "kind": "p-value"
                 }
               ]
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "pmid": "22952599",
+      "cache_signature": {
+        "schema_version": 2,
+        "stage": "parsing",
+        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+        "study_input_hash": "1ad88ae19fd99670156514c857167445fb4c809c99a9700ed47f07279ae13f80"
+      },
+      "analyses": [
         {
-          "name": "HC > PTSD",
-          "description": "b. Distractor trial \u2014 Human face versus face scrambled distractor",
-          "table_id": "25",
+          "name": "t-tests comparing PTSD and control groups",
+          "description": "Results of t-tests comparing PTSD and control groups. Stereotactic coordinates quoted in MNI space.",
+          "table_id": "pone-0042560-t002",
+          "parsed": true,
           "points": [
             {
               "coordinates": [
-                28.0,
-                62.0,
+                53.0,
+                -1.0,
+                35.0
+              ],
+              "space": "MNI",
+              "values": [
+                {
+                  "value": 5.01,
+                  "kind": "z-statistic"
+                }
+              ]
+            },
+            {
+              "coordinates": [
+                -12.0,
+                54.0,
                 10.0
               ],
               "space": "MNI",
               "values": [
                 {
-                  "value": 4.72,
-                  "kind": "t-statistic"
+                  "value": 4.14,
+                  "kind": "z-statistic"
                 }
               ]
             },
             {
               "coordinates": [
-                58.0,
-                20.0,
-                28.0
-              ],
-              "space": "MNI",
-              "values": [
-                {
-                  "value": 4.58,
-                  "kind": "t-statistic"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "PTSD > HC",
-          "description": "b. Distractor trial \u2014 Human face versus face scrambled distractor",
-          "table_id": "25",
-          "points": []
-        },
-        {
-          "name": "HC > PTSD",
-          "description": "b. Distractor trial \u2014 Trauma-related versus neutral distractor",
-          "table_id": "25",
-          "points": []
-        },
-        {
-          "name": "PTSD > HC",
-          "description": "b. Distractor trial \u2014 Trauma-related versus neutral distractor",
-          "table_id": "25",
-          "points": [
-            {
-              "coordinates": [
-                -60.0,
-                -32.0,
-                18.0
-              ],
-              "space": "MNI",
-              "values": [
-                {
-                  "value": 4.53,
-                  "kind": "t-statistic"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "cache_signature": {
-        "schema_version": 2,
-        "stage": "parsing",
-        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
-        "study_input_hash": "cc60d77f3a443ea24361fd9e63b7c818ff6c3205945ea26a2e2b4c4b42521f8c"
-      }
-    },
-    {
-      "pmid": "39497016",
-      "analyses": [
-        {
-          "name": "PTSD\u2009< HC",
-          "description": "Regions of grey matter reduction in PTSD versus healthy controls",
-          "table_id": "Tab1",
-          "points": [
-            {
-              "coordinates": [
-                -4.0,
-                52.0,
-                19.0
-              ],
-              "space": "MNI",
-              "values": [
-                {
-                  "value": -4.6312,
-                  "kind": "t-statistic"
-                }
-              ]
-            },
-            {
-              "coordinates": [
-                34.0,
-                44.0,
-                28.0
-              ],
-              "space": "MNI",
-              "values": [
-                {
-                  "value": -4.9514,
-                  "kind": "t-statistic"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "PTSD\u2009<\u2009HC",
-          "description": null,
-          "table_id": "Tab3",
-          "points": [
-            {
-              "coordinates": [
-                -4.0,
                 31.0,
-                -22.0
+                -76.0,
+                47.0
               ],
               "space": "MNI",
               "values": [
                 {
-                  "value": -4.6121,
-                  "kind": "t-statistic"
+                  "value": 4.16,
+                  "kind": "z-statistic"
                 }
               ]
             },
             {
               "coordinates": [
-                24.0,
-                -34.0,
-                -7.0
+                53.0,
+                -25.0,
+                -3.0
               ],
               "space": "MNI",
               "values": [
                 {
-                  "value": -4.57,
-                  "kind": "t-statistic"
-                }
-              ]
-            },
-            {
-              "coordinates": [
-                -57.0,
-                -27.0,
-                1.0
-              ],
-              "space": "MNI",
-              "values": [
-                {
-                  "value": -4.5165,
-                  "kind": "t-statistic"
-                }
-              ]
-            },
-            {
-              "coordinates": [
-                23.0,
-                49.0,
-                21.0
-              ],
-              "space": "MNI",
-              "values": [
-                {
-                  "value": -5.925,
-                  "kind": "t-statistic"
+                  "value": 3.37,
+                  "kind": "z-statistic"
                 }
               ]
             }
           ]
         }
-      ],
-      "cache_signature": {
-        "schema_version": 2,
-        "stage": "parsing",
-        "stage_hash": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
-        "study_input_hash": "6f7937b4c18e40290130623b6455c3d5b766c8917c63845abcd64c64302cb24d"
-      }
+      ]
     }
   ],
-  "timestamp": "2026-04-28T22:07:59.670936",
+  "timestamp": "2026-08-15T01:20:50.380184",
   "cache_signature": {
     "schema_version": 2,
     "stage": "parsing",
