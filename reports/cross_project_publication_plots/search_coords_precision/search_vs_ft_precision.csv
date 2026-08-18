@@ -1,10 +1,10 @@
 project_name,run_name,condition,n_search_precision_denominator,n_search_true_positive,search_precision,n_ft,n_ft_true_positive,ft_precision
 cue_reactivity,v5,cue_reactivity,1174,142,0.12095400340715502,426,137,0.3215962441314554
-decision_making,v2,decision_making,769,92,0.11963589076723016,432,81,0.1875
+decision_making,v2,decision_making,769,92,0.11963589076723016,433,83,0.19168591224018475
 dementia,v3,dementia,2027,70,0.03453379378391712,157,62,0.39490445859872614
-executive_function,v1,executive_function,6447,127,0.01969908484566465,575,55,0.09565217391304348
+executive_function,v1,executive_function,6447,127,0.01969908484566465,591,56,0.09475465313028765
 problem_solving,v1,problem_solving,6927,77,0.011115923199076078,275,50,0.18181818181818182
-social,v3-search-all_pmids-multi_analysis-ft,social,1065,238,0.22347417840375586,579,234,0.40414507772020725
+social,v3-search-all_pmids-multi_analysis-ft,social,1065,238,0.22347417840375586,568,231,0.40669014084507044
 vbm_of_ptsd,v1,vbm_of_ptsd,73,18,0.2465753424657534,27,16,0.5925925925925926
-vbm_of_substance_use,v2,vbm_of_substance_use,594,63,0.10606060606060606,124,58,0.46774193548387094
+vbm_of_substance_use,v2,vbm_of_substance_use,358,49,0.13687150837988826,100,46,0.46
 dementia,v3-allstudies,dementia_allstudies,536,73,0.13619402985074627,128,65,0.5078125
