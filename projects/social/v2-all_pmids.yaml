@@ -1,6 +1,6 @@
 search:
   database: "pubmed"
-  pmids_file: "/home/zorro/repos/autonima-results/social-processing/all_pmids.txt"
+  pmids_file: "/home/zorro/repos/autonima-results/projects/social/validation_ids/all_pmids.txt"
 
 retrieval:
   sources:

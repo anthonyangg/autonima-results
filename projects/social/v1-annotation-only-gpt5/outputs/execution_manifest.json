@@ -1,30 +1,142 @@
 {
-  "cache_policy": "auto",
-  "changed_stages": [],
-  "completed_at": "2026-08-13T13:46:54-05:00",
-  "completed_stage": "full",
-  "config_hash": "80e0c13a8597c53adf21721a4b0630e833eda4b52bb5e96d16bd8f92fcca6333",
-  "copied_cache": [],
-  "created_at": "2026-08-13T13:46:54-05:00",
-  "executed_config_path": "/home/zorro/repos/autonima-results/projects/social/v1-annotation-only-gpt5/outputs/config.executed.yaml",
-  "execution_id": "migration-9d0b0afdbd7f57dd67497b92",
-  "invalidated": [],
-  "migration": {
-    "kind": "one_time_committed_cache_v2",
-    "source_commit": "6ba5b5a598b88c696f9b5abc920bb535cc92f621"
+  "cache_plan": {
+    "changed_stages": [
+      "retrieval"
+    ],
+    "copyable_stages": [
+      "search",
+      "parsing",
+      "annotation"
+    ],
+    "has_cache_artifacts": true,
+    "has_previous_execution": true,
+    "recompute_stages": [
+      "abstract",
+      "retrieval",
+      "fulltext",
+      "output"
+    ],
+    "schema_version": 2,
+    "source_output": "/home/zorro/repos/autonima-results/projects/social/v1-annotation-only-gpt5",
+    "stage_hashes": {
+      "abstract": "a8eb9b0dbc6a0fee2092b8027690642b683f6a91cc7b6420eabc969d6394b1a7",
+      "annotation": "94adf515fb87b28c8f2a68f9b6e460361bdb3d0c68bef248f4e79545864920eb",
+      "fulltext": "a8eb9b0dbc6a0fee2092b8027690642b683f6a91cc7b6420eabc969d6394b1a7",
+      "output": "bbf5c92866f2212de7ac9166fd29430aaa3828b57ff283f8d84b0d3747947b96",
+      "parsing": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
+      "retrieval": "374764bab7e3cf3adc51473b44c338cb319c950e92f372ce8133d79a8a648925",
+      "search": "3bb01ae40cd285f88f42662aeee609a6b590d56ad19cbc56c280f31ec7f22ab3"
+    },
+    "stages": {
+      "abstract": {
+        "action": "recompute",
+        "artifact_is_modern": false,
+        "config_changed": false,
+        "copy_artifact": false,
+        "has_artifact": false,
+        "reason": "no cache artifact is available"
+      },
+      "annotation": {
+        "action": "incremental",
+        "artifact_is_modern": true,
+        "config_changed": false,
+        "copy_artifact": true,
+        "has_artifact": true,
+        "reason": "signed entries will be validated against current inputs"
+      },
+      "fulltext": {
+        "action": "recompute",
+        "artifact_is_modern": false,
+        "config_changed": false,
+        "copy_artifact": false,
+        "has_artifact": false,
+        "reason": "no cache artifact is available"
+      },
+      "output": {
+        "action": "recompute",
+        "artifact_is_modern": false,
+        "config_changed": false,
+        "copy_artifact": false,
+        "has_artifact": true,
+        "reason": "derived outputs are regenerated"
+      },
+      "parsing": {
+        "action": "incremental",
+        "artifact_is_modern": true,
+        "config_changed": false,
+        "copy_artifact": true,
+        "has_artifact": true,
+        "reason": "signed entries will be validated against current inputs"
+      },
+      "retrieval": {
+        "action": "recompute",
+        "artifact_is_modern": true,
+        "config_changed": true,
+        "copy_artifact": false,
+        "has_artifact": true,
+        "reason": "retrieval configuration changed"
+      },
+      "search": {
+        "action": "incremental",
+        "artifact_is_modern": true,
+        "config_changed": false,
+        "copy_artifact": true,
+        "has_artifact": true,
+        "reason": "metadata cache is valid and new PMIDs will be fetched"
+      }
+    },
+    "unsupported_cache": false,
+    "unverified_stages": []
   },
-  "parent_execution_id": null,
+  "cache_policy": "auto",
+  "changed_stages": [
+    "retrieval"
+  ],
+  "completed_at": "2026-08-17T21:42:40.519575+00:00",
+  "completed_stage": "full",
+  "config_hash": "49438a1b33a240560349c81d702fdbefed8e6987a50b03789a4be342372451ac",
+  "copied_cache": [],
+  "created_at": "2026-08-17T21:32:11.015809+00:00",
+  "executed_config_path": "/home/zorro/repos/autonima-results/projects/social/v1-annotation-only-gpt5/outputs/config.executed.yaml",
+  "execution_id": "d1fd2050-5417-4488-a83f-a7e85f217fa3",
+  "invalidated": [
+    {
+      "path": "/home/zorro/repos/autonima-results/projects/social/v1-annotation-only-gpt5/outputs/fulltext_retrieval_results.json",
+      "stage": "retrieval"
+    },
+    {
+      "path": "/home/zorro/repos/autonima-results/projects/social/v1-annotation-only-gpt5/outputs/final_results.json",
+      "stage": "output"
+    },
+    {
+      "path": "/home/zorro/repos/autonima-results/projects/social/v1-annotation-only-gpt5/outputs/nimads_studyset.json",
+      "stage": "output"
+    },
+    {
+      "path": "/home/zorro/repos/autonima-results/projects/social/v1-annotation-only-gpt5/outputs/nimads_annotation.json",
+      "stage": "output"
+    },
+    {
+      "path": "/home/zorro/repos/autonima-results/projects/social/v1-annotation-only-gpt5/outputs/missing_fulltexts.csv",
+      "stage": "output"
+    },
+    {
+      "path": "/home/zorro/repos/autonima-results/projects/social/v1-annotation-only-gpt5/outputs/missing_fulltexts.txt",
+      "stage": "output"
+    }
+  ],
+  "parent_execution_id": "99390501-b05b-4467-8a74-667b37ccf76b",
   "schema_version": 2,
   "stage_hashes": {
     "abstract": "a8eb9b0dbc6a0fee2092b8027690642b683f6a91cc7b6420eabc969d6394b1a7",
-    "annotation": "eaa46508673698bf2ce67bacbe3fbb3cb7f8989f864ee5e4cd4d0ddcc578dc0b",
+    "annotation": "94adf515fb87b28c8f2a68f9b6e460361bdb3d0c68bef248f4e79545864920eb",
     "fulltext": "a8eb9b0dbc6a0fee2092b8027690642b683f6a91cc7b6420eabc969d6394b1a7",
     "output": "bbf5c92866f2212de7ac9166fd29430aaa3828b57ff283f8d84b0d3747947b96",
     "parsing": "bd6bd18419f33dc751de963653112dd75b3a49d7730dfc4731d0eb759eced15e",
-    "retrieval": "64bda84f6b0c7734897eea229565962a176ec8726981b4f1186d03df7685903c",
-    "search": "37b14bff0acac3d796c496d30a81a4367f9902cb4e97c5d953aabe8e06ff6998"
+    "retrieval": "374764bab7e3cf3adc51473b44c338cb319c950e92f372ce8133d79a8a648925",
+    "search": "3bb01ae40cd285f88f42662aeee609a6b590d56ad19cbc56c280f31ec7f22ab3"
   },
-  "started_at": "2026-08-13T13:46:54-05:00",
+  "started_at": "2026-08-17T21:32:11.015839+00:00",
   "status": "completed",
   "stop_after_stage": "full"
 }

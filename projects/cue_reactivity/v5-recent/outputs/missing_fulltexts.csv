@@ -16,7 +16,6 @@ pmid,type,source,full_text_path,in_included_set
 15464121,unavailable,pubget,,False
 15850502,unavailable,pubget,,False
 16290890,unavailable,pubget,,True
-17274020,unavailable,pubget,,False
 18164583,unavailable,pubget,,False
 19170662,unavailable,pubget,,False
 19240054,unavailable,pubget,,False
@@ -49,6 +48,7 @@ pmid,type,source,full_text_path,in_included_set
 35738424,unavailable,pubget,,False
 35785575,unavailable,pubget,,False
 35810622,unavailable,pubget,,False
+35858989,unavailable,pubget,,True
 36031010,unavailable,pubget,,False
 36301219,unavailable,pubget,,True
 36581170,unavailable,pubget,,False
@@ -96,6 +96,7 @@ pmid,type,source,full_text_path,in_included_set
 41129865,unavailable,pubget,,False
 41171562,unavailable,pubget,,False
 41224247,unavailable,pubget,,False
+41239976,unavailable,pubget,,False
 41274369,unavailable,pubget,,False
 41344620,unavailable,pubget,,True
 41534246,unavailable,pubget,,True
@@ -103,6 +104,21 @@ pmid,type,source,full_text_path,in_included_set
 41650683,unavailable,pubget,,False
 41655820,unavailable,pubget,,False
 41691824,unavailable,pubget,,False
-41759716,unavailable,pubget,,True
+41797424,unavailable,pubget,,False
 41819249,unavailable,pubget,,False
 41856154,unavailable,pubget,,False
+41926811,unavailable,pubget,,False
+41930799,unavailable,pubget,,True
+41990522,unavailable,pubget,,False
+42037077,unavailable,pubget,,False
+42104912,unavailable,pubget,,True
+42105822,unavailable,pubget,,False
+42142683,unavailable,pubget,,False
+42184553,unavailable,pubget,,False
+42208362,unavailable,pubget,,True
+42208956,unavailable,pubget,,False
+42229830,unavailable,pubget,,False
+42246292,unavailable,pubget,,True
+42251816,unavailable,pubget,,False
+42275234,unavailable,pubget,,False
+42284932,unavailable,pubget,,False
