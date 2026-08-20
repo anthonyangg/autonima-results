@@ -3,6 +3,7 @@ search:
   pmids_file: "/home/zorro/repos/autonima-results/projects/social/validation_ids/all_pmids.txt"
 
 retrieval:
+  load_excluded: true
   sources:
     - pubget
   full_text_sources:
